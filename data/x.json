@@ -1,30 +1,4 @@
 {
-  "X": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 24th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tenner",
-      "Adam",
-      "Ecstasy",
-      "Xtc",
-      "Disco biscuit"
-    ]
-  },
   "XANTHATE": {
     "MEANINGS": {
       "1": [
@@ -907,30 +881,6 @@
       "Xhosa"
     ]
   },
-  "XI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 14th letter of the Greek alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Xi",
-      "11",
-      "Eleven"
-    ]
-  },
   "XIAN": {
     "MEANINGS": {
       "1": [
@@ -1292,50 +1242,6 @@
       "X ray",
       "X-radiation",
       "X-ray"
-    ]
-  },
-  "XX": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(genetics) normal complement of sex chromosomes in a female",
-        [
-          "Sex chromosome"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Xx",
-      "Twenty",
-      "20"
-    ]
-  },
-  "XXX": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(genetics) abnormal complement of three X chromosomes in a female",
-        [
-          "Sex chromosome"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Xxx",
-      "Thirty",
-      "30"
     ]
   }
 }

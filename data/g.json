@@ -1,40 +1,4 @@
 {
-  "G": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "a unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated",
-        [
-          "Force unit"
-        ],
-        [
-
-        ]
-      ],
-      "9": [
-        "Noun",
-        "the 7th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Guanine",
-      "Gravitational constant",
-      "One thousand",
-      "Gib",
-      "Thou"
-    ]
-  },
   "GABARDINE": {
     "MEANINGS": {
       "1": [
@@ -334,30 +298,6 @@
       "Gaddi"
     ]
   },
-  "GADFLY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various large flies that annoy livestock",
-        [
-          "Fly"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blighter",
-      "Gadfly",
-      "Pest",
-      "Cuss",
-      "Pesterer"
-    ]
-  },
   "GADGETEER": {
     "MEANINGS": {
       "1": [
@@ -642,32 +582,6 @@
       "Gaff"
     ]
   },
-  "GAFFER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an electrician responsible for lighting on a movie or tv set",
-        [
-          "Electrician",
-          "Lineman",
-          "Linesman"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foreman",
-      "Boss",
-      "Old geezer",
-      "Old-timer",
-      "Gaffer"
-    ]
-  },
   "GAFFSAIL": {
     "MEANINGS": {
       "1": [
@@ -879,70 +793,6 @@
       "Gagman"
     ]
   },
-  "GAY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "full of or showing high-spirited merriment",
-        [
-
-        ],
-        [
-          "when hearts were young and gay",
-          "a poet could not but be gay, in such a jocund company\"- Wordsworth",
-          "the jolly crowd at the reunion",
-          "jolly old Saint Nick",
-          "a jovial old gentleman",
-          "have a merry Christmas",
-          "peals of merry laughter",
-          "a mirthful laugh"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "given to social pleasures often including dissipation",
-        [
-
-        ],
-        [
-          "led a gay Bohemian life",
-          "a gay old rogue with an eye for the ladies"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "offering fun and gaiety",
-        [
-
-        ],
-        [
-          "a festive (or festal) occasion",
-          "gay and exciting night life",
-          "a merry evening"
-        ]
-      ],
-      "6": [
-        "Adjective",
-        "homosexual or arousing homosexual desires",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Merry",
-      "Homophile",
-      "Festive",
-      "Festal",
-      "Sunny"
-    ]
-  },
   "GAYAL": {
     "MEANINGS": {
       "1": [
@@ -1078,83 +928,6 @@
     "SYNONYMS": [
       "Genus gaylussacia",
       "Gaylussacia"
-    ]
-  },
-  "GAIN": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the amount by which the revenue of a business exceeds its cost of operating",
-        [
-          "Sum",
-          "Sum of money",
-          "Amount",
-          "Amount of money"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "obtain advantages, such as points, etc.",
-        [
-
-        ],
-        [
-          "The home team was gaining ground",
-          "After defeating the Knicks, the Blazers pulled ahead of the Lakers in the battle for the number-one playoff berth in the Western Conference"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "increase or develop",
-        [
-          "Increase"
-        ],
-        [
-          "the peace movement gained momentum",
-          "the car gathers speed"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "earn on some commercial or business transaction; earn as salary or wages",
-        [
-          "Get",
-          "Acquire"
-        ],
-        [
-          "How much do you make a month in your new job?",
-          "She earns a lot in her new job",
-          "this merger brought in lots of money",
-          "He clears $5,000 each month"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "increase (one's body weight)",
-        [
-          "Change state",
-          "Turn"
-        ],
-        [
-          "She gained 20 pounds when she stopped exercising"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "loss",
-      "lose",
-      "reduce",
-      "fall_back"
-    ],
-    "SYNONYMS": [
-      "Get ahead",
-      "Reach",
-      "Increase",
-      "Bring in",
-      "Gain"
     ]
   },
   "GAINER": {
@@ -1312,108 +1085,6 @@
     "SYNONYMS": [
       "Gainsborough",
       "Thomas gainsborough"
-    ]
-  },
-  "GAIT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a horse's manner of moving",
-        [
-          "Locomotion",
-          "Travel"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a person's manner of walking",
-        [
-          "Walk",
-          "Walking"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gait",
-      "Pace"
-    ]
-  },
-  "GAITER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a shoe covering the ankle with elastic gores in the sides",
-        [
-          "Shoe"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "legging consisting of a cloth or leather covering for the leg from the knee to the ankle",
-        [
-          "Legging",
-          "Leging",
-          "Leg covering"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spat",
-      "Gaiter"
-    ]
-  },
-  "GAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a unit of gravitational acceleration equal to one centimeter per second per second (named after Galileo)",
-        [
-          "Acceleration unit"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "alliterative term for girl (or woman)",
-        [
-          "Girl",
-          "Miss",
-          "Missy",
-          "Young lady",
-          "Young woman",
-          "Fille"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gal",
-      "Gallon"
     ]
   },
   "GALA": {
@@ -2211,40 +1882,6 @@
       "Genus galium"
     ]
   },
-  "GALL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "irritate or vex",
-        [
-          "Anger"
-        ],
-        [
-          "It galls me that we lost the suit"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "abnormal swelling of plant tissue caused by insects or microorganisms or injury",
-        [
-          "Plant tissue"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bile",
-      "Rancor",
-      "Chafe",
-      "Irk",
-      "Crust"
-    ]
-  },
   "GALLAMINE": {
     "MEANINGS": {
       "1": [
@@ -2324,30 +1961,6 @@
     "SYNONYMS": [
       "Chivalrously",
       "Gallantly"
-    ]
-  },
-  "GALLANTRY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "polite attentiveness to women",
-        [
-          "Courtesy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Politesse",
-      "Chivalry",
-      "Valorousness",
-      "Valor",
-      "Valour"
     ]
   },
   "GALLAUDET": {
@@ -2552,30 +2165,6 @@
     "SYNONYMS": [
       "Galleria",
       "Genus galleria"
-    ]
-  },
-  "GALLFLY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "any of various insects that deposit their eggs in plants causing galls in which the larvae feed",
-        [
-          "Insect"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cynipid wasp",
-      "Gall midge",
-      "Gall wasp",
-      "Gallfly",
-      "Gall gnat"
     ]
   },
   "GALLIANO": {
@@ -3037,29 +2626,6 @@
       "Gallup"
     ]
   },
-  "GALLUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "common domestic birds and related forms",
-        [
-          "Bird genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brace",
-      "Gallus",
-      "Genus gallus",
-      "Suspender"
-    ]
-  },
   "GALOIS": {
     "MEANINGS": {
       "1": [
@@ -3274,39 +2840,6 @@
     "SYNONYMS": [
       "Galvanisation",
       "Galvanization"
-    ]
-  },
-  "GALVANIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cover with zinc",
-        [
-          "Coat",
-          "Surface"
-        ],
-        [
-          "galvanize steel"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "stimulate (muscles) by administering a shock",
-        [
-          "Shock"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Startle",
-      "Galvanize",
-      "Galvanise"
     ]
   },
   "GALVANIZER": {
@@ -3900,30 +3433,6 @@
       "Hell-kite"
     ]
   },
-  "GAMEY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used of the smell of meat) smelling spoiled or tainted",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gamey",
-      "Spirited",
-      "Risque",
-      "Spicy",
-      "Game"
-    ]
-  },
   "GAMEKEEPER": {
     "MEANINGS": {
       "1": [
@@ -4248,28 +3757,6 @@
     ],
     "SYNONYMS": [
       "Gammy"
-    ]
-  },
-  "GAMMON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "hind portion of a side of bacon",
-        [
-          "Bacon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ham",
-      "Jambon",
-      "Gammon"
     ]
   },
   "GAMOPETALOUS": {
@@ -4801,30 +4288,6 @@
     "SYNONYMS": [
       "Ganoin",
       "Ganoine"
-    ]
-  },
-  "GANTLET": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the convergence of two parallel railroad tracks in a narrow place; the inner rails cross and run parallel and then diverge so a train remains on its own tracks at all times",
-        [
-          "Railroad track",
-          "Railroad",
-          "Railway"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gantlet",
-      "Metal glove",
-      "Gauntlet"
     ]
   },
   "GANTRY": {
@@ -5491,30 +4954,6 @@
       "Garishly"
     ]
   },
-  "GARISHNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "strident color or excessive ornamentation",
-        [
-          "Ugliness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Loudness",
-      "Gaudiness",
-      "Brashness",
-      "Garishness",
-      "Tawdriness"
-    ]
-  },
   "GARLAND": {
     "MEANINGS": {
       "1": [
@@ -5660,30 +5099,6 @@
       "Garment-worker",
       "Garment worker",
       "Garmentmaker"
-    ]
-  },
-  "GARNER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "store grain",
-        [
-          "Store"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "spread"
-    ],
-    "SYNONYMS": [
-      "Gather",
-      "Garner",
-      "Earn",
-      "Pull together",
-      "Collect"
     ]
   },
   "GARNET": {
@@ -7781,39 +7196,6 @@
       "Paul gauguin"
     ]
   },
-  "GAUL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a Celt of ancient Gaul",
-        [
-          "Celt",
-          "Kelt"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an ancient region of western Europe that included what is now northern Italy and France and Belgium and part of Germany and the Netherlands",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frog",
-      "Gallia",
-      "Gaul"
-    ]
-  },
   "GAULTHERIA": {
     "MEANINGS": {
       "1": [
@@ -8464,32 +7846,6 @@
     ],
     "SYNONYMS": [
       "Gazpacho"
-    ]
-  },
-  "GAZUMP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "raise the price of something after agreeing on a lower price",
-        [
-          "Cheat",
-          "Rip off",
-          "Chisel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "undercharge"
-    ],
-    "SYNONYMS": [
-      "Overcharge",
-      "Plume",
-      "Soak",
-      "Pluck",
-      "Fleece"
     ]
   },
   "GDANSK": {
@@ -9888,28 +9244,6 @@
       "Ecumenical"
     ]
   },
-  "GENERALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being general or widespread or having general applicability",
-        [
-          "Quality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "particularity"
-    ],
-    "SYNONYMS": [
-      "Generality",
-      "Generalization",
-      "Generalisation"
-    ]
-  },
   "GENERALIZATION": {
     "MEANINGS": {
       "1": [
@@ -10033,31 +9367,6 @@
       "Popularise"
     ]
   },
-  "GENERALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "without distinction of one from others",
-        [
-
-        ],
-        [
-          "he is interested in snakes in general"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "specifically",
-      "narrowly"
-    ],
-    "SYNONYMS": [
-      "Generally",
-      "Mostly",
-      "More often than not",
-      "In the main",
-      "Broadly speaking"
-    ]
-  },
   "GENERAL-PURPOSE": {
     "MEANINGS": {
       "1": [
@@ -10156,76 +9465,6 @@
       "Render",
       "Bring forth",
       "Beget"
-    ]
-  },
-  "GENERATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "group of genetically related organisms constituting a single step in the line of descent",
-        [
-          "Biological group"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the normal time between successive generations",
-        [
-          "Time period",
-          "Period of time",
-          "Period"
-        ],
-        [
-          "they had to wait a generation for that prejudice to fade"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a stage of technological development or innovation",
-        [
-          "Phase",
-          "Stage"
-        ],
-        [
-          "the third generation of computers"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the production of heat or electricity",
-        [
-          "Production"
-        ],
-        [
-          "dams were built for the generation of electricity"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the act of producing offspring or multiplying by such production",
-        [
-          "Reproduction",
-          "Procreation",
-          "Breeding",
-          "Facts of life"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Multiplication",
-      "Coevals",
-      "Propagation",
-      "Contemporaries",
-      "Genesis"
     ]
   },
   "GENERATIONAL": {
@@ -10560,40 +9799,6 @@
       "Genet"
     ]
   },
-  "GENETIC": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "pertaining to or referring to origin",
-        [
-
-        ],
-        [
-          "genetic history reconstructs the origins of a literary work"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "of or relating to the science of genetics",
-        [
-
-        ],
-        [
-          "genetic research"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Genetical",
-      "Inherited",
-      "Familial",
-      "Genic",
-      "Hereditary"
-    ]
-  },
   "GENETICALLY": {
     "MEANINGS": {
       "1": [
@@ -10754,30 +9959,6 @@
       "Calvinist"
     ]
   },
-  "GENIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to the chin or median part of the lower jaw",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Affable",
-      "Genial",
-      "Cordial",
-      "Mental",
-      "Amiable"
-    ]
-  },
   "GENIC": {
     "MEANINGS": {
       "1": [
@@ -10844,30 +10025,6 @@
       "Djinny",
       "Djinn",
       "Genie"
-    ]
-  },
-  "GENIP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "round one-inch Caribbean fruit with green leathery skin and sweet juicy translucent pulp; eaten like grapes",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Melicocca bijuga",
-      "Melicocca bijugatus",
-      "Ginep",
-      "Spanish lime",
-      "Genip"
     ]
   },
   "GENIPA": {
@@ -11696,32 +10853,6 @@
     "SYNONYMS": [
       "Gentlemanlike",
       "Gentlemanly"
-    ]
-  },
-  "GENTLENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "acting in a manner that is gentle and mild and even-tempered",
-        [
-          "Manner",
-          "Personal manner"
-        ],
-        [
-          "his fingers have learned gentleness",
-          "suddenly her gigantic power melted into softness for the baby",
-          "even in the pulpit there are moments when mildness of manner is not enough"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "abruptness"
-    ],
-    "SYNONYMS": [
-      "Mildness",
-      "Gentleness",
-      "Gradualness",
-      "Softness"
     ]
   },
   "GENTLY": {
@@ -13520,34 +12651,6 @@
       "Geryon"
     ]
   },
-  "GERM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism",
-        [
-          "Structure",
-          "Anatomical structure",
-          "Complex body part",
-          "Bodily structure",
-          "Body structure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Germ",
-      "Bug",
-      "Seed",
-      "Microbe",
-      "Source"
-    ]
-  },
   "GERMAN": {
     "MEANINGS": {
       "1": [
@@ -13880,30 +12983,6 @@
       "Originative",
       "Seminal",
       "Germinal"
-    ]
-  },
-  "GERMINATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "cause to grow or sprout",
-        [
-          "Grow"
-        ],
-        [
-          "the plentiful rain germinated my plants"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sprout",
-      "Shoot",
-      "Spud",
-      "Burgeon forth",
-      "Develop"
     ]
   },
   "GERMINATION": {
@@ -14680,30 +13759,6 @@
       "Beat"
     ]
   },
-  "GETAWAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a rapid escape (as by criminals)",
-        [
-          "Escape",
-          "Flight"
-        ],
-        [
-          "the thieves made a clean getaway",
-          "after the expose he had to take it on the lam"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pickup",
-      "Getaway",
-      "Lam"
-    ]
-  },
   "GETTABLE": {
     "MEANINGS": {
       "1": [
@@ -15178,28 +14233,6 @@
       "Ghost"
     ]
   },
-  "GHOUL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an evil spirit or ghost",
-        [
-          "Evil spirit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Body snatcher",
-      "Ghoul",
-      "Graverobber"
-    ]
-  },
   "GHOULISH": {
     "MEANINGS": {
       "1": [
@@ -15399,58 +14432,6 @@
       "Giardiasis"
     ]
   },
-  "GIB": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a castrated tomcat",
-        [
-          "Tom",
-          "Tomcat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gibibyte",
-      "Gb",
-      "Gib",
-      "Gigabyte",
-      "G"
-    ]
-  },
-  "GIBBER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "chatter inarticulately; of monkeys",
-        [
-          "Utter",
-          "Emit",
-          "Let out",
-          "Let loose"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Palaver",
-      "Prate",
-      "Maunder",
-      "Blab",
-      "Gabble"
-    ]
-  },
   "GIBBERELLIN": {
     "MEANINGS": {
       "1": [
@@ -15553,30 +14534,6 @@
       "Hylobates lar",
       "Gibbon",
       "Edward gibbon"
-    ]
-  },
-  "GIBBOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used of the moon) more than half full",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Humped",
-      "Hunchbacked",
-      "Kyphotic",
-      "Gibbous",
-      "Gibbose"
     ]
   },
   "GIBBS": {
@@ -16039,29 +14996,6 @@
       "Mammoth"
     ]
   },
-  "GIGANTISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "excessive largeness of stature",
-        [
-          "Largeness",
-          "Bigness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overgrowth",
-      "Gigantism",
-      "Giantism"
-    ]
-  },
   "GIGARTINACEAE": {
     "MEANINGS": {
       "1": [
@@ -16291,32 +15225,6 @@
       "Lodge",
       "Order",
       "Social club"
-    ]
-  },
-  "GILDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "based on pretense; deceptively pleasing",
-        [
-
-        ],
-        [
-          "the gilded and perfumed but inwardly rotten nobility",
-          "meretricious praise",
-          "a meretricious argument"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gold",
-      "Begild",
-      "Gilt",
-      "Gilded",
-      "Meretricious"
     ]
   },
   "GILDER": {
@@ -16779,30 +15687,6 @@
       "Genus gymnadeniopsis"
     ]
   },
-  "GYMNASIUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "athletic facility equipped for sports or physical training",
-        [
-          "Athletic facility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Secondary school",
-      "Lyceum",
-      "Gym",
-      "Middle school",
-      "Gymnasium"
-    ]
-  },
   "GYMNAST": {
     "MEANINGS": {
       "1": [
@@ -16822,28 +15706,6 @@
     ],
     "SYNONYMS": [
       "Gymnast"
-    ]
-  },
-  "GYMNASTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or used in exercises intended to develop strength and agility",
-        [
-
-        ],
-        [
-          "gymnastic horse"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Acrobatic",
-      "Gymnastic",
-      "Athletic"
     ]
   },
   "GYMNASTICS": {
@@ -17946,30 +16808,6 @@
       "Con game"
     ]
   },
-  "GYPSY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a member of a people with dark skin and hair who speak Romany and who traditionally live by seasonal work and fortunetelling; they are believed to have originated in northern India but now are living on all continents (but mostly in Europe, North Africa, and North America)",
-        [
-          "Indian"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rommany",
-      "Romany",
-      "Gipsy",
-      "Itinerant",
-      "Bohemian"
-    ]
-  },
   "GIPSYWORT": {
     "MEANINGS": {
       "1": [
@@ -18189,30 +17027,6 @@
       "Coil"
     ]
   },
-  "GYRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of rotating in a circle or spiral",
-        [
-          "Rotation",
-          "Rotary motion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Revolution",
-      "Gyration",
-      "Rotation",
-      "Whirling"
-    ]
-  },
   "GIRAUDOUX": {
     "MEANINGS": {
       "1": [
@@ -18233,30 +17047,6 @@
       "Jean giraudoux",
       "Hippolyte jean giraudoux",
       "Giraudoux"
-    ]
-  },
-  "GIRD": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "bind with something round or circular",
-        [
-          "Bind"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disarm"
-    ],
-    "SYNONYMS": [
-      "Build up",
-      "Encircle",
-      "Arm",
-      "Gird",
-      "Girdle"
     ]
   },
   "GIRDER": {
@@ -20065,32 +18855,6 @@
       "Glamourization"
     ]
   },
-  "GLAMORIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make glamorous and attractive",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "This new wallpaper really glamorizes the living room!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Glamourise",
-      "Glamorize",
-      "Glamorise",
-      "Romanticize",
-      "Romanticise"
-    ]
-  },
   "GLAMOROUS": {
     "MEANINGS": {
       "1": [
@@ -20601,31 +19365,6 @@
       "Glasswork"
     ]
   },
-  "GLASSWORT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fleshy maritime plant having fleshy stems with rudimentary scalelike leaves and small spikes of minute flowers; formerly used in making glass",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Salsola soda",
-      "Salsola kali",
-      "Samphire",
-      "Glasswort",
-      "Kelpwort"
-    ]
-  },
   "GLASWEGIAN": {
     "MEANINGS": {
       "1": [
@@ -20818,52 +19557,6 @@
       "Glaze",
       "Sugarcoat",
       "Glass over"
-    ]
-  },
-  "GLAZED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "fitted or covered with glass",
-        [
-
-        ],
-        [
-          "four glazed walls"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "having a shiny surface or coating",
-        [
-
-        ],
-        [
-          "glazed fabrics",
-          "glazed doughnuts"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "(of foods) covered with a shiny coating by applying e.g. beaten egg or a sugar or gelatin mixture",
-        [
-
-        ],
-        [
-          "glazed doughnuts",
-          "a glazed ham"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unglazed"
-    ],
-    "SYNONYMS": [
-      "Glassy",
-      "Glass",
-      "Candy",
-      "Glazed",
-      "Shiny"
     ]
   },
   "GLEAM": {
@@ -21826,30 +20519,6 @@
       "Mikhail glinka"
     ]
   },
-  "GLINT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a spatially localized brightness",
-        [
-          "Brightness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spark",
-      "Glint",
-      "Shine",
-      "Flicker",
-      "Glitter"
-    ]
-  },
   "GLIOMA": {
     "MEANINGS": {
       "1": [
@@ -21912,29 +20581,6 @@
     "SYNONYMS": [
       "Lithoglyptics",
       "Glyptics"
-    ]
-  },
-  "GLYPTOGRAPHY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "carving or engraving (especially on stones)",
-        [
-          "Art",
-          "Artistic creation",
-          "Artistic production"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Glyptography",
-      "Glyptic art"
     ]
   },
   "GLIRIDAE": {
@@ -22238,32 +20884,6 @@
       "Globally"
     ]
   },
-  "GLOBE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a sphere on which a map (especially of the earth) is represented",
-        [
-          "Model",
-          "Simulation",
-          "Sphere"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Orb",
-      "World",
-      "Earth",
-      "Ball",
-      "Globe"
-    ]
-  },
   "GLOBEFLOWER": {
     "MEANINGS": {
       "1": [
@@ -22524,31 +21144,6 @@
       "Glogg"
     ]
   },
-  "GLOM": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "seize upon or latch onto something",
-        [
-          "Get",
-          "Acquire"
-        ],
-        [
-          "The Republicans glommed onto Whitewater"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cop",
-      "Thieve",
-      "Hook",
-      "Glom",
-      "Knock off"
-    ]
-  },
   "GLOMERULAR": {
     "MEANINGS": {
       "1": [
@@ -22680,39 +21275,6 @@
       "Glumness"
     ]
   },
-  "GLOOMY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "filled with melancholy and despondency",
-        [
-
-        ],
-        [
-          "gloomy at the thought of what he had to face",
-          "gloomy predictions",
-          "a gloomy silence",
-          "took a grim view of the economy",
-          "the darkening mood",
-          "lonely and blue in a strange city",
-          "depressed by the loss of his job",
-          "a dispirited and resigned expression on her face",
-          "downcast after his defeat",
-          "feeling discouraged and downhearted"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drear",
-      "Gloomful",
-      "Dingy",
-      "Low-spirited",
-      "Dark"
-    ]
-  },
   "GLOOMILY": {
     "MEANINGS": {
       "1": [
@@ -22731,30 +21293,6 @@
     ],
     "SYNONYMS": [
       "Gloomily"
-    ]
-  },
-  "GLOOMINESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the quality of excessive mournfulness and uncheerfulness",
-        [
-          "Uncheerfulness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Somberness",
-      "Sombreness",
-      "Gloominess",
-      "Lugubriousness",
-      "Sadness"
     ]
   },
   "GLOOMING": {
@@ -22841,75 +21379,6 @@
       "Glory",
       "Aureole",
       "Halo"
-    ]
-  },
-  "GLORIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "bestow glory upon",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "The victory over the enemy glorified the Republic"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "cause to seem more splendid",
-        [
-          "Embroider",
-          "Pad",
-          "Lard",
-          "Embellish",
-          "Aggrandize",
-          "Aggrandise",
-          "Blow up",
-          "Dramatize",
-          "Dramatise"
-        ],
-        [
-          "You are glorifying a rather mediocre building"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exalt",
-      "Glorify",
-      "Extol",
-      "Spiritualize",
-      "Laud"
-    ]
-  },
-  "GLORIFICATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of glorifying (as in worship)",
-        [
-          "Adoration",
-          "Idolization",
-          "Idolisation"
-        ],
-        [
-          "the glorification of God"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Idealization",
-      "Glory",
-      "Idealisation",
-      "Glorification"
     ]
   },
   "GLORIOSA": {
@@ -23400,31 +21869,6 @@
     ],
     "SYNONYMS": [
       "Gloucestershire"
-    ]
-  },
-  "GLOVE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "handwear: covers the hand and wrist",
-        [
-          "Handwear",
-          "Hand wear"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Glove",
-      "Baseball mitt",
-      "Boxing glove",
-      "Mitt",
-      "Baseball glove"
     ]
   },
   "GLOVED": {
@@ -25042,43 +23486,6 @@
       "Goa"
     ]
   },
-  "GOAD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "urge with or as if with a goad",
-        [
-          "Prod",
-          "Incite",
-          "Egg on"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "stab or urge on as if with a pointed stick",
-        [
-          "Stab",
-          "Jab"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Goading",
-      "Prick",
-      "Prod",
-      "Spurring",
-      "Goad"
-    ]
-  },
   "GOAL": {
     "MEANINGS": {
       "1": [
@@ -25374,35 +23781,6 @@
       "Goatsucker",
       "Nightjar",
       "Caprimulgid"
-    ]
-  },
-  "GOB": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a lump of slimy stuff",
-        [
-          "Ball",
-          "Clod",
-          "Glob",
-          "Lump",
-          "Clump",
-          "Chunk"
-        ],
-        [
-          "a gob of phlegm"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cakehole",
-      "Maw",
-      "Jack",
-      "Seaman",
-      "Yap"
     ]
   },
   "GOBBET": {
@@ -26865,53 +25243,6 @@
       "Goldcrest"
     ]
   },
-  "GOLDEN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by peace and prosperity",
-        [
-
-        ],
-        [
-          "a golden era",
-          "the halcyon days of the clipper trade"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "suggestive of gold",
-        [
-
-        ],
-        [
-          "a golden voice"
-        ]
-      ],
-      "6": [
-        "Adjective",
-        "presaging or likely to bring good luck",
-        [
-
-        ],
-        [
-          "a favorable time to ask for a raise",
-          "lucky stars",
-          "a prosperous moment to make a decision"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gold",
-      "Gilt",
-      "Gilded",
-      "Favourable",
-      "Lucky"
-    ]
-  },
   "GOLDEN-BROWN": {
     "MEANINGS": {
       "1": [
@@ -27097,30 +25428,6 @@
       "Lasthenia chrysostoma",
       "Goldfields",
       "Goldfield"
-    ]
-  },
-  "GOLDFINCH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small European finch having a crimson face and yellow-and-black wings",
-        [
-          "Finch"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "New world goldfinch",
-      "Yellowbird",
-      "Goldfinch",
-      "Carduelis carduelis",
-      "Spinus tristis"
     ]
   },
   "GOLDFISH": {
@@ -27799,28 +26106,6 @@
       "Gondi"
     ]
   },
-  "GONDOLA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "long narrow flat-bottomed boat propelled by sculling; traditionally used on canals of Venice",
-        [
-          "Boat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gondola",
-      "Gondola car",
-      "Car"
-    ]
-  },
   "GONDOLIER": {
     "MEANINGS": {
       "1": [
@@ -27862,34 +26147,6 @@
     ],
     "SYNONYMS": [
       "Gondwanaland"
-    ]
-  },
-  "GONE": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "no longer retained",
-        [
-
-        ],
-        [
-          "gone with the wind"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "stop",
-      "come",
-      "malfunction",
-      "stay_in_place",
-      "be_born"
-    ],
-    "SYNONYMS": [
-      "Live on",
-      "Get going",
-      "Pass",
-      "Go bad",
-      "Deceased"
     ]
   },
   "GONER": {
@@ -28719,31 +26976,6 @@
       "Googolplex"
     ]
   },
-  "GOOK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(slang) a disparaging term for an Asian person (especially for North Vietnamese soldiers in the Vietnam War)",
-        [
-          "Oriental",
-          "Oriental person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gunk",
-      "Ooze",
-      "Goop",
-      "Sludge",
-      "Guck"
-    ]
-  },
   "GOOSANDER": {
     "MEANINGS": {
       "1": [
@@ -28918,30 +27150,6 @@
     ],
     "SYNONYMS": [
       "Gooseneck"
-    ]
-  },
-  "GOPHER": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "burrowing rodent of the family Geomyidae having large external cheek pouches; of Central America and southwestern North America",
-        [
-          "Pocket rat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gopher turtle",
-      "Pouched rat",
-      "Pocket gopher",
-      "Gopher tortoise",
-      "Minnesotan"
     ]
   },
   "GORAL": {
@@ -29273,30 +27481,6 @@
       "Gorgonzola"
     ]
   },
-  "GORY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "accompanied by bloodshed",
-        [
-
-        ],
-        [
-          "this bitter and sanguinary war"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Butcherly",
-      "Sanguinary",
-      "Bloodstained",
-      "Sanguineous",
-      "Slaughterous"
-    ]
-  },
   "GORILLA": {
     "MEANINGS": {
       "1": [
@@ -29523,41 +27707,6 @@
       "Transparent"
     ]
   },
-  "GOSSIP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a report (often malicious) about the behavior of other people",
-        [
-          "Report",
-          "Account"
-        ],
-        [
-          "the divorce caused much gossip"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a person given to gossiping and divulging personal information about others",
-        [
-          "Communicator"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rumourmonger",
-      "Gab",
-      "Tittle-tattle",
-      "Rumormonger",
-      "Chit-chat"
-    ]
-  },
   "GOSSIPING": {
     "MEANINGS": {
       "1": [
@@ -29623,30 +27772,6 @@
       "Goeteborg",
       "Gothenburg",
       "Goteborg"
-    ]
-  },
-  "GOTH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one of the Teutonic people who invaded the Roman Empire in the 3rd to 5th centuries",
-        [
-          "Teuton"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Goth",
-      "Peasant",
-      "Barbarian",
-      "Boor",
-      "Tike"
     ]
   },
   "GOTHIC": {
@@ -30097,60 +28222,6 @@
     ],
     "SYNONYMS": [
       "Gouty"
-    ]
-  },
-  "GOVERN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "direct or strongly influence the behavior of",
-        [
-          "Control",
-          "Command"
-        ],
-        [
-          "His belief in God governs his conduct"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "exercise authority over; as of nations",
-        [
-          "Control",
-          "Command"
-        ],
-        [
-          "Who is governing the country now?"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "require to be in a certain grammatical case, voice, or mood",
-        [
-          "Necessitate",
-          "Ask",
-          "Postulate",
-          "Need",
-          "Require",
-          "Take",
-          "Involve",
-          "Call for",
-          "Demand"
-        ],
-        [
-          "most transitive verbs govern the accusative case in German"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deregulate"
-    ],
-    "SYNONYMS": [
-      "Regularize",
-      "Rule",
-      "Regularise",
-      "Govern",
-      "Order"
     ]
   },
   "GOVERNED": {
@@ -30751,30 +28822,6 @@
       "Unpleasing"
     ]
   },
-  "GRACELESSLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a graceless manner",
-        [
-
-        ],
-        [
-          "she moves rather gracelessly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "graciously",
-      "gracefully"
-    ],
-    "SYNONYMS": [
-      "Woodenly",
-      "Ungracefully",
-      "Ungraciously",
-      "Gracelessly"
-    ]
-  },
   "GRACELESSNESS": {
     "MEANINGS": {
       "1": [
@@ -30947,31 +28994,6 @@
       "Benignity"
     ]
   },
-  "GRACKLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "long-tailed American blackbird having iridescent black plumage",
-        [
-          "New world blackbird",
-          "Blackbird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hill myna",
-      "Crow blackbird",
-      "Gracula religiosa",
-      "Indian grackle",
-      "Grackle"
-    ]
-  },
   "GRAD": {
     "MEANINGS": {
       "1": [
@@ -31104,99 +29126,6 @@
       "Gradational"
     ]
   },
-  "GRADE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "level to the right gradient",
-        [
-          "Flush",
-          "Level",
-          "Even out",
-          "Even"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "assign a grade or rank to, according to one's evaluation",
-        [
-          "Measure",
-          "Evaluate",
-          "Valuate",
-          "Assess",
-          "Appraise",
-          "Value"
-        ],
-        [
-          "grade tests",
-          "score the SAT essays",
-          "mark homework"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a degree of ablaut",
-        [
-          "Ablaut"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the height of the ground on which something stands",
-        [
-          "Elevation"
-        ],
-        [
-          "the base of the tower was below grade"
-        ]
-      ],
-      "9": [
-        "Noun",
-        "a variety of cattle produced by crossbreeding with a superior breed",
-        [
-          "Cattle",
-          "Cows",
-          "Kine",
-          "Oxen",
-          "Bos taurus"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "determine the grade of or assign a grade to",
-        [
-          "Classify",
-          "Class",
-          "Sort",
-          "Assort",
-          "Sort out",
-          "Separate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tier",
-      "Grade",
-      "Degree",
-      "Ground level",
-      "Range"
-    ]
-  },
   "GRADED": {
     "MEANINGS": {
       "1": [
@@ -31271,31 +29200,6 @@
     "SYNONYMS": [
       "Slope",
       "Gradient"
-    ]
-  },
-  "GRADING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "changing the ground level to a smooth horizontal or gently sloping surface",
-        [
-          "Construction",
-          "Building"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Marking",
-      "Grading",
-      "Range",
-      "Grade",
-      "Scaling"
     ]
   },
   "GRADUAL": {
@@ -32216,30 +30120,6 @@
       "Gram-positive"
     ]
   },
-  "GRAMPUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "slaty-grey blunt-nosed dolphin common in northern seas",
-        [
-          "Dolphin"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Killer whale",
-      "Orca",
-      "Grampus",
-      "Killer",
-      "Orcinus orca"
-    ]
-  },
   "GRANADA": {
     "MEANINGS": {
       "1": [
@@ -32340,41 +30220,6 @@
     "SYNONYMS": [
       "Garner",
       "Granary"
-    ]
-  },
-  "GRAND": {
-    "MEANINGS": {
-      "6": [
-        "Adjective",
-        "large and impressive in physical size or extent",
-        [
-
-        ],
-        [
-          "the bridge is a grand structure"
-        ]
-      ],
-      "7": [
-        "Adjective",
-        "the most important and magnificent in adornment",
-        [
-
-        ],
-        [
-          "grand ballroom",
-          "grand staircase"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wonderful",
-      "Howling",
-      "Princely",
-      "Exalted",
-      "Rattling"
     ]
   },
   "GRANDCHILD": {
@@ -32834,54 +30679,6 @@
     ],
     "SYNONYMS": [
       "Graniteware"
-    ]
-  },
-  "GRANITIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "hard as granite",
-        [
-
-        ],
-        [
-          "a granitic fist"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flint",
-      "Rocklike",
-      "Granitelike",
-      "Obdurate",
-      "Flinty"
-    ]
-  },
-  "GRANNY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an old woman",
-        [
-          "Old woman"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nanna",
-      "Gran",
-      "Granny knot",
-      "Grandmother",
-      "Nan"
     ]
   },
   "GRANOLA": {
@@ -33637,61 +31434,6 @@
       "Vivid"
     ]
   },
-  "GRAPHICALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with respect to graphic aspects",
-        [
-
-        ],
-        [
-          "graphically interesting designs"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "in a graphic way",
-        [
-
-        ],
-        [
-          "he described the event graphically"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Diagrammatically",
-      "Graphically"
-    ]
-  },
-  "GRAPHICS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the drawings and photographs in the layout of a book",
-        [
-          "Graphic art"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Artwork",
-      "Computer graphic",
-      "Graphics",
-      "Nontextual matter",
-      "Graphic"
-    ]
-  },
   "GRAPHITE": {
     "MEANINGS": {
       "1": [
@@ -33840,32 +31582,6 @@
     "SYNONYMS": [
       "Grappelli",
       "Stephane grappelli"
-    ]
-  },
-  "GRAPPLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "to grip or seize, as in a wrestling match",
-        [
-          "Seize",
-          "Prehend",
-          "Clutch"
-        ],
-        [
-          "the two men grappled with each other for several minutes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grappling iron",
-      "Hand-to-hand struggle",
-      "Make do",
-      "Grappling hook",
-      "Wrestling"
     ]
   },
   "GRASP": {
@@ -34389,32 +32105,6 @@
     ],
     "SYNONYMS": [
       "Grater"
-    ]
-  },
-  "GRATIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "yield (to); give satisfaction to",
-        [
-          "Provide",
-          "Supply",
-          "Ply",
-          "Cater"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dissatisfy"
-    ],
-    "SYNONYMS": [
-      "Gratify",
-      "Pander",
-      "Satisfy",
-      "Indulge"
     ]
   },
   "GRATIFICATION": {
@@ -35132,30 +32822,6 @@
       "Gravidity"
     ]
   },
-  "GRAVIMETER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a measuring instrument for measuring variations in the gravitational field of the earth",
-        [
-          "Measuring instrument",
-          "Measuring system",
-          "Measuring device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hydrometer",
-      "Gravimeter",
-      "Gravity meter"
-    ]
-  },
   "GRAVITATE": {
     "MEANINGS": {
       "1": [
@@ -35198,42 +32864,6 @@
     ],
     "SYNONYMS": [
       "Gravitate"
-    ]
-  },
-  "GRAVITATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "movement downward resulting from gravitational attraction",
-        [
-          "Change of location",
-          "Travel"
-        ],
-        [
-          "irrigation by gravitation rather than by pumps"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a figurative movement toward some attraction",
-        [
-          "Drift",
-          "Trend",
-          "Movement"
-        ],
-        [
-          "the gravitation of the middle class to the suburbs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "levitation"
-    ],
-    "SYNONYMS": [
-      "Gravitational force",
-      "Gravitation",
-      "Gravity",
-      "Gravitational attraction"
     ]
   },
   "GRAVITATIONAL": {
@@ -35332,50 +32962,6 @@
     ],
     "SYNONYMS": [
       "Graviton"
-    ]
-  },
-  "GRAVURE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a printing plate used in the process of gravure",
-        [
-          "Engraving"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an intaglio print produced by gravure",
-        [
-          "Print"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of intaglio printing",
-        [
-          "Printing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Intaglio printing",
-      "Heliogravure",
-      "Gravure",
-      "Photogravure",
-      "Intaglio"
     ]
   },
   "GRAZ": {
@@ -35488,31 +33074,6 @@
     ],
     "SYNONYMS": [
       "Grazier"
-    ]
-  },
-  "GRAZING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of brushing against while passing",
-        [
-          "Touch",
-          "Touching"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grazing",
-      "Rake",
-      "Crop",
-      "Range",
-      "Pasture"
     ]
   },
   "GREASE": {
@@ -36127,30 +33688,6 @@
       "Rapacity",
       "Avaritia",
       "Covetousness"
-    ]
-  },
-  "GREEDY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "wanting to eat or drink more than one can reasonably consume",
-        [
-
-        ],
-        [
-          "don't be greedy with the cookies"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Esurient",
-      "Devouring",
-      "Grabby",
-      "Prehensile",
-      "Grasping"
     ]
   },
   "GREEDINESS": {
@@ -37366,30 +34903,6 @@
       "Charles grey"
     ]
   },
-  "GREYBACK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a dowitcher with a grey back",
-        [
-          "Dowitcher"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reb",
-      "Grayback",
-      "Johnny",
-      "Johnny reb",
-      "Knot"
-    ]
-  },
   "GREYHEN": {
     "MEANINGS": {
       "1": [
@@ -37836,38 +35349,6 @@
       "Edvard grieg"
     ]
   },
-  "GRIEVANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an allegation that something imposes an illegal obligation or denies some legal right or causes injustice",
-        [
-          "Allegation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a complaint about a (real or imaginary) wrong that causes resentment and is grounds for action",
-        [
-          "Complaint"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grudge",
-      "Score",
-      "Grievance"
-    ]
-  },
   "GRIEVE": {
     "MEANINGS": {
       "1": [
@@ -37898,33 +35379,6 @@
       "Grieve",
       "Sorrow",
       "Aggrieve"
-    ]
-  },
-  "GRIEVOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing or marked by grief or anguish",
-        [
-
-        ],
-        [
-          "a grievous loss",
-          "a grievous cry",
-          "her sigh was heartbreaking",
-          "the heartrending words of Rabin's granddaughter"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Severe",
-      "Atrocious",
-      "Flagitious",
-      "Monstrous",
-      "Life-threatening"
     ]
   },
   "GRIEVOUSLY": {
@@ -37967,43 +35421,6 @@
       "David lewelyn wark griffith",
       "D. w. griffith",
       "Griffith"
-    ]
-  },
-  "GRIFFON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "breed of various very small compact wiry-coated dogs of Belgian origin having a short bearded muzzle",
-        [
-          "Dog",
-          "Domestic dog",
-          "Canis familiaris"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "breed of medium-sized long-headed dogs with downy undercoat and harsh wiry outer coat; originated in Holland but largely developed in France",
-        [
-          "Sporting dog",
-          "Gun dog"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Griffon",
-      "Griffin",
-      "Brussels griffon",
-      "Gryphon",
-      "Wire-haired pointing griffon"
     ]
   },
   "GRIGRI": {
@@ -38059,31 +35476,6 @@
       "Grill",
       "Grille",
       "Grillroom",
-      "Grillwork"
-    ]
-  },
-  "GRILLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "grating that admits cooling air to car's radiator",
-        [
-          "Grate",
-          "Grating"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wicket",
-      "Grille",
-      "Grill",
-      "Radiator grille",
       "Grillwork"
     ]
   },
@@ -38303,84 +35695,6 @@
       "Smile"
     ]
   },
-  "GRIND": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the grade of particle fineness to which a substance is ground",
-        [
-          "Degree",
-          "Grade",
-          "Level"
-        ],
-        [
-          "a coarse grind of coffee"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "dance by rotating the pelvis in an erotically suggestive way, often while in contact with one's partner such that the dancers' legs are interlaced",
-        [
-          "Dance",
-          "Trip the light fantastic",
-          "Trip the light fantastic toe"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "reduce to small pieces or particles by pounding or abrading",
-        [
-          "Break up",
-          "Fragment",
-          "Fragmentize",
-          "Fragmentise"
-        ],
-        [
-          "grind the spices in a mortar",
-          "mash the garlic"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "created by grinding",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "grind designs into the glass bowl"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "shape or form by grinding",
-        [
-          "Shape",
-          "Form",
-          "Work",
-          "Mold",
-          "Mould",
-          "Forge"
-        ],
-        [
-          "grind lenses for glasses and cameras"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cranch",
-      "Grate",
-      "Craunch",
-      "Mash",
-      "Comminute"
-    ]
-  },
   "GRINDELIA": {
     "MEANINGS": {
       "1": [
@@ -38400,30 +35714,6 @@
     "SYNONYMS": [
       "Grindelia",
       "Genus grindelia"
-    ]
-  },
-  "GRINDER": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a machine tool that polishes metal",
-        [
-          "Machine tool"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hoagie",
-      "Hoagy",
-      "Italian sandwich",
-      "Zep",
-      "Molar"
     ]
   },
   "GRINDING": {
@@ -39092,30 +36382,6 @@
       "Grocer"
     ]
   },
-  "GROCERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(usually plural) consumer goods sold by a grocer",
-        [
-          "Consumer goods"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Market",
-      "Grocery",
-      "Foodstuff",
-      "Food market",
-      "Grocery store"
-    ]
-  },
   "GROENENDAEL": {
     "MEANINGS": {
       "1": [
@@ -39471,30 +36737,6 @@
     ],
     "SYNONYMS": [
       "Groover"
-    ]
-  },
-  "GROOVY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(British informal) very chic",
-        [
-
-        ],
-        [
-          "groovy clothes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neat",
-      "Swagger",
-      "Cracking",
-      "Dandy",
-      "Groovy"
     ]
   },
   "GROOVING": {
@@ -39964,137 +37206,6 @@
       "Scold"
     ]
   },
-  "GROUND": {
-    "MEANINGS": {
-      "5": [
-        "Verb",
-        "bring to the ground",
-        [
-          "Land"
-        ],
-        [
-          "the storm grounded the ship"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "hit a groundball",
-        [
-          "Hit"
-        ],
-        [
-          "he grounded to the second baseman"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "hit onto the ground",
-        [
-          "Hit"
-        ],
-        [
-
-        ]
-      ],
-      "10": [
-        "Noun",
-        "(art) the surface (as a wall or canvas) prepared to take the paint for a painting",
-        [
-          "Surface"
-        ],
-        [
-
-        ]
-      ],
-      "2": [
-        "Verb",
-        "confine or restrict to the ground",
-        [
-          "Restrain",
-          "Confine",
-          "Hold"
-        ],
-        [
-          "After the accident, they grounded the plane and the pilot"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "place or put on the ground",
-        [
-          "Put",
-          "Set",
-          "Place",
-          "Pose",
-          "Position",
-          "Lay"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "instruct someone in the fundamentals of a subject",
-        [
-          "Teach",
-          "Learn",
-          "Instruct"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Verb",
-        "hit or reach the ground",
-        [
-          "Reach",
-          "Make",
-          "Attain",
-          "Hit",
-          "Arrive at",
-          "Gain"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Verb",
-        "throw to the ground in order to stop play and avoid being tackled behind the line of scrimmage",
-        [
-          "Throw"
-        ],
-        [
-
-        ]
-      ],
-      "11": [
-        "Verb",
-        "connect to a ground",
-        [
-          "Connect",
-          "Link",
-          "Tie",
-          "Link up"
-        ],
-        [
-          "ground the electrical connections for safety reasons"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "figure"
-    ],
-    "SYNONYMS": [
-      "Cranch",
-      "Grate",
-      "Craunch",
-      "Mash",
-      "Terra firma"
-    ]
-  },
   "GROUNDER": {
     "MEANINGS": {
       "1": [
@@ -40160,31 +37271,6 @@
       "Groundhog",
       "Marmota monax",
       "Woodchuck"
-    ]
-  },
-  "GROUNDING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fastening electrical equipment to earth",
-        [
-          "Fastening",
-          "Attachment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Earthing",
-      "Found",
-      "Strand",
-      "Grounding",
-      "Undercoat"
     ]
   },
   "GROUNDLESSNESS": {
@@ -40285,45 +37371,6 @@
       "Groundnut"
     ]
   },
-  "GROUNDS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a tract of land cleared for some special purposes (recreation or burial etc.)",
-        [
-          "Tract",
-          "Piece of land",
-          "Piece of ground",
-          "Parcel of land",
-          "Parcel"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "dregs consisting of solid particles (especially of coffee) that form a residue",
-        [
-          "Dregs",
-          "Settlings"
-        ],
-        [
-          "it is a Middle Eastern custom to read your future in your coffee grounds"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "figure"
-    ],
-    "SYNONYMS": [
-      "Terra firma",
-      "Yard",
-      "Background",
-      "Base",
-      "Footing"
-    ]
-  },
   "GROUNDSEL": {
     "MEANINGS": {
       "1": [
@@ -40408,31 +37455,6 @@
     ],
     "SYNONYMS": [
       "Groundspeed"
-    ]
-  },
-  "GROUNDWORK": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "preliminary preparation as a basis or foundation",
-        [
-          "Preparation",
-          "Readying"
-        ],
-        [
-          "we are prepared today because of groundwork that was done ten years ago"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fundament",
-      "Foot",
-      "Foundation",
-      "Substructure",
-      "Groundwork"
     ]
   },
   "GROUP": {
@@ -40562,39 +37584,6 @@
     ],
     "SYNONYMS": [
       "Groupie"
-    ]
-  },
-  "GROUPING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the activity of putting things together in groups",
-        [
-          "Activity"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a system for classifying things into groups",
-        [
-          "Classification system"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Group",
-      "Aggroup",
-      "Grouping",
-      "Pigeonholing"
     ]
   },
   "GROUPTHINK": {
@@ -40755,90 +37744,6 @@
       "Woodlet",
       "Grove",
       "Leslie richard groves"
-    ]
-  },
-  "GROW": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become larger, greater, or bigger; expand or gain",
-        [
-          "Increase"
-        ],
-        [
-          "The problem grew too large for me",
-          "Her business grew fast"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "increase in size by natural process",
-        [
-          "Develop"
-        ],
-        [
-          "Corn doesn't grow here",
-          "In these forests, mushrooms grow under the trees",
-          "her hair doesn't grow much anymore"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "cause to grow or develop",
-        [
-          "Develop",
-          "Make grow"
-        ],
-        [
-          "He grows vegetables in his backyard"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "cultivate by growing, often involving improvements by means of agricultural techniques",
-        [
-          "Cultivate"
-        ],
-        [
-          "The Bordeaux region produces great red wines",
-          "They produce good ham in Parma",
-          "We grow wheat here",
-          "We raise hogs here"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "come to have or undergo a change of (physical features and attributes)",
-        [
-          "Change"
-        ],
-        [
-          "He grew a beard",
-          "The patient developed abdominal pains",
-          "I got funny spots all over my body",
-          "Well-developed breasts"
-        ]
-      ],
-      "10": [
-        "Verb",
-        "become attached by or as if by the process of growth",
-        [
-          "Change"
-        ],
-        [
-          "The tree trunks had grown together"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Acquire",
-      "Maturate",
-      "Produce",
-      "Mature",
-      "Grow"
     ]
   },
   "GROWING": {
@@ -41054,32 +37959,6 @@
       "Grozny"
     ]
   },
-  "GRUB": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "search about busily",
-        [
-          "Search",
-          "Seek",
-          "Look for"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eats",
-      "Chuck",
-      "Cadge",
-      "Sponge",
-      "Bum"
-    ]
-  },
   "GRUBBY": {
     "MEANINGS": {
       "1": [
@@ -41257,33 +38136,6 @@
       "Gruesomely"
     ]
   },
-  "GRUFF": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "deep and harsh sounding as if from shouting or illness or emotion",
-        [
-
-        ],
-        [
-          "gruff voices",
-          "the dog's gruff barking",
-          "hoarse cries",
-          "makes all the instruments sound powerful but husky\"- Virgil Thomson"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ill-humoured",
-      "Crusty",
-      "Husky",
-      "Ill-humored",
-      "Hoarse"
-    ]
-  },
   "GRUFFLY": {
     "MEANINGS": {
       "1": [
@@ -41413,44 +38265,6 @@
     "SYNONYMS": [
       "Order gruiformes",
       "Gruiformes"
-    ]
-  },
-  "GRUMBLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a complaint uttered in a low and indistinct tone",
-        [
-          "Complaint"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "to utter or emit low dull rumbling sounds",
-        [
-          "Utter",
-          "Emit",
-          "Let out",
-          "Let loose"
-        ],
-        [
-          "he grumbled a rude response",
-          "Stones grumbled down the cliff"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Muttering",
-      "Mutter",
-      "Croak",
-      "Gnarl",
-      "Grumbling"
     ]
   },
   "GRUMBLING": {
@@ -42270,32 +39084,6 @@
       "Guardhouse"
     ]
   },
-  "GUARDIANSHIP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the responsibility of a guardian or keeper",
-        [
-          "Duty",
-          "Responsibility",
-          "Obligation"
-        ],
-        [
-          "he left his car in my keeping"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Safekeeping",
-      "Guardianship",
-      "Keeping",
-      "Tutelage",
-      "Charge"
-    ]
-  },
   "GUARDROOM": {
     "MEANINGS": {
       "1": [
@@ -42365,31 +39153,6 @@
         "founder of a family of Italian violin makers (1626?-1698)",
         [
 
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Guarneri",
-      "Andrea guarneri",
-      "Guarnieri",
-      "Guarnerius",
-      "Guiseppe guarneri"
-    ]
-  },
-  "GUARNERIUS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a violin made by a member of the Guarneri family",
-        [
-          "Violin",
-          "Fiddle"
         ],
         [
 
@@ -42510,29 +39273,6 @@
     ],
     "SYNONYMS": [
       "Gubernatorial"
-    ]
-  },
-  "GUDGEON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small slender European freshwater fish often used as bait by anglers",
-        [
-          "Cyprinid",
-          "Cyprinid fish"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Goby",
-      "Gobio gobio",
-      "Gudgeon"
     ]
   },
   "GUENON": {
@@ -42923,42 +39663,6 @@
       "Guggenheim"
     ]
   },
-  "GUGGLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make a sound like a liquid that is being poured from a bottle",
-        [
-          "Sound",
-          "Go"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "drink from a flask with a gurgling sound",
-        [
-          "Drink",
-          "Imbibe"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bubble",
-      "Burble",
-      "Guggle",
-      "Ripple",
-      "Babble"
-    ]
-  },
   "GUY": {
     "MEANINGS": {
       "1": [
@@ -43087,74 +39791,6 @@
       "Guidance",
       "Steering",
       "Direction"
-    ]
-  },
-  "GUIDE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who shows the way by leading or advising",
-        [
-          "Leader"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a structure or marking that serves to direct the motion or positioning of something",
-        [
-          "Structure",
-          "Construction"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "be a guiding or motivating force or drive",
-        [
-          "Direct"
-        ],
-        [
-          "The teacher steered the gifted students towards the more challenging courses"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "use as a guide",
-        [
-          "Orient",
-          "Orientate"
-        ],
-        [
-          "They had the lights to guide on"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "pass over, across, or through",
-        [
-
-        ],
-        [
-          "He ran his eyes over her body",
-          "She ran her fingers along the carved figurine",
-          "He drew her hair through his fingers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pass",
-      "Steer",
-      "Pathfinder",
-      "Take",
-      "Direct"
     ]
   },
   "GUIDEBOOK": {
@@ -44001,33 +40637,6 @@
       "Sargassum bacciferum"
     ]
   },
-  "GULL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "fool or hoax",
-        [
-          "Deceive",
-          "Betray",
-          "Lead astray"
-        ],
-        [
-          "The immigrant was duped because he trusted everyone",
-          "You can't fool me!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Put one over",
-      "Patsy",
-      "Befool",
-      "Sucker",
-      "Seagull"
-    ]
-  },
   "GULLY": {
     "MEANINGS": {
       "1": [
@@ -44047,28 +40656,6 @@
     ],
     "SYNONYMS": [
       "Gully"
-    ]
-  },
-  "GULLIBLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "easily tricked because of being too trusting",
-        [
-
-        ],
-        [
-          "gullible tourists taken in by the shell game"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Green",
-      "Fleeceable",
-      "Gullible"
     ]
   },
   "GULLIVER": {
@@ -44171,32 +40758,6 @@
     "SYNONYMS": [
       "Gulper",
       "Guzzler"
-    ]
-  },
-  "GULPING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the drinking of large mouthfuls rapidly",
-        [
-          "Drinking",
-          "Imbibing",
-          "Imbibition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Guzzling",
-      "Swilling",
-      "Gulping",
-      "Gulp",
-      "Quaff"
     ]
   },
   "GUM": {
@@ -44732,30 +41293,6 @@
       "Gunmetal"
     ]
   },
-  "GUNNEL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small eellike fishes common in shallow waters of the northern Atlantic",
-        [
-          "Blennioid fish",
-          "Blennioid"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gun rest",
-      "Gunnel",
-      "Bracketed blenny",
-      "Gunwale"
-    ]
-  },
   "GUNNERY": {
     "MEANINGS": {
       "1": [
@@ -45178,42 +41715,6 @@
     ],
     "SYNONYMS": [
       "Gushingly"
-    ]
-  },
-  "GUSSET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a metal plate used to strengthen a joist",
-        [
-          "Brace",
-          "Bracing",
-          "Plate"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a piece of material used to strengthen or enlarge a garment",
-        [
-          "Piece of cloth",
-          "Piece of material"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gusset plate",
-      "Gusset",
-      "Inset",
-      "Voider"
     ]
   },
   "GUSSETED": {

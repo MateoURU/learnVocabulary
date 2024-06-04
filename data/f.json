@@ -1,29 +1,4 @@
 {
-  "F": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the 6th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Atomic number 9",
-      "Fluorine",
-      "Degree fahrenheit",
-      "Farad"
-    ]
-  },
   "FA": {
     "MEANINGS": {
       "1": [
@@ -115,30 +90,6 @@
       "Fabianism"
     ]
   },
-  "FABLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a short moral story (often with animal characters)",
-        [
-          "Story"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fabrication",
-      "Fiction",
-      "Allegory",
-      "Fable",
-      "Legend"
-    ]
-  },
   "FABLED": {
     "MEANINGS": {
       "1": [
@@ -186,34 +137,6 @@
       "Textile",
       "Fabric",
       "Cloth"
-    ]
-  },
-  "FABRICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make up something artificial or untrue",
-        [
-          "Think up",
-          "Think of",
-          "Dream up",
-          "Hatch",
-          "Concoct"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Make up",
-      "Construct",
-      "Cook up",
-      "Fabricate",
-      "Manufacture"
     ]
   },
   "FABRICATED": {
@@ -628,31 +551,6 @@
       "Lift"
     ]
   },
-  "FACE-OFF": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(ice hockey) the method of starting play; a referee drops the puck between two opposing players",
-        [
-          "Beginning",
-          "Start",
-          "Commencement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Showdown",
-      "Face-off",
-      "Confrontation",
-      "Encounter"
-    ]
-  },
   "FACEPLATE": {
     "MEANINGS": {
       "1": [
@@ -713,27 +611,6 @@
     ],
     "SYNONYMS": [
       "Face-saving"
-    ]
-  },
-  "FACET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a smooth surface (as of a bone or cut gemstone)",
-        [
-          "Subfigure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Facet",
-      "Aspect"
     ]
   },
   "FACETED": {
@@ -1267,35 +1144,6 @@
       "Investigative"
     ]
   },
-  "FACTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a dissenting clique",
-        [
-          "Clique",
-          "Coterie",
-          "Ingroup",
-          "Inner circle",
-          "Pack",
-          "Camp"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Junto",
-      "Cabal",
-      "Camarilla",
-      "Sect",
-      "Faction"
-    ]
-  },
   "FACTITIOUS": {
     "MEANINGS": {
       "1": [
@@ -1502,27 +1350,6 @@
     ],
     "SYNONYMS": [
       "Factotum"
-    ]
-  },
-  "FACTUAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or characterized by facts",
-        [
-
-        ],
-        [
-          "factual considerations"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Actual",
-      "Factual"
     ]
   },
   "FACTUALITY": {
@@ -1807,29 +1634,6 @@
       "Evanesce",
       "Slice",
       "Fleet"
-    ]
-  },
-  "FADEOUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a gradual temporary loss of a transmitted signal due to electrical disturbances",
-        [
-          "Noise",
-          "Interference",
-          "Disturbance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fadeout",
-      "Receding"
     ]
   },
   "FADO": {
@@ -2938,32 +2742,6 @@
       "Fay"
     ]
   },
-  "FAIRYLAND": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the enchanted realm of fairies",
-        [
-          "Imaginary place",
-          "Mythical place",
-          "Fictitious place"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Phantasy world",
-      "Faery",
-      "Faerie",
-      "Fantasy world",
-      "Fairyland"
-    ]
-  },
   "FAIRLEAD": {
     "MEANINGS": {
       "1": [
@@ -2985,42 +2763,6 @@
     ],
     "SYNONYMS": [
       "Fairlead"
-    ]
-  },
-  "FAIRLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "without favoring one party, in a fair evenhanded manner",
-        [
-
-        ],
-        [
-          "deal fairly with one another"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "in conformity with the rules or laws and without fraud or cheating",
-        [
-
-        ],
-        [
-          "they played fairly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unreasonably",
-      "unfairly",
-      "immoderately"
-    ],
-    "SYNONYMS": [
-      "Passably",
-      "Fair",
-      "Evenhandedly",
-      "Pretty",
-      "Reasonably"
     ]
   },
   "FAIR-MINDED": {
@@ -3146,45 +2888,6 @@
     "SYNONYMS": [
       "Faisal ibn abdel aziz al-saud",
       "Faisal"
-    ]
-  },
-  "FAITH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "complete confidence in a person or plan etc",
-        [
-          "Belief"
-        ],
-        [
-          "he cherished the faith of a good woman",
-          "the doctor-patient relationship is based on trust"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "loyalty or allegiance to a cause or a person",
-        [
-          "Commitment",
-          "Allegiance",
-          "Loyalty",
-          "Dedication"
-        ],
-        [
-          "keep the faith",
-          "they broke faith with their investors"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Organized religion",
-      "Faith",
-      "Trust",
-      "Religion",
-      "Religious belief"
     ]
   },
   "FAITHFUL": {
@@ -4239,36 +3942,6 @@
       "Settle"
     ]
   },
-  "FALLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who falls",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-          "one of them was safe but they were unable to save the faller",
-          "a faller among thieves"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Faller",
-      "Lumberjack",
-      "Lumberman",
-      "Logger",
-      "Feller"
-    ]
-  },
   "FALLIBILITY": {
     "MEANINGS": {
       "1": [
@@ -4588,55 +4261,6 @@
       "Distort",
       "Alter",
       "Warp"
-    ]
-  },
-  "FALSIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a willful perversion of facts",
-        [
-          "Wrongdoing",
-          "Wrongful conduct",
-          "Misconduct",
-          "Actus reus"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of rendering something false as by fraudulent changes (of documents or measures etc.) or counterfeiting",
-        [
-          "Dishonesty",
-          "Knavery"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of determining that something is false",
-        [
-          "Determination",
-          "Finding"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Falsification",
-      "Misrepresentation",
-      "Falsifying",
-      "Disproof",
-      "Refutation"
     ]
   },
   "FALSIFIER": {
@@ -5011,52 +4635,6 @@
       "Companion"
     ]
   },
-  "FAMILIARITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "usualness by virtue of being familiar or well known",
-        [
-          "Usualness"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "close or warm friendship",
-        [
-          "Friendliness"
-        ],
-        [
-          "the absence of fences created a mysterious intimacy in which no one knew privacy"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "an act of undue intimacy",
-        [
-          "Misbehavior",
-          "Misbehaviour",
-          "Misdeed"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unfamiliarity"
-    ],
-    "SYNONYMS": [
-      "Acquaintance",
-      "Conversancy",
-      "Intimacy",
-      "Conversance",
-      "Familiarity"
-    ]
-  },
   "FAMILIARIZATION": {
     "MEANINGS": {
       "1": [
@@ -5143,32 +4721,6 @@
     ],
     "SYNONYMS": [
       "Familiarly"
-    ]
-  },
-  "FAMINE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death",
-        [
-          "Calamity",
-          "Catastrophe",
-          "Disaster",
-          "Tragedy",
-          "Cataclysm"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dearth",
-      "Shortage",
-      "Famine"
     ]
   },
   "FAMISHED": {
@@ -5748,29 +5300,6 @@
       "Fan-leaved"
     ]
   },
-  "FANLIGHT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a semicircular window over a door or window; usually has sash bars like the ribs of a fan",
-        [
-          "Window"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Transom window",
-      "Fanlight",
-      "Skylight",
-      "Transom"
-    ]
-  },
   "FANLIKE": {
     "MEANINGS": {
       "1": [
@@ -5936,31 +5465,6 @@
       "Fantasist"
     ]
   },
-  "FANTASIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "portray in the mind",
-        [
-          "Imagine",
-          "Conceive of",
-          "Ideate",
-          "Envisage"
-        ],
-        [
-          "he is fantasizing the ideal wife"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fantasy",
-      "Fantasise",
-      "Fantasize"
-    ]
-  },
   "FANTAST": {
     "MEANINGS": {
       "1": [
@@ -5982,65 +5486,6 @@
     "SYNONYMS": [
       "Futurist",
       "Fantast"
-    ]
-  },
-  "FANTASTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "extraordinarily good or great; used especially as intensifiers",
-        [
-
-        ],
-        [
-          "a fantastic trip to the Orient",
-          "the film was fantastic!",
-          "a howling success",
-          "a marvelous collection of rare books",
-          "had a rattling conversation about politics",
-          "a tremendous achievement"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "fanciful and unrealistic; foolish",
-        [
-
-        ],
-        [
-          "a fantastic idea of his own importance"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "existing in fancy only",
-        [
-
-        ],
-        [
-          "fantastic figures with bulbous heads the circumference of a bushel\"- Nathaniel Hawthorne"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "extravagantly fanciful in design, construction, appearance",
-        [
-
-        ],
-        [
-          "Gaudi's fantastic architecture"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wonderful",
-      "Howling",
-      "Wondrous",
-      "Rattling",
-      "Fantastical"
     ]
   },
   "FANTODS": {
@@ -6345,52 +5790,6 @@
       "Fardel"
     ]
   },
-  "FARE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "eat well",
-        [
-          "Eat"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a paying (taxi) passenger",
-        [
-          "Passenger",
-          "Rider"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the food and drink that are regularly served or consumed",
-        [
-          "Food",
-          "Nutrient"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Menu",
-      "Fare",
-      "Get along",
-      "Do",
-      "Transportation"
-    ]
-  },
   "FARE-THEE-WELL": {
     "MEANINGS": {
       "1": [
@@ -6546,32 +5945,6 @@
     ],
     "SYNONYMS": [
       "Farina"
-    ]
-  },
-  "FARINACEOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "composed of or covered with particles resembling meal in texture or consistency",
-        [
-
-        ],
-        [
-          "granular sugar",
-          "the photographs were grainy and indistinct",
-          "it left a mealy residue"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Granulose",
-      "Farinaceous",
-      "Amyloidal",
-      "Amylaceous",
-      "Granular"
     ]
   },
   "FARKLEBERRY": {
@@ -7095,31 +6468,6 @@
       "Farrowing"
     ]
   },
-  "FARSEEING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "planning prudently for the future",
-        [
-
-        ],
-        [
-          "large goals that required farsighted policies",
-          "took a long view of the geopolitical issues"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Long",
-      "Foresighted",
-      "Keen-sighted",
-      "Longsighted",
-      "Eagle-eyed"
-    ]
-  },
   "FARSI": {
     "MEANINGS": {
       "1": [
@@ -7430,30 +6778,6 @@
     ],
     "SYNONYMS": [
       "Fasciculation"
-    ]
-  },
-  "FASCINATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "to render motionless, as with a fixed stare or by arousing terror or awe",
-        [
-          "Interest"
-        ],
-        [
-          "The snake charmer fascinates the cobra"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Catch",
-      "Becharm",
-      "Spellbind",
-      "Intrigue",
-      "Enamour"
     ]
   },
   "FASCINATED": {
@@ -8044,32 +7368,6 @@
       "Holdfast"
     ]
   },
-  "FASTENING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of fastening things together",
-        [
-          "Joining",
-          "Connection",
-          "Connexion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unfasten"
-    ],
-    "SYNONYMS": [
-      "Tighten",
-      "Fix",
-      "Secure",
-      "Fasten",
-      "Fastener"
-    ]
-  },
   "FASTIDIOUS": {
     "MEANINGS": {
       "1": [
@@ -8101,27 +7399,6 @@
     "SYNONYMS": [
       "Fastidious",
       "Exacting"
-    ]
-  },
-  "FASTIDIOUSLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a fastidious manner",
-        [
-
-        ],
-        [
-          "he writes extremely musical music, of which the sound is fastidiously calculated and yet agreeably spontaneous and imaginative"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Painstakingly",
-      "Fastidiously"
     ]
   },
   "FASTIDIOUSNESS": {
@@ -8182,31 +7459,6 @@
     ],
     "SYNONYMS": [
       "Fastnacht"
-    ]
-  },
-  "FASTNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being fixed in place as by some firm attachment",
-        [
-          "Immovability",
-          "Immovableness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "looseness"
-    ],
-    "SYNONYMS": [
-      "Fixity",
-      "Fastness",
-      "Swiftness",
-      "Stronghold",
-      "Secureness"
     ]
   },
   "FAT": {
@@ -9323,69 +8575,6 @@
       "William falkner"
     ]
   },
-  "FAULT": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other",
-        [
-          "Crack",
-          "Cleft",
-          "Crevice",
-          "Fissure",
-          "Scissure"
-        ],
-        [
-          "they built it right over a geological fault",
-          "he studied the faulting of the earth's crust"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "(electronics) equipment failure attributable to some defect in a circuit (loose connection or insulation failure or short circuit etc.)",
-        [
-          "Breakdown",
-          "Equipment failure"
-        ],
-        [
-          "it took much longer to find the fault than to fix it"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "responsibility for a bad situation or event",
-        [
-          "Responsibility",
-          "Responsibleness"
-        ],
-        [
-          "it was John's fault"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "(sports) a serve that is illegal (e.g., that lands outside the prescribed area)",
-        [
-          "Serve",
-          "Service"
-        ],
-        [
-          "he served too many double faults"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "absolve",
-      "merit"
-    ],
-    "SYNONYMS": [
-      "Flaw",
-      "Shift",
-      "Break",
-      "Blame",
-      "Error"
-    ]
-  },
   "FAULTFINDING": {
     "MEANINGS": {
       "1": [
@@ -9406,30 +8595,6 @@
       "Captious",
       "Carping",
       "Faultfinding"
-    ]
-  },
-  "FAULTY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by errors; not agreeing with a model or not following established rules; the wrong side of the road\"",
-        [
-
-        ],
-        [
-          "he submitted a faulty report",
-          "an incorrect transcription"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Faulty",
-      "Defective",
-      "Incorrect",
-      "Wrong"
     ]
   },
   "FAULTILY": {
@@ -10253,29 +9418,6 @@
       "Fearfully"
     ]
   },
-  "FEARFULNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of being afraid",
-        [
-          "Cowardice",
-          "Cowardliness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fearlessness"
-    ],
-    "SYNONYMS": [
-      "Fearfulness",
-      "Fear",
-      "Fright"
-    ]
-  },
   "FEARLESSLY": {
     "MEANINGS": {
       "1": [
@@ -10537,32 +9679,6 @@
       "Square"
     ]
   },
-  "FEATHERBED": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "hire more workers than are necessary",
-        [
-          "Hire",
-          "Engage",
-          "Employ"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Featherbed",
-      "Indulge",
-      "Feather bed",
-      "Cosset",
-      "Cocker"
-    ]
-  },
   "FEATHERBEDDING": {
     "MEANINGS": {
       "1": [
@@ -10586,30 +9702,6 @@
       "Cocker",
       "Cosset",
       "Mollycoddle"
-    ]
-  },
-  "FEATHERED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having or covered with feathers",
-        [
-
-        ],
-        [
-          "our feathered friends"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unfeathered"
-    ],
-    "SYNONYMS": [
-      "Plumy",
-      "Fledge",
-      "Feather",
-      "Square",
-      "Feathered"
     ]
   },
   "FEATHEREDGE": {
@@ -10654,39 +9746,6 @@
     "SYNONYMS": [
       "Feather-foil",
       "Featherfoil"
-    ]
-  },
-  "FEATHERY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by a covering of feathers",
-        [
-
-        ],
-        [
-          "the feathery congregation of jays"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "adorned with feathers or plumes",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Feathered",
-      "Featherlike",
-      "Plumy",
-      "Feathery"
     ]
   },
   "FEATHERLIKE": {
@@ -11007,27 +10066,6 @@
       "Inept"
     ]
   },
-  "FECKLESSLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a feckless manner; irresponsibly and incompetently",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ineptly",
-      "Fecklessly"
-    ]
-  },
   "FECKLESSNESS": {
     "MEANINGS": {
       "1": [
@@ -11334,30 +10372,6 @@
       "Federalisation"
     ]
   },
-  "FEDERALIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "put under the control and authority of a federal government",
-        [
-          "Decentralize",
-          "Deconcentrate",
-          "Decentralise"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Federate",
-      "Federalize",
-      "Federalise"
-    ]
-  },
   "FEDERALLY": {
     "MEANINGS": {
       "1": [
@@ -11564,30 +10578,6 @@
     ],
     "SYNONYMS": [
       "Feeblemindedness"
-    ]
-  },
-  "FEEBLENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of lacking intensity or substance",
-        [
-          "Weakness"
-        ],
-        [
-          "a shrill yet sweet tenuity of voice\"- Nathaniel Hawthorne"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frailty",
-      "Tenuity",
-      "Frailness",
-      "Debility",
-      "Valetudinarianism"
     ]
   },
   "FEEBLY": {
@@ -11826,32 +10816,6 @@
       "Confluent",
       "Tributary",
       "Self-feeder"
-    ]
-  },
-  "FEEDING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of supplying food and nourishment",
-        [
-          "Provision",
-          "Supply",
-          "Supplying"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "starve"
-    ],
-    "SYNONYMS": [
-      "Eat",
-      "Feed",
-      "Run",
-      "Fertilize",
-      "Flow"
     ]
   },
   "FEEDLOT": {
@@ -12719,118 +11683,6 @@
       "Felly"
     ]
   },
-  "FELLOW": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "a member of a learned society",
-        [
-          "Member",
-          "Fellow member"
-        ],
-        [
-          "he was elected a fellow of the American Physiological Association"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "an informal form of address for a man",
-        [
-          "Man",
-          "Adult male"
-        ],
-        [
-          "Say, fellow, what are you doing?",
-          "Hey buster, what's up?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fella",
-      "Bloke",
-      "Familiar",
-      "Lad",
-      "Beau"
-    ]
-  },
-  "FELLOWSHIP": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "money granted (by a university or foundation or other agency) for advanced study or research",
-        [
-          "Aid",
-          "Economic aid",
-          "Financial aid",
-          "Prize",
-          "Award"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Company",
-      "Family",
-      "Fellowship",
-      "Society",
-      "Companionship"
-    ]
-  },
-  "FELO-DE-SE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an act of deliberate self destruction",
-        [
-          "Suicide",
-          "Self-destruction",
-          "Self-annihilation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Felo-de-se",
-      "Suicide"
-    ]
-  },
-  "FELON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a purulent infection at the end of a finger or toe in the area surrounding the nail",
-        [
-          "Infection"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Criminal",
-      "Crook",
-      "Felon",
-      "Whitlow",
-      "Malefactor"
-    ]
-  },
   "FELONY": {
     "MEANINGS": {
       "1": [
@@ -13389,35 +12241,6 @@
     ],
     "SYNONYMS": [
       "Fence-sitter"
-    ]
-  },
-  "FENCING": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the art or sport of fighting with swords (especially the use of foils or epees or sabres to score points under a set of rules)",
-        [
-          "Fight",
-          "Fighting",
-          "Combat",
-          "Scrap",
-          "Play",
-          "Swordplay"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wall",
-      "Debate",
-      "Fence in",
-      "Fencing",
-      "Palisade"
     ]
   },
   "FEND": {
@@ -14027,29 +12850,6 @@
       "Fermentable"
     ]
   },
-  "FERMI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Italian nuclear physicist (in the United States after 1939) who worked on artificial radioactivity caused by neutron bombardment and who headed the group that in 1942 produced the first controlled nuclear reaction (1901-1954)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Femtometre",
-      "Femtometer",
-      "Fermi",
-      "Enrico fermi"
-    ]
-  },
   "FERMION": {
     "MEANINGS": {
       "1": [
@@ -14651,32 +13451,6 @@
       "Productive"
     ]
   },
-  "FERTILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of being fertile; capable of producing offspring",
-        [
-          "Physical condition",
-          "Physiological state",
-          "Physiological condition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "infertility"
-    ],
-    "SYNONYMS": [
-      "Natality",
-      "Birth rate",
-      "Fertility",
-      "Fertility rate",
-      "Birthrate"
-    ]
-  },
   "FERTILIZABLE": {
     "MEANINGS": {
       "1": [
@@ -14809,31 +13583,6 @@
     ],
     "SYNONYMS": [
       "Ferule"
-    ]
-  },
-  "FERVENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "extremely hot",
-        [
-
-        ],
-        [
-          "the fervent heat...merely communicated a genial warmth to their half-torpid systems\"- Nathaniel Hawthorne",
-          "set out...when the fervid heat subsides\"- Frances Trollope"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Torrid",
-      "Ardent",
-      "Perfervid",
-      "Impassioned",
-      "Fervid"
     ]
   },
   "FESCUE": {
@@ -16582,30 +15331,6 @@
       "Fibrositis"
     ]
   },
-  "FIBROUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of meat) full of sinews; especially impossible to chew",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hempen",
-      "Stringy",
-      "Sinewy",
-      "Fibrous",
-      "Unchewable"
-    ]
-  },
   "FIBULA": {
     "MEANINGS": {
       "1": [
@@ -16860,30 +15585,6 @@
       "Fictitiously"
     ]
   },
-  "FICTIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of imaginative creation",
-        [
-
-        ],
-        [
-          "fictive talent"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pretended",
-      "Fictitious",
-      "Sham",
-      "Assumed",
-      "Fictive"
-    ]
-  },
   "FICUS": {
     "MEANINGS": {
       "1": [
@@ -17093,37 +15794,6 @@
       "Restlessness",
       "Fidget",
       "Fidgetiness"
-    ]
-  },
-  "FIDUCIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "used as a fixed standard of reference for comparison or measurement",
-        [
-
-        ],
-        [
-          "a fiducial point"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "based on trust",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fiducial",
-      "Fiduciary"
     ]
   },
   "FIDUCIARY": {
@@ -17558,90 +16228,6 @@
     ],
     "SYNONYMS": [
       "Fieldworker"
-    ]
-  },
-  "FIERCE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
-        [
-
-        ],
-        [
-          "fierce loyalty",
-          "in a tearing rage",
-          "vehement dislike",
-          "violent passions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fierce",
-      "Savage",
-      "Ferocious",
-      "Tearing",
-      "Rough"
-    ]
-  },
-  "FIERCELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an emotionally fierce manner",
-        [
-
-        ],
-        [
-          "she was fiercely proud of her children"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ferociously",
-      "Fiercely"
-    ]
-  },
-  "FIERY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "like or suggestive of fire",
-        [
-
-        ],
-        [
-          "a fiery desert wind",
-          "an igneous desert atmosphere"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "very intense",
-        [
-
-        ],
-        [
-          "a fiery temper",
-          "flaming passions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Torrid",
-      "Igneous",
-      "Ardent",
-      "Flaming",
-      "Perfervid"
     ]
   },
   "FIERILY": {
@@ -18130,40 +16716,6 @@
       "52"
     ]
   },
-  "FIG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Mediterranean tree widely cultivated for its edible fruit",
-        [
-          "Fig tree"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ficus carica",
-      "Fig",
-      "Figure",
-      "Common fig tree",
-      "Al-jama'a al-islamiyyah al-muqatilah bi-libya"
-    ]
-  },
   "FIG-BIRD": {
     "MEANINGS": {
       "1": [
@@ -18183,105 +16735,6 @@
     ],
     "SYNONYMS": [
       "Fig-bird"
-    ]
-  },
-  "FIGHT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "fight against or resist strongly",
-        [
-          "Contend",
-          "Fight",
-          "Struggle"
-        ],
-        [
-          "The senator said he would oppose the bill",
-          "Don't fight it!"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an intense verbal dispute",
-        [
-          "Controversy",
-          "Contention",
-          "Contestation",
-          "Disputation",
-          "Disceptation",
-          "Tilt",
-          "Argument",
-          "Arguing"
-        ],
-        [
-          "a violent fight over the bill is expected in the Senate"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a boxing or wrestling match",
-        [
-          "Boxing",
-          "Pugilism",
-          "Fisticuffs"
-        ],
-        [
-          "the fight was on television last night"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "make a strenuous or labored effort",
-        [
-          "Try",
-          "Seek",
-          "Attempt",
-          "Essay",
-          "Assay"
-        ],
-        [
-          "She struggled for years to survive without welfare",
-          "He fought for breath"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crusade",
-      "Campaign",
-      "Scrap",
-      "Contend",
-      "Oppose"
-    ]
-  },
-  "FIGHTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a high-speed military or naval airplane designed to destroy enemy aircraft in the air",
-        [
-          "Airplane",
-          "Aeroplane",
-          "Plane",
-          "Warplane",
-          "Military plane"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Paladin",
-      "Scrapper",
-      "Fighter",
-      "Attack aircraft",
-      "Champion"
     ]
   },
   "FIGMENT": {
@@ -18566,30 +17019,6 @@
       "Enter"
     ]
   },
-  "FIGUREHEAD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "figure on the bow of some sailing vessels",
-        [
-          "Figure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Strawman",
-      "Nominal head",
-      "Figurehead",
-      "Front",
-      "Front man"
-    ]
-  },
   "FIGURINE": {
     "MEANINGS": {
       "1": [
@@ -18685,55 +17114,6 @@
       "Fijian"
     ]
   },
-  "FILAMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the stalk of a stamen",
-        [
-          "Stalk",
-          "Stem"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a threadlike structure (as a chainlike series of cells)",
-        [
-          "Structure",
-          "Anatomical structure",
-          "Complex body part",
-          "Bodily structure",
-          "Body structure"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a thin wire (usually tungsten) that is heated white hot by the passage of an electric current",
-        [
-          "Wire",
-          "Conducting wire"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Filament",
-      "Strand",
-      "Fibril",
-      "Filum"
-    ]
-  },
   "FILAMENTOUS": {
     "MEANINGS": {
       "1": [
@@ -18776,32 +17156,6 @@
     ],
     "SYNONYMS": [
       "Filar"
-    ]
-  },
-  "FILARIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "slender threadlike roundworms living in the blood and tissues of vertebrates; transmitted as larvae by biting insects",
-        [
-          "Nematode",
-          "Nematode worm",
-          "Roundworm"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alfileria",
-      "Filaree",
-      "Redstem storksbill",
-      "Erodium cicutarium",
-      "Alfilaria"
     ]
   },
   "FILARIAL": {
@@ -19041,29 +17395,6 @@
       "File clerk",
       "Filer",
       "Filing clerk"
-    ]
-  },
-  "FILET": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "lace having a square mesh",
-        [
-          "Lace"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Filet",
-      "Fish fillet",
-      "Fish filet",
-      "Fillet"
     ]
   },
   "FILIAL": {
@@ -19825,28 +18156,6 @@
       "Film"
     ]
   },
-  "FILS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a fractional monetary unit in Bahrain and Iraq and Jordan and Kuwait; equal to one thousandth of a dinar",
-        [
-          "Fractional monetary unit",
-          "Subunit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Yemeni fils",
-      "Fils"
-    ]
-  },
   "FILTER": {
     "MEANINGS": {
       "1": [
@@ -19962,32 +18271,6 @@
       "Dirty",
       "Nasty",
       "Smutty"
-    ]
-  },
-  "FILTHINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "moral corruption or pollution",
-        [
-          "Nefariousness",
-          "Wickedness",
-          "Vileness",
-          "Ugliness"
-        ],
-        [
-          "this deformity and filthiness of sin"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foulness",
-      "Filthiness",
-      "Nastiness",
-      "Filth"
     ]
   },
   "FILTRATE": {
@@ -20704,44 +18987,6 @@
       "Discoverer"
     ]
   },
-  "FINDING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the decision of a court on issues of fact or law",
-        [
-          "Judgment",
-          "Judgement",
-          "Judicial decision"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "something that is found",
-        [
-          "Object",
-          "Physical object"
-        ],
-        [
-          "the findings in the gastrointestinal tract indicate that he died several hours after dinner",
-          "an area rich in archaeological findings"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "lose"
-    ],
-    "SYNONYMS": [
-      "Come up",
-      "See",
-      "Find",
-      "Witness",
-      "Discover"
-    ]
-  },
   "FINDINGS": {
     "MEANINGS": {
       "1": [
@@ -21175,29 +19420,6 @@
       "Thumb"
     ]
   },
-  "FINGERBOARD": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a narrow strip of wood on the neck of some stringed instruments (violin or cello or guitar etc) where the strings are held against the wood with the fingers",
-        [
-          "Strip"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fingerpost",
-      "Piano keyboard",
-      "Fingerboard",
-      "Clavier"
-    ]
-  },
   "FINGERED": {
     "MEANINGS": {
       "1": [
@@ -21554,89 +19776,6 @@
       "Finicky"
     ]
   },
-  "FINISH": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "provide with a finish",
-        [
-          "Coat",
-          "Surface"
-        ],
-        [
-          "The carpenter finished the table beautifully",
-          "this shirt is not finished properly"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "designated event that concludes a contest (especially a race)",
-        [
-          "Happening",
-          "Occurrence",
-          "Occurrent",
-          "Natural event"
-        ],
-        [
-          "excitement grew as the finish neared",
-          "my horse was several lengths behind at the finish",
-          "the winner is the team with the most points at the finish"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "cause to finish a relationship with somebody",
-        [
-          "End",
-          "Terminate"
-        ],
-        [
-          "That finished me with Mary"
-        ]
-      ],
-      "8": [
-        "Noun",
-        "(wine tasting) the taste of a wine on the back of the tongue (as it is swallowed)",
-        [
-          "Taste",
-          "Taste sensation",
-          "Gustatory sensation",
-          "Taste perception",
-          "Gustatory perception"
-        ],
-        [
-          "the wine has a nutty flavor and a pleasant finish"
-        ]
-      ],
-      "9": [
-        "Noun",
-        "the act of finishing",
-        [
-          "Completion",
-          "Culmination",
-          "Closing",
-          "Windup",
-          "Mop up"
-        ],
-        [
-          "his best finish in a major tournament was third",
-          "the speaker's finishing was greeted with applause"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "begin",
-      "beginning",
-      "start"
-    ],
-    "SYNONYMS": [
-      "Polish off",
-      "Finale",
-      "Goal",
-      "Close",
-      "Finis"
-    ]
-  },
   "FINISHED": {
     "MEANINGS": {
       "1": [
@@ -21703,71 +19842,6 @@
       "End",
       "Finished",
       "Finish up"
-    ]
-  },
-  "FINISHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a racing driver who finishes a race",
-        [
-          "Racer",
-          "Race driver",
-          "Automobile driver"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a painter who applies a finishing coat",
-        [
-          "Painter"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a worker who performs the last step in a manufacturing process",
-        [
-          "Worker"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a race car that finishes a race",
-        [
-          "Racer",
-          "Race car",
-          "Racing car"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "an animal that wins in a contest of speed",
-        [
-          "Racer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Finisher",
-      "Closer"
     ]
   },
   "FINITE": {
@@ -22152,44 +20226,6 @@
       "Piece"
     ]
   },
-  "FIREBALL": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a ball of fire (such as the sun or a ball-shaped discharge of lightning)",
-        [
-          "Ball",
-          "Globe",
-          "Orb"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the luminous center of a nuclear explosion",
-        [
-          "Ball",
-          "Globe",
-          "Orb"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fireball",
-      "Ball of fire",
-      "Bolide",
-      "Human dynamo",
-      "Powerhouse"
-    ]
-  },
   "FIREBASE": {
     "MEANINGS": {
       "1": [
@@ -22336,28 +20372,6 @@
       "Firebrick"
     ]
   },
-  "FIREBUG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a true bug: brightly colored bug that can exude a stain",
-        [
-          "Heteropterous insect"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Firebug",
-      "Arsonist",
-      "Incendiary"
-    ]
-  },
   "FIRECLAY": {
     "MEANINGS": {
       "1": [
@@ -22419,45 +20433,6 @@
     ],
     "SYNONYMS": [
       "Firedamp"
-    ]
-  },
-  "FIRE-EATER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a belligerent grouch",
-        [
-          "Grouch",
-          "Grump",
-          "Crank",
-          "Churl",
-          "Crosspatch"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a performer who pretends to swallow fire",
-        [
-          "Performer",
-          "Performing artist"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fire-swallower",
-      "Fire fighter",
-      "Firefighter",
-      "Fireman",
-      "Fire-eater"
     ]
   },
   "FIREFLY": {
@@ -23555,31 +21530,6 @@
       "Fishbone"
     ]
   },
-  "FISHBOWL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a transparent bowl in which small fish are kept",
-        [
-          "Aquarium",
-          "Fish tank",
-          "Marine museum",
-          "Bowl"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fishbowl",
-      "Goldfish bowl",
-      "Fish bowl"
-    ]
-  },
   "FISHEYE": {
     "MEANINGS": {
       "1": [
@@ -23599,31 +21549,6 @@
     "SYNONYMS": [
       "Wide-angle",
       "Fisheye"
-    ]
-  },
-  "FISHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large dark brown North American arboreal carnivorous mammal",
-        [
-          "Marten",
-          "Marten cat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Martes pennanti",
-      "Fisherman",
-      "Fisher",
-      "Pekan",
-      "Fisher cat"
     ]
   },
   "FISHERY": {
@@ -23871,29 +21796,6 @@
     ],
     "SYNONYMS": [
       "Fishtail"
-    ]
-  },
-  "FISSILE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of being split or cleft or divided in the direction of the grain",
-        [
-
-        ],
-        [
-          "fissile crystals",
-          "fissile wood"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonfissionable",
-      "nonfissile"
-    ],
-    "SYNONYMS": [
-      "Fissionable",
-      "Fissile"
     ]
   },
   "FISSION": {
@@ -24170,29 +22072,6 @@
     ],
     "SYNONYMS": [
       "Fistmele"
-    ]
-  },
-  "FISTULA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an abnormal passage leading from a suppurating cavity to the body surface",
-        [
-          "Passage",
-          "Passageway"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fistulous withers",
-      "Fistula",
-      "Sinus"
     ]
   },
   "FISTULAR": {
@@ -24815,43 +22694,6 @@
       "Pentad"
     ]
   },
-  "FIVE-SPOT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "California annual having white flowers with a deep purple blotch on each petal",
-        [
-          "Nemophila"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a playing card or a domino or a die whose upward face shows five pips",
-        [
-          "Die",
-          "Dice",
-          "Domino",
-          "Spot"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Five dollar bill",
-      "Fiver",
-      "Nemophila maculata",
-      "Five-spot",
-      "Five"
-    ]
-  },
   "FIX": {
     "MEANINGS": {
       "1": [
@@ -25015,41 +22857,6 @@
       "Fix"
     ]
   },
-  "FIXATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the activity of fastening something firmly in position",
-        [
-          "Fastening",
-          "Attachment"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(histology) the preservation and hardening of a tissue sample to retain as nearly as possible the same relations they had in the living body",
-        [
-          "Preservation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Regression",
-      "Arrested development",
-      "Infantile fixation",
-      "Fixation",
-      "Obsession"
-    ]
-  },
   "FIXATIVE": {
     "MEANINGS": {
       "1": [
@@ -25160,33 +22967,6 @@
       "Fixedly"
     ]
   },
-  "FIXEDNESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the quality of being fixed and unchangeable",
-        [
-          "Changelessness",
-          "Unchangeability",
-          "Unchangeableness",
-          "Unchangingness"
-        ],
-        [
-          "the fixedness of his gaze upset her"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "looseness"
-    ],
-    "SYNONYMS": [
-      "Fixity",
-      "Fastness",
-      "Immobility",
-      "Unalterability",
-      "Secureness"
-    ]
-  },
   "FIXER": {
     "MEANINGS": {
       "1": [
@@ -25213,35 +22993,6 @@
       "Dolophine hydrochloride"
     ]
   },
-  "FIXINGS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the accessories that normally accompany (something or some activity)",
-        [
-          "Accessory",
-          "Appurtenance",
-          "Supplement",
-          "Add-on"
-        ],
-        [
-          "an elaborate formal dinner with all the fixings",
-          "he bought a Christmas tree and trimmings to decorate it"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unfasten",
-      "break"
-    ],
-    "SYNONYMS": [
-      "Mend",
-      "Desexualise",
-      "Altering",
-      "Sterilise",
-      "Deposit"
-    ]
-  },
   "FIXTURE": {
     "MEANINGS": {
       "1": [
@@ -25265,31 +23016,6 @@
       "Mend",
       "Fix",
       "Secureness"
-    ]
-  },
-  "FIZGIG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a firework that fizzes as it moves",
-        [
-          "Firework",
-          "Pyrotechnic"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spear",
-      "Fizgig",
-      "Gig",
-      "Fishgig",
-      "Lance"
     ]
   },
   "FIZZ": {
@@ -25672,29 +23398,6 @@
       "Flagellation"
     ]
   },
-  "FLAGELLUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a lash-like appendage used for locomotion (e.g., in sperm cells and some bacteria and protozoa)",
-        [
-          "Process",
-          "Outgrowth",
-          "Appendage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flagellum",
-      "Scourge"
-    ]
-  },
   "FLAGEOLET": {
     "MEANINGS": {
       "1": [
@@ -25835,29 +23538,6 @@
     ],
     "SYNONYMS": [
       "Flagon"
-    ]
-  },
-  "FLAGPOLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a tall staff or pole on which a flag is raised",
-        [
-          "Staff"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ranging pole",
-      "Flagstaff",
-      "Range pole",
-      "Flagpole"
     ]
   },
   "FLAGRANTLY": {
@@ -26083,30 +23763,6 @@
       "Off-the-wall"
     ]
   },
-  "FLAKINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "having or breaking into thin crisp flakes",
-        [
-          "Brittleness",
-          "Crispness",
-          "Crispiness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Daftness",
-      "Flakiness",
-      "Craziness"
-    ]
-  },
   "FLAMBE": {
     "MEANINGS": {
       "1": [
@@ -26220,44 +23876,6 @@
       "Showily",
       "Flamboyantly",
       "Flashily"
-    ]
-  },
-  "FLAME": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be in flames or aflame",
-        [
-          "Burn",
-          "Combust"
-        ],
-        [
-          "The sky seemed to flame in the Hawaiian sunset"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "criticize harshly, usually via an electronic medium",
-        [
-          "Chastise",
-          "Castigate",
-          "Objurgate",
-          "Chasten",
-          "Correct"
-        ],
-        [
-          "the person who posted an inflammatory message got flamed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flaming",
-      "Flame",
-      "Flare",
-      "Fire"
     ]
   },
   "FLAME-COLORED": {
@@ -26605,27 +24223,6 @@
     "SYNONYMS": [
       "Wing",
       "Flank"
-    ]
-  },
-  "FLANKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a soldier who is a member of a detachment assigned to guard the flanks of a military formation",
-        [
-          "Soldier"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flanker",
-      "Flanker back"
     ]
   },
   "FLANNEL": {
@@ -27097,52 +24694,6 @@
       "Flashboard"
     ]
   },
-  "FLASHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an electrical device that automatically turns a lamp on and off (as for an advertising display)",
-        [
-          "Electrical device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flasher",
-      "Blinker",
-      "Exhibitionist"
-    ]
-  },
-  "FLASHY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used especially of clothes) marked by conspicuous display",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cheap",
-      "Meretricious",
-      "Gimcrack",
-      "Loud",
-      "Gaudy"
-    ]
-  },
   "FLASHINESS": {
     "MEANINGS": {
       "1": [
@@ -27165,30 +24716,6 @@
       "Brashness",
       "Garishness",
       "Tawdriness"
-    ]
-  },
-  "FLASHING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "sheet metal shaped and attached to a roof for strength and weatherproofing",
-        [
-          "Sheet metal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wink",
-      "Winkle",
-      "Flaunt",
-      "Blink",
-      "Dash"
     ]
   },
   "FLASHLIGHT": {
@@ -27395,28 +24922,6 @@
       "Matte",
       "Bland",
       "Directly"
-    ]
-  },
-  "FLATBED": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an open truck bed or trailer with no sides; used to carry large heavy objects",
-        [
-          "Truck bed"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flatcar",
-      "Flatbed",
-      "Flat"
     ]
   },
   "FLATBOTTOM": {
@@ -27759,55 +25264,6 @@
     ],
     "SYNONYMS": [
       "Flatmate"
-    ]
-  },
-  "FLATNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a want of animation or brilliance",
-        [
-          "Expressive style",
-          "Style"
-        ],
-        [
-          "the almost self-conscious flatness of Hemingway's style"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a deficiency in flavor",
-        [
-          "Taste",
-          "Taste sensation",
-          "Gustatory sensation",
-          "Taste perception",
-          "Gustatory perception"
-        ],
-        [
-          "it needed lemon juice to sharpen the flatness of the dried lentils"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the property of having little or no contrast; lacking highlights or gloss",
-        [
-          "Dullness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Planeness",
-      "Lustrelessness",
-      "Matte",
-      "Sluggishness",
-      "Flatness"
     ]
   },
   "FLATS": {
@@ -28242,33 +25698,6 @@
     ],
     "SYNONYMS": [
       "Flavonoid"
-    ]
-  },
-  "FLAVOR": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(physics) the six kinds of quarks",
-        [
-          "Kind",
-          "Sort",
-          "Form",
-          "Variety"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Feel",
-      "Season",
-      "Flavour",
-      "Tang",
-      "Savour"
     ]
   },
   "FLAVORER": {
@@ -29259,33 +26688,6 @@
       "John fletcher"
     ]
   },
-  "FLEUR-DE-LIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(heraldry) charge consisting of a conventionalized representation of an iris",
-        [
-          "Charge",
-          "Bearing",
-          "Heraldic bearing",
-          "Armorial bearing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fleur-de-lis",
-      "Flag",
-      "Sword lily",
-      "Iris",
-      "Fleur-de-lys"
-    ]
-  },
   "FLEX": {
     "MEANINGS": {
       "1": [
@@ -29449,29 +26851,6 @@
     ],
     "SYNONYMS": [
       "Flexibly"
-    ]
-  },
-  "FLEXION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "act of bending a joint; especially a joint between the bones of a limb so that the angle between them is decreased",
-        [
-          "Bending"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "extension"
-    ],
-    "SYNONYMS": [
-      "Inflection",
-      "Flexure",
-      "Flexion",
-      "Flection"
     ]
   },
   "FLEXUOUS": {
@@ -29669,30 +27048,6 @@
       "Wing",
       "Fly",
       "Fly sheet"
-    ]
-  },
-  "FLYAWAY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of hair or clothing) worn loose",
-        [
-
-        ],
-        [
-          "her flyaway hair",
-          "a flyaway coat"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Head-in-the-clouds",
-      "Flighty",
-      "Flyaway",
-      "Scatterbrained"
     ]
   },
   "FLIBBERTIGIBBET": {
@@ -30241,33 +27596,6 @@
       "Flightless"
     ]
   },
-  "FLYING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "hurried and brief",
-        [
-
-        ],
-        [
-          "paid a flying visit",
-          "took a flying glance at the book",
-          "a quick inspection",
-          "a fast visit"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pilot",
-      "Take flight",
-      "Wing",
-      "Quick",
-      "Fly"
-    ]
-  },
   "FLYLEAF": {
     "MEANINGS": {
       "1": [
@@ -30651,30 +27979,6 @@
       "Flintstone"
     ]
   },
-  "FLYOVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a flight at a low altitude (usually of military aircraft) over spectators on the ground",
-        [
-          "Flight",
-          "Flying"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flypast",
-      "Fly-by",
-      "Flyover",
-      "Overpass"
-    ]
-  },
   "FLIP": {
     "MEANINGS": {
       "2": [
@@ -30834,57 +28138,6 @@
       "Flip-flap"
     ]
   },
-  "FLIP-FLOP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a backless sandal held to the foot by a thong between the big toe and the second toe",
-        [
-          "Sandal"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an electronic circuit that can assume either of two stable states",
-        [
-          "Circuit",
-          "Electrical circuit",
-          "Electric circuit"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a backward somersault",
-        [
-          "Somersault",
-          "Somerset",
-          "Summersault",
-          "Summerset",
-          "Somersaulting",
-          "Flip"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tack",
-      "Turnabout",
-      "Flip",
-      "Switch",
-      "Interchange"
-    ]
-  },
   "FLIPPANCY": {
     "MEANINGS": {
       "1": [
@@ -30978,34 +28231,6 @@
     "SYNONYMS": [
       "Fin",
       "Flipper"
-    ]
-  },
-  "FLIRT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "playful behavior intended to arouse sexual interest",
-        [
-          "Play",
-          "Frolic",
-          "Romp",
-          "Gambol",
-          "Caper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Coquette",
-      "Dalliance",
-      "Butterfly",
-      "Mash",
-      "Flirting"
     ]
   },
   "FLYSPECK": {
@@ -31301,88 +28526,6 @@
       "Blow",
       "Plasterer's float",
       "Swim"
-    ]
-  },
-  "FLOATER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a debt instrument with a variable interest rate tied to some other interest rate (e.g. the rate paid by T-bills)",
-        [
-          "Debt instrument",
-          "Obligation",
-          "Certificate of indebtedness"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an employee who is reassigned from job to job as needed",
-        [
-          "Employee"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a voter who votes illegally at different polling places in the same election",
-        [
-          "Voter",
-          "Elector"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a swimmer who floats in the water",
-        [
-          "Swimmer",
-          "Natator",
-          "Bather"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "an object that floats or is capable of floating",
-        [
-          "Object",
-          "Physical object"
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Noun",
-        "an insurance policy covering loss of movable property (e.g. jewelry) regardless of its location",
-        [
-          "Policy",
-          "Insurance policy",
-          "Insurance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Floater",
-      "Vagabond",
-      "Musca volitans",
-      "Spots",
-      "Vagrant"
     ]
   },
   "FLOATING": {
@@ -32058,30 +29201,6 @@
       "Deck"
     ]
   },
-  "FLOORING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "building material used in laying floors",
-        [
-          "Building material"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blow out of the water",
-      "Ball over",
-      "Floor",
-      "Shock",
-      "Deck"
-    ]
-  },
   "FLOORWALKER": {
     "MEANINGS": {
       "1": [
@@ -32285,27 +29404,6 @@
       "Howard florey",
       "Florey",
       "Sir howard walter florey"
-    ]
-  },
-  "FLORENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a town in northeast South Carolina; transportation center",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Firenze",
-      "Florence"
     ]
   },
   "FLORENTINE": {
@@ -33200,63 +30298,6 @@
       "Variation"
     ]
   },
-  "FLUE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a conduit to carry off smoke",
-        [
-          "Conduit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flue",
-      "Flue pipe",
-      "Fluke",
-      "Labial pipe"
-    ]
-  },
-  "FLUENCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "skillfulness in speaking or writing",
-        [
-          "Skillfulness"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the quality of being facile in speech and writing",
-        [
-          "Communicativeness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disfluency"
-    ],
-    "SYNONYMS": [
-      "Eloquence",
-      "Smoothness",
-      "Articulateness",
-      "Fluency",
-      "Volubility"
-    ]
-  },
   "FLUENT": {
     "MEANINGS": {
       "1": [
@@ -33530,83 +30571,6 @@
       "Drachm"
     ]
   },
-  "FLUKE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a barb on a harpoon or arrow",
-        [
-          "Barb"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "flat bladelike projection on the arm of an anchor",
-        [
-          "Projection"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "either of the two lobes of the tail of a cetacean",
-        [
-          "Tail"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "parasitic flatworms having external suckers for attaching to a host",
-        [
-          "Flatworm",
-          "Platyhelminth"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fluke",
-      "Trematode",
-      "Flue",
-      "Good fortune",
-      "Trematode worm"
-    ]
-  },
-  "FLUME": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "watercourse that consists of an open artificial chute filled with water for power or for carrying logs",
-        [
-          "Watercourse",
-          "Waterway"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gulch",
-      "Flume"
-    ]
-  },
   "FLUMMERY": {
     "MEANINGS": {
       "1": [
@@ -33650,30 +30614,6 @@
       "Plunk",
       "Flump down",
       "Plank"
-    ]
-  },
-  "FLUNKY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person of unquestioning obedience",
-        [
-          "Follower"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flunky",
-      "Flunkey",
-      "Stooge",
-      "Yes-man",
-      "Lackey"
     ]
   },
   "FLUORAPATITE": {
@@ -34383,42 +31323,6 @@
       "Flutist"
     ]
   },
-  "FLUTTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "abnormally rapid beating of the auricles of the heart (especially in a regular rhythm); can result in heart block",
-        [
-          "Cardiac arrhythmia",
-          "Arrhythmia"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "flap the wings rapidly or fly with flapping movements",
-        [
-          "Beat",
-          "Flap"
-        ],
-        [
-          "The seagulls fluttered overhead"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hurly burly",
-      "Flicker",
-      "Dart",
-      "Disruption",
-      "Disturbance"
-    ]
-  },
   "FLUVIAL": {
     "MEANINGS": {
       "1": [
@@ -34640,30 +31544,6 @@
     ],
     "SYNONYMS": [
       "Foaminess"
-    ]
-  },
-  "FOAMING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "producing or covered with lathery sweat or saliva from exhaustion or disease",
-        [
-
-        ],
-        [
-          "the rabid animal's frothing mouth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Froth",
-      "Frothy",
-      "Form bubbles",
-      "Bubbly",
-      "Foamy"
     ]
   },
   "FOB": {
@@ -34969,33 +31849,6 @@
       "Fresh fish"
     ]
   },
-  "FOE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a personal enemy",
-        [
-          "Rival",
-          "Challenger",
-          "Competitor",
-          "Competition",
-          "Contender"
-        ],
-        [
-          "they had been political foes for years"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "friend"
-    ],
-    "SYNONYMS": [
-      "Enemy",
-      "Foe",
-      "Foeman",
-      "Opposition"
-    ]
-  },
   "FOENICULUM": {
     "MEANINGS": {
       "1": [
@@ -35197,29 +32050,6 @@
     "SYNONYMS": [
       "Foehn",
       "Fohn"
-    ]
-  },
-  "FOIBLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the weaker part of a sword's blade from the forte to the tip",
-        [
-          "Part",
-          "Portion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mannerism",
-      "Idiosyncrasy",
-      "Foible"
     ]
   },
   "FOIL": {
@@ -35426,30 +32256,6 @@
       "Foldaway",
       "Folding",
       "Foldable"
-    ]
-  },
-  "FOLDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "covering that is folded over to protect the contents",
-        [
-          "Covering"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brochure",
-      "Booklet",
-      "Folder",
-      "Leaflet",
-      "Pamphlet"
     ]
   },
   "FOLDEROL": {
@@ -35667,31 +32473,6 @@
       "Foliation"
     ]
   },
-  "FOLIO": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a book (or manuscript) consisting of large sheets of paper folded in the middle to make two leaves or four pages",
-        [
-          "Book",
-          "Volume"
-        ],
-        [
-          "the first folio of Shakespeare's plays"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Leaf",
-      "Pagination",
-      "Paging",
-      "Folio",
-      "Page number"
-    ]
-  },
   "FOLIOLATE": {
     "MEANINGS": {
       "1": [
@@ -35807,29 +32588,6 @@
       "Ethnic music",
       "Common people",
       "Family"
-    ]
-  },
-  "FOLKSY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "very informal and familiar",
-        [
-
-        ],
-        [
-          "a folksy radio commentator",
-          "a folksy style"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Folksy",
-      "Homespun",
-      "Cracker-barrel"
     ]
   },
   "FOLKTALE": {
@@ -36329,29 +33087,6 @@
       "Reexamination"
     ]
   },
-  "FOMENT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "bathe with warm water or medicated lotions",
-        [
-          "Bathe",
-          "Bath"
-        ],
-        [
-          "His legs should be fomented"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Agitate",
-      "Foment",
-      "Stir up"
-    ]
-  },
   "FOMENTATION": {
     "MEANINGS": {
       "1": [
@@ -36460,42 +33195,6 @@
       "Fomorian"
     ]
   },
-  "FOND": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "(followed by `of' or `to') having a strong preference or liking for",
-        [
-
-        ],
-        [
-          "fond of chocolate",
-          "partial to horror movies"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "absurd or silly because unlikely",
-        [
-
-        ],
-        [
-          "fond hopes of becoming President",
-          "fond fancies"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adoring",
-      "Fond",
-      "Tender",
-      "Partial",
-      "Affectionate"
-    ]
-  },
   "FONDA": {
     "MEANINGS": {
       "1": [
@@ -36547,28 +33246,6 @@
     ],
     "SYNONYMS": [
       "Fondant"
-    ]
-  },
-  "FONDLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a molester who touches the intimate parts of the victim",
-        [
-          "Molester"
-        ],
-        [
-          "the woman charged that her jailer was a fondler",
-          "not all fondlers are sexual perverts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fondler",
-      "Petter"
     ]
   },
   "FONDLY": {
@@ -36822,29 +33499,6 @@
     ],
     "SYNONYMS": [
       "Foodless"
-    ]
-  },
-  "FOODSTUFF": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a substance that can be used or prepared for use as food",
-        [
-          "Food",
-          "Nutrient"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Food product",
-      "Grocery",
-      "Foodstuff"
     ]
   },
   "FOOL": {
@@ -37382,29 +34036,6 @@
       "Foothill"
     ]
   },
-  "FOOTHOLD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a place providing support for the foot in standing or climbing",
-        [
-          "Support"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Footing",
-      "Beachhead",
-      "Foothold",
-      "Bridgehead"
-    ]
-  },
   "FOOTING": {
     "MEANINGS": {
       "1": [
@@ -37461,32 +34092,6 @@
     "SYNONYMS": [
       "Ft-l",
       "Foot-lambert"
-    ]
-  },
-  "FOOTLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "act foolishly, as by talking nonsense",
-        [
-          "Act",
-          "Behave",
-          "Do"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hang around",
-      "Lounge",
-      "Lallygag",
-      "Loiter",
-      "Footle"
     ]
   },
   "FOOTLESS": {
@@ -37797,40 +34402,6 @@
       "Footsore"
     ]
   },
-  "FOOTSTEP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of taking a step in walking",
-        [
-          "Step"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the distance covered by a step",
-        [
-          "Indefinite quantity"
-        ],
-        [
-          "he stepped off ten paces from the old tree and began to dig"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Footstep",
-      "Step",
-      "Pace",
-      "Stride",
-      "Footfall"
-    ]
-  },
   "FOOTSTOOL": {
     "MEANINGS": {
       "1": [
@@ -37987,31 +34558,6 @@
     "SYNONYMS": [
       "Dandyism",
       "Foppishness"
-    ]
-  },
-  "FORAGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "wander and feed",
-        [
-          "Feed",
-          "Eat"
-        ],
-        [
-          "The animals forage in the woods"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grass",
-      "Pasture",
-      "Scrounge",
-      "Forage",
-      "Eatage"
     ]
   },
   "FORAGER": {
@@ -38181,29 +34727,6 @@
       "Hold back",
       "Forbear",
       "Forebear"
-    ]
-  },
-  "FORBEARANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a delay in enforcing rights or claims or privileges; refraining from acting",
-        [
-          "Delay",
-          "Holdup"
-        ],
-        [
-          "his forbearance to reply was alarming"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "impatience"
-    ],
-    "SYNONYMS": [
-      "Forbearance",
-      "Longanimity",
-      "Patience"
     ]
   },
   "FORBEARING": {
@@ -39003,31 +35526,6 @@
       "Forecastle"
     ]
   },
-  "FORECLOSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "subject to foreclosing procedures; take away the right of mortgagors to redeem their mortgage",
-        [
-          "Reclaim",
-          "Repossess"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Forestall",
-      "Preclude",
-      "Foreclose",
-      "Prevent",
-      "Forbid"
-    ]
-  },
   "FORECLOSURE": {
     "MEANINGS": {
       "1": [
@@ -39279,27 +35777,6 @@
       "Forehand stroke"
     ]
   },
-  "FOREHANDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having provided for the future",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "backhand"
-    ],
-    "SYNONYMS": [
-      "Forehanded",
-      "Forehand"
-    ]
-  },
   "FOREIGN": {
     "MEANINGS": {
       "1": [
@@ -39415,34 +35892,6 @@
       "Strangeness",
       "Foreignness",
       "Curiousness"
-    ]
-  },
-  "FORELAND": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "land forming the forward margin of something",
-        [
-          "Land",
-          "Dry land",
-          "Earth",
-          "Ground",
-          "Solid ground",
-          "Terra firma"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Promontory",
-      "Headland",
-      "Head",
-      "Foreland"
     ]
   },
   "FORELEG": {
@@ -39918,30 +36367,6 @@
       "Foreshore"
     ]
   },
-  "FORESHORTEN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "shorten lines in a drawing so as to create an illusion of depth",
-        [
-          "Shorten"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "expand"
-    ],
-    "SYNONYMS": [
-      "Shorten",
-      "Foreshorten",
-      "Reduce",
-      "Cut",
-      "Abbreviate"
-    ]
-  },
   "FORESHOW": {
     "MEANINGS": {
       "1": [
@@ -40161,31 +36586,6 @@
       "Forestry"
     ]
   },
-  "FORESWEAR": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "turn away from; give up",
-        [
-          "Abandon",
-          "Give up"
-        ],
-        [
-          "I am foreswearing women forever"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Renounce",
-      "Dispense with",
-      "Forego",
-      "Relinquish",
-      "Quit"
-    ]
-  },
   "FORETASTE": {
     "MEANINGS": {
       "1": [
@@ -40287,31 +36687,6 @@
     ],
     "SYNONYMS": [
       "Fore-topsail"
-    ]
-  },
-  "FOREVER": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "for a very long or seemingly endless time",
-        [
-
-        ],
-        [
-          "she took forever to write the paper",
-          "we had to wait forever and a day"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Incessantly",
-      "Everlastingly",
-      "Eternally",
-      "Forever",
-      "Always"
     ]
   },
   "FOREWARN": {
@@ -40625,34 +37000,6 @@
       "Forger"
     ]
   },
-  "FORGERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "criminal falsification by making or altering an instrument with intent to defraud",
-        [
-          "Crime",
-          "Offense",
-          "Criminal offense",
-          "Criminal offence",
-          "Offence",
-          "Law-breaking",
-          "Falsification",
-          "Falsehood"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Counterfeit",
-      "Forgery"
-    ]
-  },
   "FORGET": {
     "MEANINGS": {
       "1": [
@@ -40715,32 +37062,6 @@
       "Draw a blank",
       "Block",
       "Leave"
-    ]
-  },
-  "FORGETFUL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "failing to keep in mind",
-        [
-
-        ],
-        [
-          "forgetful of her responsibilities",
-          "oblivious old age"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "mindful",
-      "retentive"
-    ],
-    "SYNONYMS": [
-      "Unmindful",
-      "Mindless",
-      "Short",
-      "Oblivious",
-      "Forgetful"
     ]
   },
   "FORGETFULLY": {
@@ -41564,30 +37885,6 @@
       "Validate"
     ]
   },
-  "FORMALIZED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "given formal standing or endorsement; made official or legitimate by the observance of proper procedures",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "invalidate"
-    ],
-    "SYNONYMS": [
-      "Formalize",
-      "Formalistic",
-      "Validate",
-      "Formalised",
-      "Formalise"
-    ]
-  },
   "FORMALLY": {
     "MEANINGS": {
       "1": [
@@ -42060,28 +38357,6 @@
       "Formidably"
     ]
   },
-  "FORMLESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having no physical form",
-        [
-
-        ],
-        [
-          "belief in a world filled with...formless but often malevolent beings"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shapeless",
-      "Formless",
-      "Amorphous"
-    ]
-  },
   "FORMLESSLY": {
     "MEANINGS": {
       "1": [
@@ -42243,31 +38518,6 @@
     "SYNONYMS": [
       "Formularise",
       "Formularize"
-    ]
-  },
-  "FORMULATE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "prepare according to a formula",
-        [
-          "Create from raw material",
-          "Create from raw stuff"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Word",
-      "Forge",
-      "Devise",
-      "Phrase",
-      "Develop"
     ]
   },
   "FORMULATED": {
@@ -42694,30 +38944,6 @@
       "Forward"
     ]
   },
-  "FORTHCOMING": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "available when required or as promised",
-        [
-
-        ],
-        [
-          "federal funds were not forthcoming"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Outgoing",
-      "Forthcoming",
-      "Approaching",
-      "Upcoming",
-      "Extroverted"
-    ]
-  },
   "FORTY": {
     "MEANINGS": {
       "1": [
@@ -42841,44 +39067,6 @@
       "40th"
     ]
   },
-  "FORTIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "enclose by or as if by a fortification",
-        [
-          "Enclose",
-          "Close in",
-          "Inclose",
-          "Shut in"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "add nutrients to",
-        [
-          "Add"
-        ],
-        [
-          "fortified milk"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "weaken",
-      "disarm"
-    ],
-    "SYNONYMS": [
-      "Lace",
-      "Build up",
-      "Arm",
-      "Gird",
-      "Beef up"
-    ]
-  },
   "FORTIFICATION": {
     "MEANINGS": {
       "1": [
@@ -42922,31 +39110,6 @@
     "SYNONYMS": [
       "Fortification",
       "Munition"
-    ]
-  },
-  "FORTIFIED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having something added to increase the strength",
-        [
-
-        ],
-        [
-          "fortified wine"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "weaken",
-      "disarm"
-    ],
-    "SYNONYMS": [
-      "Lace",
-      "Build up",
-      "Arm",
-      "Gird",
-      "Beef up"
     ]
   },
   "FORTY-FIFTH": {
@@ -43451,28 +39614,6 @@
       "Fort"
     ]
   },
-  "FORTUITOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "occurring by happy chance",
-        [
-
-        ],
-        [
-          "profits were enhanced by a fortuitous drop in the cost of raw materials"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Uncaused",
-      "Causeless",
-      "Fortuitous"
-    ]
-  },
   "FORTUITOUSNESS": {
     "MEANINGS": {
       "1": [
@@ -43581,46 +39722,6 @@
       "Fortunately",
       "Luckily",
       "As luck would have it"
-    ]
-  },
-  "FORTUNE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large amount of wealth or prosperity",
-        [
-          "Treasure",
-          "Hoarded wealth"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "your overall circumstances or condition in life (including everything that happens to you)",
-        [
-          "Condition"
-        ],
-        [
-          "whatever my fortune may be",
-          "deserved a better fate",
-          "has a happy lot",
-          "the luck of the Irish",
-          "a victim of circumstances",
-          "success that was her portion"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Portion",
-      "Chance",
-      "Luck",
-      "Hazard",
-      "Fortune"
     ]
   },
   "FORTUNELLA": {
@@ -43810,66 +39911,6 @@
       "Forward",
       "Forwarding",
       "Furtherance"
-    ]
-  },
-  "FORWARDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an advanced stage",
-        [
-          "Earliness"
-        ],
-        [
-          "the forwardness of the harvest this year",
-          "the arts are in no kind of forwardness in this matter"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cockiness",
-      "Readiness",
-      "Bumptiousness",
-      "Eagerness",
-      "Zeal"
-    ]
-  },
-  "FOSSA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "monotypic genus of Madagascar civets closely related to palm civets",
-        [
-          "Mammal genus"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "largest carnivore of Madagascar; intermediate in some respects between cats and civets",
-        [
-          "Viverrine",
-          "Viverrine mammal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cryptoprocta ferox",
-      "Genus fossa",
-      "Fossa cat",
-      "Fossa",
-      "Pit"
     ]
   },
   "FOSSIL": {
@@ -44600,56 +40641,6 @@
       "Origination"
     ]
   },
-  "FOUNDER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "sink below the surface",
-        [
-          "Sink",
-          "Settle",
-          "Go down",
-          "Go under"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a worker who makes metal castings",
-        [
-          "Skilled worker",
-          "Trained worker",
-          "Skilled workman"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "stumble and nearly fall",
-        [
-          "Stumble",
-          "Trip"
-        ],
-        [
-          "the horses foundered"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Father",
-      "Fall through",
-      "Laminitis",
-      "Break",
-      "Founder"
-    ]
-  },
   "FOUNDERING": {
     "MEANINGS": {
       "1": [
@@ -44788,34 +40779,6 @@
       "Jet",
       "Fount",
       "Spring"
-    ]
-  },
-  "FOUNTAINHEAD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the source of water from which a stream arises",
-        [
-          "Beginning",
-          "Origin",
-          "Root",
-          "Rootage",
-          "Source"
-        ],
-        [
-          "they tracked him back toward the head of the stream"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wellspring",
-      "Head",
-      "Fountainhead",
-      "Well",
-      "Headspring"
     ]
   },
   "FOUQUIERIA": {
@@ -45805,28 +41768,6 @@
       "Testy"
     ]
   },
-  "FRACTIOUSLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a fractious manner",
-        [
-
-        ],
-        [
-          "the horse was behaving fractiously and refused to jump"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Querulously",
-      "Fractiously",
-      "Peevishly"
-    ]
-  },
   "FRACTURE": {
     "MEANINGS": {
       "1": [
@@ -45929,30 +41870,6 @@
       "Fragaria"
     ]
   },
-  "FRAGILE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "vulnerably delicate",
-        [
-
-        ],
-        [
-          "she has the fragile beauty of youth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thin",
-      "Tenuous",
-      "Delicate",
-      "Frail",
-      "Slight"
-    ]
-  },
   "FRAGILITY": {
     "MEANINGS": {
       "1": [
@@ -46041,51 +41958,6 @@
     "SYNONYMS": [
       "Fragmental",
       "Fragmentary"
-    ]
-  },
-  "FRAGMENTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the disintegration of social norms governing behavior and thought and social relationships",
-        [
-          "Decomposition",
-          "Disintegration"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(computer science) the condition of a file that is broken up and stored in many different locations on a magnetic disk",
-        [
-          "Storage"
-        ],
-        [
-          "fragmentation slows system performance because it takes extra time to locate and assemble the parts of the fragmented file"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the scattering of bomb fragments after the bomb explodes",
-        [
-          "Explosion",
-          "Detonation",
-          "Blowup"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Atomization",
-      "Fragmentation",
-      "Atomisation"
     ]
   },
   "FRAGONARD": {
@@ -46214,31 +42086,6 @@
       "Weak",
       "Delicate",
       "Frail"
-    ]
-  },
-  "FRAILTY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "moral weakness",
-        [
-          "Evil",
-          "Evilness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frailty",
-      "Vice",
-      "Frailness",
-      "Debility",
-      "Valetudinarianism"
     ]
   },
   "FRAISE": {
@@ -46452,40 +42299,6 @@
     "SYNONYMS": [
       "Setup",
       "Frame-up"
-    ]
-  },
-  "FRAMEWORK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the underlying structure",
-        [
-          "Structure"
-        ],
-        [
-          "providing a factual framework for future research",
-          "it is part of the fabric of society"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a structure supporting or containing something",
-        [
-          "Supporting structure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Framework",
-      "Theoretical account",
-      "Fabric",
-      "Model"
     ]
   },
   "FRAMING": {
@@ -47047,30 +42860,6 @@
       "Franklin",
       "John hope franklin",
       "Benjamin franklin"
-    ]
-  },
-  "FRANKNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of being blunt and outspoken",
-        [
-          "Communicativeness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Candidness",
-      "Forthrightness",
-      "Candor",
-      "Frankness",
-      "Directness"
     ]
   },
   "FRANTIC": {
@@ -47697,30 +43486,6 @@
       "Bizarre",
       "Gonzo",
       "Off-the-wall"
-    ]
-  },
-  "FREAKISH": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characteristic of a freak",
-        [
-
-        ],
-        [
-          "a freakish extra toe"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eccentric",
-      "Capricious",
-      "Bizarre",
-      "Freaky",
-      "Gonzo"
     ]
   },
   "FRECKLE": {
@@ -48785,29 +44550,6 @@
       "Freeze-dry"
     ]
   },
-  "FREEZE-DRIED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "preserved by freezing and drying in a vacuum",
-        [
-
-        ],
-        [
-          "freeze-dried coffee"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Freeze-dried",
-      "Freeze-dry",
-      "Lyophilized",
-      "Lyophilised"
-    ]
-  },
   "FREEZE-DRYING": {
     "MEANINGS": {
       "1": [
@@ -49502,29 +45244,6 @@
       "Fresh-cut"
     ]
   },
-  "FRESHEN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become or make oneself fresh again",
-        [
-          "Change"
-        ],
-        [
-          "She freshened up after the tennis game"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tire"
-    ],
-    "SYNONYMS": [
-      "Freshen",
-      "Freshen up",
-      "Refresh",
-      "Refreshen"
-    ]
-  },
   "FRESHENER": {
     "MEANINGS": {
       "1": [
@@ -49795,30 +45514,6 @@
       "Fray"
     ]
   },
-  "FRETFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "habitually complaining",
-        [
-
-        ],
-        [
-          "a whiny child"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fidgety",
-      "Whiny",
-      "Fretful",
-      "Itchy",
-      "Antsy"
-    ]
-  },
   "FRETFULLY": {
     "MEANINGS": {
       "1": [
@@ -50075,43 +45770,6 @@
     "SYNONYMS": [
       "Frick",
       "Henry clay frick"
-    ]
-  },
-  "FRICTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the resistance encountered when one body is moved in contact with another",
-        [
-          "Resistance"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "effort expended in moving one object over another with pressure",
-        [
-          "Effort",
-          "Elbow grease",
-          "Exertion",
-          "Travail",
-          "Sweat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Clash",
-      "Rubbing",
-      "Detrition",
-      "Friction"
     ]
   },
   "FRICTIONAL": {
@@ -50718,31 +46376,6 @@
       "Scarily"
     ]
   },
-  "FRIGHTFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "extreme in degree or extent or amount or impact",
-        [
-
-        ],
-        [
-          "in a frightful hurry",
-          "spent a frightful amount of money"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Atrocious",
-      "Fearful",
-      "Awful",
-      "Tremendous",
-      "Frightful"
-    ]
-  },
   "FRIGHTFULNESS": {
     "MEANINGS": {
       "1": [
@@ -50764,35 +46397,6 @@
     ],
     "SYNONYMS": [
       "Frightfulness"
-    ]
-  },
-  "FRIGID": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "devoid of warmth and cordiality; expressive of unfriendliness or disdain",
-        [
-
-        ],
-        [
-          "a frigid greeting",
-          "got a frosty reception",
-          "a frozen look on their faces",
-          "a glacial handshake",
-          "icy stare",
-          "wintry smile"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frigid",
-      "Glacial",
-      "Frosty",
-      "Icy",
-      "Arctic"
     ]
   },
   "FRIGIDITY": {
@@ -50863,28 +46467,6 @@
       "Fry",
       "Sauteing",
       "Electrocute"
-    ]
-  },
-  "FRIJOLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Mexican bean; usually dried",
-        [
-          "Common bean"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kidney bean",
-      "Frijole",
-      "Frijol"
     ]
   },
   "FRILL": {
@@ -52458,31 +48040,6 @@
       "Frost"
     ]
   },
-  "FROSTY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "covered with frost",
-        [
-
-        ],
-        [
-          "a frosty glass",
-          "hedgerows were rimed and stiff with frost\"-Wm.Faulkner"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Snappy",
-      "Crisp",
-      "Nipping",
-      "Frigid",
-      "Nippy"
-    ]
-  },
   "FROSTILY": {
     "MEANINGS": {
       "1": [
@@ -52587,45 +48144,6 @@
       "Frostweed",
       "Frost-weed",
       "Verbesina virginica"
-    ]
-  },
-  "FROTH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make froth or foam and become bubbly",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "The river foamed"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "exude or expel foam",
-        [
-          "Exude",
-          "Exudate",
-          "Transude",
-          "Ooze out",
-          "Ooze"
-        ],
-        [
-          "the angry man was frothing at the mouth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Froth",
-      "Form bubbles",
-      "Suds",
-      "Sparkle",
-      "Foam"
     ]
   },
   "FROTHILY": {
@@ -53099,30 +48617,6 @@
     ],
     "SYNONYMS": [
       "Fruitage"
-    ]
-  },
-  "FRUITCAKE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a rich cake containing dried fruit and nuts and citrus peel and so on",
-        [
-          "Cake"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crank",
-      "Fruitcake",
-      "Nut",
-      "Crackpot",
-      "Screwball"
     ]
   },
   "FRUITERER": {
@@ -54218,30 +49712,6 @@
       "Fukuoka"
     ]
   },
-  "FULA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a family of languages of the Fulani of West Africa and used as a lingua franca in the sub-Saharan regions from Senegal to Chad; the best known of the West African languages",
-        [
-          "West african"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fula",
-      "Fellata",
-      "Peul",
-      "Ful",
-      "Fulani"
-    ]
-  },
   "FULANI": {
     "MEANINGS": {
       "1": [
@@ -54819,54 +50289,6 @@
       "Full-length"
     ]
   },
-  "FULLNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of a sensation that is rich and pleasing",
-        [
-          "Property"
-        ],
-        [
-          "the music had a fullness that echoed through the hall",
-          "the cheap wine had no body, no mellowness",
-          "he was well aware of the richness of his own appearance"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the condition of being filled to capacity",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "greatness of volume",
-        [
-          "Largeness",
-          "Bigness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "emptiness"
-    ],
-    "SYNONYMS": [
-      "Voluminosity",
-      "Mellowness",
-      "Voluminousness",
-      "Comprehensiveness",
-      "Richness"
-    ]
-  },
   "FULL-PAGE": {
     "MEANINGS": {
       "1": [
@@ -55071,30 +50493,6 @@
       "Fulmination"
     ]
   },
-  "FULSOMENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "smug self-serving earnestness",
-        [
-          "Hypocrisy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Smarminess",
-      "Unction",
-      "Unctuousness",
-      "Oleaginousness",
-      "Fulsomeness"
-    ]
-  },
   "FULTON": {
     "MEANINGS": {
       "1": [
@@ -55284,31 +50682,6 @@
       "Smoke",
       "Fume",
       "Fumigate"
-    ]
-  },
-  "FUMEWORT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "herb of northern Europe and Asia having erect racemes of red flowers",
-        [
-          "Corydalis",
-          "Genus corydalis"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Corydalis solida",
-      "Fumitory",
-      "Fumewort",
-      "Fumaria officinalis",
-      "Fumeroot"
     ]
   },
   "FUMIGANT": {
@@ -56372,31 +51745,6 @@
       "Funiculitis"
     ]
   },
-  "FUNICULUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several body structure resembling a cord",
-        [
-          "Structure",
-          "Anatomical structure",
-          "Complex body part",
-          "Bodily structure",
-          "Body structure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Funicle",
-      "Funiculus"
-    ]
-  },
   "FUNK": {
     "MEANINGS": {
       "1": [
@@ -56439,51 +51787,6 @@
       "Casimir funk",
       "Recoil",
       "Shrink"
-    ]
-  },
-  "FUNKY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of jazz) having the soulful feeling of early blues",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "stylish and modern in an unconventional way",
-        [
-
-        ],
-        [
-          "she likes funky clothes",
-          "we did it all in black and white in a very funky sixties style"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "in a state of cowardly fright",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foul",
-      "Ill-scented",
-      "Noisome",
-      "Fetid",
-      "Stinking"
     ]
   },
   "FUNNEL": {
@@ -56547,30 +51850,6 @@
     ],
     "SYNONYMS": [
       "Funnel-shaped"
-    ]
-  },
-  "FUNNY": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "experiencing odd bodily sensations",
-        [
-
-        ],
-        [
-          "told the doctor about the funny sensations in her chest"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Peculiar",
-      "Rum",
-      "Risible",
-      "Suspect",
-      "Shady"
     ]
   },
   "FUR": {
@@ -56952,32 +52231,6 @@
       "Furnarius"
     ]
   },
-  "FURNISH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "provide or equip with furniture",
-        [
-          "Supply",
-          "Provide",
-          "Render",
-          "Furnish"
-        ],
-        [
-          "We furnished the house in the Biedermeyer style"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Provide",
-      "Render",
-      "Supply",
-      "Furnish"
-    ]
-  },
   "FURNISHED": {
     "MEANINGS": {
       "1": [
@@ -57093,30 +52346,6 @@
     "SYNONYMS": [
       "Furnivall",
       "Frederick james furnivall"
-    ]
-  },
-  "FUROR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a sudden outburst (as of protest)",
-        [
-          "Disturbance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Furor",
-      "Fad",
-      "Craze",
-      "Cult",
-      "Rage"
     ]
   },
   "FUROSEMIDE": {
@@ -57525,42 +52754,6 @@
       "Fuze"
     ]
   },
-  "FUSEE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a colored flare used as a warning signal by trucks and trains",
-        [
-          "Flare"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a friction match with a large head that will stay alight in the wind",
-        [
-          "Match",
-          "Lucifer",
-          "Friction match"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fusee",
-      "Fuze",
-      "Fusee drive",
-      "Fuzee",
-      "Priming"
-    ]
-  },
   "FUSELAGE": {
     "MEANINGS": {
       "1": [
@@ -57825,31 +53018,6 @@
       "Fussily"
     ]
   },
-  "FUSSINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "unnecessary elaborateness in details",
-        [
-          "Ornateness",
-          "Elaborateness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fretfulness",
-      "Peevishness",
-      "Petulance",
-      "Irritability",
-      "Choler"
-    ]
-  },
   "FUSTY": {
     "MEANINGS": {
       "1": [
@@ -57882,33 +53050,6 @@
       "Musty",
       "Nonprogressive",
       "Unprogressive"
-    ]
-  },
-  "FUSTIAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a strong cotton and linen fabric with a slight nap",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bombast",
-      "Claptrap",
-      "Fustian",
-      "Blah",
-      "Rant"
     ]
   },
   "FUTILE": {
@@ -58153,30 +53294,6 @@
       "Futuristic"
     ]
   },
-  "FUTURITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being in or of the future",
-        [
-          "Timing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "past",
-      "pastness"
-    ],
-    "SYNONYMS": [
-      "Futurity",
-      "Hereafter",
-      "Time to come",
-      "Future"
-    ]
-  },
   "FUTUROLOGY": {
     "MEANINGS": {
       "1": [
@@ -58205,32 +53322,6 @@
       "Futurology"
     ]
   },
-  "FUZZ": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the first beard of an adolescent boy",
-        [
-          "Beard",
-          "Face fungus",
-          "Whiskers"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hair",
-      "Pig",
-      "Fuzz",
-      "Bull",
-      "Copper"
-    ]
-  },
   "FUZZED": {
     "MEANINGS": {
       "1": [
@@ -58250,30 +53341,6 @@
     "SYNONYMS": [
       "Fuzzed",
       "Fuzzy"
-    ]
-  },
-  "FUZZY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "confused and not coherent; not clearly thought out",
-        [
-
-        ],
-        [
-          "a vague and fuzzy idea of the world of finance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bleary",
-      "Fuzzed",
-      "Hazy",
-      "Fuzzy",
-      "Blurry"
     ]
   }
 }

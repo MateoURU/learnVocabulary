@@ -1,27 +1,4 @@
 {
-  "J": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 10th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Watt second",
-      "Joule"
-    ]
-  },
   "JAB": {
     "MEANINGS": {
       "1": [
@@ -124,30 +101,6 @@
     ],
     "SYNONYMS": [
       "Jabberwocky"
-    ]
-  },
-  "JABIRU": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "large white stork of warm regions of the world especially America",
-        [
-          "Stork"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Saddlebill",
-      "Policeman bird",
-      "Jabiru",
-      "Ephippiorhynchus senegalensis",
-      "Black-necked stork"
     ]
   },
   "JABOT": {
@@ -602,52 +555,6 @@
     "SYNONYMS": [
       "Jacklight",
       "Jack"
-    ]
-  },
-  "JACK-O'-LANTERN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "lantern carved from a pumpkin",
-        [
-          "Lantern"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Friar's lantern",
-      "Will-o'-the-wisp",
-      "Ignis fatuus",
-      "Jack-o'-lantern"
-    ]
-  },
-  "JACKPOT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any outstanding award",
-        [
-          "Prize",
-          "Award"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kitty",
-      "Jackpot",
-      "Pot"
     ]
   },
   "JACKRABBIT": {
@@ -1253,43 +1160,6 @@
       "Joseph marie jacquard"
     ]
   },
-  "JACTITATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) a false boast that can harm others; especially a false claim to be married to someone (formerly actionable at law)",
-        [
-          "Lie",
-          "Prevarication"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(pathology) extremely restless tossing and twitching usually by a person with a severe illness",
-        [
-          "Restlessness",
-          "Uneasiness",
-          "Queasiness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jactation",
-      "Boasting",
-      "Boast",
-      "Jactitation",
-      "Self-praise"
-    ]
-  },
   "JADE": {
     "MEANINGS": {
       "1": [
@@ -1870,55 +1740,6 @@
     ],
     "SYNONYMS": [
       "Jalalabad"
-    ]
-  },
-  "JALAPENO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "hot green or red pepper of southwestern United States and Mexico",
-        [
-          "Chili",
-          "Chili pepper",
-          "Chilli",
-          "Chilly",
-          "Chile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jalapeno pepper",
-      "Capsicum annuum longum",
-      "Cayenne",
-      "Long pepper",
-      "Cayenne pepper"
-    ]
-  },
-  "JALOUSIE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a shutter made of angled slats",
-        [
-          "Shutter"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jalousie",
-      "Louvered window"
     ]
   },
   "JAM": {
@@ -2840,31 +2661,6 @@
       "Jarful"
     ]
   },
-  "JARGON": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "specialized technical terminology characteristic of a particular subject",
-        [
-          "Expressive style",
-          "Style"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vernacular",
-      "Argot",
-      "Jargon",
-      "Lingo",
-      "Cant"
-    ]
-  },
   "JARGOON": {
     "MEANINGS": {
       "1": [
@@ -3619,30 +3415,6 @@
       "Showy"
     ]
   },
-  "JEALOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "suspicious or unduly suspicious or fearful of being displaced by a rival",
-        [
-
-        ],
-        [
-          "a jealous lover"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Envious",
-      "Jealous",
-      "Overjealous",
-      "Green-eyed",
-      "Covetous"
-    ]
-  },
   "JEALOUSY": {
     "MEANINGS": {
       "1": [
@@ -4036,41 +3808,6 @@
       "Jellaba"
     ]
   },
-  "JELLY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a preserve made of the jelled juice of fruit",
-        [
-          "Conserve",
-          "Preserve",
-          "Conserves",
-          "Preserves"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "any substance having the consistency of jelly or gelatin",
-        [
-          "Substance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gelatin",
-      "Jelly",
-      "Jellify"
-    ]
-  },
   "JELLIFY": {
     "MEANINGS": {
       "1": [
@@ -4100,29 +3837,6 @@
     "SYNONYMS": [
       "Jelly",
       "Jellify"
-    ]
-  },
-  "JELLYFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hydrozoans and scyphozoans",
-        [
-          "Coelenterate",
-          "Cnidarian"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jellyfish",
-      "Portuguese man-of-war",
-      "Man-of-war"
     ]
   },
   "JELLYROLL": {
@@ -4469,27 +4183,6 @@
       "Arrhythmic"
     ]
   },
-  "JERKILY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with jerking motions",
-        [
-
-        ],
-        [
-          "She rose stiffly, jerkily from the window seat"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spasmodically",
-      "Jerkily"
-    ]
-  },
   "JERKIN": {
     "MEANINGS": {
       "1": [
@@ -4653,65 +4346,6 @@
       "Jerry-built"
     ]
   },
-  "JERSEY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the largest of the Channel Islands",
-        [
-          "Channel island"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a close-fitting pullover shirt",
-        [
-          "Shirt"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a slightly elastic machine-knit fabric",
-        [
-          "Knit"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a breed of diary cattle developed on the island of Jersey",
-        [
-          "Dairy cattle",
-          "Dairy cow",
-          "Milch cow",
-          "Milk cow",
-          "Milcher",
-          "Milker"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Garden state",
-      "Island of jersey",
-      "Jersey",
-      "Nj",
-      "Tee shirt"
-    ]
-  },
   "JERUSALEM": {
     "MEANINGS": {
       "1": [
@@ -4753,31 +4387,6 @@
       "Jens otto harry jespersen",
       "Jespersen",
       "Otto jespersen"
-    ]
-  },
-  "JEST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "activity characterized by good humor",
-        [
-          "Diversion",
-          "Recreation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jest",
-      "Jocularity",
-      "Joke",
-      "Laugh",
-      "Gag"
     ]
   },
   "JESTER": {
@@ -5244,29 +4853,6 @@
       "Jewel"
     ]
   },
-  "JEWELER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone in the business of selling jewelry",
-        [
-          "Merchant",
-          "Merchandiser"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jewelry maker",
-      "Jeweller",
-      "Jeweler"
-    ]
-  },
   "JEWELRY": {
     "MEANINGS": {
       "1": [
@@ -5333,29 +4919,6 @@
     ],
     "SYNONYMS": [
       "Jewess"
-    ]
-  },
-  "JEWFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large dark grouper with a thick head and rough scales",
-        [
-          "Grouper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jewfish",
-      "Mycteroperca bonaci",
-      "Sciaena antarctica",
-      "Mulloway"
     ]
   },
   "JEWISH": {
@@ -5518,30 +5081,6 @@
       "Jibboom"
     ]
   },
-  "JIBE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "shift from one side of the ship to the other",
-        [
-          "Sail"
-        ],
-        [
-          "The sail jibbed wildly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disagree"
-    ],
-    "SYNONYMS": [
-      "Shot",
-      "Dig",
-      "Gybe",
-      "Check",
-      "Tally"
-    ]
-  },
   "JIG": {
     "MEANINGS": {
       "1": [
@@ -5659,32 +5198,6 @@
       "Joggle",
       "Jiggle",
       "Wiggle"
-    ]
-  },
-  "JIGSAW": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fine-toothed power saw with a narrow blade; used to cut curved outlines",
-        [
-          "Power saw",
-          "Saw",
-          "Sawing machine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Scroll saw",
-      "Jigsaw",
-      "Fretsaw",
-      "Reciprocating saw",
-      "Saber saw"
     ]
   },
   "JIHAD": {
@@ -5998,32 +5511,6 @@
       "Ricksha",
       "Rickshaw",
       "Jinrikisha"
-    ]
-  },
-  "JINX": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "foredoom to failure",
-        [
-          "Predestine",
-          "Foreordain",
-          "Preordain"
-        ],
-        [
-          "This project is jinxed!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hex",
-      "Glamour",
-      "Whammy",
-      "Jinx",
-      "Curse"
     ]
   },
   "JYNX": {
@@ -6877,32 +6364,6 @@
       "Ramble"
     ]
   },
-  "JOGGLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "fasten or join with a joggle",
-        [
-          "Fasten",
-          "Fix",
-          "Secure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dowel pin",
-      "Dowel",
-      "Wiggle",
-      "Joggle",
-      "Jiggle"
-    ]
-  },
   "JOHANNESBURG": {
     "MEANINGS": {
       "1": [
@@ -6921,50 +6382,6 @@
     ],
     "SYNONYMS": [
       "Johannesburg"
-    ]
-  },
-  "JOHN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "youngest son of Henry II; King of England from 1199 to 1216; succeeded to the throne on the death of his brother Richard I; lost his French possessions; in 1215 John was compelled by the barons to sign the Magna Carta (1167-1216)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(New Testament) disciple of Jesus; traditionally said to be the author of the 4th Gospel and three epistles and the book of Revelation",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the last of the four Gospels in the New Testament",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lav",
-      "King john",
-      "John lackland",
-      "John the divine",
-      "Can"
     ]
   },
   "JOHNNYCAKE": {
@@ -7638,31 +7055,6 @@
     ],
     "SYNONYMS": [
       "Joist"
-    ]
-  },
-  "JOYSTICK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a manual control consisting of a vertical handle that can move freely in two directions; used as an input device to computers or to devices controlled by computers",
-        [
-          "Control",
-          "Controller",
-          "Data input device",
-          "Input device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stick",
-      "Control stick",
-      "Joystick"
     ]
   },
   "JOKE": {
@@ -8547,49 +7939,6 @@
       "Joule"
     ]
   },
-  "JOURNAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a periodical dedicated to a particular subject",
-        [
-          "Periodical"
-        ],
-        [
-          "he reads the medical journals"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a record book as a physical object",
-        [
-          "Book",
-          "Volume"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the part of the axle contained by a bearing",
-        [
-          "Axle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Daybook",
-      "Diary",
-      "Journal"
-    ]
-  },
   "JOURNALESE": {
     "MEANINGS": {
       "1": [
@@ -8824,31 +8173,6 @@
       "Jowett"
     ]
   },
-  "JOWL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a fullness and looseness of the flesh of the lower cheek and jaw (characteristic of aging)",
-        [
-          "Feature",
-          "Lineament"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jawbone",
-      "Submaxilla",
-      "Jowl",
-      "Lower jaw",
-      "Mandible"
-    ]
-  },
   "JUBILATE": {
     "MEANINGS": {
       "1": [
@@ -9003,56 +8327,6 @@
       "Hebraism",
       "Jewish religion",
       "Judaism"
-    ]
-  },
-  "JUDAS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(New Testament) the Apostle who betrayed Jesus to his enemies for 30 pieces of silver",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "someone who betrays under the guise of friendship",
-        [
-          "Double-crosser",
-          "Double-dealer",
-          "Two-timer",
-          "Betrayer",
-          "Traitor"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a one-way peephole in a door",
-        [
-          "Peephole",
-          "Spyhole",
-          "Eyehole"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Juda",
-      "Judas",
-      "Thaddaeus",
-      "Jude",
-      "St. jude"
     ]
   },
   "JUDDER": {
@@ -11032,30 +10306,6 @@
       "Third-year"
     ]
   },
-  "JUNIPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "coniferous shrub or small tree with berrylike cones",
-        [
-          "Cypress"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Juniper bush",
-      "Retem",
-      "Genista raetam",
-      "Juniper",
-      "Raetam"
-    ]
-  },
   "JUNIPERUS": {
     "MEANINGS": {
       "1": [
@@ -11075,30 +10325,6 @@
     "SYNONYMS": [
       "Genus juniperus",
       "Juniperus"
-    ]
-  },
-  "JUNK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various Chinese boats with a high poop and lugsails",
-        [
-          "Boat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Debris",
-      "Junk",
-      "Dust",
-      "Scrap",
-      "Trash"
     ]
   },
   "JUNKER": {
@@ -11441,30 +10667,6 @@
       "Juridical"
     ]
   },
-  "JURISDICTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "in law; the territory within which power can be exercised",
-        [
-          "District",
-          "Territory",
-          "Territorial dominion",
-          "Dominion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Legal power",
-      "Jurisdiction"
-    ]
-  },
   "JURISDICTIONAL": {
     "MEANINGS": {
       "1": [
@@ -11715,27 +10917,6 @@
       "Justiciary"
     ]
   },
-  "JUSTICIARY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the jurisdiction of a justiciar",
-        [
-          "Jurisdiction"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Justiciar",
-      "Justiciary"
-    ]
-  },
   "JUSTIFY": {
     "MEANINGS": {
       "1": [
@@ -11869,29 +11050,6 @@
       "Justification"
     ]
   },
-  "JUSTIFICATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "providing justification",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vindicatory",
-      "Justificative",
-      "Defensive",
-      "Justificatory"
-    ]
-  },
   "JUSTIFIED": {
     "MEANINGS": {
       "1": [
@@ -11936,30 +11094,6 @@
       "Justinian i",
       "Justinian",
       "Justinian the great"
-    ]
-  },
-  "JUSTLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in accordance with moral or social standards",
-        [
-
-        ],
-        [
-          "that serves him right",
-          "do right by him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unjustly"
-    ],
-    "SYNONYMS": [
-      "Justifiedly",
-      "Rightly",
-      "Right",
-      "Justly"
     ]
   },
   "JUSTNESS": {

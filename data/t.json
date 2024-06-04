@@ -1,58 +1,4 @@
 {
-  "T": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the 20th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mt",
-      "Thyroxine",
-      "Thyroxin",
-      "Tonne",
-      "Liothyronine"
-    ]
-  },
-  "TAB": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a short strip of material attached to or projecting from something in order to facilitate opening or identifying or handling it",
-        [
-          "Strip",
-          "Slip"
-        ],
-        [
-          "pull the tab to open the can",
-          "files with a red tab will be stored separately",
-          "the collar has a tab with a button hole",
-          "the filing cards were organized by cards having indexed tabs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tablet",
-      "Tabloid",
-      "Check",
-      "Yellow journalism",
-      "Tab"
-    ]
-  },
   "TABANIDAE": {
     "MEANINGS": {
       "1": [
@@ -558,31 +504,6 @@
       "Tableware"
     ]
   },
-  "TABLOID": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "newspaper with half-size pages",
-        [
-          "Newspaper",
-          "Paper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rag",
-      "Tabloid",
-      "Yellow journalism",
-      "Tab",
-      "Sheet"
-    ]
-  },
   "TABOO": {
     "MEANINGS": {
       "1": [
@@ -709,30 +630,6 @@
     ],
     "SYNONYMS": [
       "Tabular"
-    ]
-  },
-  "TABULATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "shape or cut with a flat surface",
-        [
-          "Shape",
-          "Form"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Table",
-      "Tabularize",
-      "Tabulate",
-      "Tabularise"
     ]
   },
   "TABULATION": {
@@ -1264,28 +1161,6 @@
       "Tackler"
     ]
   },
-  "TACO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a tortilla rolled cupped around a filling",
-        [
-          "Dish"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wetback",
-      "Greaser",
-      "Taco"
-    ]
-  },
   "TACOMA": {
     "MEANINGS": {
       "1": [
@@ -1510,29 +1385,6 @@
       "Manoeuvre",
       "Maneuver",
       "Tactics"
-    ]
-  },
-  "TACTILE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "producing a sensation of touch",
-        [
-
-        ],
-        [
-          "tactile qualities",
-          "the tactual luxury of stroking silky human hair"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tactile",
-      "Tactual",
-      "Haptic"
     ]
   },
   "TACTLESS": {
@@ -2211,30 +2063,6 @@
     ],
     "SYNONYMS": [
       "Tahitian"
-    ]
-  },
-  "TAI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the most widespread and best known of the Kadai family of languages",
-        [
-          "Kadai",
-          "Kam-tai",
-          "Kadai language"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tai",
-      "Siamese",
-      "Thai"
     ]
   },
   "TAY": {
@@ -3318,40 +3146,6 @@
       "Learn"
     ]
   },
-  "TAKEAWAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a concession made by a labor union to a company that is trying to lower its expenditures",
-        [
-          "Concession"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of taking the ball or puck away from the team on the offense (as by the interception of a pass)",
-        [
-          "Maneuver",
-          "Manoeuvre",
-          "Play"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Takeout food",
-      "Takeout",
-      "Takeaway"
-    ]
-  },
   "TAKEDOWN": {
     "MEANINGS": {
       "1": [
@@ -3440,35 +3234,6 @@
       "Takelma"
     ]
   },
-  "TAKEN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "be affected with an indisposition",
-        [
-
-        ],
-        [
-          "the child was taken ill",
-          "couldn't tell when he would be taken drunk"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "refuse",
-      "obviate",
-      "disclaim",
-      "give",
-      "abstain"
-    ],
-    "SYNONYMS": [
-      "Engage",
-      "Ask",
-      "Select",
-      "Learn",
-      "Convey"
-    ]
-  },
   "TAKEOFF": {
     "MEANINGS": {
       "1": [
@@ -3543,29 +3308,6 @@
       "Takeout",
       "Take-away",
       "Takeaway"
-    ]
-  },
-  "TAKEOVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a change by sale or merger in the controlling interest of a corporation",
-        [
-          "Buyout"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Coup d'etat",
-      "Coup",
-      "Takeover",
-      "Putsch"
     ]
   },
   "TAKER": {
@@ -3778,53 +3520,6 @@
     "SYNONYMS": [
       "Talcum",
       "Talc"
-    ]
-  },
-  "TALCUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a toilet powder made of purified talc and usually scented; absorbs excess moisture",
-        [
-          "Toilet powder",
-          "Bath powder",
-          "Dusting powder"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Talcum",
-      "Talcum powder",
-      "Talc"
-    ]
-  },
-  "TALENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who possesses unusual innate ability in some field or activity",
-        [
-          "Expert"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Natural endowment",
-      "Gift",
-      "Endowment",
-      "Talent"
     ]
   },
   "TALENTED": {
@@ -4072,32 +3767,6 @@
       "Tallchief"
     ]
   },
-  "TALLY": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "keep score, as in games",
-        [
-          "Record",
-          "Enter",
-          "Put down"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disagree"
-    ],
-    "SYNONYMS": [
-      "Tot up",
-      "Counting",
-      "Count",
-      "Numeration",
-      "Jibe"
-    ]
-  },
   "TALLYMAN": {
     "MEANINGS": {
       "1": [
@@ -4197,28 +3866,6 @@
     ],
     "SYNONYMS": [
       "Tallish"
-    ]
-  },
-  "TALLNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of being taller than average stature",
-        [
-          "Stature",
-          "Height"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "shortness"
-    ],
-    "SYNONYMS": [
-      "Height",
-      "Tallness"
     ]
   },
   "TALLOW": {
@@ -4711,30 +4358,6 @@
       "Tame"
     ]
   },
-  "TAMED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "brought from wildness",
-        [
-
-        ],
-        [
-          "the once inhospitable landscape is now tamed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "wild"
-    ],
-    "SYNONYMS": [
-      "Naturalize",
-      "Chasten",
-      "Tone down",
-      "Naturalise",
-      "Tame"
-    ]
-  },
   "TAMELY": {
     "MEANINGS": {
       "1": [
@@ -4753,32 +4376,6 @@
     ],
     "SYNONYMS": [
       "Tamely"
-    ]
-  },
-  "TAMENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the attribute of having been domesticated",
-        [
-          "Tractability",
-          "Tractableness",
-          "Flexibility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "wildness"
-    ],
-    "SYNONYMS": [
-      "Vapidity",
-      "Tameness",
-      "Jejuneness",
-      "Jejunity",
-      "Domestication"
     ]
   },
   "TAMER": {
@@ -5351,40 +4948,6 @@
       "Tanekaha"
     ]
   },
-  "TANG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the imperial dynasty of China from 618 to 907",
-        [
-          "Dynasty"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "any of various coarse seaweeds",
-        [
-          "Seaweed"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tang dynasty",
-      "Savor",
-      "Relish",
-      "Sea tang",
-      "Bladderwrack"
-    ]
-  },
   "TANGA": {
     "MEANINGS": {
       "1": [
@@ -5413,27 +4976,6 @@
     ],
     "SYNONYMS": [
       "Tanga"
-    ]
-  },
-  "TANGANYIKA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a former state in East Africa; united with Zanzibar in 1964 to form Tanzania",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tanganyika",
-      "Lake tanganyika"
     ]
   },
   "TANGELO": {
@@ -5522,27 +5064,6 @@
     "SYNONYMS": [
       "Tangent",
       "Tan"
-    ]
-  },
-  "TANGENTIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or acting along or in the direction of a tangent",
-        [
-
-        ],
-        [
-          "tangential forces"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Digressive",
-      "Tangential"
     ]
   },
   "TANGENTIALLY": {
@@ -6010,54 +5531,6 @@
       "Tankard"
     ]
   },
-  "TANKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a soldier who drives a tank",
-        [
-          "Soldier"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Oil tanker",
-      "Tanker",
-      "Oiler",
-      "Tank ship",
-      "Tank driver"
-    ]
-  },
-  "TANNED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "converted to leather by a tanning agent",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "untanned"
-    ],
-    "SYNONYMS": [
-      "Suntanned",
-      "Bronze",
-      "Tan",
-      "Bronzed",
-      "Tanned"
-    ]
-  },
   "TANNENBERG": {
     "MEANINGS": {
       "1": [
@@ -6077,31 +5550,6 @@
     "SYNONYMS": [
       "Tannenberg",
       "Battle of tannenberg"
-    ]
-  },
-  "TANNER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a craftsman who tans skins and hides",
-        [
-          "Craftsman",
-          "Artisan",
-          "Journeyman",
-          "Artificer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tanner",
-      "Tan",
-      "Sixpence"
     ]
   },
   "TANNERY": {
@@ -6548,27 +5996,6 @@
     ],
     "SYNONYMS": [
       "Tanzanian"
-    ]
-  },
-  "TAO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the ultimate principle of the universe",
-        [
-          "Principle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Taoist",
-      "Tao"
     ]
   },
   "TAOISM": {
@@ -7289,55 +6716,6 @@
       "Beg"
     ]
   },
-  "TAPPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who strikes a surface lightly and usually repeatedly",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-          "finger tappers irritated her"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a worker who uses a tap to cut screw threads",
-        [
-          "Worker"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "someone who wiretaps a telephone or telegraph wire",
-        [
-          "Eavesdropper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wiretapper",
-      "Tap dancer",
-      "Tapper",
-      "Phone tapper",
-      "Tapster"
-    ]
-  },
   "TAPPET": {
     "MEANINGS": {
       "1": [
@@ -7598,28 +6976,6 @@
     ],
     "SYNONYMS": [
       "Tarantism"
-    ]
-  },
-  "TARANTULA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large hairy tropical spider with fangs that can inflict painful but not highly venomous bites",
-        [
-          "Spider"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lycosa tarentula",
-      "European wolf spider",
-      "Tarantula"
     ]
   },
   "TARAWA": {
@@ -8161,32 +7517,6 @@
       "Estragon"
     ]
   },
-  "TARRY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "leave slowly and hesitantly",
-        [
-          "Leave",
-          "Go forth",
-          "Go away"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hang around",
-      "Lounge",
-      "Lallygag",
-      "Resinous",
-      "Loiter"
-    ]
-  },
   "TARRIANCE": {
     "MEANINGS": {
       "1": [
@@ -8334,40 +7664,6 @@
       "Tarsus"
     ]
   },
-  "TART": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small open pie with a fruit filling",
-        [
-          "Pie"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a pastry cup with a filling of fruit or custard and no top crust",
-        [
-          "Pastry"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sporting lady",
-      "Sharp",
-      "Harlot",
-      "Lady of pleasure",
-      "Cyprian"
-    ]
-  },
   "TARTAN": {
     "MEANINGS": {
       "1": [
@@ -8390,32 +7686,6 @@
     "SYNONYMS": [
       "Tartan",
       "Plaid"
-    ]
-  },
-  "TARTAR": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "an incrustation that forms on the teeth and gums",
-        [
-          "Crust",
-          "Incrustation",
-          "Encrustation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Potassium hydrogen tartrate",
-      "Tatar",
-      "Tophus",
-      "Mongol tatar",
-      "Calculus"
     ]
   },
   "TARTARY": {
@@ -9131,30 +8401,6 @@
       "Tastelessly"
     ]
   },
-  "TASTELESSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "inelegance indicated by a lack of good taste",
-        [
-          "Inelegance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tastefulness"
-    ],
-    "SYNONYMS": [
-      "Flavorlessness",
-      "Savourlessness",
-      "Savorlessness",
-      "Tastelessness",
-      "Flavourlessness"
-    ]
-  },
   "TASTER": {
     "MEANINGS": {
       "1": [
@@ -9467,30 +8713,6 @@
       "Piffle"
     ]
   },
-  "TATTLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several long-legged shorebirds having a loud whistling cry",
-        [
-          "Sandpiper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tattler",
-      "Talebearer",
-      "Blabbermouth",
-      "Telltale",
-      "Tattletale"
-    ]
-  },
   "TATTLETALE": {
     "MEANINGS": {
       "1": [
@@ -9699,55 +8921,6 @@
     "SYNONYMS": [
       "Genus taurotragus",
       "Taurotragus"
-    ]
-  },
-  "TAURUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(astrology) a person who is born while the sun is in Taurus",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a zodiacal constellation in the northern hemisphere near Orion; between Aries and Gemini",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the second sign of the zodiac; the sun is in this sign from about April 20 to May 20",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Glen gebhard",
-      "Bull",
-      "Taurus",
-      "Ilich sanchez",
-      "Sanchez"
     ]
   },
   "TAUT": {
@@ -10171,31 +9344,6 @@
       "Family taxaceae",
       "Yew family",
       "Taxaceae"
-    ]
-  },
-  "TAXATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the imposition of taxes; the practice of the government in levying taxes on the subjects of a state",
-        [
-          "Imposition",
-          "Infliction"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Revenue enhancement",
-      "Tax",
-      "Taxation",
-      "Revenue",
-      "Tax revenue"
     ]
   },
   "TAXER": {
@@ -11083,30 +10231,6 @@
       "Teakettle"
     ]
   },
-  "TEAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various small short-necked dabbling river ducks of Europe and America",
-        [
-          "Duck"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Teal",
-      "Cyan",
-      "Bluish green",
-      "Blue green",
-      "Blue-green"
-    ]
-  },
   "TEAM": {
     "MEANINGS": {
       "1": [
@@ -11806,30 +10930,6 @@
       "Teahouse"
     ]
   },
-  "TEASING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "arousing sexual desire without intending to satisfy it",
-        [
-
-        ],
-        [
-          "her lazy teasing smile"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pestiferous",
-      "Tantalization",
-      "Quizzical",
-      "Twit",
-      "Teasing"
-    ]
-  },
   "TEASPOON": {
     "MEANINGS": {
       "1": [
@@ -12310,30 +11410,6 @@
     "SYNONYMS": [
       "Architectonic",
       "Tectonic"
-    ]
-  },
-  "TECTONICS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the branch of geology studying the folding and faulting of the earth's crust",
-        [
-          "Morphology",
-          "Geomorphology"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tectonics",
-      "Plate tectonic theory",
-      "Architectonics",
-      "Plate tectonics"
     ]
   },
   "TECUMSEH": {
@@ -14240,31 +13316,6 @@
       "Genus tellima"
     ]
   },
-  "TELLING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "informing by words",
-        [
-          "Informing",
-          "Making known"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cogent",
-      "Apprisal",
-      "Secern",
-      "Telltale",
-      "Tell"
-    ]
-  },
   "TELLINGLY": {
     "MEANINGS": {
       "1": [
@@ -14607,52 +13658,6 @@
       "Temporary worker"
     ]
   },
-  "TEMPER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "harden by reheating and cooling in oil",
-        [
-          "Modify"
-        ],
-        [
-          "temper steel"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "adjust the pitch (of pianos)",
-        [
-          "Adjust",
-          "Set",
-          "Correct"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "make more temperate, acceptable, or suitable by adding something else; moderate",
-        [
-          "Weaken"
-        ],
-        [
-          "she tempered her criticism"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Irritation",
-      "Humor",
-      "Anneal",
-      "Harden",
-      "Snappishness"
-    ]
-  },
   "TEMPERA": {
     "MEANINGS": {
       "1": [
@@ -14674,40 +13679,6 @@
       "Poster color",
       "Poster paint",
       "Poster colour"
-    ]
-  },
-  "TEMPERAMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "excessive emotionalism or irritability and excitability (especially when displayed openly)",
-        [
-          "Emotionality",
-          "Emotionalism"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an adjustment of the intervals (as in tuning a keyboard instrument) so that the scale can be used to play in different keys",
-        [
-          "Adjustment",
-          "Registration",
-          "Readjustment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Temperament",
-      "Disposition"
     ]
   },
   "TEMPERAMENTAL": {
@@ -14947,27 +13918,6 @@
       "Tempering",
       "Chasten",
       "Normalize"
-    ]
-  },
-  "TEMPEST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(literary) a violent wind",
-        [
-          "Windstorm"
-        ],
-        [
-          "a tempest swept over the island"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tempest",
-      "Storm"
     ]
   },
   "TEMPESTUOUSNESS": {
@@ -15671,43 +14621,6 @@
       "Incline"
     ]
   },
-  "TENDENCY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a characteristic likelihood of or natural disposition toward a certain condition or character or effect",
-        [
-          "Disposition"
-        ],
-        [
-          "the alkaline inclination of the local waters",
-          "fabric with a tendency to shrink"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a general direction in which something tends to move",
-        [
-          "Direction",
-          "Way"
-        ],
-        [
-          "the shoreward tendency of the current",
-          "the trend of the stock market"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Leaning",
-      "Inclination",
-      "Disposition",
-      "Trend",
-      "Propensity"
-    ]
-  },
   "TENDENTIOUS": {
     "MEANINGS": {
       "1": [
@@ -15991,29 +14904,6 @@
     ],
     "SYNONYMS": [
       "Tenderly"
-    ]
-  },
-  "TENDERLOIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the tender meat of the loin muscle on each side of the vertebral column",
-        [
-          "Cut",
-          "Cut of meat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Undercut",
-      "Combat zone",
-      "Tenderloin"
     ]
   },
   "TENDERNESS": {
@@ -16300,38 +15190,6 @@
       "Tenfold",
       "Denary",
       "Ten-fold"
-    ]
-  },
-  "TENNER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a United States bill worth 10 dollars",
-        [
-          "Bill",
-          "Note",
-          "Government note",
-          "Bank bill",
-          "Banker's bill",
-          "Bank note",
-          "Banknote",
-          "Federal reserve note",
-          "Greenback"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tenner",
-      "Ten dollar bill",
-      "10",
-      "X",
-      "Ten"
     ]
   },
   "TENNESSEAN": {
@@ -17573,33 +16431,6 @@
       "Tepic"
     ]
   },
-  "TEPIDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "lack of passion, force or animation",
-        [
-          "Coldness",
-          "Coolness",
-          "Frigidity",
-          "Frigidness",
-          "Iciness",
-          "Chilliness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lukewarmness",
-      "Tepidness",
-      "Tepidity"
-    ]
-  },
   "TEQUILA": {
     "MEANINGS": {
       "1": [
@@ -18306,31 +17137,6 @@
       "Terminally"
     ]
   },
-  "TERMINATED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of e.g. a contract or term of office) having come to an end",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "begin",
-      "hire"
-    ],
-    "SYNONYMS": [
-      "All over",
-      "Send away",
-      "Give the sack",
-      "Terminate",
-      "Can"
-    ]
-  },
   "TERMINATION": {
     "MEANINGS": {
       "1": [
@@ -18428,41 +17234,6 @@
     ],
     "SYNONYMS": [
       "Terminological"
-    ]
-  },
-  "TERMINUS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(architecture) a statue or a human bust or an animal carved out of the top of a square pillar; originally used as a boundary marker in ancient Rome",
-        [
-          "Statue"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "either end of a railroad or bus route",
-        [
-          "End",
-          "Terminal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Termination",
-      "Terminus",
-      "Term",
-      "Terminal figure",
-      "Terminal"
     ]
   },
   "TERMITE": {
@@ -18792,51 +17563,6 @@
       "Terreplein"
     ]
   },
-  "TERRESTRIAL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "operating or living or growing on land",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "amphibious"
-    ],
-    "SYNONYMS": [
-      "Sublunar",
-      "Mundane",
-      "Telluric",
-      "Terrene",
-      "Terrestrial"
-    ]
-  },
-  "TERRESTRIALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "to a land environment",
-        [
-
-        ],
-        [
-          "terrestrially adapted"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mundanely",
-      "Terrestrially"
-    ]
-  },
   "TERRY": {
     "MEANINGS": {
       "1": [
@@ -19012,43 +17738,6 @@
       "Terrine"
     ]
   },
-  "TERRITORY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an area of knowledge or interest",
-        [
-          "Area"
-        ],
-        [
-          "his questions covered a lot of territory"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the geographical area under the jurisdiction of a sovereign state",
-        [
-          "Geographical area",
-          "Geographic area",
-          "Geographical region",
-          "Geographic region"
-        ],
-        [
-          "American troops were stationed on Japanese soil"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dominion",
-      "Territory",
-      "District",
-      "Territorial dominion",
-      "Soil"
-    ]
-  },
   "TERRITORIAL": {
     "MEANINGS": {
       "1": [
@@ -19200,61 +17889,6 @@
     ],
     "SYNONYMS": [
       "Territorially"
-    ]
-  },
-  "TERROR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who inspires fear or dread",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-          "he was the terror of the neighborhood"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a very troublesome child",
-        [
-          "Imp",
-          "Scamp",
-          "Monkey",
-          "Rascal",
-          "Rapscallion",
-          "Scalawag",
-          "Scallywag"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the use of extreme fear in order to coerce people (especially for political reasons)",
-        [
-          "Coercion"
-        ],
-        [
-          "he used terror to make them confess"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brat",
-      "Panic",
-      "Holy terror",
-      "Threat",
-      "Affright"
     ]
   },
   "TERRORISM": {
@@ -20066,28 +18700,6 @@
     "SYNONYMS": [
       "Examinee",
       "Testee"
-    ]
-  },
-  "TESTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a flat canopy (especially one over a four-poster bed)",
-        [
-          "Canopy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quizzer",
-      "Tester",
-      "Examiner"
     ]
   },
   "TESTICULAR": {
@@ -22519,30 +21131,6 @@
       "Gratefully"
     ]
   },
-  "THANKLESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not likely to be rewarded",
-        [
-
-        ],
-        [
-          "grading papers is a thankless task"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "grateful"
-    ],
-    "SYNONYMS": [
-      "Thankless",
-      "Ungrateful",
-      "Ungratifying",
-      "Unthankful",
-      "Unappreciated"
-    ]
-  },
   "THANKS": {
     "MEANINGS": {
       "1": [
@@ -22939,27 +21527,6 @@
       "Histrionics",
       "Theatrical performance",
       "Representation"
-    ]
-  },
-  "THEATRICALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a theatrical manner",
-        [
-
-        ],
-        [
-          "theatrically dressed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Theatrically",
-      "Stagily"
     ]
   },
   "THEBAN": {
@@ -24022,40 +22589,6 @@
       "Theorization"
     ]
   },
-  "THEORIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "construct a theory about",
-        [
-          "Reason"
-        ],
-        [
-          "Galileo theorized the motion of the stars"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "form or construct theories",
-        [
-          "Reason"
-        ],
-        [
-          "he thinks and theorizes all day"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hypothesize",
-      "Speculate",
-      "Hypothecate",
-      "Suppose",
-      "Theorize"
-    ]
-  },
   "THEOSOPHY": {
     "MEANINGS": {
       "1": [
@@ -24137,30 +22670,6 @@
     ],
     "SYNONYMS": [
       "Theosophist"
-    ]
-  },
-  "THERAPEUTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to or involved in therapy",
-        [
-
-        ],
-        [
-          "therapeutic approach to criminality"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Remedial",
-      "Therapeutic",
-      "Cure",
-      "Healing",
-      "Therapeutical"
     ]
   },
   "THERAPEUTICALLY": {
@@ -26447,30 +24956,6 @@
     "SYNONYMS": [
       "Thickness",
       "Heaviness"
-    ]
-  },
-  "THICKSET": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "planted or growing close together",
-        [
-
-        ],
-        [
-          "thickset trees"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Heavyset",
-      "Thickset",
-      "Stocky",
-      "Compact",
-      "Thick"
     ]
   },
   "THICK-SKINNED": {
@@ -29013,39 +27498,6 @@
       "Sir george paget thomson"
     ]
   },
-  "THONG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "underpants resembling a G-string; worn by women especially under very tight pants",
-        [
-          "Underpants"
-        ],
-        [
-          "she wore thongs in her quest for the callipygian ideal"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a thin strip of leather; often used to lash things together",
-        [
-          "Leather strip"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lash",
-      "Flip-flop",
-      "G-string",
-      "Thong"
-    ]
-  },
   "THOR": {
     "MEANINGS": {
       "1": [
@@ -29254,31 +27706,6 @@
       "Thorium",
       "Atomic number 90",
       "Th"
-    ]
-  },
-  "THORN": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a Germanic character of runic origin",
-        [
-          "Rune",
-          "Runic letter"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spikelet",
-      "Irritant",
-      "Spine",
-      "Thorn",
-      "Pricker"
     ]
   },
   "THORNBILL": {
@@ -29652,31 +28079,6 @@
       "Though"
     ]
   },
-  "THOUGHT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the organized beliefs of a period or group or individual",
-        [
-          "Belief"
-        ],
-        [
-          "19th century thought",
-          "Darwinian thought"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "forget"
-    ],
-    "SYNONYMS": [
-      "Opine",
-      "Believe",
-      "Intend",
-      "Consider",
-      "Thinking"
-    ]
-  },
   "THOUGHTFUL": {
     "MEANINGS": {
       "1": [
@@ -29760,32 +28162,6 @@
     ],
     "SYNONYMS": [
       "Thoughtfully"
-    ]
-  },
-  "THOUGHTFULNESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the trait of thinking carefully before acting",
-        [
-          "Trait"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unthoughtfulness",
-      "thoughtlessness",
-      "inconsideration"
-    ],
-    "SYNONYMS": [
-      "Thoughtfulness",
-      "Considerateness",
-      "Contemplation",
-      "Consideration",
-      "Musing"
     ]
   },
   "THOUGHTLESS": {
@@ -29970,30 +28346,6 @@
       "Thraco-phrygian"
     ]
   },
-  "THRALL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone held in bondage",
-        [
-          "Bond servant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thralldom",
-      "Thraldom",
-      "Thrall",
-      "Slavery",
-      "Bondage"
-    ]
-  },
   "THRASH": {
     "MEANINGS": {
       "1": [
@@ -30050,31 +28402,6 @@
       "Jactitate",
       "Clobber",
       "Bat"
-    ]
-  },
-  "THRASHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "thrush-like American songbird able to mimic other birdsongs",
-        [
-          "Oscine",
-          "Oscine bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thrasher",
-      "Thresher",
-      "Thresher shark",
-      "Mocking thrush",
-      "Fox shark"
     ]
   },
   "THRASHING": {
@@ -30189,30 +28516,6 @@
       "Draw"
     ]
   },
-  "THREADBARE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having the nap worn away so that the threads show through",
-        [
-
-        ],
-        [
-          "threadbare rugs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Timeworn",
-      "Well-worn",
-      "Stock",
-      "Hackneyed",
-      "Shopworn"
-    ]
-  },
   "THREADED": {
     "MEANINGS": {
       "1": [
@@ -30279,85 +28582,6 @@
       "Thread-fish",
       "Threadfish",
       "Alectis ciliaris"
-    ]
-  },
-  "THREAT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a warning that something unpleasant is imminent",
-        [
-          "Warning"
-        ],
-        [
-          "they were under threat of arrest"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "declaration of an intention or a determination to inflict harm on another",
-        [
-          "Declaration"
-        ],
-        [
-          "his threat to kill me was quite explicit"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Scourge",
-      "Menace",
-      "Terror",
-      "Threat"
-    ]
-  },
-  "THREATEN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "to utter intentions of injury or punishment against:\"He threatened me when I tried to call the police\"",
-        [
-          "Warn"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "to be a menacing indication of something:\"The clouds threaten rain\"",
-        [
-          "Bode",
-          "Portend",
-          "Auspicate",
-          "Prognosticate",
-          "Omen",
-          "Presage",
-          "Betoken",
-          "Foreshadow",
-          "Augur",
-          "Foretell",
-          "Prefigure",
-          "Forecast",
-          "Predict"
-        ],
-        [
-          "Danger threatens"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jeopardize",
-      "Threaten",
-      "Endanger",
-      "Imperil",
-      "Jeopardise"
     ]
   },
   "THREATENED": {
@@ -30479,40 +28703,6 @@
       "Third-dimensional",
       "Three-dimensional",
       "3-dimensional"
-    ]
-  },
-  "THREE-DECKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any ship having three decks",
-        [
-          "Ship"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a warship carrying guns on three decks",
-        [
-          "Warship",
-          "War vessel",
-          "Combat ship"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Three-decker",
-      "Club sandwich",
-      "Triple-decker"
     ]
   },
   "THREE-DIMENSIONAL": {
@@ -30666,29 +28856,6 @@
     ],
     "SYNONYMS": [
       "Three-lipped"
-    ]
-  },
-  "THREE-LOBED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having three lobes",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Trilobated",
-      "Trilobate",
-      "Three-lobed",
-      "Trilobed"
     ]
   },
   "THREEPENCE": {
@@ -31295,30 +29462,6 @@
       "Thrillful"
     ]
   },
-  "THRILLING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing quivering or shivering as by cold or fear or electric shock",
-        [
-
-        ],
-        [
-          "a thrilling wind blew off the frozen lake"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thrilling",
-      "Beatify",
-      "Exalt",
-      "Thrill",
-      "Shudder"
-    ]
-  },
   "THRINAX": {
     "MEANINGS": {
       "1": [
@@ -31384,31 +29527,6 @@
       "Thrip",
       "Thrips",
       "Thripid"
-    ]
-  },
-  "THRIVE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
-        [
-          "Change state",
-          "Turn"
-        ],
-        [
-          "The new student is thriving"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fly high",
-      "Expand",
-      "Flourish",
-      "Thrive",
-      "Boom"
     ]
   },
   "THROAT": {
@@ -32297,71 +30415,6 @@
       "Drop"
     ]
   },
-  "THROWAWAY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "words spoken in a casual way with conscious under-emphasis",
-        [
-          "Actor's line",
-          "Speech",
-          "Words"
-        ],
-        [
-
-        ]
-      ],
-      "2": [
-        "Adjective",
-        "intended to be thrown away after use",
-        [
-
-        ],
-        [
-          "throwaway diapers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Broadsheet",
-      "Street arab",
-      "Handbill",
-      "Bill",
-      "Flyer"
-    ]
-  },
-  "THROWER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who projects something (especially by a rapid motion of the arm)",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thrower",
-      "Throwster",
-      "Ceramicist",
-      "Ceramist",
-      "Potter"
-    ]
-  },
   "THROW-IN": {
     "MEANINGS": {
       "1": [
@@ -32579,28 +30632,6 @@
       "Thrust",
       "Lunge",
       "Jab"
-    ]
-  },
-  "THRUSTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small rocket engine that provides the thrust needed to maneuver a spacecraft",
-        [
-          "Rocket",
-          "Rocket engine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thruster",
-      "Pusher"
     ]
   },
   "THUCYDIDES": {
@@ -33196,27 +31227,6 @@
       "Bombshell"
     ]
   },
-  "THUNDERER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a noisemaker that makes a sound like thunder",
-        [
-          "Noisemaker"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Jupiter tonans",
-      "Thunderer"
-    ]
-  },
   "THUNDERHEAD": {
     "MEANINGS": {
       "1": [
@@ -33236,29 +31246,6 @@
     ],
     "SYNONYMS": [
       "Thunderhead"
-    ]
-  },
-  "THUNDERY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "accompanied with thunder",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Earsplitting",
-      "Deafening",
-      "Thundery",
-      "Thunderous"
     ]
   },
   "THUNDERING": {
@@ -33293,29 +31280,6 @@
       "Thundering",
       "Boom",
       "Thunder"
-    ]
-  },
-  "THUNDEROUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "extremely ominous",
-        [
-
-        ],
-        [
-          "world events of thunderous import"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Earsplitting",
-      "Deafening",
-      "Thundery",
-      "Thunderous"
     ]
   },
   "THUNDERSHOWER": {
@@ -33485,31 +31449,6 @@
       "Th"
     ]
   },
-  "THUS": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in the way indicated; (`thusly' is a nonstandard variant)",
-        [
-
-        ],
-        [
-          "hold the brush so",
-          "set up the pieces thus"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "So",
-      "Hence",
-      "Frankincense",
-      "Thusly",
-      "Therefore"
-    ]
-  },
   "THWACK": {
     "MEANINGS": {
       "1": [
@@ -33558,41 +31497,6 @@
       "Queer",
       "Bilk",
       "Scotch"
-    ]
-  },
-  "TI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "shrub with terminal tufts of elongated leaves used locally for thatching and clothing; thick sweet roots are used as food; tropical southeastern Asia, Australia and Hawaii",
-        [
-          "Shrub",
-          "Bush"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the syllable naming the seventh (subtonic) note of any musical scale in solmization",
-        [
-          "Solfa syllable"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Atomic number 22",
-      "Te",
-      "Si",
-      "Ti",
-      "Titanium"
     ]
   },
   "TIAMAT": {
@@ -34005,32 +31909,6 @@
       "Tick"
     ]
   },
-  "TICKER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a character printer that automatically prints stock quotations on ticker tape",
-        [
-          "Character printer",
-          "Character-at-a-time printer",
-          "Serial printer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Watch",
-      "Stock ticker",
-      "Ticker",
-      "Pump",
-      "Heart"
-    ]
-  },
   "TICKET": {
     "MEANINGS": {
       "1": [
@@ -34109,33 +31987,6 @@
     ],
     "SYNONYMS": [
       "Ticket-of-leave"
-    ]
-  },
-  "TICKING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a strong fabric used for mattress and pillow covers",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ticking",
-      "Check off",
-      "Tick",
-      "Ticktock",
-      "Check"
     ]
   },
   "TICKLE": {
@@ -34720,53 +32571,6 @@
       "Tiebreaker"
     ]
   },
-  "TIED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "bound together by or as if by a strong rope; especially as by a bond of affection",
-        [
-
-        ],
-        [
-          "people tied by blood or marriage"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "fastened with strings or cords",
-        [
-
-        ],
-        [
-          "a neatly tied bundle"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "of the score in a contest",
-        [
-
-        ],
-        [
-          "the score is tied"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unlaced",
-      "untied",
-      "untie",
-      "disconnect"
-    ],
-    "SYNONYMS": [
-      "Wed",
-      "Connect",
-      "Fastened",
-      "Splice",
-      "Draw"
-    ]
-  },
   "TIE-ON": {
     "MEANINGS": {
       "1": [
@@ -34806,65 +32610,6 @@
     "SYNONYMS": [
       "Giovanni battista tiepolo",
       "Tiepolo"
-    ]
-  },
-  "TIER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any one of two or more competitors who tie one another",
-        [
-          "Rival",
-          "Challenger",
-          "Competitor",
-          "Competition",
-          "Contender"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a worker who ties something",
-        [
-          "Worker"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "something that is used for tying",
-        [
-          "Rope"
-        ],
-        [
-          "the sail is fastened to the yard with tiers"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "one of two or more layers one atop another",
-        [
-          "Layer",
-          "Bed"
-        ],
-        [
-          "tier upon tier of huge casks",
-          "a three-tier wedding cake"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Level",
-      "Tier",
-      "Grade",
-      "Tier up"
     ]
   },
   "TIERCEL": {
@@ -35229,32 +32974,6 @@
       "Tightly"
     ]
   },
-  "TIGHTNESS": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "lack of movement or room for movement",
-        [
-          "Immovability",
-          "Immovableness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "looseness",
-      "distribution"
-    ],
-    "SYNONYMS": [
-      "Concentration",
-      "Compactness",
-      "Meanness",
-      "Parsimoniousness",
-      "Tightness"
-    ]
-  },
   "TIGHTROPE": {
     "MEANINGS": {
       "1": [
@@ -35559,30 +33278,6 @@
       "Tiled"
     ]
   },
-  "TILEFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "yellow-spotted violet food fish of warm deep waters",
-        [
-          "Percoid fish",
-          "Percoid",
-          "Percoidean"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tilefish",
-      "Lopholatilus chamaeleonticeps",
-      "Blanquillo"
-    ]
-  },
   "TYLENCHUS": {
     "MEANINGS": {
       "1": [
@@ -35746,30 +33441,6 @@
       "Money box",
       "Till",
       "Public treasury"
-    ]
-  },
-  "TILLAGE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the cultivation of soil for raising crops",
-        [
-          "Culture"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tilth",
-      "Plowland",
-      "Ploughland",
-      "Tillage",
-      "Tilled land"
     ]
   },
   "TILLANDSIA": {
@@ -35945,41 +33616,6 @@
       "Till"
     ]
   },
-  "TILT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a slight but noticeable partiality",
-        [
-          "Partiality",
-          "Partisanship"
-        ],
-        [
-          "the court's tilt toward conservative rulings"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "charge with a tilt",
-        [
-          "Joust"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rock",
-      "Shift",
-      "Sway",
-      "Disputation",
-      "List"
-    ]
-  },
   "TILTER": {
     "MEANINGS": {
       "1": [
@@ -36130,40 +33766,6 @@
     "SYNONYMS": [
       "Timbale",
       "Timbale case"
-    ]
-  },
-  "TIMBER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a beam made of wood",
-        [
-          "Beam"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a post made of wood",
-        [
-          "Post"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Forest",
-      "Woodland",
-      "Lumber",
-      "Timbre",
-      "Quality"
     ]
   },
   "TIMBERED": {
@@ -38987,28 +36589,6 @@
       "Tippler"
     ]
   },
-  "TIPSY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "unstable and prone to tip as if intoxicated",
-        [
-
-        ],
-        [
-          "a tipsy boat"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tipsy",
-      "Potty",
-      "Tiddly"
-    ]
-  },
   "TIPSTAFF": {
     "MEANINGS": {
       "1": [
@@ -39072,33 +36652,6 @@
       "Tip",
       "Tiptoe",
       "Tippytoe"
-    ]
-  },
-  "TIPTOP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the extreme top or summit",
-        [
-          "Top",
-          "Top side",
-          "Upper side",
-          "Upside"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tiptop",
-      "Tops",
-      "Crack",
-      "Top-notch",
-      "Height"
     ]
   },
   "TIP-TOP": {
@@ -39790,40 +37343,6 @@
       "Tissue paper"
     ]
   },
-  "TITAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Greek mythology) any of the primordial giant gods who ruled the Earth until overthrown by Zeus; the Titans were offspring of Uranus (Heaven) and Gaea (Earth)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the largest of the satellites of Saturn; has a hazy nitrogen atmosphere",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Colossus",
-      "Behemoth",
-      "Titan",
-      "Heavyweight",
-      "Giant"
-    ]
-  },
   "TITANESS": {
     "MEANINGS": {
       "1": [
@@ -39842,33 +37361,6 @@
     ],
     "SYNONYMS": [
       "Titaness"
-    ]
-  },
-  "TITANIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Middle Ages) the queen of the fairies in medieval folklore",
-        [
-          "Fairy",
-          "Faery",
-          "Faerie",
-          "Fay",
-          "Sprite"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Titanium dioxide",
-      "Titanium oxide",
-      "Titania",
-      "Titanic oxide"
     ]
   },
   "TITANIC": {
@@ -40128,32 +37620,6 @@
     "SYNONYMS": [
       "Titian",
       "Tiziano vecellio"
-    ]
-  },
-  "TITILLATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "excite pleasurably or erotically",
-        [
-          "Stimulate",
-          "Shake",
-          "Shake up",
-          "Excite",
-          "Stir"
-        ],
-        [
-          "A titillating story appeared in the usually conservative magazine"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Titillate",
-      "Tickle",
-      "Vellicate"
     ]
   },
   "TITILLATING": {
@@ -41825,30 +39291,6 @@
       "Toe"
     ]
   },
-  "TOETOE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "used by Maoris for thatching",
-        [
-          "Reed"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Toitoi",
-      "Plumed tussock",
-      "Toetoe",
-      "Arundo conspicua",
-      "Arundo richardii"
-    ]
-  },
   "TOFF": {
     "MEANINGS": {
       "1": [
@@ -42160,42 +39602,6 @@
       "Clothe",
       "Dress",
       "Tog"
-    ]
-  },
-  "TOY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "manipulate manually or in one's mind or imagination",
-        [
-          "Manipulate"
-        ],
-        [
-          "She played nervously with her wedding ring",
-          "Don't fiddle with the screws",
-          "He played with the idea of running for the Senate"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a device regarded as providing amusement",
-        [
-          "Device"
-        ],
-        [
-          "private airplanes are a rich man's toy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dally",
-      "Plaything",
-      "Toy dog",
-      "Fiddle",
-      "Diddle"
     ]
   },
   "TOILER": {
@@ -42766,45 +40172,6 @@
     ],
     "SYNONYMS": [
       "Tolerantly"
-    ]
-  },
-  "TOLERATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "recognize and respect (rights and beliefs of others)",
-        [
-          "Respect",
-          "Honor",
-          "Honour",
-          "Abide by",
-          "Observe"
-        ],
-        [
-          "We must tolerate the religions of others"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "have a tolerance for a poison or strong drug or pathogen or environmental condition",
-        [
-          "Suffer",
-          "Endure"
-        ],
-        [
-          "The patient does not tolerate the anti-inflammatory drugs we gave him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stomach",
-      "Digest",
-      "Brook",
-      "Endure",
-      "Support"
     ]
   },
   "TOLERATION": {
@@ -43441,30 +40808,6 @@
       "Tomentose"
     ]
   },
-  "TOMENTUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a network of tiny blood vessels between the cerebral surface of the pia mater and the cerebral cortex",
-        [
-          "Capillary",
-          "Capillary vessel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hair",
-      "Fuzz",
-      "Tomentum",
-      "Tomentum cerebri"
-    ]
-  },
   "TOMISTOMA": {
     "MEANINGS": {
       "1": [
@@ -43559,27 +40902,6 @@
     "SYNONYMS": [
       "Haemulon aurolineatum",
       "Tomtate"
-    ]
-  },
-  "TONAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having tonality; i.e. tones and chords organized in relation to one tone such as a keynote or tonic",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "atonal"
-    ],
-    "SYNONYMS": [
-      "Tonic",
-      "Tonal"
     ]
   },
   "TONE": {
@@ -45293,34 +42615,6 @@
       "Topiary"
     ]
   },
-  "TOPIC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "some situation or event that is thought about",
-        [
-          "Content",
-          "Cognitive content",
-          "Mental object"
-        ],
-        [
-          "he kept drifting off the topic",
-          "he had been thinking about the subject for several years",
-          "it is a matter for the police"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Theme",
-      "Issue",
-      "Matter",
-      "Subject",
-      "Topic"
-    ]
-  },
   "TOPICAL": {
     "MEANINGS": {
       "1": [
@@ -45875,29 +43169,6 @@
       "Transcend"
     ]
   },
-  "TOPPLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to topple or tumble by pushing",
-        [
-          "Push",
-          "Force"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tip",
-      "Tumble",
-      "Topple"
-    ]
-  },
   "TOPSAIL": {
     "MEANINGS": {
       "1": [
@@ -46278,29 +43549,6 @@
       "Anguish"
     ]
   },
-  "TORMENTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a flat at each side of the stage to prevent the audience from seeing into the wings",
-        [
-          "Flat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Teaser",
-      "Tormentor",
-      "Persecutor",
-      "Tormenter"
-    ]
-  },
   "TORMENTOR": {
     "MEANINGS": {
       "1": [
@@ -46322,32 +43570,6 @@
       "Tormentor",
       "Persecutor",
       "Tormenter"
-    ]
-  },
-  "TORN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "disrupted by the pull of contrary forces",
-        [
-
-        ],
-        [
-          "torn between love and hate",
-          "torn by conflicting loyalties",
-          "torn by religious dissensions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Displume",
-      "Tear",
-      "Shoot",
-      "Rupture",
-      "Pull"
     ]
   },
   "TORNADO": {
@@ -46614,31 +43836,6 @@
       "Genus torreya"
     ]
   },
-  "TORRENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a violently fast stream of water (or other liquid)",
-        [
-          "Current",
-          "Stream"
-        ],
-        [
-          "the houses were swept away in the torrent"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pelter",
-      "Torrent",
-      "Soaker",
-      "Deluge",
-      "Downpour"
-    ]
-  },
   "TORRENTIAL": {
     "MEANINGS": {
       "1": [
@@ -46723,43 +43920,6 @@
       "Torricelli"
     ]
   },
-  "TORRID": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "emotionally charged and vigorously energetic",
-        [
-
-        ],
-        [
-          "a torrid dance",
-          "torrid jazz bands",
-          "hot trumpets and torrid rhythms"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "extremely hot",
-        [
-
-        ],
-        [
-          "the torrid noonday sun",
-          "sultry sands of the dessert"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Torrid",
-      "Ardent",
-      "Perfervid",
-      "Impassioned",
-      "Fervid"
-    ]
-  },
   "TORRIDITY": {
     "MEANINGS": {
       "1": [
@@ -46780,30 +43940,6 @@
     ],
     "SYNONYMS": [
       "Torridity"
-    ]
-  },
-  "TORSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a twisting force",
-        [
-          "Force"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tortuosity",
-      "Torsion",
-      "Torque",
-      "Tortuousness",
-      "Crookedness"
     ]
   },
   "TORSO": {
@@ -47121,42 +44257,6 @@
       "Contortion"
     ]
   },
-  "TORTUOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by repeated turns and bends",
-        [
-
-        ],
-        [
-          "a tortuous road up the mountain",
-          "winding roads are full of surprises",
-          "had to steer the car down a twisty track"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not straightforward",
-        [
-
-        ],
-        [
-          "his tortuous reasoning"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tangled",
-      "Tortuous",
-      "Convoluted",
-      "Twisting",
-      "Twisty"
-    ]
-  },
   "TORTUOUSLY": {
     "MEANINGS": {
       "1": [
@@ -47185,41 +44285,6 @@
     ],
     "SYNONYMS": [
       "Tortuously"
-    ]
-  },
-  "TORTURE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "subject to torture",
-        [
-          "Injure",
-          "Wound"
-        ],
-        [
-          "The sinners will be tormented in Hell, according to the Bible"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the deliberate, systematic, or wanton infliction of physical or mental suffering by one or more persons in an attempt to force another person to yield information or to make a confession or for any other reason",
-        [
-          "Persecution"
-        ],
-        [
-          "it required unnatural torturing to extract a confession"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Straining",
-      "Torturing",
-      "Excruciate",
-      "Anguish",
-      "Agony"
     ]
   },
   "TORTURER": {
@@ -47335,49 +44400,6 @@
     "SYNONYMS": [
       "Tosk dialect",
       "Tosk"
-    ]
-  },
-  "TOSS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an abrupt movement",
-        [
-          "Motion",
-          "Movement",
-          "Move",
-          "Motility"
-        ],
-        [
-          "a toss of his head"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "agitate",
-        [
-          "Agitate",
-          "Vex",
-          "Disturb",
-          "Commove",
-          "Shake up",
-          "Stir up",
-          "Raise up"
-        ],
-        [
-          "toss the salad"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pass",
-      "Flip",
-      "Throw away",
-      "Cast away",
-      "Put away"
     ]
   },
   "TOSSER": {
@@ -47596,31 +44618,6 @@
     "SYNONYMS": [
       "Totalitarian",
       "Totalistic"
-    ]
-  },
-  "TOTALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being complete and indiscriminate",
-        [
-          "Generality"
-        ],
-        [
-          "the totality of war and its consequences",
-          "the all-embracing totality of the state"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Totality",
-      "Aggregate",
-      "Entireness",
-      "Entirety",
-      "Total"
     ]
   },
   "TOTALIZE": {
@@ -49180,31 +46177,6 @@
       "Towpath"
     ]
   },
-  "TOXEMIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "blood poisoning caused by bacterial toxic substances in the blood",
-        [
-          "Blood poisoning",
-          "Septicemia",
-          "Septicaemia"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Toxaemia",
-      "Toxaemia of pregnancy",
-      "Toxemia of pregnancy",
-      "Toxemia"
-    ]
-  },
   "TOXIC": {
     "MEANINGS": {
       "1": [
@@ -50318,29 +47290,6 @@
       "Puseyism"
     ]
   },
-  "TRACTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(orthopedics) the act of pulling on a bone or limb (as in a fracture) to relieve pressure or align parts in a special way during healing",
-        [
-          "Pull",
-          "Pulling"
-        ],
-        [
-          "his leg was in traction for several days"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adhesive friction",
-      "Traction",
-      "Grip"
-    ]
-  },
   "TRACTIVE": {
     "MEANINGS": {
       "1": [
@@ -50533,31 +47482,6 @@
     ],
     "SYNONYMS": [
       "Trade-last"
-    ]
-  },
-  "TRADEMARK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "register the trademark of",
-        [
-          "File",
-          "Register"
-        ],
-        [
-          "The company trademarked their new gadget"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brand",
-      "Hallmark",
-      "Stylemark",
-      "Earmark",
-      "Trademark"
     ]
   },
   "TRADEMARKED": {
@@ -50942,30 +47866,6 @@
     ],
     "SYNONYMS": [
       "Tragacanth"
-    ]
-  },
-  "TRAGEDY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "drama in which the protagonist is overcome by some superior force or circumstance; excites terror or pity",
-        [
-          "Drama"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "comedy"
-    ],
-    "SYNONYMS": [
-      "Tragedy",
-      "Calamity",
-      "Cataclysm",
-      "Disaster",
-      "Catastrophe"
     ]
   },
   "TRAGEDIAN": {
@@ -51382,41 +48282,6 @@
       "Innovator",
       "Pioneer",
       "Trailblazer"
-    ]
-  },
-  "TRAILER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a large transport conveyance designed to be pulled by a truck or tractor",
-        [
-          "Conveyance",
-          "Transport"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
-        [
-          "Wheeled vehicle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drone",
-      "Prevue",
-      "Lagger",
-      "Laggard",
-      "Preview"
     ]
   },
   "TRAILING": {
@@ -51981,41 +48846,6 @@
       "Tramway"
     ]
   },
-  "TRAMMEL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an adjustable pothook set in a fireplace",
-        [
-          "Pothook"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a restraint that is used to teach a horse to amble",
-        [
-          "Restraint",
-          "Constraint"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bound",
-      "Trammel net",
-      "Trammel",
-      "Throttle",
-      "Trap"
-    ]
-  },
   "TRAMONTANE": {
     "MEANINGS": {
       "1": [
@@ -52205,30 +49035,6 @@
       "Ropeway",
       "Aerial tramway",
       "Tramline"
-    ]
-  },
-  "TRANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a state of mind in which consciousness is fragile and voluntary action is poor or missing; a state resembling deep sleep",
-        [
-          "Unconsciousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spell",
-      "Catch",
-      "Becharm",
-      "Enamour",
-      "Captivate"
     ]
   },
   "TRANCELIKE": {
@@ -52623,29 +49429,6 @@
       "Surpassing"
     ]
   },
-  "TRANSCENDENTAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or characteristic of a system of philosophy emphasizing the intuitive and spiritual above the empirical and material",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Transcendental",
-      "Otherworldly",
-      "Nonnatural",
-      "Preternatural"
-    ]
-  },
   "TRANSCENDENTALISM": {
     "MEANINGS": {
       "1": [
@@ -52782,49 +49565,6 @@
     "SYNONYMS": [
       "Transcribe",
       "Transliterate"
-    ]
-  },
-  "TRANSCRIBER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who rewrites in a different script",
-        [
-          "Writer"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "someone who represents the sounds of speech in phonetic notation",
-        [
-          "Phonetician"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "someone who makes a written version of spoken material",
-        [
-          "Writer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adapter",
-      "Arranger",
-      "Transcriber",
-      "Translator"
     ]
   },
   "TRANSCRIPT": {
@@ -53391,31 +50131,6 @@
       "Transfigure"
     ]
   },
-  "TRANSFIX": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "pierce with a sharp stake or point",
-        [
-          "Pierce",
-          "Thrust"
-        ],
-        [
-          "impale a shrimp on a skewer"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spellbind",
-      "Empale",
-      "Grip",
-      "Transfix",
-      "Fascinate"
-    ]
-  },
   "TRANSFORM": {
     "MEANINGS": {
       "1": [
@@ -53615,39 +50330,6 @@
     ],
     "SYNONYMS": [
       "Transformer"
-    ]
-  },
-  "TRANSFUSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "pour out of one vessel into another",
-        [
-          "Pour"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "give a transfusion (e.g., of blood) to",
-        [
-          "Administer",
-          "Dispense"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Transfuse",
-      "Cup",
-      "Instill"
     ]
   },
   "TRANSFUSION": {
@@ -54778,31 +51460,6 @@
       "Transmission system"
     ]
   },
-  "TRANSMIT": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "send from one person or place to another",
-        [
-          "Move",
-          "Displace"
-        ],
-        [
-          "transmit a message"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Channel",
-      "Communicate",
-      "Air",
-      "Impart",
-      "Conduct"
-    ]
-  },
   "TRANSMITTANCE": {
     "MEANINGS": {
       "1": [
@@ -54822,28 +51479,6 @@
     "SYNONYMS": [
       "Transmittance",
       "Transmission"
-    ]
-  },
-  "TRANSMITTER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "set used to broadcast radio or tv signals",
-        [
-          "Set"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vector",
-      "Sender",
-      "Transmitter"
     ]
   },
   "TRANSMOGRIFICATION": {
@@ -54920,31 +51555,6 @@
       "Transubstantiation",
       "Transmutation",
       "Transformation"
-    ]
-  },
-  "TRANSMUTE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "alter the nature of (elements)",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Metamorphose",
-      "Transform",
-      "Transmute",
-      "Transubstantiate"
     ]
   },
   "TRANSOCEANIC": {
@@ -55033,31 +51643,6 @@
       "Transparence",
       "Foil",
       "Transparentness"
-    ]
-  },
-  "TRANSPARENT": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "easily understood or seen through (because of a lack of subtlety)",
-        [
-
-        ],
-        [
-          "a transparent explanation",
-          "a transparent lie"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vaporous",
-      "Gossamer",
-      "Vapourous",
-      "Sheer",
-      "Transparent"
     ]
   },
   "TRANSPARENTLY": {
@@ -55432,42 +52017,6 @@
       "Transfer",
       "Enthrall",
       "Enchant"
-    ]
-  },
-  "TRANSPORTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of moving something from one location to another",
-        [
-          "Movement"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the commercial enterprise of moving goods and materials",
-        [
-          "Commercial enterprise",
-          "Business enterprise",
-          "Business"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Expatriation",
-      "Transferral",
-      "Conveyance",
-      "Transport",
-      "Fare"
     ]
   },
   "TRANSPORTER": {
@@ -56370,33 +52919,6 @@
       "Battle of trasimeno"
     ]
   },
-  "TRAUMA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an emotional wound or shock often having long-lasting effects",
-        [
-          "Psychological state",
-          "Psychological condition",
-          "Mental state",
-          "Mental condition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hurt",
-      "Psychic trauma",
-      "Injury",
-      "Harm",
-      "Trauma"
-    ]
-  },
   "TRAUMATIC": {
     "MEANINGS": {
       "1": [
@@ -56934,31 +53456,6 @@
       "Trawler"
     ]
   },
-  "TREACHERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an act of deliberate betrayal",
-        [
-          "Dishonesty",
-          "Knavery"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perfidiousness",
-      "Treason",
-      "Betrayal",
-      "Treachery",
-      "Perfidy"
-    ]
-  },
   "TREACHEROUS": {
     "MEANINGS": {
       "1": [
@@ -57016,78 +53513,6 @@
       "Treacle",
       "Golden syrup",
       "Slop"
-    ]
-  },
-  "TREAD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "tread or stomp heavily or roughly",
-        [
-          "Walk"
-        ],
-        [
-          "The soldiers trampled across the fields"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "crush as if by treading on",
-        [
-          "Squash",
-          "Crush",
-          "Squelch",
-          "Mash",
-          "Squeeze"
-        ],
-        [
-          "tread grapes to make wine"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "brace (an archer's bow) by pressing the foot against the center",
-        [
-          "Brace"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "apply (the tread) to a tire",
-        [
-          "Give",
-          "Apply"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Verb",
-        "mate with",
-        [
-          "Copulate",
-          "Mate",
-          "Pair",
-          "Couple"
-        ],
-        [
-          "male birds tread the females"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Step",
-      "Tread",
-      "Trample",
-      "Pace",
-      "Stride"
     ]
   },
   "TREADLE": {
@@ -57762,53 +54187,6 @@
       "Trunnel",
       "Treenail",
       "Trenail"
-    ]
-  },
-  "TREFOIL": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an architectural ornament in the form of three arcs arranged in a circle",
-        [
-          "Architectural ornament"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Medick",
-      "Clover",
-      "Medic",
-      "Trefoil"
-    ]
-  },
-  "TREY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one of four playing cards in a deck having three pips",
-        [
-          "Playing card"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tierce",
-      "Trinity",
-      "Leash",
-      "Trey",
-      "Triad"
     ]
   },
   "TREK": {
@@ -58848,68 +55226,6 @@
     ],
     "SYNONYMS": [
       "Triage"
-    ]
-  },
-  "TRIAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "trying something to find out about it",
-        [
-          "Experiment",
-          "Experimentation"
-        ],
-        [
-          "a sample for ten days free trial",
-          "a trial of progesterone failed to relieve the pain"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(law) the determination of a person's innocence or guilt by due process of law",
-        [
-          "Proceeding",
-          "Legal proceeding",
-          "Proceedings"
-        ],
-        [
-          "he had a fair trial and the jury found him guilty",
-          "most of these complaints are settled before they go to trial"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "(sports) a preliminary competition to determine qualifications",
-        [
-          "Contest",
-          "Competition"
-        ],
-        [
-          "the trials for the semifinals began yesterday"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "an annoying or frustrating or catastrophic event",
-        [
-          "Affliction"
-        ],
-        [
-          "his mother-in-law's visits were a great trial for him",
-          "life is full of tribulations",
-          "a visitation of the plague"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Run",
-      "Test",
-      "Trial run",
-      "Trial",
-      "Tribulation"
     ]
   },
   "TRIAL-AND-ERROR": {
@@ -60419,30 +56735,6 @@
       "Jiggery-pokery"
     ]
   },
-  "TRICKINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of requiring skill or caution",
-        [
-          "Complexity",
-          "Complexness"
-        ],
-        [
-          "these puzzles are famous for their trickiness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Slipperiness",
-      "Shiftiness",
-      "Rascality",
-      "Trickiness"
-    ]
-  },
   "TRICKLE": {
     "MEANINGS": {
       "1": [
@@ -60468,31 +56760,6 @@
       "Trickle",
       "Filter",
       "Dribble"
-    ]
-  },
-  "TRICKSTER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a mischievous supernatural being found in the folklore of many primitive people; sometimes distinguished by prodigious biological drives and exaggerated bodily parts",
-        [
-          "Spiritual being",
-          "Supernatural being"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deceiver",
-      "Practical joker",
-      "Cut-up",
-      "Beguiler",
-      "Slicker"
     ]
   },
   "TRICLINIC": {
@@ -60983,41 +57250,6 @@
       "Nervus trigeminus"
     ]
   },
-  "TRIGGER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "release or pull the trigger on",
-        [
-
-        ],
-        [
-          "Trigger a gun"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an act that sets in motion some course of events",
-        [
-          "Causing",
-          "Causation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spark",
-      "Gun trigger",
-      "Activate",
-      "Induction",
-      "Trigger off"
-    ]
-  },
   "TRIGGERFISH": {
     "MEANINGS": {
       "1": [
@@ -61128,29 +57360,6 @@
     "SYNONYMS": [
       "Genus triglochin",
       "Triglochin"
-    ]
-  },
-  "TRIGON": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a triangular lyre of ancient Greece and Rome",
-        [
-          "Lyre"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Trilateral",
-      "Triplicity",
-      "Triangle",
-      "Trigon"
     ]
   },
   "TRIGONELLA": {
@@ -61882,53 +58091,6 @@
       "Cut back"
     ]
   },
-  "TRIMMER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a machine that trims timber",
-        [
-          "Machine"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "capacitor having variable capacitance; used for making fine adjustments",
-        [
-          "Capacitor",
-          "Capacitance",
-          "Condenser",
-          "Electrical condenser"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "joist that receives the end of a header in floor or roof framing in order to leave an opening for a staircase or chimney etc.",
-        [
-          "Joist"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pruner",
-      "Trimming capacitor",
-      "Trig",
-      "Tailored",
-      "Trimmer joist"
-    ]
-  },
   "TRIMMING": {
     "MEANINGS": {
       "1": [
@@ -62106,37 +58268,6 @@
       "Trinitarianism"
     ]
   },
-  "TRINITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the union of the Father and Son and Holy Ghost in one Godhead",
-        [
-          "Godhead",
-          "Lord",
-          "Creator",
-          "Maker",
-          "Divine",
-          "God almighty",
-          "Almighty",
-          "Jehovah"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tierce",
-      "Trey",
-      "Holy trinity",
-      "Deuce-ace",
-      "Iii"
-    ]
-  },
   "TRINKETRY": {
     "MEANINGS": {
       "1": [
@@ -62180,67 +58311,6 @@
       "Trinucleated",
       "Trinuclear",
       "Trinucleate"
-    ]
-  },
-  "TRIO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a musical composition for three performers",
-        [
-          "Musical composition",
-          "Opus",
-          "Composition",
-          "Piece",
-          "Piece of music"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "three performers or singers who perform together",
-        [
-          "Musical organization",
-          "Musical organisation",
-          "Musical group"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a set of three similar things considered as a unit",
-        [
-          "Set"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "three people considered as a unit",
-        [
-          "Gathering",
-          "Assemblage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tierce",
-      "Trey",
-      "Deuce-ace",
-      "Triple",
-      "Iii"
     ]
   },
   "TRIODE": {
@@ -62725,31 +58795,6 @@
       "Triple-space"
     ]
   },
-  "TRIPLET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one of three offspring born at the same time from the same pregnancy",
-        [
-          "Sibling",
-          "Sib"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tierce",
-      "Trey",
-      "Deuce-ace",
-      "Triple",
-      "Iii"
-    ]
-  },
   "TRIPLETAIL": {
     "MEANINGS": {
       "1": [
@@ -62887,30 +58932,6 @@
     ],
     "SYNONYMS": [
       "Tripod"
-    ]
-  },
-  "TRIPOLI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the capital and chief port and largest city of Libya; in northwestern Libya on the Mediterranean Sea; founded by the Phoenicians in the 7th century BC",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Capital of libya",
-      "Trablous",
-      "Rottenstone",
-      "Tarabulus ash-sham",
-      "Tarabulus al-gharb"
     ]
   },
   "TRIPOS": {
@@ -63546,33 +59567,6 @@
       "Genus triturus"
     ]
   },
-  "TRIUMPH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the exultation of victory",
-        [
-          "Exultation",
-          "Jubilance",
-          "Jubilancy",
-          "Jubilation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "defeat"
-    ],
-    "SYNONYMS": [
-      "Victory",
-      "Exuberate",
-      "Exult",
-      "Triumph",
-      "Prevail"
-    ]
-  },
   "TRIUMPHAL": {
     "MEANINGS": {
       "1": [
@@ -63584,30 +59578,6 @@
         [
           "a triumphal procession",
           "a triumphal arch"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rejoicing",
-      "Prideful",
-      "Exulting",
-      "Triumphal",
-      "Jubilant"
-    ]
-  },
-  "TRIUMPHANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "experiencing triumph",
-        [
-
-        ],
-        [
-
         ]
       ]
     },
@@ -63758,56 +59728,6 @@
     ],
     "SYNONYMS": [
       "Trivet"
-    ]
-  },
-  "TRIVIAL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "concerned with trivialities",
-        [
-
-        ],
-        [
-          "a trivial young woman",
-          "a trivial mind"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Trivial",
-      "Lilliputian",
-      "Superficial",
-      "Piffling",
-      "Petty"
-    ]
-  },
-  "TRIVIALITY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "something of small importance",
-        [
-          "Object",
-          "Physical object"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Technicality",
-      "Pettiness",
-      "Triviality",
-      "Slightness",
-      "Trifle"
     ]
   },
   "TRIVIALIZE": {
@@ -64574,42 +60494,6 @@
       "Flock",
       "Promenade",
       "Parade"
-    ]
-  },
-  "TROOPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mounted policeman",
-        [
-          "Policeman",
-          "Police officer",
-          "Officer"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a state police officer",
-        [
-          "Policeman",
-          "Police officer",
-          "Officer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cavalryman",
-      "State trooper",
-      "Trooper"
     ]
   },
   "TROOPSHIP": {
@@ -65923,32 +61807,6 @@
       "True-false"
     ]
   },
-  "TRUENESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "exactness of adjustment",
-        [
-          "Exactness",
-          "Exactitude"
-        ],
-        [
-          "I marveled at the trueness of his aim"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disloyalty",
-      "falsity"
-    ],
-    "SYNONYMS": [
-      "Verity",
-      "Trueness",
-      "Truth",
-      "The true",
-      "Loyalty"
-    ]
-  },
   "TRUFFLE": {
     "MEANINGS": {
       "1": [
@@ -66397,39 +62255,6 @@
       "Truncated"
     ]
   },
-  "TRUNCATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the replacement of an edge or solid angle (as in cutting a gemstone) by a plane (especially by a plane that is equally inclined to the adjacent faces)",
-        [
-          "Carving",
-          "Cutting"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of cutting short",
-        [
-          "Shortening"
-        ],
-        [
-          "it is an obvious truncation of the verse",
-          "they were sentenced to a truncation of their limbs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shortness",
-      "Truncation"
-    ]
-  },
   "TRUNCHEON": {
     "MEANINGS": {
       "1": [
@@ -66716,34 +62541,6 @@
       "Legal guardian",
       "Regent",
       "Trustee"
-    ]
-  },
-  "TRUSTEESHIP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the position of trustee",
-        [
-          "Position",
-          "Post",
-          "Berth",
-          "Office",
-          "Spot",
-          "Billet",
-          "Place",
-          "Situation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Trusteeship",
-      "Trust territory"
     ]
   },
   "TRUSTFUL": {
@@ -67285,40 +63082,6 @@
     "SYNONYMS": [
       "Sphenodon punctatum",
       "Tuatara"
-    ]
-  },
-  "TUB": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large open vessel for holding or storing liquids",
-        [
-          "Vessel"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the amount that a tub will hold",
-        [
-          "Containerful"
-        ],
-        [
-          "a tub of water"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vat",
-      "Tubful",
-      "Bathtub",
-      "Bathing tub",
-      "Tub"
     ]
   },
   "TUBAL": {
@@ -68300,30 +64063,6 @@
       "Tussock"
     ]
   },
-  "TUFTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having or adorned with tufts",
-        [
-
-        ],
-        [
-          "a tufted bedspread"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crested",
-      "Cespitose",
-      "Tufted",
-      "Caespitose",
-      "Topknotted"
-    ]
-  },
   "TUG": {
     "MEANINGS": {
       "1": [
@@ -69065,30 +64804,6 @@
       "Tumescence"
     ]
   },
-  "TUMID": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "of sexual organs; stiff and rigid",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bombastic",
-      "Large",
-      "Puffy",
-      "Intumescent",
-      "Erect"
-    ]
-  },
   "TUMIDITY": {
     "MEANINGS": {
       "1": [
@@ -69482,30 +65197,6 @@
       "Tuner",
       "Radio set",
       "Wireless"
-    ]
-  },
-  "TUNE-UP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "adjustments made to an engine to improve its performance",
-        [
-          "Adjustment",
-          "Registration",
-          "Readjustment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prolusion",
-      "Tune-up",
-      "Warm-up"
     ]
   },
   "TUNGA": {
@@ -71427,75 +67118,6 @@
       "Family turnicidae"
     ]
   },
-  "TURNING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "act of changing in practice or custom",
-        [
-          "Change"
-        ],
-        [
-          "the law took many turnings over the years"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a shaving created when something is produced by turning it on a lathe",
-        [
-          "Paring",
-          "Sliver",
-          "Shaving"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a movement in a new direction",
-        [
-          "Movement",
-          "Motion"
-        ],
-        [
-          "the turning of the wind"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the end-product created by shaping something on a lathe",
-        [
-          "End product",
-          "Output"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the activity of shaping something on a lathe",
-        [
-          "Formation",
-          "Shaping"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unbend"
-    ],
-    "SYNONYMS": [
-      "Flex",
-      "Sprain",
-      "Bend",
-      "Wrench",
-      "Turn"
-    ]
-  },
   "TURNIP": {
     "MEANINGS": {
       "1": [
@@ -71661,30 +67283,6 @@
       "Outturn",
       "Getup",
       "Widening"
-    ]
-  },
-  "TURNOVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a dish made by folding a piece of pastry over a filling",
-        [
-          "Dish"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Turnover",
-      "Dollar volume",
-      "Overturn",
-      "Employee turnover",
-      "Turnover rate"
     ]
   },
   "TURNPIKE": {
@@ -71976,55 +67574,6 @@
       "Tursiops"
     ]
   },
-  "TURTLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "hunt for turtles, especially as an occupation",
-        [
-          "Hunt",
-          "Run",
-          "Hunt down",
-          "Track down"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Turtle",
-      "Capsize",
-      "Turn turtle",
-      "Polo-neck",
-      "Turtleneck"
-    ]
-  },
-  "TURTLEDOVE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several Old World wild doves",
-        [
-          "Dove"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Australian turtledove",
-      "Turtledove",
-      "Stictopelia cuneata"
-    ]
-  },
   "TURTLENECK": {
     "MEANINGS": {
       "1": [
@@ -72195,32 +67744,6 @@
     ],
     "SYNONYMS": [
       "Tushery"
-    ]
-  },
-  "TUSK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "remove the tusks of animals",
-        [
-          "Remove",
-          "Take",
-          "Take away",
-          "Withdraw"
-        ],
-        [
-          "tusk an elephant"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Horn",
-      "Ivory",
-      "Detusk",
-      "Tusk"
     ]
   },
   "TUSKED": {
@@ -72800,52 +68323,6 @@
       "Gabardine",
       "Tweed",
       "White"
-    ]
-  },
-  "TWEEDY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of country gentry) informal, clannish and outdoorsy",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tweedy",
-      "Nubby",
-      "Nubbly",
-      "Homespun",
-      "Slubbed"
-    ]
-  },
-  "TWEEDINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an informal, homely, outdoor look characteristic of those who wear tweeds",
-        [
-          "Inelegance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Coarseness",
-      "Tweediness",
-      "Nubbiness"
     ]
   },
   "TWEEDLE": {
@@ -73869,33 +69346,6 @@
       "Lonicera involucrata"
     ]
   },
-  "TWINE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make by twisting together or intertwining",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "twine a rope"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unwind",
-      "untwine",
-      "untwist"
-    ],
-    "SYNONYMS": [
-      "Lace",
-      "Wind",
-      "Twine",
-      "Twist",
-      "Enlace"
-    ]
-  },
   "TWINER": {
     "MEANINGS": {
       "1": [
@@ -73940,32 +69390,6 @@
     "SYNONYMS": [
       "Twinflower",
       "Linnaea borealis"
-    ]
-  },
-  "TWINGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "feel a sudden sharp, local pain",
-        [
-          "Hurt",
-          "Ache",
-          "Suffer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stab",
-      "Prick",
-      "Pinch",
-      "Sting",
-      "Nip"
     ]
   },
   "TWINJET": {
@@ -74121,138 +69545,6 @@
       "Whirl"
     ]
   },
-  "TWIST": {
-    "MEANINGS": {
-      "9": [
-        "Verb",
-        "practice sophistry; change the meaning of or be vague about in order to mislead or deceive",
-        [
-          "Denote",
-          "Refer"
-        ],
-        [
-          "Don't twist my words"
-        ]
-      ],
-      "11": [
-        "Noun",
-        "social dancing in which couples vigorously twist their hips and arms in time to the music; was popular in the 1960s",
-        [
-          "Social dancing"
-        ],
-        [
-          "they liked to dance the twist"
-        ]
-      ],
-      "13": [
-        "Noun",
-        "turning or twisting around (in place)",
-        [
-          "Rotation",
-          "Rotary motion"
-        ],
-        [
-          "with a quick twist of his head he surveyed the room"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "turn in the opposite direction",
-        [
-          "Turn"
-        ],
-        [
-          "twist one's head"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "form into a spiral shape",
-        [
-          "Change shape",
-          "Change form",
-          "Deform"
-        ],
-        [
-          "The cord is all twisted"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "form into twists",
-        [
-          "Shape",
-          "Form"
-        ],
-        [
-          "Twist the strips of dough"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "do the twist",
-        [
-          "Dance",
-          "Trip the light fantastic",
-          "Trip the light fantastic toe"
-        ],
-        [
-
-        ]
-      ],
-      "10": [
-        "Verb",
-        "twist suddenly so as to sprain",
-        [
-          "Injure",
-          "Wound"
-        ],
-        [
-          "wrench one's ankle",
-          "The wrestler twisted his shoulder",
-          "the hikers sprained their ankles when they fell",
-          "I turned my ankle and couldn't walk for several days"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "untwist",
-      "unbend"
-    ],
-    "SYNONYMS": [
-      "Flex",
-      "Device",
-      "Bend",
-      "Twist around",
-      "Sprain"
-    ]
-  },
-  "TWIT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "aggravation by deriding or mocking or criticizing",
-        [
-          "Aggravation",
-          "Irritation",
-          "Provocation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rag",
-      "Tease",
-      "Tantalize",
-      "Bait",
-      "Razz"
-    ]
-  },
   "TWITCH": {
     "MEANINGS": {
       "1": [
@@ -74353,30 +69645,6 @@
       "Two-by-four"
     ]
   },
-  "TWO-DIMENSIONAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking the expected range or depth; not designed to give an illusion or depth",
-        [
-
-        ],
-        [
-          "a film with two-dimensional characters",
-          "a flat two-dimensional painting"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "cubic"
-    ],
-    "SYNONYMS": [
-      "Two-dimensional",
-      "Flat",
-      "2-dimensional",
-      "Planar"
-    ]
-  },
   "TWO-DIMENSIONALITY": {
     "MEANINGS": {
       "1": [
@@ -74473,30 +69741,6 @@
       "Twofold",
       "Doubled",
       "Double"
-    ]
-  },
-  "TWO-HANDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "requiring two hands or designed for two people",
-        [
-
-        ],
-        [
-          "a two-handed sledgehammer",
-          "a two-handed crosscut saw",
-          "a machine designed for bimanual operation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "right-handed"
-    ],
-    "SYNONYMS": [
-      "Two-handed",
-      "Bimanual",
-      "Ambidextrous"
     ]
   },
   "TWO-HUMPED": {
@@ -74780,32 +70024,6 @@
     "SYNONYMS": [
       "Two-toed",
       "Two-toe"
-    ]
-  },
-  "TWO-WAY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "operating or permitting operation in either of two opposite directions",
-        [
-
-        ],
-        [
-          "a two-way valve",
-          "two-way traffic",
-          "two-way streets"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Two-part",
-      "Bipartizan",
-      "Bipartisan",
-      "Two-party",
-      "Two-way"
     ]
   },
   "TWO-WHEEL": {

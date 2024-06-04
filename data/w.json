@@ -1,30 +1,4 @@
 {
-  "W": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the 23rd letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Due west",
-      "Watt",
-      "Westward",
-      "Tungsten",
-      "West"
-    ]
-  },
   "WABASH": {
     "MEANINGS": {
       "1": [
@@ -764,41 +738,6 @@
       "Wahhabism"
     ]
   },
-  "WAHOO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "deciduous shrub having purple capsules enclosing scarlet seeds",
-        [
-          "Shrub",
-          "Bush"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "large fast-moving predacious food and game fish; found worldwide",
-        [
-          "Mackerel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Burning bush",
-      "Wahoo",
-      "Strawberry bush",
-      "Euonymus americanus",
-      "Acanthocybium solandri"
-    ]
-  },
   "WAY": {
     "MEANINGS": {
       "4": [
@@ -1026,31 +965,6 @@
     ],
     "SYNONYMS": [
       "Waikiki"
-    ]
-  },
-  "WAIL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cry weakly or softly",
-        [
-          "Cry",
-          "Weep"
-        ],
-        [
-          "she wailed with pain"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Yawl",
-      "Lament",
-      "Plaint",
-      "Wail",
-      "Ululate"
     ]
   },
   "WAYLAND": {
@@ -2787,32 +2701,6 @@
       "Walloon"
     ]
   },
-  "WALLOP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "defeat soundly and utterly",
-        [
-          "Get the better of",
-          "Overcome",
-          "Defeat"
-        ],
-        [
-          "We'll wallop them!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Whack",
-      "Whop",
-      "Wham",
-      "Impact",
-      "Wallop"
-    ]
-  },
   "WALLOPER": {
     "MEANINGS": {
       "1": [
@@ -3200,31 +3088,6 @@
       "Wampanoag"
     ]
   },
-  "WAMPUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small cylindrical beads made from polished shells and fashioned into strings or belts; used by certain Native American peoples as jewelry or currency",
-        [
-          "Beads",
-          "String of beads"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bread",
-      "Clams",
-      "Boodle",
-      "Moolah",
-      "Lucre"
-    ]
-  },
   "WAN": {
     "MEANINGS": {
       "1": [
@@ -3315,32 +3178,6 @@
       "Wand",
       "Baton",
       "Verge"
-    ]
-  },
-  "WANDER": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "go via an indirect route or at no set pace",
-        [
-          "Proceed",
-          "Go forward",
-          "Continue"
-        ],
-        [
-          "After dinner, we wandered into town"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cheat on",
-      "Cheat",
-      "Divagate",
-      "Cuckold",
-      "Wander"
     ]
   },
   "WANDERER": {
@@ -3440,46 +3277,6 @@
       "Galax"
     ]
   },
-  "WANE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become smaller",
-        [
-          "Decrease",
-          "Diminish",
-          "Lessen",
-          "Fall"
-        ],
-        [
-          "Interest in his novels waned"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "decrease in phase",
-        [
-          "Decrease",
-          "Diminish",
-          "Lessen",
-          "Fall"
-        ],
-        [
-          "the moon is waning"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "wax"
-    ],
-    "SYNONYMS": [
-      "Go down",
-      "Ebbing",
-      "Wane",
-      "Decline",
-      "Ebb"
-    ]
-  },
   "WANGLE": {
     "MEANINGS": {
       "1": [
@@ -3550,66 +3347,6 @@
     ],
     "SYNONYMS": [
       "Wanly"
-    ]
-  },
-  "WANT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "have need of",
-        [
-          "Be"
-        ],
-        [
-          "This piano wants the attention of a competent tuner"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "hunt or look for; want for a particular reason",
-        [
-          "Search",
-          "Seek",
-          "Look for"
-        ],
-        [
-          "Your former neighbor is wanted by the FBI",
-          "Uncle Sam wants you"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "wish or demand the presence of",
-        [
-          "Demand"
-        ],
-        [
-          "I want you here at noon!"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "be without, lack; be deficient in",
-        [
-          "Miss",
-          "Lack"
-        ],
-        [
-          "want courtesy",
-          "want the strength to go on living",
-          "flood victims wanting food and shelter"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Privation",
-      "Need",
-      "Want",
-      "Deficiency",
-      "Wish"
     ]
   },
   "WANTED": {
@@ -4454,29 +4191,6 @@
       "Wariness"
     ]
   },
-  "WARLIKE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "suggesting war or military life",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Militant",
-      "Warlike",
-      "Hawkish",
-      "Martial"
-    ]
-  },
   "WARLOCK": {
     "MEANINGS": {
       "1": [
@@ -4708,30 +4422,6 @@
       "Heating"
     ]
   },
-  "WARMLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a warm manner",
-        [
-
-        ],
-        [
-          "warmly dressed",
-          "warm-clad skiers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Warm",
-      "Warmly",
-      "Heartily",
-      "Cordially"
-    ]
-  },
   "WARMONGERING": {
     "MEANINGS": {
       "1": [
@@ -4751,32 +4441,6 @@
     "SYNONYMS": [
       "War advocacy",
       "Warmongering"
-    ]
-  },
-  "WARMTH": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the quality of having a moderate degree of heat",
-        [
-          "Hotness",
-          "Heat",
-          "High temperature"
-        ],
-        [
-          "an agreeable warmth in the house"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Warmness",
-      "Lovingness",
-      "Warmheartedness",
-      "Fondness",
-      "Affectionateness"
     ]
   },
   "WARM-UP": {
@@ -4930,53 +4594,6 @@
       "Warn",
       "Discourage",
       "Exemplary"
-    ]
-  },
-  "WARP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a shape distorted by twisting or folding",
-        [
-          "Distorted shape",
-          "Distortion"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a moral or mental distortion",
-        [
-          "Distortion",
-          "Deformation"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "yarn arranged lengthways on a loom and crossed by the woof",
-        [
-          "Thread",
-          "Yarn"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Warping",
-      "Garble",
-      "Distort",
-      "Warp",
-      "Falsify"
     ]
   },
   "WARPATH": {
@@ -6384,37 +6001,6 @@
       "Godforsaken"
     ]
   },
-  "WASTEFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "tending to squander and waste",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "laying waste",
-        [
-
-        ],
-        [
-          "when wasteful war shall statues overturn\"- Shakespeare"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "thrifty"
-    ],
-    "SYNONYMS": [
-      "Uneconomical",
-      "Wasteful"
-    ]
-  },
   "WASTEFULLY": {
     "MEANINGS": {
       "1": [
@@ -6602,35 +6188,6 @@
     "SYNONYMS": [
       "Guard dog",
       "Watchdog"
-    ]
-  },
-  "WATCHER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a person who keeps a devotional vigil by a sick bed or by a dead body",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Security guard",
-      "Witness",
-      "Watchman",
-      "Viewer",
-      "Looker"
     ]
   },
   "WATCHFULNESS": {
@@ -7330,30 +6887,6 @@
       "Sloppiness"
     ]
   },
-  "WATERING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "wetting with water",
-        [
-          "Wetting"
-        ],
-        [
-          "the lawn needs a great deal of watering"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tearing",
-      "Watering",
-      "Lachrymation",
-      "Water",
-      "Irrigate"
-    ]
-  },
   "WATERLEAF": {
     "MEANINGS": {
       "1": [
@@ -7457,29 +6990,6 @@
     ],
     "SYNONYMS": [
       "Water-loving"
-    ]
-  },
-  "WATERMARK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a distinguishing mark impressed on paper during manufacture; visible when paper is held up to the light",
-        [
-          "Marker",
-          "Marking",
-          "Mark"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Watermark",
-      "Water line"
     ]
   },
   "WATERMELON": {
@@ -7949,28 +7459,6 @@
     "SYNONYMS": [
       "Water wheel",
       "Waterwheel"
-    ]
-  },
-  "WATERWORKS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "workplace where water is stored and purified and distributed for a community",
-        [
-          "Workplace",
-          "Work"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Water company",
-      "Waterworks"
     ]
   },
   "WATERWORN": {
@@ -8569,28 +8057,6 @@
       "Rippled"
     ]
   },
-  "WAVINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "unevenness produced by waves or wrinkles",
-        [
-          "Unevenness",
-          "Variability"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "straightness"
-    ],
-    "SYNONYMS": [
-      "Waviness",
-      "Curliness"
-    ]
-  },
   "WAW": {
     "MEANINGS": {
       "1": [
@@ -8738,33 +8204,6 @@
       "Waxy"
     ]
   },
-  "WAXFLOWER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "epiphytic clusia of British Guiana",
-        [
-          "Air plant",
-          "Epiphyte",
-          "Aerophyte",
-          "Epiphytic plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monotropa uniflora",
-      "Waxflower",
-      "Stephanotis floribunda",
-      "Madagascar jasmine",
-      "Indian pipe"
-    ]
-  },
   "WAXINESS": {
     "MEANINGS": {
       "1": [
@@ -8839,32 +8278,6 @@
     ],
     "SYNONYMS": [
       "Waxwing"
-    ]
-  },
-  "WAXWORK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an effigy (usually of a famous person) made of wax",
-        [
-          "Effigy",
-          "Image",
-          "Simulacrum"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Staff vine",
-      "Bittersweet",
-      "American bittersweet",
-      "False bittersweet",
-      "Climbing bittersweet"
     ]
   },
   "WEAK": {
@@ -8989,31 +8402,6 @@
       "Sabotage",
       "Weaken",
       "Break"
-    ]
-  },
-  "WEAKENED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "made weak or weaker",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "strengthen",
-      "escalate"
-    ],
-    "SYNONYMS": [
-      "Diminished",
-      "Cut",
-      "Counteract",
-      "Sabotage",
-      "Attenuate"
     ]
   },
   "WEAKENER": {
@@ -9176,56 +8564,6 @@
       "Weakling",
       "Wuss",
       "Doormat"
-    ]
-  },
-  "WEAKNESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the property of lacking physical or mental strength; liability to failure under pressure or stress or strain",
-        [
-          "Property"
-        ],
-        [
-          "his weakness increased as he became older",
-          "the weakness of the span was overlooked until it collapsed"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the condition of being financially weak",
-        [
-          "Misfortune",
-          "Bad luck",
-          "Tough luck",
-          "Ill luck"
-        ],
-        [
-          "the weakness of the dollar against the yen"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a penchant for something even though it might not be good for you",
-        [
-          "Preference",
-          "Penchant",
-          "Predilection",
-          "Taste"
-        ],
-        [
-          "he has a weakness for chocolate"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "strength"
-    ],
-    "SYNONYMS": [
-      "Helplessness",
-      "Failing",
-      "Impuissance",
-      "Weakness"
     ]
   },
   "WEAK-STEMMED": {
@@ -10559,29 +9897,6 @@
       "Hoagie"
     ]
   },
-  "WEDGE-SHAPED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "shaped like a wedge",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wedge-shaped",
-      "Cuneiform",
-      "Cuneate",
-      "Cuneal"
-    ]
-  },
   "WEDGIE": {
     "MEANINGS": {
       "1": [
@@ -11317,32 +10632,6 @@
       "Burden"
     ]
   },
-  "WEIGHTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "adjusted to reflect value or proportion",
-        [
-
-        ],
-        [
-          "votes weighted according to the size of constituencies",
-          "a law weighted in favor of landlords",
-          "a weighted average"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unburden"
-    ],
-    "SYNONYMS": [
-      "Weight down",
-      "Leaden",
-      "Weighted",
-      "Burden",
-      "Slant"
-    ]
-  },
   "WEIGHTY": {
     "MEANINGS": {
       "1": [
@@ -11598,30 +10887,6 @@
     ],
     "SYNONYMS": [
       "Weir"
-    ]
-  },
-  "WEIRD": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "strikingly odd or unusual; some weird effect of shadow\"- Bram Stoker",
-        [
-
-        ],
-        [
-          "some trick of the moonlight"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wyrd",
-      "Uncanny",
-      "Weird",
-      "Unearthly",
-      "Eldritch"
     ]
   },
   "WEIRDLY": {
@@ -12386,28 +11651,6 @@
       "Well-connected"
     ]
   },
-  "WELL-DEFINED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "accurately stated or described",
-        [
-
-        ],
-        [
-          "a set of well-defined values"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ill-defined"
-    ],
-    "SYNONYMS": [
-      "Chiseled",
-      "Clear",
-      "Well-defined"
-    ]
-  },
   "WELL-DONE": {
     "MEANINGS": {
       "1": [
@@ -12751,30 +11994,6 @@
       "Well-intentioned"
     ]
   },
-  "WELL-OFF": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "fortunately situated",
-        [
-
-        ],
-        [
-          "doesn't know when he's well-off"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Well-fixed",
-      "Easy",
-      "Well-to-do",
-      "Well-heeled",
-      "Comfortable"
-    ]
-  },
   "WELL-ORDERED": {
     "MEANINGS": {
       "1": [
@@ -13070,30 +12289,6 @@
       "Welshman",
       "Welsh",
       "Cambrian"
-    ]
-  },
-  "WELT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "put a welt on",
-        [
-          "Add"
-        ],
-        [
-          "welt the shoes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Strap",
-      "Flog",
-      "Wale",
-      "Lather",
-      "Lash"
     ]
   },
   "WELTANSCHAUUNG": {
@@ -14001,33 +13196,6 @@
     ],
     "SYNONYMS": [
       "Wetness"
-    ]
-  },
-  "WETTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a workman who wets the work in a manufacturing process",
-        [
-          "Workman",
-          "Workingman",
-          "Working man",
-          "Working person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dry"
-    ],
-    "SYNONYMS": [
-      "Pixilated",
-      "Soaked",
-      "Cockeyed",
-      "Sloshed",
-      "Lactating"
     ]
   },
   "WETTING": {
@@ -15342,54 +14510,6 @@
       "Widow bird"
     ]
   },
-  "WHIFF": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "drive or carry as if by a puff of air",
-        [
-          "Blow"
-        ],
-        [
-          "The gust of air whiffed away the clouds"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "strike out by swinging and missing the pitch charged as the third",
-        [
-          "Strike out"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "utter with a puff of air",
-        [
-          "Talk",
-          "Speak",
-          "Utter",
-          "Mouth",
-          "Verbalize",
-          "Verbalise"
-        ],
-        [
-          "whiff out a prayer"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sniff",
-      "Whiff",
-      "Puff of air",
-      "Puff"
-    ]
-  },
   "WHIFFER": {
     "MEANINGS": {
       "1": [
@@ -16107,27 +15227,6 @@
       "Whirlaway"
     ]
   },
-  "WHIRLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a revolving mechanism",
-        [
-          "Mechanism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Whirler",
-      "Whirling dervish"
-    ]
-  },
   "WHIRLIGIG": {
     "MEANINGS": {
       "1": [
@@ -16346,30 +15445,6 @@
       "Whisky"
     ]
   },
-  "WHISKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat",
-        [
-          "Hair"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hairsbreadth",
-      "Hair",
-      "Vibrissa",
-      "Hair's-breadth",
-      "Sensory hair"
-    ]
-  },
   "WHISPER": {
     "MEANINGS": {
       "1": [
@@ -16585,28 +15660,6 @@
       "Hoary marmot",
       "Whistler",
       "Bucephela clangula"
-    ]
-  },
-  "WHISTLING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of whistling a tune",
-        [
-          "Music"
-        ],
-        [
-          "his cheerful whistling indicated that he enjoyed his work"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Whistling",
-      "Sing",
-      "Whistle"
     ]
   },
   "WHITE": {
@@ -16842,31 +15895,6 @@
       "Whitecup",
       "Nierembergia rivularis",
       "Nierembergia repens"
-    ]
-  },
-  "WHITEFACE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a clown whose face is covered with white make-up",
-        [
-          "Clown",
-          "Buffoon",
-          "Goof",
-          "Goofball",
-          "Merry andrew"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hereford",
-      "Whiteface"
     ]
   },
   "WHITEFISH": {
@@ -17126,33 +16154,6 @@
       "Whiten"
     ]
   },
-  "WHITENESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "lightness or fairness of complexion",
-        [
-          "Complexion",
-          "Skin color",
-          "Skin colour"
-        ],
-        [
-          "only the whiteness of her cheeks gave any indication of the stress from which she was suffering"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "black",
-      "blacken"
-    ],
-    "SYNONYMS": [
-      "Whiteness",
-      "Innocence",
-      "Sinlessness",
-      "Pureness",
-      "White"
-    ]
-  },
   "WHITENING": {
     "MEANINGS": {
       "1": [
@@ -17385,29 +16386,6 @@
       "Silver hake"
     ]
   },
-  "WHITISH": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of something having a color tending toward white",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Milky",
-      "Whitish",
-      "Off-white",
-      "Milklike"
-    ]
-  },
   "WHITLOWWORT": {
     "MEANINGS": {
       "1": [
@@ -17627,30 +16605,6 @@
       "Whitsun tuesday"
     ]
   },
-  "WHIZ": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a buzzing or hissing sound as of something traveling rapidly through the air",
-        [
-          "Sound"
-        ],
-        [
-          "he heard the whiz of bullets near his head"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wiz",
-      "Virtuoso",
-      "Whizz",
-      "Sensation",
-      "Ace"
-    ]
-  },
   "WHIZBANG": {
     "MEANINGS": {
       "1": [
@@ -17770,51 +16724,6 @@
     ],
     "SYNONYMS": [
       "Wholeheartedly"
-    ]
-  },
-  "WHOLEHEARTEDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "undivided commitment or unreserved enthusiasm",
-        [
-          "Willingness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Heartiness",
-      "Wholeheartedness"
-    ]
-  },
-  "WHOLENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a state of robust good health",
-        [
-          "Good health",
-          "Healthiness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Haleness",
-      "Wholeness",
-      "Unity",
-      "Integrity"
     ]
   },
   "WHOLESALE": {
@@ -17954,32 +16863,6 @@
       "Totally"
     ]
   },
-  "WHOMP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "beat overwhelmingly",
-        [
-          "Beat",
-          "Beat out",
-          "Crush",
-          "Shell",
-          "Trounce",
-          "Vanquish"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cuff",
-      "Whomp"
-    ]
-  },
   "WHOOP": {
     "MEANINGS": {
       "1": [
@@ -18028,56 +16911,6 @@
     ],
     "SYNONYMS": [
       "Whoopee"
-    ]
-  },
-  "WHOOPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "common Old World swan noted for its whooping call",
-        [
-          "Swan"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Whooper",
-      "Whooping crane",
-      "Whooper swan",
-      "Cygnus cygnus",
-      "Grus americana"
-    ]
-  },
-  "WHOOSH": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "gush or squirt out",
-        [
-          "Spurt",
-          "Spirt",
-          "Gush",
-          "Spout"
-        ],
-        [
-          "Oil whooshed up when the drill hit the well"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Swoosh",
-      "Hiss",
-      "Whoosh",
-      "Woosh"
     ]
   },
   "WHOPPER": {
@@ -18664,30 +17497,6 @@
       "Extensive",
       "Panoptic",
       "Spacious"
-    ]
-  },
-  "WIDE-EYED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used of eyes) fully open or extended",
-        [
-
-        ],
-        [
-          "stared with wide eyes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Simple",
-      "Wide-eyed",
-      "Dewy-eyed",
-      "Childlike",
-      "Wide"
     ]
   },
   "WIDELY": {
@@ -19379,52 +18188,6 @@
       "Fishworm",
       "Wriggler",
       "Crawler"
-    ]
-  },
-  "WIGGLY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "moving in a twisting or snake-like or wormlike fashion",
-        [
-
-        ],
-        [
-          "wiggly worms"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wriggling",
-      "Wiggly",
-      "Writhing",
-      "Sinuate",
-      "Sinuous"
-    ]
-  },
-  "WIGHT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an isle and county of southern England in the English Channel",
-        [
-          "County"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Isle of wight",
-      "Wight",
-      "Creature"
     ]
   },
   "WIGLESS": {
@@ -20545,30 +19308,6 @@
       "Willingness"
     ]
   },
-  "WILLY-NILLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "without having a choice",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Randomly",
-      "Willy-nilly",
-      "Indiscriminately",
-      "At random",
-      "Arbitrarily"
-    ]
-  },
   "WILLIS": {
     "MEANINGS": {
       "1": [
@@ -20588,32 +19327,6 @@
     "SYNONYMS": [
       "Thomas willis",
       "Willis"
-    ]
-  },
-  "WILL-O'-THE-WISP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an illusion that misleads",
-        [
-          "Illusion",
-          "Fantasy",
-          "Phantasy",
-          "Fancy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Friar's lantern",
-      "Will-o'-the-wisp",
-      "Ignis fatuus",
-      "Jack-o'-lantern"
     ]
   },
   "WILLOW": {
@@ -21523,30 +20236,6 @@
     ],
     "SYNONYMS": [
       "Windhoek"
-    ]
-  },
-  "WINDY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "resembling the wind in speed, force, or variability",
-        [
-
-        ],
-        [
-          "a windy dash home"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Impractical",
-      "Laputan",
-      "Airy",
-      "Visionary",
-      "Long-winded"
     ]
   },
   "WINDJAMMER": {
@@ -22674,31 +21363,6 @@
       "Winker"
     ]
   },
-  "WINKLE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "remove or displace from a position",
-        [
-          "Bring out",
-          "Get out"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wink",
-      "Winkle",
-      "Blink",
-      "Periwinkle",
-      "Twinkle"
-    ]
-  },
   "WINLESS": {
     "MEANINGS": {
       "1": [
@@ -23268,30 +21932,6 @@
       "Rub"
     ]
   },
-  "WIPEOUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a spill in some sport (as a fall from a bicycle or while skiing or being capsized on a surfboard)",
-        [
-          "Spill",
-          "Tumble",
-          "Fall"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wipeout",
-      "Demolition",
-      "Destruction"
-    ]
-  },
   "WIPER": {
     "MEANINGS": {
       "1": [
@@ -23656,37 +22296,6 @@
     ],
     "SYNONYMS": [
       "Wireworm"
-    ]
-  },
-  "WIRY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to wire",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "of hair that resembles wire in stiffness",
-        [
-
-        ],
-        [
-          "wiry red hair"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wiry",
-      "Stringy"
     ]
   },
   "WIRINESS": {
@@ -24375,31 +22984,6 @@
       "Brainpower"
     ]
   },
-  "WITCH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a being (usually female) imagined to have special powers derived from the devil",
-        [
-          "Imaginary being",
-          "Imaginary creature"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hex",
-      "Enchant",
-      "Hag",
-      "Glamour",
-      "Beldame"
-    ]
-  },
   "WITCHCRAFT": {
     "MEANINGS": {
       "1": [
@@ -24533,30 +23117,6 @@
     ],
     "SYNONYMS": [
       "Witchlike"
-    ]
-  },
-  "WITHAL": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "together with this",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Still",
-      "All the same",
-      "Notwithstanding",
-      "Even so",
-      "Nonetheless"
     ]
   },
   "WITHDRAW": {
@@ -25492,54 +24052,6 @@
       "Wodan"
     ]
   },
-  "WOE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "intense mournfulness",
-        [
-          "Mournfulness",
-          "Sorrowfulness",
-          "Ruthfulness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Suffering",
-      "Woefulness",
-      "Woe"
-    ]
-  },
-  "WOEBEGONE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "affected by or full of grief or woe",
-        [
-
-        ],
-        [
-          "his sorrow...made him look...haggard and...woebegone\"- George du Maurier"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Woebegone",
-      "Creaky",
-      "Flea-bitten",
-      "Derelict",
-      "Decrepit"
-    ]
-  },
   "WOG": {
     "MEANINGS": {
       "1": [
@@ -25927,32 +24439,6 @@
     ],
     "SYNONYMS": [
       "Wolof"
-    ]
-  },
-  "WOLVERINE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "stocky shaggy-coated North American carnivorous mammal",
-        [
-          "Musteline mammal",
-          "Mustelid",
-          "Musteline"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gulo gulo",
-      "Gulo luscus",
-      "Carcajou",
-      "Michigander",
-      "Wolverine"
     ]
   },
   "WOMAN": {
@@ -26509,30 +24995,6 @@
       "Grant wood"
     ]
   },
-  "WOODBINE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "European twining honeysuckle with fragrant red and yellow-white flowers",
-        [
-          "Honeysuckle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "American ivy",
-      "Parthenocissus quinquefolia",
-      "Lonicera periclymenum",
-      "Virginia creeper",
-      "Woodbine"
-    ]
-  },
   "WOODBORER": {
     "MEANINGS": {
       "1": [
@@ -27014,31 +25476,6 @@
       "Woodpile"
     ]
   },
-  "WOODRUFF": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any plant of the genus Asperula",
-        [
-          "Subshrub",
-          "Suffrutex"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Galium odoratum",
-      "Fragrant bedstraw",
-      "Woodruff",
-      "Asperula odorata",
-      "Sweet woodruff"
-    ]
-  },
   "WOODSCREW": {
     "MEANINGS": {
       "1": [
@@ -27477,30 +25914,6 @@
       "Stargaze",
       "Moony",
       "Dreamy"
-    ]
-  },
-  "WOOLY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "covered with dense often matted or curly hairs",
-        [
-
-        ],
-        [
-          "woolly lambs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Befuddled",
-      "Wooly",
-      "Flocculent",
-      "Woolly-headed",
-      "Wooly-haired"
     ]
   },
   "WOOLLEY": {
@@ -28534,42 +26947,6 @@
       "Workroom"
     ]
   },
-  "WORKS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "performance of moral or religious acts",
-        [
-          "Activity"
-        ],
-        [
-          "salvation by deeds",
-          "the reward for good works"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the internal mechanism of a device",
-        [
-          "Mechanism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "malfunction",
-      "idle"
-    ],
-    "SYNONYMS": [
-      "Works",
-      "Crop",
-      "Influence",
-      "Whole kit",
-      "Industrial plant"
-    ]
-  },
   "WORKSHEET": {
     "MEANINGS": {
       "1": [
@@ -28720,73 +27097,6 @@
       "Workweek"
     ]
   },
-  "WORLD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "people in general; especially a distinctive group of people with some shared interest",
-        [
-          "Class",
-          "Stratum",
-          "Social class",
-          "Socio-economic class"
-        ],
-        [
-          "the Western world"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "all of your experiences that determine how things appear to you",
-        [
-          "Experience"
-        ],
-        [
-          "his world was shattered",
-          "we live in different worlds",
-          "for them demons were as much a part of reality as trees were"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a part of the earth that can be considered separately",
-        [
-          "Part",
-          "Piece"
-        ],
-        [
-          "the outdoor world",
-          "the world of insects"
-        ]
-      ],
-      "8": [
-        "Noun",
-        "all of the living human inhabitants of the earth",
-        [
-          "Group",
-          "Grouping",
-          "Homo",
-          "Man",
-          "Human being",
-          "Human"
-        ],
-        [
-          "all the world loves a lover",
-          "she always used `humankind' because `mankind' seemed to slight the women"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Existence",
-      "Earthly concern",
-      "Mankind",
-      "Public",
-      "Human race"
-    ]
-  },
   "WORLDLY": {
     "MEANINGS": {
       "1": [
@@ -28809,31 +27119,6 @@
       "Temporal",
       "Blase",
       "Worldly"
-    ]
-  },
-  "WORLDLINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "concern with worldly affairs to the neglect of spiritual needs",
-        [
-          "Outwardness",
-          "Externality"
-        ],
-        [
-          "he disliked the worldliness of many bishops around him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "otherworldliness",
-      "naivete"
-    ],
-    "SYNONYMS": [
-      "Worldliness",
-      "Sophistication",
-      "Mundaneness",
-      "Mundanity"
     ]
   },
   "WORLDLING": {
@@ -29205,30 +27490,6 @@
       "Worrywart"
     ]
   },
-  "WORRYING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of moving something by repeated tugs or pushes",
-        [
-          "Agitation"
-        ],
-        [
-          "vigorous worrying finally loosened the saw"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "reassure"
-    ],
-    "SYNONYMS": [
-      "Distressing",
-      "Concern",
-      "Interest",
-      "Torment",
-      "Distressful"
-    ]
-  },
   "WORRYINGLY": {
     "MEANINGS": {
       "1": [
@@ -29321,31 +27582,6 @@
       "Aggravate",
       "Decline",
       "Worsen"
-    ]
-  },
-  "WORSENED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "made or become worse; impaired",
-        [
-
-        ],
-        [
-          "troubled by the worsened economic conditions",
-          "the worsened diplomatic relations"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "better"
-    ],
-    "SYNONYMS": [
-      "Exasperate",
-      "Exacerbate",
-      "Aggravate",
-      "Worse",
-      "Decline"
     ]
   },
   "WORSENING": {
@@ -30027,30 +28263,6 @@
       "Rack"
     ]
   },
-  "WRANGLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "herd and care for",
-        [
-          "Herd"
-        ],
-        [
-          "wrangle horses"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wrangling",
-      "Words",
-      "Haggling",
-      "Brawl",
-      "Wrangle"
-    ]
-  },
   "WRANGLER": {
     "MEANINGS": {
       "1": [
@@ -30137,32 +28349,6 @@
     ],
     "SYNONYMS": [
       "Wraparound"
-    ]
-  },
-  "WRAPPED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "enclosed securely in a covering of paper or the like",
-        [
-
-        ],
-        [
-          "gaily wrapped gifts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unwrapped",
-      "unwind",
-      "unwrap"
-    ],
-    "SYNONYMS": [
-      "Engrossed",
-      "Twine",
-      "Envelop",
-      "Wrap",
-      "Wind"
     ]
   },
   "WRAPPING": {
@@ -30700,30 +28886,6 @@
       "Matman"
     ]
   },
-  "WRESTLING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the sport of hand-to-hand struggle between unarmed contestants who try to throw each other down",
-        [
-          "Contact sport"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hand-to-hand struggle",
-      "Wrestling",
-      "Twist",
-      "Wriggle",
-      "Grappling"
-    ]
-  },
   "WRETCH": {
     "MEANINGS": {
       "1": [
@@ -30764,64 +28926,6 @@
     ],
     "SYNONYMS": [
       "Wretchedly"
-    ]
-  },
-  "WRETCHEDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the character of being uncomfortable and unpleasant",
-        [
-          "Discomfort",
-          "Uncomfortableness"
-        ],
-        [
-          "the wretchedness for which these prisons became known",
-          "the grey wretchedness of the rain"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the quality of being poor and inferior and sorry",
-        [
-          "Inferiority",
-          "Low quality"
-        ],
-        [
-          "he has compiled a record second to none in its wretchedness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Miserableness",
-      "Wretchedness",
-      "Misery"
-    ]
-  },
-  "WRY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "bent to one side",
-        [
-
-        ],
-        [
-          "a wry neck"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ironic",
-      "Dry",
-      "Wry",
-      "Ironical"
     ]
   },
   "WRIGHT": {
@@ -30952,69 +29056,6 @@
       "Cryptacanthodes maculatus",
       "Wrymouth",
       "Ghostfish"
-    ]
-  },
-  "WRYNECK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Old World woodpecker with a peculiar habit of twisting the neck",
-        [
-          "Woodpecker",
-          "Peckerwood",
-          "Pecker"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Torticollis",
-      "Wryneck"
-    ]
-  },
-  "WRING": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "twist and compress, as if in pain or anguish",
-        [
-          "Twist",
-          "Twine",
-          "Distort"
-        ],
-        [
-          "Wring one's hand"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "twist, squeeze, or compress in order to extract liquid",
-        [
-          "Squash",
-          "Crush",
-          "Squelch",
-          "Mash",
-          "Squeeze"
-        ],
-        [
-          "wring the towels"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deform",
-      "Wrench",
-      "Contort",
-      "Distort",
-      "Extort"
     ]
   },
   "WRINGER": {
@@ -31323,30 +29364,6 @@
       "Pen"
     ]
   },
-  "WRITE-IN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a vote cast by writing in the name of a candidate who is not listed on the ballot",
-        [
-          "Vote",
-          "Ballot",
-          "Voting",
-          "Balloting"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Write-in",
-      "Write-in candidate"
-    ]
-  },
   "WRITE-OFF": {
     "MEANINGS": {
       "1": [
@@ -31642,63 +29659,6 @@
       "Wrongdoer"
     ]
   },
-  "WRONGDOING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "activity that transgresses moral or civil law",
-        [
-          "Activity"
-        ],
-        [
-          "he denied any wrongdoing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Misconduct",
-      "Error",
-      "Wrongful conduct",
-      "Wrongdoing",
-      "Actus reus"
-    ]
-  },
-  "WRONGFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "unlawfully violating the rights of others",
-        [
-
-        ],
-        [
-          "wrongful death",
-          "a wrongful diversion of trust income"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not just or fair",
-        [
-
-        ],
-        [
-          "a wrongful act",
-          "a wrongful charge"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unlawful",
-      "Wrongful"
-    ]
-  },
   "WRONGFULLY": {
     "MEANINGS": {
       "1": [
@@ -31781,30 +29741,6 @@
       "Wrong",
       "Incorrectly",
       "Wrongly"
-    ]
-  },
-  "WRONGNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "contrary to conscience or morality",
-        [
-          "Immorality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "correctness",
-      "appropriateness",
-      "rightness"
-    ],
-    "SYNONYMS": [
-      "Inappropriateness",
-      "Incorrectness",
-      "Wrongness"
     ]
   },
   "W-SHAPED": {

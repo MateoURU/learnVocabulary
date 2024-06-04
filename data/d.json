@@ -1,30 +1,4 @@
 {
-  "D": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the 4th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Calciferol",
-      "Cholecalciferol",
-      "Vitamin d",
-      "500",
-      "Five hundred"
-    ]
-  },
   "DAB": {
     "MEANINGS": {
       "2": [
@@ -660,31 +634,6 @@
       "Pa"
     ]
   },
-  "DADA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a nihilistic art movement (especially in painting) that flourished in Europe early in the 20th century; based on irrationality and negation of the accepted laws of beauty",
-        [
-          "Artistic movement",
-          "Art movement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pappa",
-      "Dadaism",
-      "Papa",
-      "Pop",
-      "Dada"
-    ]
-  },
   "DADO": {
     "MEANINGS": {
       "2": [
@@ -770,33 +719,6 @@
     "SYNONYMS": [
       "Daedalus",
       "Daedal"
-    ]
-  },
-  "DAEMON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who is part mortal and part god",
-        [
-          "Deity",
-          "Divinity",
-          "God",
-          "Immortal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Daemon",
-      "Fiend",
-      "Daimon",
-      "Demon",
-      "Demigod"
     ]
   },
   "DAFFODIL": {
@@ -1300,33 +1222,6 @@
       "Journal"
     ]
   },
-  "DAYDREAM": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "have dreamlike musings or fantasies while awake",
-        [
-          "Idle",
-          "Laze",
-          "Slug",
-          "Stagnate"
-        ],
-        [
-          "She looked out the window, daydreaming"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Revery",
-      "Daydreaming",
-      "Castle in spain",
-      "Dream",
-      "Daydream"
-    ]
-  },
   "DAYDREAMER": {
     "MEANINGS": {
       "1": [
@@ -1374,30 +1269,6 @@
       "Day-by-day",
       "Day-to-day",
       "Day by day"
-    ]
-  },
-  "DAYLIGHT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "light during the daytime",
-        [
-          "Light",
-          "Visible light",
-          "Visible radiation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "night"
-    ],
-    "SYNONYMS": [
-      "Daylight",
-      "Day",
-      "Daytime"
     ]
   },
   "DAYLONG": {
@@ -2758,68 +2629,6 @@
       "Break",
       "Muffle",
       "Dampen"
-    ]
-  },
-  "DAMPEN": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "reduce the amplitude (of oscillations or waves)",
-        [
-          "Weaken"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "make vague or obscure or make (an image) less visible",
-        [
-          "Dampen",
-          "Damp",
-          "Soften",
-          "Weaken",
-          "Break"
-        ],
-        [
-          "muffle the message"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "check; keep in check (a fire)",
-        [
-          "Check",
-          "Retard",
-          "Delay"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Verb",
-        "lessen in force or effect",
-        [
-          "Deaden",
-          "Blunt"
-        ],
-        [
-          "soften a shock",
-          "break a fall"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "stimulate"
-    ],
-    "SYNONYMS": [
-      "Damp",
-      "Stifle",
-      "Weaken",
-      "Break",
-      "Muffle"
     ]
   },
   "DAMPENER": {
@@ -4631,53 +4440,6 @@
       "Darkling"
     ]
   },
-  "DARKNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an unilluminated area",
-        [
-          "Scene"
-        ],
-        [
-          "he moved off into the darkness"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "having a dark or somber color",
-        [
-          "Value"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a swarthy complexion",
-        [
-          "Complexion",
-          "Skin color",
-          "Skin colour"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "light",
-      "lightness"
-    ],
-    "SYNONYMS": [
-      "Iniquity",
-      "Wickedness",
-      "Darkness",
-      "Dark",
-      "Duskiness"
-    ]
-  },
   "DARKROOM": {
     "MEANINGS": {
       "1": [
@@ -4696,33 +4458,6 @@
     ],
     "SYNONYMS": [
       "Darkroom"
-    ]
-  },
-  "DARK-SKINNED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "naturally having skin of a dark color",
-        [
-
-        ],
-        [
-          "a dark-skinned beauty",
-          "gold earrings gleamed against her dusky cheeks",
-          "a smile on his swarthy face",
-          "`swart' is archaic"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dark-skinned",
-      "Swarthy",
-      "Non-white",
-      "Colored",
-      "Dark"
     ]
   },
   "DARLING": {
@@ -4989,33 +4724,6 @@
       "Dartboard"
     ]
   },
-  "DARTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person or other animal that moves abruptly and rapidly",
-        [
-          "Animal",
-          "Animate being",
-          "Beast",
-          "Brute",
-          "Creature",
-          "Fauna"
-        ],
-        [
-          "squirrels are darters"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Anhinga",
-      "Snakebird",
-      "Darter"
-    ]
-  },
   "DARTS": {
     "MEANINGS": {
       "1": [
@@ -5197,33 +4905,6 @@
       "Frighten off",
       "Scud",
       "Sprint"
-    ]
-  },
-  "DASHBOARD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "instrument panel on an automobile or airplane containing dials and controls",
-        [
-          "Control panel",
-          "Instrument panel",
-          "Control board",
-          "Board",
-          "Panel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fascia",
-      "Splasher",
-      "Dashboard",
-      "Splashboard"
     ]
   },
   "DASHED": {
@@ -6445,70 +6126,6 @@
       "Daviesia"
     ]
   },
-  "DAVIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "United States painter who developed an American version of cubism (1894-1964)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "United States jazz musician; noted for his trumpet style (1926-1991)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "American statesman; president of the Confederate States of America during the American Civil War (1808-1889)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "United States tennis player who donated the Davis Cup for international team tennis competition (1879-1945)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "United States film actress (1908-1989)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Miles davis",
-      "Davis",
-      "John davis",
-      "John davys",
-      "Stuart davis"
-    ]
-  },
   "DAVYS": {
     "MEANINGS": {
       "1": [
@@ -7264,75 +6881,6 @@
       "Deadeye"
     ]
   },
-  "DEADEN": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make vapid or deprive of spirit",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "deadened wine"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "lessen the momentum or velocity of",
-        [
-          "Retard"
-        ],
-        [
-          "deaden a ship's headway"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "become lifeless, less lively, intense, or active; lose life, force, or vigor",
-        [
-          "Change"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Verb",
-        "make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "Terror blunted her feelings",
-          "deaden a sound"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "convert (metallic mercury) into a grey powder consisting of minute globules, as by shaking with chalk or fatty oil",
-        [
-          "Convert"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "enliven"
-    ],
-    "SYNONYMS": [
-      "Damp",
-      "Dampen",
-      "Blunt",
-      "Girdle",
-      "Deaden"
-    ]
-  },
   "DEAD-END": {
     "MEANINGS": {
       "1": [
@@ -7351,30 +6899,6 @@
     ],
     "SYNONYMS": [
       "Dead-end"
-    ]
-  },
-  "DEADENED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "made or become less intense",
-        [
-
-        ],
-        [
-          "the deadened pangs of hunger"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "enliven"
-    ],
-    "SYNONYMS": [
-      "Damp",
-      "Dampen",
-      "Deadened",
-      "Blunt",
-      "Dead"
     ]
   },
   "DEADHEAD": {
@@ -7582,38 +7106,6 @@
     "SYNONYMS": [
       "Deadlocked",
       "Stalemated"
-    ]
-  },
-  "DEADNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the physical property of something that has lost its elasticity",
-        [
-          "Inelasticity"
-        ],
-        [
-          "he objected to the deadness of the tennis balls"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the inanimate property of something that has died",
-        [
-          "Inanimateness",
-          "Lifelessness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "responsiveness"
-    ],
-    "SYNONYMS": [
-      "Deadness",
-      "Unresponsiveness"
     ]
   },
   "DEADPAN": {
@@ -8014,56 +7506,6 @@
       "Mickle"
     ]
   },
-  "DEALER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a firm engaged in trading",
-        [
-          "Firm",
-          "House",
-          "Business firm"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a seller of illicit goods",
-        [
-          "Seller",
-          "Marketer",
-          "Vender",
-          "Vendor",
-          "Trafficker"
-        ],
-        [
-          "a dealer in stolen goods"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the person who distributes the playing cards in a card game",
-        [
-          "Card player"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bargainer",
-      "Dealer",
-      "Monger",
-      "Principal",
-      "Trader"
-    ]
-  },
   "DEALFISH": {
     "MEANINGS": {
       "1": [
@@ -8283,43 +7725,6 @@
     "SYNONYMS": [
       "Deanery",
       "Deanship"
-    ]
-  },
-  "DEAR": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "with or in a close or intimate relationship",
-        [
-
-        ],
-        [
-          "a good friend",
-          "my sisters and brothers are near and dear"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "earnest",
-        [
-
-        ],
-        [
-          "one's dearest wish",
-          "devout wishes for their success",
-          "heartfelt condolences"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Honey",
-      "Dearest",
-      "Affectionately",
-      "Costly",
-      "Pricey"
     ]
   },
   "DEARLY": {
@@ -8696,36 +8101,6 @@
       "Drubbing"
     ]
   },
-  "DEBAR": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "prevent the occurrence of; prevent from happening",
-        [
-          "Prevent",
-          "Forestall",
-          "Foreclose",
-          "Preclude",
-          "Forbid"
-        ],
-        [
-          "Let's avoid a confrontation",
-          "head off a confrontation",
-          "avert a strike"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exclude",
-      "Head off",
-      "Avert",
-      "Forfend",
-      "Deflect"
-    ]
-  },
   "DEBARKATION": {
     "MEANINGS": {
       "1": [
@@ -8777,55 +8152,6 @@
     ],
     "SYNONYMS": [
       "Debarment"
-    ]
-  },
-  "DEBASE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "lower in value by increasing the base-metal content",
-        [
-          "Devalue"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Debauch",
-      "Stretch",
-      "Alloy",
-      "Vitiate",
-      "Misdirect"
-    ]
-  },
-  "DEBASED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lowered in value",
-        [
-
-        ],
-        [
-          "the dollar is low",
-          "a debased currency"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adulterated",
-      "Devalued",
-      "Corrupt",
-      "Stretch",
-      "Alloy"
     ]
   },
   "DEBASER": {
@@ -9014,31 +8340,6 @@
       "Corrupt",
       "Libertine",
       "Dissolute"
-    ]
-  },
-  "DEBENTURE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a certificate or voucher acknowledging a debt",
-        [
-          "Legal document",
-          "Legal instrument",
-          "Official document",
-          "Instrument"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "secured_bond"
-    ],
-    "SYNONYMS": [
-      "Unsecured bond",
-      "Debenture bond",
-      "Debenture"
     ]
   },
   "DEBILITATING": {
@@ -9850,29 +9151,6 @@
       "Decalcification"
     ]
   },
-  "DECALCOMANIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the art of transfering designs from specially prepared paper to a wood or glass or metal surface",
-        [
-          "Art",
-          "Artistic creation",
-          "Artistic production"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Decal",
-      "Decalcomania"
-    ]
-  },
   "DECALESCENCE": {
     "MEANINGS": {
       "1": [
@@ -9997,27 +9275,6 @@
       "Break camp"
     ]
   },
-  "DECAMPMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "breaking camp",
-        [
-          "Withdrawal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abscondment",
-      "Decampment"
-    ]
-  },
   "DECANT": {
     "MEANINGS": {
       "1": [
@@ -10116,28 +9373,6 @@
     "SYNONYMS": [
       "Beheading",
       "Decapitation"
-    ]
-  },
-  "DECAPOD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "cephalopods having eight short tentacles plus two long ones",
-        [
-          "Cephalopod",
-          "Cephalopod mollusk"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Decapod crustacean",
-      "Decapod"
     ]
   },
   "DECAPODA": {
@@ -10816,31 +10051,6 @@
       "Decentralising"
     ]
   },
-  "DECEPTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of deceiving",
-        [
-          "Falsification",
-          "Misrepresentation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Misrepresentation",
-      "Deceit",
-      "Illusion",
-      "Dissimulation",
-      "Legerdemain"
-    ]
-  },
   "DECEPTIVE": {
     "MEANINGS": {
       "1": [
@@ -11396,30 +10606,6 @@
       "Decimetre"
     ]
   },
-  "DECIPHER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "read with difficulty",
-        [
-          "Read"
-        ],
-        [
-          "Can you decipher this letter?",
-          "The archeologist traced the hieroglyphs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "encode"
-    ],
-    "SYNONYMS": [
-      "Decrypt",
-      "Decipher",
-      "Trace",
-      "Decode"
-    ]
-  },
   "DECIPHERED": {
     "MEANINGS": {
       "1": [
@@ -11443,27 +10629,6 @@
       "Decipher",
       "Trace",
       "Decrypt"
-    ]
-  },
-  "DECIPHERER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a reader capable of reading and interpreting illegible or obscure text",
-        [
-          "Reader"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Decipherer",
-      "Decoder"
     ]
   },
   "DECISION": {
@@ -11729,30 +10894,6 @@
       "Beautify"
     ]
   },
-  "DECKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(often used in combinations) something constructed with multiple levels",
-        [
-          "Artifact",
-          "Artefact"
-        ],
-        [
-          "they rode in a double-decker bus"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thomas decker",
-      "Decker",
-      "Dekker",
-      "Thomas dekker"
-    ]
-  },
   "DECKHAND": {
     "MEANINGS": {
       "1": [
@@ -11780,27 +10921,6 @@
     "SYNONYMS": [
       "Deckhand",
       "Roustabout"
-    ]
-  },
-  "DECKLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(paper making) a frame used to form paper pulp into sheets",
-        [
-          "Framework"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deckle",
-      "Deckle edge"
     ]
   },
   "DECLAIM": {
@@ -12192,43 +11312,6 @@
       "Fall",
       "Downslope",
       "Decline in quality",
-      "Descent",
-      "Declension"
-    ]
-  },
-  "DECLINATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere",
-        [
-          "Angular distance"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a polite refusal of an invitation",
-        [
-          "Acknowledgment",
-          "Acknowledgement",
-          "Refusal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ascent",
-      "improvement"
-    ],
-    "SYNONYMS": [
-      "Fall",
-      "Downslope",
-      "Declivity",
       "Descent",
       "Declension"
     ]
@@ -13106,31 +12189,6 @@
       "Decorativeness"
     ]
   },
-  "DECORATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who decorates",
-        [
-          "Artist",
-          "Creative person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Room decorator",
-      "Ornamentalist",
-      "House decorator",
-      "Decorator",
-      "Designer"
-    ]
-  },
   "DECOROUS": {
     "MEANINGS": {
       "1": [
@@ -13289,64 +12347,6 @@
       "Decoupage"
     ]
   },
-  "DECOUPLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "regard as unconnected",
-        [
-          "Distinguish",
-          "Separate",
-          "Differentiate",
-          "Secern",
-          "Secernate",
-          "Severalize",
-          "Severalise",
-          "Tell",
-          "Tell apart"
-        ],
-        [
-          "you must dissociate these two events!",
-          "decouple our foreign policy from ideology"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "eliminate airborne shock waves from (an explosive)",
-        [
-          "Extinguish",
-          "Eliminate",
-          "Get rid of",
-          "Do away with"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "reduce or eliminate the coupling of (one circuit or part to another)",
-        [
-          "Extinguish",
-          "Eliminate",
-          "Get rid of",
-          "Do away with"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "couple",
-      "associate"
-    ],
-    "SYNONYMS": [
-      "Decouple",
-      "Uncouple",
-      "Dissociate"
-    ]
-  },
   "DECREASE": {
     "MEANINGS": {
       "1": [
@@ -13489,31 +12489,6 @@
       "Rule",
       "Rescript",
       "Fiat"
-    ]
-  },
-  "DECREPIT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking bodily or muscular strength or vitality",
-        [
-
-        ],
-        [
-          "a feeble old woman",
-          "her body looked sapless"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Infirm",
-      "Weakly",
-      "Sapless",
-      "Woebegone",
-      "Creaky"
     ]
   },
   "DECREPITATE": {
@@ -13744,54 +12719,6 @@
       "Intersecting"
     ]
   },
-  "DEDICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "open to public use, as of a highway, park, or building",
-        [
-          "Inaugurate",
-          "Kick off"
-        ],
-        [
-          "The Beauty Queen spends her time dedicating parks and nursing homes"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "inscribe or address by way of compliment",
-        [
-          "Give",
-          "Render"
-        ],
-        [
-          "She dedicated her book to her parents"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "set apart to sacred uses with solemn rites, of a church",
-        [
-          "Assign",
-          "Specify",
-          "Set apart"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Devote",
-      "Dedicate",
-      "Commit",
-      "Consecrate",
-      "Give"
-    ]
-  },
   "DEDICATED": {
     "MEANINGS": {
       "1": [
@@ -14016,54 +12943,6 @@
     ],
     "SYNONYMS": [
       "Deductible"
-    ]
-  },
-  "DEDUCTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an amount or percentage deducted",
-        [
-          "Allowance",
-          "Adjustment"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "something that is inferred (deduced or entailed or implied)",
-        [
-          "Inference",
-          "Illation"
-        ],
-        [
-          "his resignation had political implications"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "reasoning from the general to the particular (or from cause to effect)",
-        [
-          "Reasoning",
-          "Logical thinking",
-          "Abstract thought"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "addition"
-    ],
-    "SYNONYMS": [
-      "Implication",
-      "Synthesis",
-      "Deductive reasoning",
-      "Price reduction",
-      "Tax deduction"
     ]
   },
   "DEDUCTIVE": {
@@ -14400,41 +13279,6 @@
       "Deep-eyed"
     ]
   },
-  "DEEPEN": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make deeper",
-        [
-          "Enlarge"
-        ],
-        [
-          "They deepened the lake so that bigger pleasure boats could use it"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "become deeper in tone",
-        [
-          "Change"
-        ],
-        [
-          "His voice began to change when he was 12 years old",
-          "Her voice deepened when she whispered the password"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deepen",
-      "Heighten",
-      "Compound",
-      "Intensify",
-      "Change"
-    ]
-  },
   "DEEPENING": {
     "MEANINGS": {
       "1": [
@@ -14503,65 +13347,6 @@
     ],
     "SYNONYMS": [
       "Deep-laid"
-    ]
-  },
-  "DEEPLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "to a great depth; far down",
-        [
-
-        ],
-        [
-          "dived deeply",
-          "dug deep"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Profoundly",
-      "Deeply",
-      "Deep"
-    ]
-  },
-  "DEEPNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being physically deep",
-        [
-          "Depth",
-          "Deepness"
-        ],
-        [
-          "the profundity of the mine was almost a mile"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a low pitch that is loud and voluminous",
-        [
-          "Low pitch",
-          "Low frequency"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "shallowness"
-    ],
-    "SYNONYMS": [
-      "Astuteness",
-      "Depth",
-      "Deepness",
-      "Profundity",
-      "Profoundness"
     ]
   },
   "DEEP-ROOTED": {
@@ -16535,57 +15320,6 @@
       "Definable"
     ]
   },
-  "DEFINE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "give a definition for the meaning of a word",
-        [
-          "Specify",
-          "Set",
-          "Determine",
-          "Define",
-          "Fix",
-          "Limit"
-        ],
-        [
-          "Define `sadness'"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "determine the nature of",
-        [
-          "Characterize",
-          "Characterise"
-        ],
-        [
-          "What defines a good wine?"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "show the form or outline of",
-        [
-          "Show"
-        ],
-        [
-          "The tree was clearly defined by the light",
-          "The camera could define the smallest object"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Delimitate",
-      "Fix",
-      "Set",
-      "Determine",
-      "Delimit"
-    ]
-  },
   "DEFINED": {
     "MEANINGS": {
       "1": [
@@ -16948,40 +15682,6 @@
     ],
     "SYNONYMS": [
       "Deflator"
-    ]
-  },
-  "DEFLECT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "turn from a straight course, fixed direction, or line of interest",
-        [
-          "Turn"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "turn aside and away from an initial or intended course",
-        [
-          "Turn"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Head off",
-      "Bend",
-      "Avert",
-      "Forfend",
-      "Deflect"
     ]
   },
   "DEFLECTION": {
@@ -17374,30 +16074,6 @@
       "Deform"
     ]
   },
-  "DEFORMATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "alteration in the shape or dimensions of an object as a result of the application of stress to it",
-        [
-          "Change",
-          "Alteration",
-          "Modification"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Contortion",
-      "Distortion",
-      "Deformation"
-    ]
-  },
   "DEFORMATIONAL": {
     "MEANINGS": {
       "1": [
@@ -17583,28 +16259,6 @@
       "Dexterous",
       "Deft",
       "Dextrous"
-    ]
-  },
-  "DEFTLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a deft manner",
-        [
-
-        ],
-        [
-          "Lois deftly removed her scarf"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dextrously",
-      "Deftly",
-      "Dexterously"
     ]
   },
   "DEFUNCT": {
@@ -19082,33 +17736,6 @@
       "Scrumptious"
     ]
   },
-  "DELEGACY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the appointment of a delegate",
-        [
-          "Appointment",
-          "Assignment",
-          "Designation",
-          "Naming"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mission",
-      "Delegation",
-      "Agency",
-      "Representation",
-      "Delegacy"
-    ]
-  },
   "DELEGATE": {
     "MEANINGS": {
       "1": [
@@ -19219,54 +17846,6 @@
       "Injurious",
       "Deleterious",
       "Hurtful"
-    ]
-  },
-  "DELETION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(genetics) the loss or absence of one or more nucleotides from a chromosome",
-        [
-          "Mutation",
-          "Genetic mutation",
-          "Chromosomal mutation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the omission that is made when an editorial change shortens a written passage",
-        [
-          "Editing",
-          "Redaction"
-        ],
-        [
-          "an editor's deletions frequently upset young authors",
-          "both parties agreed on the excision of the proposed clause"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of deleting something written or printed",
-        [
-          "Removal",
-          "Remotion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excision",
-      "Omission",
-      "Cut",
-      "Deletion"
     ]
   },
   "DELF": {
@@ -19461,55 +18040,6 @@
     ],
     "SYNONYMS": [
       "Delible"
-    ]
-  },
-  "DELICACY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "refined taste; tact",
-        [
-          "Taste",
-          "Appreciation",
-          "Discernment",
-          "Perceptiveness"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "smallness of stature",
-        [
-          "Smallness",
-          "Littleness"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "subtly skillful handling of a situation",
-        [
-          "Tact",
-          "Tactfulness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kickshaw",
-      "Airiness",
-      "Finesse",
-      "Daintiness",
-      "Slightness"
     ]
   },
   "DELICATE": {
@@ -19846,42 +18376,6 @@
       "Siren"
     ]
   },
-  "DELINEATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "trace the shape of",
-        [
-          "Draw"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "describe in vivid detail",
-        [
-          "Describe",
-          "Depict",
-          "Draw"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "undelineated"
-    ],
-    "SYNONYMS": [
-      "Delimitate",
-      "Line",
-      "Delineated",
-      "Describe",
-      "Represented"
-    ]
-  },
   "DELINEATED": {
     "MEANINGS": {
       "1": [
@@ -19904,30 +18398,6 @@
       "Delineated",
       "Describe",
       "Represented"
-    ]
-  },
-  "DELINEATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a drawing of the outlines of forms or objects",
-        [
-          "Drawing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Picture",
-      "Delineation",
-      "Word picture",
-      "Characterization",
-      "Portrayal"
     ]
   },
   "DELINEATIVE": {
@@ -20158,34 +18628,6 @@
       "Deliriously"
     ]
   },
-  "DELIRIUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a usually brief state of excitement and mental confusion often accompanied by hallucinations",
-        [
-          "Mental disorder",
-          "Mental disturbance",
-          "Disturbance",
-          "Psychological disorder",
-          "Folie"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hysteria",
-      "Frenzy",
-      "Delirium",
-      "Craze",
-      "Fury"
-    ]
-  },
   "DELIST": {
     "MEANINGS": {
       "1": [
@@ -20332,35 +18774,6 @@
     ],
     "SYNONYMS": [
       "Deliverable"
-    ]
-  },
-  "DELIVERER": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a person who gives up or transfers money or goods",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Christ",
-      "Saviour",
-      "Redeemer",
-      "Delivery boy",
-      "Jesus christ"
     ]
   },
   "DELIVERY": {
@@ -21885,27 +20298,6 @@
       "Demystify"
     ]
   },
-  "DEMITASSE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small coffee cup; for serving black coffee",
-        [
-          "Coffee cup"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Demitasse",
-      "Cafe noir"
-    ]
-  },
   "DEMYTHOLOGIZATION": {
     "MEANINGS": {
       "1": [
@@ -22460,56 +20852,6 @@
       "Destroy"
     ]
   },
-  "DEMOLITION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of demolishing",
-        [
-          "Destruction",
-          "Devastation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wipeout",
-      "Demolition",
-      "Destruction"
-    ]
-  },
-  "DEMON": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "someone extremely diligent or skillful",
-        [
-          "Actor",
-          "Doer",
-          "Worker"
-        ],
-        [
-          "he worked like a demon to finish the job on time",
-          "she's a demon at math"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ogre",
-      "Daemon",
-      "Fiend",
-      "Daimon",
-      "Monster"
-    ]
-  },
   "DEMONETIZATION": {
     "MEANINGS": {
       "1": [
@@ -22760,32 +21102,6 @@
       "Provably"
     ]
   },
-  "DEMONSTRATE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "march in protest; take part in a demonstration",
-        [
-          "Protest",
-          "Resist",
-          "Dissent"
-        ],
-        [
-          "Thousands demonstrated against globalization during the meeting of the most powerful economic nations in Seattle"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disprove"
-    ],
-    "SYNONYMS": [
-      "Exhibit",
-      "Present",
-      "Demo",
-      "March",
-      "Attest"
-    ]
-  },
   "DEMONSTRATED": {
     "MEANINGS": {
       "1": [
@@ -22808,63 +21124,6 @@
       "Demonstrated",
       "Demo",
       "March"
-    ]
-  },
-  "DEMONSTRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a show of military force or preparedness",
-        [
-          "Show"
-        ],
-        [
-          "he confused the enemy with feints and demonstrations"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a public display of group feelings (usually of a political nature)",
-        [
-          "Protest",
-          "Objection",
-          "Dissent"
-        ],
-        [
-          "there were violent demonstrations against the war"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "proof by a process of argument or a series of proposition proving an asserted conclusion",
-        [
-          "Proof"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a visual presentation showing how something works",
-        [
-          "Visual communication"
-        ],
-        [
-          "the lecture was accompanied by dramatic demonstrations",
-          "the lecturer shot off a pistol as a demonstration of the startle response"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Demo",
-      "Presentation",
-      "Monstrance",
-      "Demonstration",
-      "Manifestation"
     ]
   },
   "DEMONSTRATIVE": {
@@ -23029,37 +21288,6 @@
     "SYNONYMS": [
       "Demoralisation",
       "Demoralization"
-    ]
-  },
-  "DEMORALIZE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "confuse or put into disorder",
-        [
-          "Confuse",
-          "Throw",
-          "Fox",
-          "Befuddle",
-          "Fuddle",
-          "Bedevil",
-          "Confound",
-          "Discombobulate"
-        ],
-        [
-          "the boss's behavior demoralized everyone in the office"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "elate"
-    ],
-    "SYNONYMS": [
-      "Debauch",
-      "Deject",
-      "Vitiate",
-      "Misdirect",
-      "Dismay"
     ]
   },
   "DEMORALIZED": {
@@ -23416,64 +21644,6 @@
     ],
     "SYNONYMS": [
       "Demurrage"
-    ]
-  },
-  "DEMURRER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) any pleading that attacks the legal sufficiency of the opponent's pleadings",
-        [
-          "Pleading"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "prosecution"
-    ],
-    "SYNONYMS": [
-      "Denial",
-      "Demurrer",
-      "Defence",
-      "Demurral",
-      "Demur"
-    ]
-  },
-  "DEN": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a unit of 8 to 10 cub scouts",
-        [
-          "Unit",
-          "Social unit"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a room that is comfortable and secluded",
-        [
-          "Room"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hideout",
-      "Den",
-      "Hideaway",
-      "Lair"
     ]
   },
   "DENATIONALIZATION": {
@@ -24170,32 +22340,6 @@
       "Deprecation"
     ]
   },
-  "DENIM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a coarse durable twill-weave cotton fabric",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Denim",
-      "Dungaree",
-      "Jean",
-      "Blue jean"
-    ]
-  },
   "DENITRIFY": {
     "MEANINGS": {
       "1": [
@@ -24215,32 +22359,6 @@
     ],
     "SYNONYMS": [
       "Denitrify"
-    ]
-  },
-  "DENIZEN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a plant or animal naturalized in a region",
-        [
-          "Organism",
-          "Being"
-        ],
-        [
-          "denizens of field and forest",
-          "denizens of the deep"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Denizen",
-      "Indweller",
-      "Habitant",
-      "Inhabitant",
-      "Dweller"
     ]
   },
   "DENMARK": {
@@ -24360,29 +22478,6 @@
     ],
     "SYNONYMS": [
       "Denominational"
-    ]
-  },
-  "DENOMINATIONALISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the tendency, in Protestantism, to separate into religious denominations or to advocate such separations",
-        [
-          "Inclination",
-          "Disposition",
-          "Tendency"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sectarianism",
-      "Denominationalism"
     ]
   },
   "DENOMINATIONALLY": {
@@ -24659,30 +22754,6 @@
       "Obtuse",
       "Dull",
       "Slow"
-    ]
-  },
-  "DENSELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a concentrated manner",
-        [
-
-        ],
-        [
-          "old houses are often so densely packed that perhaps three or four have to be demolished for every new one built",
-          "a thickly populated area"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "thinly"
-    ],
-    "SYNONYMS": [
-      "Densely",
-      "Obtusely",
-      "Dumbly",
-      "Thickly"
     ]
   },
   "DENSENESS": {
@@ -25058,29 +23129,6 @@
       "Odontology"
     ]
   },
-  "DENTITION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the kind and number and arrangement of teeth (collectively) in a person or animal",
-        [
-          "Set"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Odontiasis",
-      "Teeth",
-      "Teething",
-      "Dentition"
-    ]
-  },
   "DENTURE": {
     "MEANINGS": {
       "1": [
@@ -25374,46 +23422,6 @@
       "Gerard depardieu"
     ]
   },
-  "DEPART": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "leave",
-        [
-          "Leave",
-          "Go forth",
-          "Go away"
-        ],
-        [
-          "The family took off for Florida"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "go away or leave",
-        [
-          "Leave",
-          "Go forth",
-          "Go away"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "conform",
-      "come",
-      "stay"
-    ],
-    "SYNONYMS": [
-      "Set forth",
-      "Quit",
-      "Pull up stakes",
-      "Take leave",
-      "Go"
-    ]
-  },
   "DEPARTER": {
     "MEANINGS": {
       "1": [
@@ -25599,57 +23607,6 @@
       "Dependability",
       "Reliableness",
       "Dependableness"
-    ]
-  },
-  "DEPENDABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "worthy of being depended on",
-        [
-
-        ],
-        [
-          "a dependable worker",
-          "an honest working stiff",
-          "a reliable sourcSFLe of information",
-          "he was true to his word",
-          "I would be true for there are those who trust me"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "consistent in performance or behavior",
-        [
-
-        ],
-        [
-          "dependable in one's habits",
-          "a steady-going family man"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "financially sound",
-        [
-
-        ],
-        [
-          "a good investment",
-          "a secure investment"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unreliable",
-      "undependable"
-    ],
-    "SYNONYMS": [
-      "Rock-steady",
-      "Honest",
-      "Secure",
-      "True",
-      "Dependable"
     ]
   },
   "DEPENDANT": {
@@ -25877,31 +23834,6 @@
       "Describe"
     ]
   },
-  "DEPICTION": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "representation by drawing or painting etc",
-        [
-          "Pictorial representation",
-          "Picturing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Picture",
-      "Delineation",
-      "Word picture",
-      "Portraying",
-      "Depicting"
-    ]
-  },
   "DEPIGMENTATION": {
     "MEANINGS": {
       "1": [
@@ -25921,30 +23853,6 @@
     ],
     "SYNONYMS": [
       "Depigmentation"
-    ]
-  },
-  "DEPILATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of removing hair (as from an animal skin)",
-        [
-          "Cleaning",
-          "Cleansing",
-          "Cleanup"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hairlessness",
-      "Depilation",
-      "Epilation"
     ]
   },
   "DEPILATORY": {
@@ -26394,32 +24302,6 @@
       "Depopulation"
     ]
   },
-  "DEPORTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the expulsion from a country of an undesirable alien",
-        [
-          "Ejection",
-          "Exclusion",
-          "Expulsion",
-          "Riddance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deportation",
-      "Exile",
-      "Transportation",
-      "Expatriation"
-    ]
-  },
   "DEPOSE": {
     "MEANINGS": {
       "1": [
@@ -26644,31 +24526,6 @@
       "Reprobate"
     ]
   },
-  "DEPRAVITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a corrupt or depraved or degenerate act or practice",
-        [
-          "Transgression",
-          "Evildoing"
-        ],
-        [
-          "the various turpitudes of modern society"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Putrefaction",
-      "Degeneracy",
-      "Corruption",
-      "Turpitude",
-      "Depravity"
-    ]
-  },
   "DEPRECATE": {
     "MEANINGS": {
       "1": [
@@ -26738,30 +24595,6 @@
       "Deprecation"
     ]
   },
-  "DEPRECATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "given to expressing disapproval",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Depreciative",
-      "Belittling",
-      "Slighting",
-      "Deprecatory",
-      "Deprecating"
-    ]
-  },
   "DEPRECATIVELY": {
     "MEANINGS": {
       "1": [
@@ -26780,43 +24613,6 @@
     ],
     "SYNONYMS": [
       "Deprecatively"
-    ]
-  },
-  "DEPRECIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "lower the value of something",
-        [
-          "Devalue"
-        ],
-        [
-          "The Fed depreciated the dollar once again"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "lose in value",
-        [
-          "Decrease",
-          "Diminish",
-          "Lessen",
-          "Fall"
-        ],
-        [
-          "The dollar depreciated again"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "appreciate"
-    ],
-    "SYNONYMS": [
-      "Undervalue",
-      "Devaluate",
-      "Devalue",
-      "Depreciate",
-      "Deprecate"
     ]
   },
   "DEPRECIATING": {
@@ -27413,31 +25209,6 @@
       "Delegacy"
     ]
   },
-  "DEPUTE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "appoint as a substitute",
-        [
-          "Appoint",
-          "Charge"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deputize",
-      "Delegate",
-      "Assign",
-      "Depute",
-      "Deputise"
-    ]
-  },
   "DEPUTY": {
     "MEANINGS": {
       "1": [
@@ -27702,35 +25473,6 @@
       "Creaky",
       "Neglectful",
       "Abandoned"
-    ]
-  },
-  "DERELICTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "willful negligence",
-        [
-          "Negligence",
-          "Carelessness",
-          "Neglect",
-          "Nonperformance",
-          "Wrongdoing",
-          "Wrongful conduct",
-          "Misconduct",
-          "Actus reus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Delinquency",
-      "Dereliction",
-      "Willful neglect"
     ]
   },
   "DEREQUISITION": {
@@ -28056,62 +25798,6 @@
       "Derivative"
     ]
   },
-  "DERIVE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "obtain",
-        [
-          "Obtain"
-        ],
-        [
-          "derive pleasure from one's garden"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "come from",
-        [
-          "Evolve"
-        ],
-        [
-          "The present name derives from an older form"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "develop or evolve from a latent or potential state",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "come from; be connected by a relationship of blood, for example",
-        [
-
-        ],
-        [
-          "She was descended from an old Italian noble family",
-          "he comes from humble origins"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Educe",
-      "Descend",
-      "Derive",
-      "Infer",
-      "Deduce"
-    ]
-  },
   "DERIVED": {
     "MEANINGS": {
       "1": [
@@ -28201,30 +25887,6 @@
     "SYNONYMS": [
       "Genus dermacentor",
       "Dermacentor"
-    ]
-  },
-  "DERMAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or located in the dermis",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Epidermal",
-      "Dermal",
-      "Cutaneal",
-      "Cuticular",
-      "Dermic"
     ]
   },
   "DERMAPTERA": {
@@ -28547,30 +26209,6 @@
     "SYNONYMS": [
       "Dermoptera",
       "Order dermoptera"
-    ]
-  },
-  "DEROGATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) the partial taking away of the effectiveness of a law; a partial repeal or abolition of a law",
-        [
-          "Abrogation",
-          "Repeal",
-          "Annulment"
-        ],
-        [
-          "any derogation of the common law is to be strictly construed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Depreciation",
-      "Derogation",
-      "Disparagement"
     ]
   },
   "DEROGATIVE": {
@@ -29302,29 +26940,6 @@
       "Descriptivism"
     ]
   },
-  "DESCRIPTOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a piece of stored information that is used to identify an item in an information storage and retrieval system",
-        [
-          "Information"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Signifier",
-      "Word form",
-      "Descriptor",
-      "Form"
-    ]
-  },
   "DESECRATE": {
     "MEANINGS": {
       "1": [
@@ -29945,31 +27560,6 @@
       "Doom"
     ]
   },
-  "DESIGNATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of designating or identifying something",
-        [
-          "Determination",
-          "Finding"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Denomination",
-      "Appointment",
-      "Naming",
-      "Appellative",
-      "Designation"
-    ]
-  },
   "DESIGNATIVE": {
     "MEANINGS": {
       "1": [
@@ -30034,32 +27624,6 @@
       "Project",
       "Design",
       "Plan"
-    ]
-  },
-  "DESIGNER": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a person who devises plots or intrigues",
-        [
-          "Planner",
-          "Contriver",
-          "Deviser"
-        ],
-        [
-          "he is believed to be the principal designer of the terrorist bombing attack"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fashion designer",
-      "Room decorator",
-      "Graphic designer",
-      "Couturier",
-      "Architect"
     ]
   },
   "DESIGNING": {
@@ -30433,31 +27997,6 @@
       "Desmodus"
     ]
   },
-  "DESOLATE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "crushed by grief",
-        [
-
-        ],
-        [
-          "depressed and desolate of soul",
-          "a low desolate wail"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abandon",
-      "Lay waste to",
-      "Desolate",
-      "Ravage",
-      "Desert"
-    ]
-  },
   "DESOLATELY": {
     "MEANINGS": {
       "1": [
@@ -30723,50 +28262,6 @@
       "Do-or-die"
     ]
   },
-  "DESPERATELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in intense despair",
-        [
-
-        ],
-        [
-          "the child clung desperately to her mother"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Urgently",
-      "Desperately"
-    ]
-  },
-  "DESPERATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "desperate recklessness",
-        [
-          "Recklessness",
-          "Foolhardiness",
-          "Rashness"
-        ],
-        [
-          "it was a policy of desperation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Desperation",
-      "Despair"
-    ]
-  },
   "DESPICABLE": {
     "MEANINGS": {
       "1": [
@@ -30858,30 +28353,6 @@
       "Scorned",
       "Contemn",
       "Despise"
-    ]
-  },
-  "DESPITE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "contemptuous disregard",
-        [
-          "Disregard",
-          "Neglect"
-        ],
-        [
-          "she wanted neither favor nor despite"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Despite",
-      "Disdain",
-      "Scorn",
-      "Contempt"
     ]
   },
   "DESPITEFUL": {
@@ -31297,31 +28768,6 @@
     "SYNONYMS": [
       "Destalinize",
       "Destalinise"
-    ]
-  },
-  "DESTINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the ultimate goal for which something is done",
-        [
-          "Goal",
-          "End"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Name and address",
-      "Terminus",
-      "Finish",
-      "Destination",
-      "Address"
     ]
   },
   "DESTINE": {
@@ -31862,112 +29308,6 @@
     ],
     "SYNONYMS": [
       "Detachable"
-    ]
-  },
-  "DETACHED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "being or feeling set or kept apart from others",
-        [
-
-        ],
-        [
-          "she felt detached from the group",
-          "could not remain the isolated figure he had been\"- Sherwood Anderson",
-          "thought of herself as alone and separated from the others",
-          "had a set-apart feeling"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "no longer connected or joined",
-        [
-
-        ],
-        [
-          "a detached part",
-          "on one side of the island was a hugh rock, almost detached",
-          "the separated spacecraft will return to their home bases"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "used of buildings; standing apart from others",
-        [
-
-        ],
-        [
-          "detached houses",
-          "a detached garage"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "lacking affection or warm feeling",
-        [
-
-        ],
-        [
-          "an uncaring person"
-        ]
-      ],
-      "6": [
-        "Adjective",
-        "not fixed in position",
-        [
-
-        ],
-        [
-          "the detached shutter fell on him",
-          "he pulled his arm free and ran"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "attach",
-      "attached"
-    ],
-    "SYNONYMS": [
-      "Separated",
-      "Detached",
-      "Set-apart",
-      "Free",
-      "Come off"
-    ]
-  },
-  "DETACHMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of releasing from an attachment or connection",
-        [
-          "Separation"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a small unit of troops of special composition",
-        [
-          "Army unit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Detachment",
-      "Separation",
-      "Insulation",
-      "Withdrawal",
-      "Insularism"
     ]
   },
   "DETAIL": {
@@ -32885,31 +30225,6 @@
       "Unshakably"
     ]
   },
-  "DETERMINER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one of a limited class of noun modifiers that determine the referents of noun phrases",
-        [
-          "Function word",
-          "Closed-class word"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Causal factor",
-      "Determiner",
-      "Determinative",
-      "Clincher",
-      "Determinant"
-    ]
-  },
   "DETERMINISM": {
     "MEANINGS": {
       "1": [
@@ -32949,31 +30264,6 @@
     ],
     "SYNONYMS": [
       "Deterministic"
-    ]
-  },
-  "DETERRENCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act or process of discouraging actions or preventing occurrences by instilling fear or doubt or anxiety",
-        [
-          "Hindrance",
-          "Hinderance",
-          "Interference"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "incentive"
-    ],
-    "SYNONYMS": [
-      "Determent",
-      "Deterrence",
-      "Disincentive",
-      "Intimidation"
     ]
   },
   "DETERRENT": {
@@ -33063,53 +30353,6 @@
     ],
     "SYNONYMS": [
       "Detick"
-    ]
-  },
-  "DETONATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "burst and release energy as through a violent chemical or physical reaction",
-        [
-
-        ],
-        [
-          "the bomb detonated at noon",
-          "The Molotov cocktail exploded"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Detonate",
-      "Explode",
-      "Blow up",
-      "Set off"
-    ]
-  },
-  "DETONATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of detonating an explosive",
-        [
-          "Explosion",
-          "Burst"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Detonation",
-      "Explosion",
-      "Blowup"
     ]
   },
   "DETONATIVE": {
@@ -33451,31 +30694,6 @@
       "Harmfully"
     ]
   },
-  "DETRITUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "loose material (stone fragments and silt etc) that is worn away from rocks",
-        [
-          "Material",
-          "Stuff"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Debris",
-      "Junk",
-      "Dust",
-      "Rubble",
-      "Detritus"
-    ]
-  },
   "DETROIT": {
     "MEANINGS": {
       "1": [
@@ -33796,35 +31014,6 @@
       "Devanagari script",
       "Devanagari",
       "Nagari"
-    ]
-  },
-  "DEVASTATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "overwhelm or overpower",
-        [
-          "Overwhelm",
-          "Overpower",
-          "Sweep over",
-          "Whelm",
-          "Overcome",
-          "Overtake"
-        ],
-        [
-          "He was devastated by his grief when his son died"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lay waste to",
-      "Desolate",
-      "Ravage",
-      "Devastate",
-      "Waste"
     ]
   },
   "DEVASTATION": {
@@ -34564,47 +31753,6 @@
       "Gimmick"
     ]
   },
-  "DEVIL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "coat or stuff with a spicy paste",
-        [
-          "Cook",
-          "Fix",
-          "Ready",
-          "Make",
-          "Prepare"
-        ],
-        [
-          "devilled eggs"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a word used in exclamations of confusion",
-        [
-          "Exclamation",
-          "Exclaiming"
-        ],
-        [
-          "what the devil",
-          "the deuce with it",
-          "the dickens you say"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beelzebub",
-      "Satan",
-      "Dickens",
-      "The tempter",
-      "Hellion"
-    ]
-  },
   "DEVILISH": {
     "MEANINGS": {
       "1": [
@@ -34642,30 +31790,6 @@
       "Mephistophelean"
     ]
   },
-  "DEVILISHLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a playfully devilish manner",
-        [
-
-        ],
-        [
-          "the socialists are further handicapped if they believe that capitalists are not only wicked but also devilishly clever"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Devilish",
-      "Madly",
-      "Diabolically",
-      "Fiendishly",
-      "Deadly"
-    ]
-  },
   "DEVILIZE": {
     "MEANINGS": {
       "1": [
@@ -34689,30 +31813,6 @@
       "Devilize",
       "Diabolise",
       "Devilise"
-    ]
-  },
-  "DEVIL-MAY-CARE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by a carefree unconventionality or disreputableness",
-        [
-
-        ],
-        [
-          "a cocktail party given by some...raffish bachelors\"- Crary Moore"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Slaphappy",
-      "Carefree",
-      "Freewheeling",
-      "Devil-may-care",
-      "Raffish"
     ]
   },
   "DEVILTRY": {
@@ -35118,32 +32218,6 @@
       "Devoir"
     ]
   },
-  "DEVOLUTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the delegation of authority (especially from a central to a regional government)",
-        [
-          "Delegating",
-          "Delegation",
-          "Relegating",
-          "Relegation",
-          "Deputation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "evolution"
-    ],
-    "SYNONYMS": [
-      "Devolvement",
-      "Degeneration",
-      "Devolution"
-    ]
-  },
   "DEVOLVE": {
     "MEANINGS": {
       "1": [
@@ -35239,30 +32313,6 @@
       "Age of fishes",
       "Devonian period",
       "Devonian"
-    ]
-  },
-  "DEVOTE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "set aside or apart for a specific purpose or use",
-        [
-          "Reserve"
-        ],
-        [
-          "this land was devoted to mining"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Devote",
-      "Dedicate",
-      "Commit",
-      "Pay",
-      "Consecrate"
     ]
   },
   "DEVOTED": {
@@ -35555,28 +32605,6 @@
     ],
     "SYNONYMS": [
       "Dew"
-    ]
-  },
-  "DEWAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Scottish chemist and physicist noted for his work in cryogenics and his invention of the Dewar flask (1842-1923)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sir james dewar",
-      "Dewar",
-      "Dewar flask"
     ]
   },
   "DEWBERRY": {
@@ -37168,31 +34196,6 @@
       "Diamagnetism"
     ]
   },
-  "DIAMANTE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fabric covered with glittering ornaments such as sequins or rhinestones",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spangle",
-      "Diamante",
-      "Sequin"
-    ]
-  },
   "DIAMANTINE": {
     "MEANINGS": {
       "1": [
@@ -37264,33 +34267,6 @@
       "Diametric",
       "Diametrical",
       "Diametral"
-    ]
-  },
-  "DIAMETRIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by opposite extremes; completely opposed",
-        [
-
-        ],
-        [
-          "in diametric contradiction to his claims",
-          "diametrical (or opposite) points of view",
-          "opposite meanings",
-          "extreme and indefensible polar positions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Diametric",
-      "Diametrical",
-      "Opposite",
-      "Diametral",
-      "Polar"
     ]
   },
   "DIAMETRICALLY": {
@@ -38518,28 +35494,6 @@
       "Dicarboxylic"
     ]
   },
-  "DICE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "play dice",
-        [
-          "Gamble"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dice",
-      "Cube",
-      "Die"
-    ]
-  },
   "DICENTRA": {
     "MEANINGS": {
       "1": [
@@ -38947,30 +35901,6 @@
       "Dickey-bird"
     ]
   },
-  "DICKENS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "English writer whose novels depicted and criticized social injustice (1812-1870)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deuce",
-      "Dickens",
-      "Charles john huffam dickens",
-      "Charles dickens",
-      "Devil"
-    ]
-  },
   "DICKENSIAN": {
     "MEANINGS": {
       "1": [
@@ -39315,45 +36245,6 @@
       "Order",
       "Prescribe",
       "Dictate"
-    ]
-  },
-  "DICTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "speech intended for reproduction in writing",
-        [
-          "Speech",
-          "Speech communication",
-          "Spoken communication",
-          "Spoken language",
-          "Language",
-          "Voice communication",
-          "Oral communication"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "matter that has been dictated and transcribed; a dictated passage",
-        [
-          "Matter"
-        ],
-        [
-          "he signed and mailed his dictation without bothering to read it"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bid",
-      "Command",
-      "Bidding",
-      "Dictation"
     ]
   },
   "DICTATOR": {
@@ -40591,57 +37482,6 @@
       "Differentially"
     ]
   },
-  "DIFFERENTIATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "calculate a derivative; take the derivative",
-        [
-          "Calculate",
-          "Cipher",
-          "Cypher",
-          "Compute",
-          "Work out",
-          "Reckon",
-          "Figure"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "become different during development",
-        [
-          "Develop"
-        ],
-        [
-          "cells differentiate"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "become distinct and acquire a different character",
-        [
-          "Dissimilate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dedifferentiate",
-      "integrate"
-    ],
-    "SYNONYMS": [
-      "Secern",
-      "Separate",
-      "Severalize",
-      "Tell apart",
-      "Differentiate"
-    ]
-  },
   "DIFFERENTIATED": {
     "MEANINGS": {
       "1": [
@@ -40789,49 +37629,6 @@
       "Unmanageable",
       "Difficult",
       "Hard"
-    ]
-  },
-  "DIFFICULTY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a factor causing trouble in achieving a positive result or tending to produce a negative result",
-        [
-          "Cognitive factor"
-        ],
-        [
-          "serious difficulties were encountered in obtaining a pure reagent"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a condition or state of affairs almost beyond one's ability to deal with and requiring great effort to bear or overcome",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-          "grappling with financial difficulties"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the quality of being difficult",
-        [
-          "Quality"
-        ],
-        [
-          "they agreed about the difficulty of the climb"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ease"
-    ],
-    "SYNONYMS": [
-      "Trouble",
-      "Difficultness",
-      "Difficulty"
     ]
   },
   "DIFFIDENCE": {
@@ -41702,30 +38499,6 @@
       "Digitalization"
     ]
   },
-  "DIGITALIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "administer digitalis such that the patient benefits maximally without getting adverse effects",
-        [
-          "Administer",
-          "Dispense"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Digitalise",
-      "Digitise",
-      "Digitalize",
-      "Digitize"
-    ]
-  },
   "DIGITALLY": {
     "MEANINGS": {
       "1": [
@@ -41930,29 +38703,6 @@
     ],
     "SYNONYMS": [
       "Digitoxin"
-    ]
-  },
-  "DIGNIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "raise the status of",
-        [
-          "Lift",
-          "Raise",
-          "Elevate"
-        ],
-        [
-          "I shall not dignify this insensitive remark with an answer"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ennoble",
-      "Dignify"
     ]
   },
   "DIGNIFIED": {
@@ -42402,28 +39152,6 @@
       "Dilapidate",
       "Decay",
       "Crumble"
-    ]
-  },
-  "DILAPIDATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the process of becoming dilapidated",
-        [
-          "Decay"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Decrepitude",
-      "Ruin",
-      "Dilapidation"
     ]
   },
   "DILATATION": {
@@ -43224,32 +39952,6 @@
       "Dimetrodon"
     ]
   },
-  "DIMINISH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "lessen the authority, dignity, or reputation of",
-        [
-          "Decrease",
-          "Lessen",
-          "Minify"
-        ],
-        [
-          "don't belittle your colleagues"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "increase"
-    ],
-    "SYNONYMS": [
-      "Fall",
-      "Decrease",
-      "Diminish",
-      "Belittle",
-      "Lessen"
-    ]
-  },
   "DIMINISHED": {
     "MEANINGS": {
       "1": [
@@ -43308,31 +40010,6 @@
       "Diminish",
       "Diminishing",
       "Belittle"
-    ]
-  },
-  "DIMINUTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the statement of a theme in notes of lesser duration (usually half the length of the original)",
-        [
-          "Statement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "increase",
-      "augmentation"
-    ],
-    "SYNONYMS": [
-      "Diminution",
-      "Decrease",
-      "Decline",
-      "Step-down",
-      "Reduction"
     ]
   },
   "DIMINUTIVE": {
@@ -43726,32 +40403,6 @@
       "Dim-witted",
       "Simple",
       "Simple-minded"
-    ]
-  },
-  "DIN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "instill (into a person) by constant repetition",
-        [
-          "Inculcate",
-          "Instill",
-          "Infuse"
-        ],
-        [
-          "he dinned the lessons into his students"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blare",
-      "Din",
-      "Ruction",
-      "Rumpus",
-      "Blaring"
     ]
   },
   "DYNAMIC": {
@@ -46718,28 +43369,6 @@
       "Directional"
     ]
   },
-  "DIRECTIONALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of being directional or maintaining a direction",
-        [
-          "Spatial property",
-          "Spatiality"
-        ],
-        [
-          "the directionality of written English is from left to right"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Directivity",
-      "Directionality"
-    ]
-  },
   "DIRECTIVE": {
     "MEANINGS": {
       "1": [
@@ -47507,31 +44136,6 @@
       "Disenable"
     ]
   },
-  "DISABLING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "depriving of legal right; rendering legally disqualified",
-        [
-
-        ],
-        [
-          "certain disabling restrictions disqualified him for citizenship"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "enable",
-      "enabling"
-    ],
-    "SYNONYMS": [
-      "Incapacitating",
-      "Disqualifying",
-      "Invalid",
-      "Disable",
-      "Handicap"
-    ]
-  },
   "DISABUSE": {
     "MEANINGS": {
       "1": [
@@ -47680,28 +44284,6 @@
       "Ill-affected",
       "Alienate",
       "Disaffected"
-    ]
-  },
-  "DISAFFECTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "disloyalty to the government or to established authority",
-        [
-          "Disloyalty"
-        ],
-        [
-          "the widespread disaffection of the troops"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Estrangement",
-      "Alienation",
-      "Disaffection"
     ]
   },
   "DISAGREE": {
@@ -48353,31 +44935,6 @@
       "Disarm"
     ]
   },
-  "DISARRAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "untidiness (especially of clothing and appearance)",
-        [
-          "Untidiness",
-          "Messiness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "order"
-    ],
-    "SYNONYMS": [
-      "Disorderliness",
-      "Mental confusion",
-      "Confusion",
-      "Disarray",
-      "Confusedness"
-    ]
-  },
   "DISARRAYED": {
     "MEANINGS": {
       "1": [
@@ -48549,31 +45106,6 @@
     "SYNONYMS": [
       "Disassociation",
       "Dissociation"
-    ]
-  },
-  "DISASTER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an act that has disastrous consequences",
-        [
-          "Destruction",
-          "Devastation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tragedy",
-      "Calamity",
-      "Cataclysm",
-      "Disaster",
-      "Catastrophe"
     ]
   },
   "DISASTROUSLY": {
@@ -49039,55 +45571,6 @@
       "Pick out"
     ]
   },
-  "DISCERNMENT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "perception of that which is obscure",
-        [
-          "Perception"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Apprehension",
-      "Sagacity",
-      "Judgement",
-      "Savvy",
-      "Taste"
-    ]
-  },
-  "DISCERP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cut off from a whole",
-        [
-          "Cut"
-        ],
-        [
-          "His head was severed from his body",
-          "The soul discerped from the body"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dismember",
-      "Sever",
-      "Discerp",
-      "Lop",
-      "Take apart"
-    ]
-  },
   "DISCHARGE": {
     "MEANINGS": {
       "1": [
@@ -49508,33 +45991,6 @@
       "Disavowal"
     ]
   },
-  "DISCLOSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "disclose to view as by removing a cover",
-        [
-          "Uncover",
-          "Bring out",
-          "Unveil",
-          "Reveal"
-        ],
-        [
-          "The curtain rose to disclose a stunning set"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bring out",
-      "Disclose",
-      "Break",
-      "Let out",
-      "Give away"
-    ]
-  },
   "DISCLOSED": {
     "MEANINGS": {
       "1": [
@@ -49728,28 +46184,6 @@
       "Discolour"
     ]
   },
-  "DISCOLORATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of changing the natural color of something by making it duller or dingier or unnatural or faded",
-        [
-          "Change of color"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stain",
-      "Discoloration",
-      "Discolouration"
-    ]
-  },
   "DISCOMBOBULATED": {
     "MEANINGS": {
       "1": [
@@ -49923,30 +46357,6 @@
       "Disconcert"
     ]
   },
-  "DISCOMPOSURE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a temperament that is perturbed and lacking in composure",
-        [
-          "Disposition",
-          "Temperament"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "composure"
-    ],
-    "SYNONYMS": [
-      "Discomfiture",
-      "Discomposure",
-      "Disconcertment",
-      "Disconcertion"
-    ]
-  },
   "DISCONCERTING": {
     "MEANINGS": {
       "1": [
@@ -49990,96 +46400,6 @@
     ],
     "SYNONYMS": [
       "Disconcertingly"
-    ]
-  },
-  "DISCONNECT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make disconnected, disjoin or unfasten",
-        [
-          "Separate",
-          "Disunite",
-          "Divide",
-          "Part"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "plug_in",
-      "connect"
-    ],
-    "SYNONYMS": [
-      "Disconnection",
-      "Unplug",
-      "Disconnect",
-      "Gulf"
-    ]
-  },
-  "DISCONNECTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having been divided; having the unity destroyed",
-        [
-
-        ],
-        [
-          "Congress...gave the impression of...a confusing sum of disconnected local forces\"-Samuel Lubell",
-          "a league of disunited nations\"- E.B.White",
-          "a fragmented coalition",
-          "a split group"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "not plugged in or connected to a power source",
-        [
-
-        ],
-        [
-          "the iron is disconnected"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "plug_in",
-      "legato",
-      "connect"
-    ],
-    "SYNONYMS": [
-      "Staccato",
-      "Fragmented",
-      "Illogical",
-      "Disunited",
-      "Disconnected"
-    ]
-  },
-  "DISCONNECTION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of breaking a connection",
-        [
-          "Separation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "connectedness"
-    ],
-    "SYNONYMS": [
-      "Disconnection",
-      "Gulf",
-      "Disjuncture",
-      "Disconnectedness",
-      "Disjunction"
     ]
   },
   "DISCONTENT": {
@@ -50526,54 +46846,6 @@
       "Discountenance"
     ]
   },
-  "DISCOURAGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "deprive of courage or hope; take away hope from; cause to feel discouraged",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "encourage"
-    ],
-    "SYNONYMS": [
-      "Warn",
-      "Discourage",
-      "Monish",
-      "Deter",
-      "Admonish"
-    ]
-  },
-  "DISCOURAGED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking in resolution",
-        [
-
-        ],
-        [
-          "the accident left others discouraged about going there"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "encourage"
-    ],
-    "SYNONYMS": [
-      "Warn",
-      "Discourage",
-      "Demoralised",
-      "Monish",
-      "Deter"
-    ]
-  },
   "DISCOURAGEMENT": {
     "MEANINGS": {
       "1": [
@@ -50730,101 +47002,6 @@
     "SYNONYMS": [
       "Ungracious",
       "Discourteous"
-    ]
-  },
-  "DISCOURTESY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a manner that is rude and insulting",
-        [
-          "Manner",
-          "Personal manner"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a lack of politeness; a failure to show regard for others; wounding the feelings or others",
-        [
-          "Behavior",
-          "Behaviour",
-          "Conduct",
-          "Doings"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "courtesy"
-    ],
-    "SYNONYMS": [
-      "Offence",
-      "Discourtesy",
-      "Offensive activity",
-      "Rudeness",
-      "Disrespect"
-    ]
-  },
-  "DISCOVER": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make a discovery, make a new finding",
-        [
-          "Gestate",
-          "Conceive",
-          "Conceptualize",
-          "Conceptualise"
-        ],
-        [
-          "Roentgen discovered X-rays",
-          "Physicists believe they found a new elementary particle"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "make a discovery",
-        [
-          "Learn",
-          "Hear",
-          "Get word",
-          "Get wind",
-          "Pick up",
-          "Find out",
-          "Get a line",
-          "Discover",
-          "See"
-        ],
-        [
-          "She found that he had lied to her",
-          "The story is false, so far as I can discover"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "see for the first time; make a discovery",
-        [
-
-        ],
-        [
-          "Who discovered the North Pole?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Name",
-      "Chance upon",
-      "See",
-      "Get a line",
-      "Learn"
     ]
   },
   "DISCOVERY": {
@@ -51417,44 +47594,6 @@
       "Discriminative"
     ]
   },
-  "DISCRIMINATORY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "containing or implying a slight or showing prejudice",
-        [
-
-        ],
-        [
-          "discriminatory attitudes and practices",
-          "invidious comparisons"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "manifesting partiality",
-        [
-
-        ],
-        [
-          "a discriminatory tax",
-          "preferential tariff rates",
-          "preferential treatment",
-          "a preferential shop gives priority or advantage to union members in hiring or promoting"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unprejudiced"
-    ],
-    "SYNONYMS": [
-      "Prejudiced",
-      "Discriminative",
-      "Preferential",
-      "Invidious",
-      "Discriminatory"
-    ]
-  },
   "DISCURSIVELY": {
     "MEANINGS": {
       "1": [
@@ -51590,36 +47729,6 @@
       "Discussion",
       "Discourse",
       "Give-and-take"
-    ]
-  },
-  "DISDAINFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having or showing arrogant superiority to and disdain of those one views as unworthy",
-        [
-
-        ],
-        [
-          "some economists are disdainful of their colleagues in other social disciplines",
-          "haughty aristocrats",
-          "his lordly manners were offensive",
-          "walked with a prideful swagger",
-          "very sniffy about breaches of etiquette",
-          "his mother eyed my clothes with a supercilious air",
-          "a more swaggering mood than usual\"- W.L.Shirer"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overbearing",
-      "Swaggering",
-      "Haughty",
-      "Scornful",
-      "Prideful"
     ]
   },
   "DISDAINFULLY": {
@@ -52004,54 +48113,6 @@
       "Free",
       "Disengage",
       "Withdraw"
-    ]
-  },
-  "DISENGAGEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "to break off a military action with an enemy",
-        [
-          "Retreat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pullout",
-      "Disengagement",
-      "Detachment",
-      "Fallback"
-    ]
-  },
-  "DISENTANGLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "extricate from entanglement",
-        [
-          "Order"
-        ],
-        [
-          "Can you disentangle the cord?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "entangle",
-      "snarl"
-    ],
-    "SYNONYMS": [
-      "Unsnarl",
-      "Comb out",
-      "Untangle",
-      "Disencumber",
-      "Disembroil"
     ]
   },
   "DISENTANGLED": {
@@ -52933,28 +48994,6 @@
     "SYNONYMS": [
       "Put off",
       "Dishearten"
-    ]
-  },
-  "DISHEARTENMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a communication that leaves you disheartened or daunted",
-        [
-          "Discouragement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Discouragement",
-      "Disheartenment",
-      "Dismay"
     ]
   },
   "DISHED": {
@@ -53854,33 +49893,6 @@
       "Disintegrate"
     ]
   },
-  "DISINTEGRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a loss (or serious disruption) of organization in some system",
-        [
-          "Disability",
-          "Disablement",
-          "Handicap",
-          "Impairment"
-        ],
-        [
-          "a disintegration of personality"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Decay",
-      "Disintegration",
-      "Annihilation",
-      "Decomposition",
-      "Dissolution"
-    ]
-  },
   "DISINTEGRATIVE": {
     "MEANINGS": {
       "1": [
@@ -54143,41 +50155,6 @@
       "Dissociate",
       "Disassociate",
       "Disunite"
-    ]
-  },
-  "DISJOINTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "taken apart at the joints",
-        [
-
-        ],
-        [
-          "a disjointed fowl"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "separated at the joint",
-        [
-
-        ],
-        [
-          "a dislocated knee",
-          "a separated shoulder"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "join"
-    ],
-    "SYNONYMS": [
-      "Disjoin",
-      "Illogical",
-      "Separated",
-      "Confused",
-      "Divorce"
     ]
   },
   "DISJOINTEDLY": {
@@ -54724,28 +50701,6 @@
       "Dyslogistic"
     ]
   },
-  "DISLOYAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "deserting your allegiance or duty to leader or cause or principle",
-        [
-
-        ],
-        [
-          "disloyal aides revealed his indiscretions to the papers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "loyal",
-      "patriotic"
-    ],
-    "SYNONYMS": [
-      "Unpatriotic",
-      "Disloyal"
-    ]
-  },
   "DISLOYALLY": {
     "MEANINGS": {
       "1": [
@@ -54785,34 +50740,6 @@
     ],
     "SYNONYMS": [
       "Disloyalty"
-    ]
-  },
-  "DISMAY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "fill with apprehension or alarm; cause to be unpleasantly surprised",
-        [
-          "Frighten",
-          "Fright",
-          "Scare",
-          "Affright"
-        ],
-        [
-          "I was horrified at the thought of being late for my interview",
-          "The news of the executions horrified us"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "elate"
-    ],
-    "SYNONYMS": [
-      "Dismay",
-      "Cast down",
-      "Get down",
-      "Appall",
-      "Disheartenment"
     ]
   },
   "DISMALLY": {
@@ -55014,52 +50941,6 @@
       "Send away",
       "Give the sack",
       "Drop"
-    ]
-  },
-  "DISMISSAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "official notice that you have been fired from your job",
-        [
-          "Notice"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "permission to go; the sending away of someone",
-        [
-          "Permission"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the termination of someone's employment (leaving them free to depart)",
-        [
-          "Termination",
-          "Ending",
-          "Conclusion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dismissal",
-      "Sack",
-      "Judgement of dismissal",
-      "Liberation",
-      "Release"
     ]
   },
   "DISMISSIBLE": {
@@ -55287,36 +51168,6 @@
       "Disobey"
     ]
   },
-  "DISOBLIGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "ignore someone's wishes",
-        [
-          "Dismiss",
-          "Disregard",
-          "Brush aside",
-          "Brush off",
-          "Discount",
-          "Push aside",
-          "Ignore"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "oblige"
-    ],
-    "SYNONYMS": [
-      "Disoblige",
-      "Discommode",
-      "Incommode",
-      "Trouble",
-      "Inconvenience"
-    ]
-  },
   "DISOBLIGING": {
     "MEANINGS": {
       "1": [
@@ -55389,31 +51240,6 @@
       "Perturb",
       "Trouble",
       "Disquiet"
-    ]
-  },
-  "DISORDERED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "not arranged in order",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "order",
-      "ordered"
-    ],
-    "SYNONYMS": [
-      "Illogical",
-      "Disconnected",
-      "Perturb",
-      "Garbled",
-      "Unconnected"
     ]
   },
   "DISORDERLY": {
@@ -55645,30 +51471,6 @@
       "Disorient",
       "Disorientate",
       "Disorienting"
-    ]
-  },
-  "DISOWN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cast off",
-        [
-          "Reject"
-        ],
-        [
-          "She renounced her husband",
-          "The parents repudiated their son"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "bequeath"
-    ],
-    "SYNONYMS": [
-      "Disinherit",
-      "Disown",
-      "Repudiate",
-      "Renounce"
     ]
   },
   "DISOWNMENT": {
@@ -55987,27 +51789,6 @@
       "Despatch"
     ]
   },
-  "DISPATCHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "employee of a transportation company who controls the departures of vehicles according to weather conditions and in the interest of efficient service",
-        [
-          "Employee"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Starter",
-      "Dispatcher"
-    ]
-  },
   "DISPENSABILITY": {
     "MEANINGS": {
       "1": [
@@ -56115,32 +51896,6 @@
       "Dispensation"
     ]
   },
-  "DISPENSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "grant a dispensation; grant an exemption",
-        [
-          "Exempt",
-          "Relieve",
-          "Free"
-        ],
-        [
-          "I was dispensed from this terrible task"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deal out",
-      "Shell out",
-      "Dole out",
-      "Parcel out",
-      "Mete out"
-    ]
-  },
   "DISPENSED": {
     "MEANINGS": {
       "1": [
@@ -56217,54 +51972,6 @@
       "Dyspeptic",
       "Atrabilious",
       "Liverish"
-    ]
-  },
-  "DISPERSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "to cause to separate and go in different directions",
-        [
-          "Separate",
-          "Divide"
-        ],
-        [
-          "She waved her hand and scattered the crowds"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "move away from each other; ",
-        [
-          "Separate",
-          "Part",
-          "Split"
-        ],
-        [
-          "The crowds dispersed",
-          "The children scattered in all directions when the teacher approached"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "separate (light) into spectral rays",
-        [
-          "Separate"
-        ],
-        [
-          "the prosm disperses light"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spread out",
-      "Broadcast",
-      "Circulate",
-      "Dot",
-      "Spread"
     ]
   },
   "DISPERSED": {
@@ -56563,66 +52270,6 @@
       "Fire",
       "Send away",
       "Can"
-    ]
-  },
-  "DISPLACEMENT": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "(chemistry) a reaction in which an elementary substance displaces and sets free a constituent element from a compound",
-        [
-          "Chemical reaction",
-          "Reaction"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "(psychiatry) a defense mechanism that transfers affect or reaction from the original object to some more acceptable one",
-        [
-          "Defense mechanism",
-          "Defense reaction",
-          "Defence mechanism",
-          "Defence reaction",
-          "Defense",
-          "Defence"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "to move something from its natural environment",
-        [
-          "Movement"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "act of removing from office or employment",
-        [
-          "Rejection"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shift",
-      "Translation",
-      "Displacement reaction",
-      "Supplanting",
-      "Deracination"
     ]
   },
   "DISPLAY": {
@@ -57493,30 +53140,6 @@
       "Indispose"
     ]
   },
-  "DISQUIET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of seeming ill at ease",
-        [
-          "Discomposure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unhinge",
-      "Uneasiness",
-      "Perturb",
-      "Trouble",
-      "Anxiousness"
-    ]
-  },
   "DISQUIETED": {
     "MEANINGS": {
       "1": [
@@ -57857,29 +53480,6 @@
       "Disrespectfully"
     ]
   },
-  "DISRUPT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "throw into disorder",
-        [
-
-        ],
-        [
-          "This event disrupted the orderly process"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Break up",
-      "Disrupt",
-      "Cut off",
-      "Interrupt"
-    ]
-  },
   "DISRUPTED": {
     "MEANINGS": {
       "1": [
@@ -57902,30 +53502,6 @@
       "Disrupt",
       "Cut off",
       "Interrupt"
-    ]
-  },
-  "DISRUPTION": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the act of causing disorder",
-        [
-          "Disturbance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Interruption",
-      "Hurly burly",
-      "Break",
-      "Hoo-ha",
-      "Flutter"
     ]
   },
   "DISRUPTIVE": {
@@ -58112,41 +53688,6 @@
     ],
     "SYNONYMS": [
       "Dissection"
-    ]
-  },
-  "DISSEMBLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "hide under a false appearance",
-        [
-          "Disguise",
-          "Mask"
-        ],
-        [
-          "He masked his disappointment"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "behave unnaturally or affectedly",
-        [
-
-        ],
-        [
-          "She's just acting"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mask",
-      "Pretend",
-      "Act",
-      "Sham",
-      "Cloak"
     ]
   },
   "DISSEMINATION": {
@@ -58590,58 +54131,6 @@
       "Dissimulative"
     ]
   },
-  "DISSIPATE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "live a life of pleasure, especially with respect to alcoholic consumption",
-        [
-          "Live"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fool",
-      "Shoot",
-      "Dispel",
-      "Break up",
-      "Scatter"
-    ]
-  },
-  "DISSIPATED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "preoccupied with the pursuit of pleasure and especially games of chance",
-        [
-
-        ],
-        [
-          "led a dissipated life",
-          "a betting man",
-          "a card-playing son of a bitch",
-          "a gambling fool",
-          "sporting gents and their ladies"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Debauched",
-      "Spread out",
-      "Fool away",
-      "Riotous",
-      "Libertine"
-    ]
-  },
   "DISSIPATION": {
     "MEANINGS": {
       "1": [
@@ -58689,32 +54178,6 @@
       "Dissociable",
       "Separable",
       "Severable"
-    ]
-  },
-  "DISSOCIATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "to undergo a reversible or temporary breakdown of a molecule into simpler molecules or atoms",
-        [
-          "Decompose",
-          "Break up",
-          "Break down"
-        ],
-        [
-          "acids dissociate to give hydrogen ions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "associate"
-    ],
-    "SYNONYMS": [
-      "Divorce",
-      "Decouple",
-      "Dissociate",
-      "Disassociate",
-      "Disunite"
     ]
   },
   "DISSOCIATION": {
@@ -59069,31 +54532,6 @@
       "Thaw",
       "Dissolving",
       "Break up"
-    ]
-  },
-  "DISSONANCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "disagreeable sounds",
-        [
-          "Sound property"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "agreement",
-      "harmony"
-    ],
-    "SYNONYMS": [
-      "Disagreement",
-      "Racket",
-      "Noise",
-      "Dissonance",
-      "Dissension"
     ]
   },
   "DISSONATE": {
@@ -59544,41 +54982,6 @@
       "Distemper"
     ]
   },
-  "DISTEND": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to expand as it by internal pressure",
-        [
-          "Bloat"
-        ],
-        [
-          "The gas distended the animal's body"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "swell from or as if from internal pressure",
-        [
-          "Swell",
-          "Swell up",
-          "Intumesce",
-          "Tumefy",
-          "Tumesce"
-        ],
-        [
-          "The distended bellies of the starving cows"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dilate",
-      "Distend"
-    ]
-  },
   "DISTENSIBLE": {
     "MEANINGS": {
       "1": [
@@ -59597,29 +55000,6 @@
     ],
     "SYNONYMS": [
       "Distensible"
-    ]
-  },
-  "DISTENTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of expanding by pressure from within",
-        [
-          "Expansion",
-          "Enlargement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dilatation",
-      "Distension",
-      "Distention"
     ]
   },
   "DYSTHYMIA": {
@@ -59643,55 +55023,6 @@
     "SYNONYMS": [
       "Dysthymic depression",
       "Dysthymia"
-    ]
-  },
-  "DISTILL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "undergo the process of distillation",
-        [
-          "Change"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "extract by the process of distillation",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "distill the essence of this compound"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "give off (a liquid)",
-        [
-          "Exude",
-          "Exudate",
-          "Transude",
-          "Ooze out",
-          "Ooze"
-        ],
-        [
-          "The doctor distilled a few drops of disinfectant onto the wound"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sublimate",
-      "Extract",
-      "Make pure",
-      "Distil",
-      "Distill"
     ]
   },
   "DISTILLATE": {
@@ -59835,40 +55166,6 @@
       "Decided",
       "Trenchant",
       "Distinct"
-    ]
-  },
-  "DISTINCTION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a distinguishing quality",
-        [
-          "Quality"
-        ],
-        [
-          "it has the distinction of being the cheapest restaurant in town"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a distinguishing difference",
-        [
-          "Difference"
-        ],
-        [
-          "he learned the distinction between gold and lead"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Note",
-      "Differentiation",
-      "Preeminence",
-      "Distinction",
-      "Eminence"
     ]
   },
   "DISTINCTIVE": {
@@ -60157,31 +55454,6 @@
     ],
     "SYNONYMS": [
       "Distortable"
-    ]
-  },
-  "DISTORTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having an intended meaning altered or misrepresented",
-        [
-
-        ],
-        [
-          "many of the facts seemed twisted out of any semblance to reality",
-          "a perverted translation of the poem"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "untwist"
-    ],
-    "SYNONYMS": [
-      "Tinge",
-      "Twine",
-      "Deformed",
-      "Distort",
-      "Ill-shapen"
     ]
   },
   "DISTORTION": {
@@ -60915,27 +56187,6 @@
       "Territorial dominion"
     ]
   },
-  "DYSTROPHY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any degenerative disorder resulting from inadequate or faulty nutrition",
-        [
-          "Degenerative disorder"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dystrophy",
-      "Muscular dystrophy"
-    ]
-  },
   "DISTRUST": {
     "MEANINGS": {
       "2": [
@@ -61050,54 +56301,6 @@
       "Trouble",
       "Stir up",
       "Commove"
-    ]
-  },
-  "DISTURBANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an unhappy and worried mental state",
-        [
-          "Agitation"
-        ],
-        [
-          "there was too much anger and disturbance",
-          "she didn't realize the upset she caused me"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a disorderly outburst or tumult",
-        [
-          "Disorder"
-        ],
-        [
-          "they were amazed by the furious disturbance they had caused"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the act of disturbing something or someone; setting something in motion",
-        [
-          "Motion",
-          "Movement",
-          "Move",
-          "Motility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hurly burly",
-      "Perturbation",
-      "Disruption",
-      "Disturbance",
-      "Fray"
     ]
   },
   "DISTURBED": {
@@ -62000,29 +57203,6 @@
       "Divers"
     ]
   },
-  "DIVERSE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "distinctly dissimilar or unlike",
-        [
-
-        ],
-        [
-          "celebrities as diverse as Bob Hope and Bob Dylan",
-          "animals as various as the jaguar and the cavy and the sloth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Diverse",
-      "Divers",
-      "Various"
-    ]
-  },
   "DIVERSENESS": {
     "MEANINGS": {
       "1": [
@@ -62231,68 +57411,6 @@
       "Diversionary"
     ]
   },
-  "DIVERSITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the condition or result of being changeable",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Diversity",
-      "Multifariousness",
-      "Variety",
-      "Diverseness"
-    ]
-  },
-  "DIVERT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "send on a course or in a direction different from the planned or intended one",
-        [
-          "Send",
-          "Direct"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "withdraw (money) and move into a different location, often secretly and with dishonest intentions",
-        [
-          "Withdraw",
-          "Draw",
-          "Take out",
-          "Draw off"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Disport",
-      "Divert",
-      "Amuse",
-      "Hive off",
-      "Deviate"
-    ]
-  },
   "DIVERTICULITIS": {
     "MEANINGS": {
       "1": [
@@ -62379,47 +57497,6 @@
     "SYNONYMS": [
       "Serenade",
       "Divertimento"
-    ]
-  },
-  "DIVEST": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "deprive of status or authority",
-        [
-          "Free",
-          "Discharge"
-        ],
-        [
-          "he was divested of his rights and his title",
-          "They disinvested themselves of their rights"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "reduce or dispose of; cease to hold (an investment)",
-        [
-          "Withdraw",
-          "Draw",
-          "Take out",
-          "Draw off"
-        ],
-        [
-          "The company decided to divest",
-          "the board of trustees divested $20 million in real estate property",
-          "There was pressure on the university to disinvest in South Africa"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "invest"
-    ],
-    "SYNONYMS": [
-      "Strip",
-      "Disinvest",
-      "Undress",
-      "Divest",
-      "Deprive"
     ]
   },
   "DIVESTITURE": {
@@ -62605,43 +57682,6 @@
     ],
     "SYNONYMS": [
       "Dividend"
-    ]
-  },
-  "DIVIDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who separates something into parts or groups",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a drafting instrument resembling a compass that is used for dividing lines into equal segments or for transferring measurements",
-        [
-          "Drafting instrument"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "lumper"
-    ],
-    "SYNONYMS": [
-      "Splitter",
-      "Partition",
-      "Divider"
     ]
   },
   "DIVI-DIVI": {
@@ -62898,40 +57938,6 @@
       "Plunk",
       "Diving event",
       "Diving"
-    ]
-  },
-  "DIVINITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being divine",
-        [
-          "Quality"
-        ],
-        [
-          "ancient Egyptians believed in the divinity of the Pharaohs"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "white creamy fudge made with egg whites",
-        [
-          "Fudge"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Theology",
-      "Immortal",
-      "Divinity fudge",
-      "Deity",
-      "God"
     ]
   },
   "DIVISIBILITY": {
@@ -63348,30 +58354,6 @@
       "Dorothea dix"
     ]
   },
-  "DIXIE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large metal pot (12 gallon camp kettle) for cooking; used in military camps",
-        [
-          "Pot"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Confederacy",
-      "Confederate states of america",
-      "South",
-      "Confederate states",
-      "Dixieland"
-    ]
-  },
   "DIZYGOTIC": {
     "MEANINGS": {
       "1": [
@@ -63541,95 +58523,6 @@
       "Dnieper river"
     ]
   },
-  "DO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the syllable naming the first (tonic) note of any major scale in solmization",
-        [
-          "Solfa syllable"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "get (something) done",
-        [
-          "Carry through",
-          "Accomplish",
-          "Execute",
-          "Carry out",
-          "Action",
-          "Fulfill",
-          "Fulfil"
-        ],
-        [
-          "I did my job"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "proceed or get along",
-        [
-          "Proceed",
-          "Go"
-        ],
-        [
-          "How is she doing in her new job?",
-          "How are you making out in graduate school?",
-          "He's come a long way"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "create or design, often in a certain way",
-        [
-          "Create",
-          "Make"
-        ],
-        [
-          "Do my room in blue",
-          "I did this piece in wood to express my love for the forest"
-        ]
-      ],
-      "11": [
-        "Verb",
-        "carry on or function",
-        [
-
-        ],
-        [
-          "We could do with a little more help around here"
-        ]
-      ],
-      "13": [
-        "Verb",
-        "travel or traverse (a distance)",
-        [
-          "Travel",
-          "Go",
-          "Move",
-          "Locomote"
-        ],
-        [
-          "This car does 150 miles per hour",
-          "We did 6 miles on our hike every day"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unmake"
-    ],
-    "SYNONYMS": [
-      "Answer",
-      "Practice",
-      "Perform",
-      "Serve",
-      "Do"
-    ]
-  },
   "DOBERMAN": {
     "MEANINGS": {
       "1": [
@@ -63669,32 +58562,6 @@
     ],
     "SYNONYMS": [
       "Dobra"
-    ]
-  },
-  "DOBSON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large soft-bodied insect having long slender mandibles in the male; aquatic larvae often used as bait",
-        [
-          "Neuropteron",
-          "Neuropteran",
-          "Neuropterous insect"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dobson fly",
-      "Corydalus cornutus",
-      "Dobsonfly",
-      "Dobson",
-      "Hellgrammiate"
     ]
   },
   "DOCENT": {
@@ -64662,32 +59529,6 @@
       "Genus dodonaea"
     ]
   },
-  "DOE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "mature female of mammals of which the male is called `buck'",
-        [
-          "Placental",
-          "Placental mammal",
-          "Eutherian",
-          "Eutherian mammal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Department of energy",
-      "Doe",
-      "Energy department",
-      "Energy"
-    ]
-  },
   "DOESKIN": {
     "MEANINGS": {
       "1": [
@@ -64954,29 +59795,6 @@
       "Dogfight"
     ]
   },
-  "DOGFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several small sharks",
-        [
-          "Shark"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dogfish",
-      "Bowfin",
-      "Grindle",
-      "Amia calva"
-    ]
-  },
   "DOGGED": {
     "MEANINGS": {
       "1": [
@@ -65118,31 +59936,6 @@
       "Out of sight",
       "In hiding",
       "Doggo"
-    ]
-  },
-  "DOGHOUSE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an idiomatic term for being in disfavor",
-        [
-          "Disfavor",
-          "Disfavour",
-          "Dislike",
-          "Disapproval"
-        ],
-        [
-          "in the doghouse"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Doghouse",
-      "Kennel",
-      "Dog house"
     ]
   },
   "DOGIE": {
@@ -65422,30 +60215,6 @@
       "Dog sleigh"
     ]
   },
-  "DOGTOOTH": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a carved pyramidal ornament; used in 13th century England",
-        [
-          "Architectural ornament"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Canine tooth",
-      "Canine",
-      "Dogtooth violet",
-      "Cuspid",
-      "Eye tooth"
-    ]
-  },
   "DOGTROT": {
     "MEANINGS": {
       "1": [
@@ -65691,30 +60460,6 @@
     ],
     "SYNONYMS": [
       "Dolce"
-    ]
-  },
-  "DOLDRUMS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a belt of calms and light winds between the northern and southern trade winds of the Atlantic and Pacific",
-        [
-          "Wind",
-          "Air current",
-          "Current of air"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Doldrums",
-      "Stagnation",
-      "Stagnancy"
     ]
   },
   "DOLE": {
@@ -66303,28 +61048,6 @@
       "Lachrymose"
     ]
   },
-  "DOLPHIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various small toothed whales with a beaklike snout; larger than porpoises",
-        [
-          "Toothed whale"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dolphinfish",
-      "Mahimahi",
-      "Dolphin"
-    ]
-  },
   "DOLPHINFISH": {
     "MEANINGS": {
       "1": [
@@ -66357,41 +61080,6 @@
       "Dolphinfish",
       "Mahimahi",
       "Dolphin"
-    ]
-  },
-  "DOMAIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "territory over which rule or control is exercised",
-        [
-          "Region"
-        ],
-        [
-          "his domain extended into Europe",
-          "he made it the law of the land"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(mathematics) the set of values of the independent variable for which a function is defined",
-        [
-          "Set"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Demesne",
-      "Area",
-      "Field",
-      "Arena",
-      "Knowledge domain"
     ]
   },
   "DOMATIUM": {
@@ -66679,30 +61367,6 @@
       "Domesticise"
     ]
   },
-  "DOMESTICATED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "accustomed to home life; others find gratification in it\"",
-        [
-
-        ],
-        [
-          "some men think it unmanly to be domesticated"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Naturalize",
-      "Naturalise",
-      "Tame",
-      "Cultivate",
-      "Domesticated"
-    ]
-  },
   "DOMESTICATION": {
     "MEANINGS": {
       "1": [
@@ -66814,41 +61478,6 @@
       "Domiciliary"
     ]
   },
-  "DOMINANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state that exists when one person or group has power over another",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-          "her apparent dominance of her husband was really her attempt to make him pay attention to her"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the organic phenomenon in which one of a pair of alleles present in a genotype is expressed in the phenotype and the other allele of the pair is not",
-        [
-          "Organic phenomenon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dominance",
-      "Ascendence",
-      "Authority",
-      "Potency",
-      "Say-so"
-    ]
-  },
   "DOMINANT": {
     "MEANINGS": {
       "1": [
@@ -66883,54 +61512,6 @@
       "Rife",
       "Predominant",
       "Prevalent"
-    ]
-  },
-  "DOMINATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be in control",
-        [
-          "Influence",
-          "Act upon",
-          "Work"
-        ],
-        [
-          "Her husband completely dominates her"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "have dominance or the power to defeat over",
-        [
-          "Control",
-          "Command"
-        ],
-        [
-          "Her pain completely mastered her",
-          "The methods can master the problems"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "look down on",
-        [
-          "Lie"
-        ],
-        [
-          "The villa dominates the town"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rule",
-      "Eclipse",
-      "Command",
-      "Prevail",
-      "Reign"
     ]
   },
   "DOMINATED": {
@@ -68184,44 +62765,6 @@
       "Doorpost"
     ]
   },
-  "DOORKEEPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the lowest of the minor Holy Orders in the unreformed Western Church but now suppressed by the Roman Catholic Church",
-        [
-          "Clergyman",
-          "Reverend",
-          "Man of the cloth",
-          "Holy order",
-          "Order"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "someone who guards an entrance",
-        [
-          "Guard"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ostiary",
-      "Usher",
-      "Ostiarius",
-      "Door guard",
-      "Porter"
-    ]
-  },
   "DOORKNOB": {
     "MEANINGS": {
       "1": [
@@ -68241,29 +62784,6 @@
     "SYNONYMS": [
       "Doorknob",
       "Doorhandle"
-    ]
-  },
-  "DOORMAT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mat placed outside an exterior door for wiping the shoes before entering",
-        [
-          "Mat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Weakling",
-      "Wuss",
-      "Doormat",
-      "Welcome mat"
     ]
   },
   "DOORNAIL": {
@@ -68628,31 +63148,6 @@
     ],
     "SYNONYMS": [
       "Dorbeetle"
-    ]
-  },
-  "DORY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "marine fishes widely distributed in mid-waters and deep slope waters",
-        [
-          "Spiny-finned fish",
-          "Acanthopterygian"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dory",
-      "Jack salmon",
-      "Stizostedion vitreum",
-      "Rowboat",
-      "Walleye"
     ]
   },
   "DORIAN": {
@@ -69101,27 +63596,6 @@
       "Dorsoventrally"
     ]
   },
-  "DORSUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the back of the body of a vertebrate or any analogous surface (as the upper or outer surface of an organ or appendage or part)",
-        [
-          "Body part"
-        ],
-        [
-          "the dorsum of the foot"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Back",
-      "Dorsum"
-    ]
-  },
   "DORTMUND": {
     "MEANINGS": {
       "1": [
@@ -69140,31 +63614,6 @@
     ],
     "SYNONYMS": [
       "Dortmund"
-    ]
-  },
-  "DOS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an operating system that is on a disk",
-        [
-          "Operating system",
-          "Os"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unmake"
-    ],
-    "SYNONYMS": [
-      "United states department of state",
-      "Answer",
-      "Practice",
-      "State",
-      "Perform"
     ]
   },
   "DOSE": {
@@ -70580,30 +65029,6 @@
       "Soggy"
     ]
   },
-  "DOUGHNUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small ring-shaped friedcake",
-        [
-          "Friedcake"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Donut",
-      "Ring",
-      "Anchor ring",
-      "Halo",
-      "Annulus"
-    ]
-  },
   "DOUGLAS": {
     "MEANINGS": {
       "1": [
@@ -70649,33 +65074,6 @@
       "Stephen a. douglas",
       "Little giant",
       "Douglass"
-    ]
-  },
-  "DOUR": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "harshly uninviting or formidable in manner or appearance",
-        [
-
-        ],
-        [
-          "a dour, self-sacrificing life",
-          "a forbidding scowl",
-          "a grim man loving duty more than humanity",
-          "undoubtedly the grimmest part of him was his iron claw\"- J.M.Barrie"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Moody",
-      "Dogged",
-      "Pertinacious",
-      "Dour",
-      "Sullen"
     ]
   },
   "DOURLY": {
@@ -71103,31 +65501,6 @@
     ],
     "SYNONYMS": [
       "Doweling"
-    ]
-  },
-  "DOWER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a life estate to which a wife is entitled on the death of her husband",
-        [
-          "Life estate",
-          "Estate for life"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Portion",
-      "Dower",
-      "Dowery",
-      "Dowry",
-      "Endow"
     ]
   },
   "DOWERED": {
@@ -72078,33 +66451,6 @@
       "Downturn"
     ]
   },
-  "DOWNWARD": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "on or toward a surface regarded as a base",
-        [
-
-        ],
-        [
-          "he lay face downward",
-          "the downward pull of gravity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "upward",
-      "up",
-      "upwardly",
-      "upwards"
-    ],
-    "SYNONYMS": [
-      "Down",
-      "Downwardly",
-      "Downwards",
-      "Downward"
-    ]
-  },
   "DOWNWIND": {
     "MEANINGS": {
       "1": [
@@ -72393,29 +66739,6 @@
     ],
     "SYNONYMS": [
       "Dracaena"
-    ]
-  },
-  "DRACHMA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "formerly the basic unit of money in Greece",
-        [
-          "Greek monetary unit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drachm",
-      "Drachma",
-      "Greek drachma",
-      "Dram"
     ]
   },
   "DRACO": {
@@ -73487,52 +67810,6 @@
       "Dram"
     ]
   },
-  "DRAMA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an episode that is turbulent or highly emotional",
-        [
-          "Episode"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the literary genre of works intended for the theater",
-        [
-          "Writing style",
-          "Literary genre",
-          "Genre"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the quality of being arresting or highly emotional",
-        [
-          "Emotionality",
-          "Emotionalism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drama",
-      "Play",
-      "Dramatic play",
-      "Dramatic event"
-    ]
-  },
   "DRAMATIC": {
     "MEANINGS": {
       "1": [
@@ -73879,30 +68156,6 @@
       "Mantle"
     ]
   },
-  "DRAPED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "covered in folds of cloth",
-        [
-
-        ],
-        [
-          "velvet-draped windows"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Robe",
-      "Drape",
-      "Clothe",
-      "Draped",
-      "Wrapped"
-    ]
-  },
   "DRAPER": {
     "MEANINGS": {
       "1": [
@@ -73924,33 +68177,6 @@
     ],
     "SYNONYMS": [
       "Draper"
-    ]
-  },
-  "DRAPERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "cloth gracefully draped and arranged in loose folds",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drape",
-      "Pall",
-      "Mantle",
-      "Curtain",
-      "Drapery"
     ]
   },
   "DRASTIC": {
@@ -74624,32 +68850,6 @@
       "Drawler"
     ]
   },
-  "DRAWN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having the curtains or draperies closed or pulled shut",
-        [
-
-        ],
-        [
-          "the drawn draperies kept direct sunlight from fading the rug"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deposit",
-      "push",
-      "repel"
-    ],
-    "SYNONYMS": [
-      "Pass",
-      "Draw off",
-      "Pull back",
-      "Puff",
-      "Tie"
-    ]
-  },
   "DRAWN-OUT": {
     "MEANINGS": {
       "1": [
@@ -74729,30 +68929,6 @@
       "String",
       "Drawstring",
       "Drawing string"
-    ]
-  },
-  "DREADFUL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "very unpleasant",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dread",
-      "Atrocious",
-      "Abominable",
-      "Fearful",
-      "Awful"
     ]
   },
   "DREADFULLY": {
@@ -75188,43 +69364,6 @@
       "Theodore herman albert dreiser"
     ]
   },
-  "DRENCH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "force to drink",
-        [
-          "Provide",
-          "Supply",
-          "Ply",
-          "Cater"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "cover with liquid; pour liquid onto",
-        [
-          "Wet"
-        ],
-        [
-          "souse water on his hot face"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Douse",
-      "Souse",
-      "Drench",
-      "Soak",
-      "Swamp"
-    ]
-  },
   "DRENCHED": {
     "MEANINGS": {
       "1": [
@@ -75516,103 +69655,6 @@
     ],
     "SYNONYMS": [
       "Dressage"
-    ]
-  },
-  "DRESSED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "treated with medications and protective covering",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "(of lumber or stone) to trim and smooth",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "dressed in fancy or formal clothing",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "undress"
-    ],
-    "SYNONYMS": [
-      "Plume",
-      "Crop",
-      "Garment",
-      "Primp",
-      "Spruced up"
-    ]
-  },
-  "DRESSER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who dresses in a particular way",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-          "she's an elegant dresser",
-          "he's a meticulous dresser"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a wardrobe assistant for an actor",
-        [
-          "Assistant",
-          "Helper",
-          "Help",
-          "Supporter"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a cabinet with shelves",
-        [
-          "Cabinet"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dresser",
-      "Actor's assistant",
-      "Dressing table",
-      "Vanity",
-      "Chest"
     ]
   },
   "DRESSY": {
@@ -76010,40 +70052,6 @@
     "SYNONYMS": [
       "Dryas",
       "Genus dryas"
-    ]
-  },
-  "DRIBBLE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "propel, \"Carry the ball\"",
-        [
-          "Hit"
-        ],
-        [
-          "dribble the ball"
-        ]
-      ],
-      "2": [
-        "Verb",
-        "let or cause to fall in drops",
-        [
-          "Pour"
-        ],
-        [
-          "dribble oil into the mixture"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Trickle",
-      "Dribbling",
-      "Drivel",
-      "Filter",
-      "Slaver"
     ]
   },
   "DRIBBLER": {
@@ -77890,58 +71898,6 @@
       "Laggard"
     ]
   },
-  "DROOL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "saliva spilling from the mouth",
-        [
-          "Saliva",
-          "Spit",
-          "Spittle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bosh",
-      "Drivel",
-      "Tommyrot",
-      "Taradiddle",
-      "Boloney"
-    ]
-  },
-  "DROOP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "hang loosely or laxly",
-        [
-          "Dangle",
-          "Swing",
-          "Drop"
-        ],
-        [
-          "His tongue lolled"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Droop",
-      "Swag",
-      "Flag",
-      "Loll",
-      "Sag"
-    ]
-  },
   "DROOPING": {
     "MEANINGS": {
       "1": [
@@ -78200,27 +72156,6 @@
       "1": [
         "Verb",
         "make the point after a touchdown with a dropkick",
-        [
-          "Kick"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dropkick",
-      "Drop-kick"
-    ]
-  },
-  "DROP-KICK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "drop and kick (a ball) as it touches the ground, as for a field goal",
         [
           "Kick"
         ],
@@ -78665,91 +72600,6 @@
       "Ride"
     ]
   },
-  "DROWN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "get rid of as if by submerging",
-        [
-          "Extinguish",
-          "Eliminate",
-          "Get rid of",
-          "Do away with"
-        ],
-        [
-          "She drowned her trouble in alcohol"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "die from being submerged in water, getting water into the lungs, and asphyxiating",
-        [
-          "Die",
-          "Decease",
-          "Perish",
-          "Go",
-          "Exit",
-          "Pass away",
-          "Expire",
-          "Pass",
-          "Kick the bucket",
-          "Cash in one's chips",
-          "Buy the farm",
-          "Conk",
-          "Give-up the ghost",
-          "Drop dead",
-          "Pop off",
-          "Choke",
-          "Croak",
-          "Snuff it"
-        ],
-        [
-          "The child drowned in the lake"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "kill by submerging in water",
-        [
-          "Kill"
-        ],
-        [
-          "He drowned the kittens"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Submerge",
-      "Swim",
-      "Overwhelm",
-      "Drown"
-    ]
-  },
-  "DROWSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be on the verge of sleeping",
-        [
-          "Rest"
-        ],
-        [
-          "The students were drowsing in the 8 AM class"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Snooze",
-      "Doze",
-      "Drowse"
-    ]
-  },
   "DROWSY": {
     "MEANINGS": {
       "1": [
@@ -78806,33 +72656,6 @@
     "SYNONYMS": [
       "Drowsily",
       "Somnolently"
-    ]
-  },
-  "DRUDGE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a laborer who is obliged to do menial work",
-        [
-          "Laborer",
-          "Manual laborer",
-          "Labourer",
-          "Jack"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Labor",
-      "Dig",
-      "Toil",
-      "Fag",
-      "Navvy"
     ]
   },
   "DRUDGERY": {
@@ -79090,41 +72913,6 @@
       "Brake drum"
     ]
   },
-  "DRUMBEAT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(military) the beating of a drum as a signal for lowering the flag at sundown",
-        [
-          "Signal",
-          "Signaling",
-          "Sign"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a vehement and vociferous advocacy of a cause",
-        [
-          "Advocacy",
-          "Protagonism"
-        ],
-        [
-          "the warmongers kept up their drumbeat on Iraq"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drumbeat",
-      "Rub-a-dub",
-      "Rataplan"
-    ]
-  },
   "DRUMHEAD": {
     "MEANINGS": {
       "1": [
@@ -79263,33 +73051,6 @@
     ],
     "SYNONYMS": [
       "Drumstick"
-    ]
-  },
-  "DRUNK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who is intoxicated",
-        [
-          "Drinker",
-          "Imbiber",
-          "Toper",
-          "Juicer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sober"
-    ],
-    "SYNONYMS": [
-      "Pledge",
-      "Imbibe",
-      "Inebriated",
-      "Drunk",
-      "Wassail"
     ]
   },
   "DRUNKARD": {
@@ -79447,30 +73208,6 @@
       "Druse"
     ]
   },
-  "DUAL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "a grammatical number category referring to two items or units as opposed to one item (singular) or more than two items (plural)",
-        [
-
-        ],
-        [
-          "ancient Greek had the dual form but it has merged with the plural form in modern Greek"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dual",
-      "Twofold",
-      "Double",
-      "Threefold",
-      "Duple"
-    ]
-  },
   "DUALISM": {
     "MEANINGS": {
       "1": [
@@ -79535,41 +73272,6 @@
     "SYNONYMS": [
       "Manichaean",
       "Dualistic"
-    ]
-  },
-  "DUALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(physics) the property of matter and electromagnetic radiation that is characterized by the fact that some properties can be explained best by wave theory and others by particle theory",
-        [
-          "Property"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(geometry) the interchangeability of the roles of points and planes in the theorems of projective geometry",
-        [
-          "Exchangeability",
-          "Interchangeability",
-          "Interchangeableness",
-          "Fungibility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wave-particle duality",
-      "Dichotomy",
-      "Duality"
     ]
   },
   "DUB": {
@@ -79667,29 +73369,6 @@
       "Knight",
       "Dubbing",
       "Dub"
-    ]
-  },
-  "DUBIOUS": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "not convinced",
-        [
-
-        ],
-        [
-          "they admitted the force of my argument but remained dubious"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Doubtful",
-      "In question",
-      "Dubious",
-      "Dubitable"
     ]
   },
   "DUBLIN": {
@@ -80472,46 +74151,6 @@
       "Duenna"
     ]
   },
-  "DUET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "two performers or singers who perform together",
-        [
-          "Musical organization",
-          "Musical organisation",
-          "Musical group"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a musical composition for two performers",
-        [
-          "Musical composition",
-          "Opus",
-          "Composition",
-          "Piece",
-          "Piece of music"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Span",
-      "Duo",
-      "Yoke",
-      "Duad",
-      "Pair"
-    ]
-  },
   "DUFF": {
     "MEANINGS": {
       "1": [
@@ -80531,32 +74170,6 @@
     "SYNONYMS": [
       "Duff",
       "Plum duff"
-    ]
-  },
-  "DUFFEL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a coarse heavy woolen fabric",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Duffel",
-      "Duffle",
-      "Duffel bag",
-      "Duffle bag"
     ]
   },
   "DUFFER": {
@@ -81245,40 +74858,6 @@
       "Alexandre dumas"
     ]
   },
-  "DUMB": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "lacking the power of human speech",
-        [
-
-        ],
-        [
-          "dumb animals"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "unable to speak because of hereditary deafness",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dense",
-      "Mute",
-      "Obtuse",
-      "Dull",
-      "Speechless"
-    ]
-  },
   "DUMBBELL": {
     "MEANINGS": {
       "1": [
@@ -81894,30 +75473,6 @@
       "Droppings"
     ]
   },
-  "DUNGEON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a dark cell (usually underground) where prisoners can be confined",
-        [
-          "Cell",
-          "Jail cell",
-          "Prison cell"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Keep",
-      "Donjon",
-      "Dungeon"
-    ]
-  },
   "DUNGHILL": {
     "MEANINGS": {
       "1": [
@@ -82151,29 +75706,6 @@
       "Duodenum"
     ]
   },
-  "DUOLOGUE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a part of the script in which the speaking roles are limited to two actors",
-        [
-          "Dialogue",
-          "Dialog"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dialog",
-      "Duologue",
-      "Dialogue"
-    ]
-  },
   "DUPLEX": {
     "MEANINGS": {
       "1": [
@@ -82273,28 +75805,6 @@
       "Double"
     ]
   },
-  "DUPLICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of copying or making a duplicate (or duplicates) of something",
-        [
-          "Copying"
-        ],
-        [
-          "this kind of duplication is wasteful"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Duplication",
-      "Duplicate",
-      "Gemination"
-    ]
-  },
   "DUPLICATOR": {
     "MEANINGS": {
       "1": [
@@ -82336,31 +75846,6 @@
     ],
     "SYNONYMS": [
       "Duplicidentata"
-    ]
-  },
-  "DUPLICITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of another",
-        [
-          "Deception",
-          "Deceit",
-          "Dissembling",
-          "Dissimulation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Duplicity",
-      "Fraudulence",
-      "Double-dealing"
     ]
   },
   "DURABLE": {
@@ -83111,41 +76596,6 @@
       "Dustcloth"
     ]
   },
-  "DUSTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a loose coverall (coat or frock) reaching down to the ankles",
-        [
-          "Coverall"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a pitch thrown deliberately close to the batter",
-        [
-          "Pitch",
-          "Delivery"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dustrag",
-      "Duster",
-      "Gabardine",
-      "Dust coat",
-      "Dustcloth"
-    ]
-  },
   "DUSTY": {
     "MEANINGS": {
       "1": [
@@ -83637,42 +77087,6 @@
     "SYNONYMS": [
       "Dwarfism",
       "Nanism"
-    ]
-  },
-  "DWELL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "originate (in)",
-        [
-          "Exist",
-          "Be"
-        ],
-        [
-          "The problems dwell in the social injustices in this country"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "exist or be situated within",
-        [
-          "Exist",
-          "Be"
-        ],
-        [
-          "Strange notions inhabited her mind"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Populate",
-      "Inhabit",
-      "Lie in",
-      "Live",
-      "Consist"
     ]
   },
   "DWELLING": {

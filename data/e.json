@@ -1,40 +1,4 @@
 {
-  "E": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the base of the natural system of logarithms; approximately equal to 2.718282...",
-        [
-          "Transcendental number"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the 5th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "East",
-      "Einsteinium",
-      "Vitamin e",
-      "Atomic number 99",
-      "Tocopherol"
-    ]
-  },
   "EA": {
     "MEANINGS": {
       "1": [
@@ -359,27 +323,6 @@
       "Eardrum",
       "Myringa",
       "Tympanic membrane"
-    ]
-  },
-  "EARED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having ears (or appendages resembling ears) or having ears of a specified kind; often used in combination",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "earless"
-    ],
-    "SYNONYMS": [
-      "Dog-eared",
-      "Eared"
     ]
   },
   "EARFLAP": {
@@ -739,31 +682,6 @@
     ],
     "SYNONYMS": [
       "Earmuff"
-    ]
-  },
-  "EARN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "acquire or deserve by one's efforts or actions",
-        [
-          "Get",
-          "Acquire"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Garner",
-      "Make",
-      "Earn",
-      "Realise",
-      "Realize"
     ]
   },
   "EARNED": {
@@ -1168,52 +1086,6 @@
       "Earth-goddess"
     ]
   },
-  "EARTHY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not far removed from or suggestive of nature",
-        [
-
-        ],
-        [
-          "the earthy taste of warm milk fresh from the cow",
-          "earthy smells of new-mown grass"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "hearty and lusty",
-        [
-
-        ],
-        [
-          "an earthy enjoyment of life"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "of or consisting of or resembling earth",
-        [
-
-        ],
-        [
-          "it had an earthy smell",
-          "only a little earthy bank separates me from the edge of the ocean"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Earthy",
-      "Down-to-earth",
-      "Gross",
-      "Vulgar",
-      "Crude"
-    ]
-  },
   "EARTHLY": {
     "MEANINGS": {
       "1": [
@@ -1265,31 +1137,6 @@
     ],
     "SYNONYMS": [
       "Earthlike"
-    ]
-  },
-  "EARTHNUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a common European plant having edible tubers with the flavor of roasted chestnuts",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Earthnut",
-      "Earth-ball",
-      "Goober pea",
-      "Groundnut",
-      "Peanut"
     ]
   },
   "EARTHQUAKE": {
@@ -1707,30 +1554,6 @@
       "Tardily",
       "Well-to-do",
       "Well-heeled"
-    ]
-  },
-  "EASYGOING": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "relaxed and informal in attitude or standards",
-        [
-
-        ],
-        [
-          "an easygoing teacher who allowed extra time for assignments"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cushy",
-      "Easy",
-      "Leisurely",
-      "Easygoing",
-      "Soft"
     ]
   },
   "EASYGOINGNESS": {
@@ -2549,40 +2372,6 @@
     "SYNONYMS": [
       "Ebon",
       "Ebony"
-    ]
-  },
-  "EBONY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "hard dark-colored heartwood of the ebony tree; used in cabinetwork and for piano keys",
-        [
-          "Wood"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "tropical tree of southern Asia having hard dark-colored heartwood used in cabinetwork",
-        [
-          "Tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Diospyros ebenum",
-      "Soot black",
-      "Pitch black",
-      "Ebony",
-      "Coal black"
     ]
   },
   "EBONIZE": {
@@ -3805,35 +3594,6 @@
       "Eclampsia"
     ]
   },
-  "ECLAT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "brilliant or conspicuous success or effect",
-        [
-          "Magnificence",
-          "Brilliance",
-          "Splendor",
-          "Splendour",
-          "Grandeur",
-          "Grandness"
-        ],
-        [
-          "the eclat of a great achievement"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eclat",
-      "Acclamation",
-      "Pomp",
-      "Plaudit",
-      "Plaudits"
-    ]
-  },
   "ECLECTIC": {
     "MEANINGS": {
       "1": [
@@ -4248,38 +4008,6 @@
     "SYNONYMS": [
       "Economical",
       "Economic"
-    ]
-  },
-  "ECONOMICAL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "avoiding waste",
-        [
-
-        ],
-        [
-          "an economical meal",
-          "an economical shopper",
-          "a frugal farmer",
-          "a frugal lunch",
-          "a sparing father and a spending son",
-          "sparing in their use of heat and light",
-          "stinting in bestowing gifts",
-          "thrifty because they remember the great Depression",
-          "`scotch' is used only informally"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sparing",
-      "Economic",
-      "Frugal",
-      "Stinting",
-      "Scotch"
     ]
   },
   "ECONOMICALLY": {
@@ -5034,31 +4762,6 @@
       "Edaphosaurus"
     ]
   },
-  "EDDA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "either of two distinct works in Old Icelandic dating from the late 13th century and consisting of 34 mythological and heroic ballads composed between 800 and 1200; the primary source for Scandinavian mythology",
-        [
-          "Ballad",
-          "Lay"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dasheen",
-      "Cocoyam",
-      "Taro root",
-      "Edda",
-      "Taro"
-    ]
-  },
   "EDDY": {
     "MEANINGS": {
       "1": [
@@ -5512,49 +5215,6 @@
     ],
     "SYNONYMS": [
       "Edger"
-    ]
-  },
-  "EDGEWAYS": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with the edge forward or on, by, or toward the edge",
-        [
-
-        ],
-        [
-          "he sawed the board edgeways",
-          "held it edgewise"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Edgewise",
-      "Edgeways"
-    ]
-  },
-  "EDGEWISE": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "as if by an edge; barely",
-        [
-
-        ],
-        [
-          "I could not get a word in edgewise"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Edgewise",
-      "Edgeways"
     ]
   },
   "EDGY": {
@@ -6868,30 +6528,6 @@
       "Eeriness"
     ]
   },
-  "EFFACE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make inconspicuous",
-        [
-          "Humble"
-        ],
-        [
-          "efface oneself"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wipe off",
-      "Erase",
-      "Efface",
-      "Rub out",
-      "Score out"
-    ]
-  },
   "EFFACEABLE": {
     "MEANINGS": {
       "1": [
@@ -7144,30 +6780,6 @@
       "Good"
     ]
   },
-  "EFFECTIVELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in actuality or reality or fact",
-        [
-
-        ],
-        [
-          "she is effectively his wife",
-          "in effect, they had no choice"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ineffectively",
-      "inefficaciously"
-    ],
-    "SYNONYMS": [
-      "In effect",
-      "Effectively",
-      "Efficaciously"
-    ]
-  },
   "EFFECTIVENESS": {
     "MEANINGS": {
       "1": [
@@ -7191,38 +6803,6 @@
       "Potency",
       "Effectuality",
       "Effectiveness"
-    ]
-  },
-  "EFFECTOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a nerve fiber that terminates on a muscle or gland and stimulates contraction or secretion",
-        [
-          "Nerve fiber",
-          "Nerve fibre"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an organ (a gland or muscle) that becomes active in response to nerve impulses",
-        [
-          "Organ"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "receptor"
-    ],
-    "SYNONYMS": [
-      "Effecter",
-      "Effector"
     ]
   },
   "EFFECTS": {
@@ -7390,31 +6970,6 @@
       "Effervescence",
       "Frothiness",
       "Bubbliness"
-    ]
-  },
-  "EFFERVESCENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of a liquid) giving off bubbles",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "still",
-      "noneffervescent"
-    ],
-    "SYNONYMS": [
-      "Frothy",
-      "Sparkly",
-      "Effervescent",
-      "Scintillating",
-      "Sparkling"
     ]
   },
   "EFFICACY": {
@@ -7640,32 +7195,6 @@
       "Crystallize"
     ]
   },
-  "EFFLORESCENCE": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a powdery deposit on a surface",
-        [
-          "Crystallization",
-          "Crystallisation",
-          "Crystallizing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Florescence",
-      "Inflorescence",
-      "Blossoming",
-      "Heyday",
-      "Flowering"
-    ]
-  },
   "EFFLUENT": {
     "MEANINGS": {
       "1": [
@@ -7708,33 +7237,6 @@
     ],
     "SYNONYMS": [
       "Effluvium"
-    ]
-  },
-  "EFFORT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "use of physical or mental energy; hard work",
-        [
-          "Labor",
-          "Labour",
-          "Toil"
-        ],
-        [
-          "he got an A for effort",
-          "they managed only with great exertion"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crusade",
-      "Attempt",
-      "Try",
-      "Endeavor",
-      "Campaign"
     ]
   },
   "EFFORTFUL": {
@@ -7914,32 +7416,6 @@
       "Outburst",
       "Effusion",
       "Gush"
-    ]
-  },
-  "EFFUSIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "extravagantly demonstrative",
-        [
-
-        ],
-        [
-          "insincere and effusive demonstrations of sentimental friendship",
-          "a large gushing female",
-          "write unrestrained and gushy poetry"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Burbling",
-      "Burbly",
-      "Gushy",
-      "Effusive",
-      "Gushing"
     ]
   },
   "EFFUSIVELY": {
@@ -8174,31 +7650,6 @@
     "SYNONYMS": [
       "Egger",
       "Eggar"
-    ]
-  },
-  "EGGBEATER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mixer for beating eggs or whipping cream",
-        [
-          "Beater",
-          "Mixer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eggbeater",
-      "Eggwhisk",
-      "Chopper",
-      "Whirlybird",
-      "Helicopter"
     ]
   },
   "EGGCUP": {
@@ -10120,29 +9571,6 @@
       "Eightpenny"
     ]
   },
-  "EIGHTSOME": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a Scottish reel for eight dancers",
-        [
-          "Reel",
-          "Scottish reel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Octet",
-      "Octette",
-      "Eightsome"
-    ]
-  },
   "EIGHT-SPOT": {
     "MEANINGS": {
       "1": [
@@ -10467,34 +9895,6 @@
       "Either"
     ]
   },
-  "EJACULATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "eject semen",
-        [
-          "Exhaust",
-          "Discharge",
-          "Expel",
-          "Eject",
-          "Release"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blunder out",
-      "Semen",
-      "Seed",
-      "Blurt out",
-      "Ejaculate"
-    ]
-  },
   "EJACULATION": {
     "MEANINGS": {
       "1": [
@@ -10603,32 +10003,6 @@
       "Eject"
     ]
   },
-  "EJECTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of forcing out someone or something",
-        [
-          "Banishment",
-          "Proscription"
-        ],
-        [
-          "the ejection of troublemakers by the police",
-          "the child's expulsion from school"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ejection",
-      "Riddance",
-      "Projection",
-      "Forcing out",
-      "Expulsion"
-    ]
-  },
   "ELABORATE": {
     "MEANINGS": {
       "1": [
@@ -10721,30 +10095,6 @@
       "Elaborateness",
       "Involution",
       "Ornateness"
-    ]
-  },
-  "ELABORATION": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "developing in intricate and painstaking detail",
-        [
-          "Development"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Enlargement",
-      "Refinement",
-      "Intricacy",
-      "Elaboration",
-      "Amplification"
     ]
   },
   "ELAEAGNACEAE": {
@@ -10923,33 +10273,6 @@
       "Elamitic",
       "Susian",
       "Elamite"
-    ]
-  },
-  "ELAN": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "enthusiastic and assured vigor and liveliness",
-        [
-          "Liveliness",
-          "Life",
-          "Spirit",
-          "Sprightliness"
-        ],
-        [
-          "a performance of great elan and sophistication"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dash",
-      "Style",
-      "Zeal",
-      "Ardour",
-      "Ardor"
     ]
   },
   "ELAND": {
@@ -11665,32 +10988,6 @@
       "Older"
     ]
   },
-  "ELDERBERRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "berrylike fruit of an elder used for e.g. wines and jellies",
-        [
-          "Drupe",
-          "Stone fruit",
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Common elder",
-      "European elder",
-      "Elderberry",
-      "Sambucus nigra",
-      "Black elder"
-    ]
-  },
   "ELDERSHIP": {
     "MEANINGS": {
       "1": [
@@ -11932,27 +11229,6 @@
       "Elected",
       "Elective",
       "Elective course"
-    ]
-  },
-  "ELECTOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of the German princes who were entitled to vote in the election of new emperor of the Holy Roman Empire",
-        [
-          "Prince"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Elector",
-      "Voter"
     ]
   },
   "ELECTORAL": {
@@ -13597,64 +12873,6 @@
       "Elegize"
     ]
   },
-  "ELEMENT": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the most favorable environment for a plant or animal",
-        [
-          "Environment",
-          "Environs",
-          "Surroundings",
-          "Surround"
-        ],
-        [
-          "water is the element of fishes"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "one of four substances thought in ancient and medieval cosmology to constitute the physical universe",
-        [
-          "Substance"
-        ],
-        [
-          "the alchemists believed that there were four elements"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the situation in which you are happiest and most effective",
-        [
-          "Situation",
-          "State of affairs"
-        ],
-        [
-          "in your element"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "a straight line that generates a cylinder or cone",
-        [
-          "Straight line"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Factor",
-      "Constituent",
-      "Component",
-      "Ingredient",
-      "Element"
-    ]
-  },
   "ELEMENTAL": {
     "MEANINGS": {
       "1": [
@@ -14367,33 +13585,6 @@
       "Sir edward elgar"
     ]
   },
-  "ELICIT": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "derive by reason",
-        [
-          "Deduce",
-          "Infer",
-          "Deduct",
-          "Derive"
-        ],
-        [
-          "elicit a solution"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Educe",
-      "Kindle",
-      "Fire",
-      "Extract",
-      "Enkindle"
-    ]
-  },
   "ELICITED": {
     "MEANINGS": {
       "1": [
@@ -14506,58 +13697,6 @@
     ],
     "SYNONYMS": [
       "Elijah"
-    ]
-  },
-  "ELIMINATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "kill in large numbers",
-        [
-          "Kill"
-        ],
-        [
-          "the plague wiped out an entire population"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "remove from a contest or race",
-        [
-          "Beat",
-          "Beat out",
-          "Crush",
-          "Shell",
-          "Trounce",
-          "Vanquish"
-        ],
-        [
-          "The cyclist has eliminated all the competitors in the race"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "remove (an unknown variable) from two or more equations",
-        [
-          "Remove",
-          "Take",
-          "Take away",
-          "Withdraw"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "necessitate"
-    ],
-    "SYNONYMS": [
-      "Rule out",
-      "Reject",
-      "Pass",
-      "Excrete",
-      "Extinguish"
     ]
   },
   "ELIMINATION": {
@@ -15961,29 +15100,6 @@
       "Pica"
     ]
   },
-  "EMACIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "grow weak and thin or waste away physically",
-        [
-          "Change state",
-          "Turn"
-        ],
-        [
-          "She emaciated during the chemotherapy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Waste",
-      "Emaciate",
-      "Macerate"
-    ]
-  },
   "EMANATE": {
     "MEANINGS": {
       "1": [
@@ -16455,57 +15571,6 @@
       "Stymy"
     ]
   },
-  "EMBARRASSED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "made to feel uncomfortable because of shame or wounded pride",
-        [
-
-        ],
-        [
-          "too embarrassed to say hello to his drunken father on the street",
-          "humiliated that his wife had to go out to work",
-          "felt mortified by the comparison with her sister"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abashed",
-      "Abash",
-      "Embarrass",
-      "Chagrined",
-      "Block"
-    ]
-  },
-  "EMBARRASSING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing to feel shame or chagrin or vexation",
-        [
-
-        ],
-        [
-          "the embarrassing moment when she found her petticoat down around her ankles",
-          "it was mortifying to know he had heard every word"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unenviable",
-      "Sticky",
-      "Abash",
-      "Embarrass",
-      "Mortifying"
-    ]
-  },
   "EMBARRASSINGLY": {
     "MEANINGS": {
       "1": [
@@ -16672,31 +15737,6 @@
       "Embattle",
       "Battlemented",
       "Embattled"
-    ]
-  },
-  "EMBED": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "attach to, as a journalist to a military unit when reporting on a war",
-        [
-          "Group",
-          "Aggroup"
-        ],
-        [
-          "The young reporter was embedded with the Third Division"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Engraft",
-      "Imbed",
-      "Implant",
-      "Plant",
-      "Embed"
     ]
   },
   "EMBEDDED": {
@@ -17027,34 +16067,6 @@
       "Embitterment"
     ]
   },
-  "EMBLAZON": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "decorate with heraldic arms",
-        [
-          "Decorate",
-          "Adorn",
-          "Grace",
-          "Ornament",
-          "Embellish",
-          "Beautify"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Emblazon",
-      "Colour",
-      "Blazon",
-      "Color"
-    ]
-  },
   "EMBLEM": {
     "MEANINGS": {
       "1": [
@@ -17125,44 +16137,6 @@
       "Emblematical",
       "Typic",
       "Symbolical"
-    ]
-  },
-  "EMBODY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "represent, as of a character on stage",
-        [
-          "Typify",
-          "Symbolize",
-          "Symbolise",
-          "Stand for",
-          "Represent"
-        ],
-        [
-          "Derek Jacobi was Hamlet"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "represent or express something abstract in tangible form",
-        [
-          "Represent"
-        ],
-        [
-          "This painting embodies the feelings of the Romantic period"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Body forth",
-      "Incarnate",
-      "Personify",
-      "Substantiate",
-      "Embody"
     ]
   },
   "EMBODIMENT": {
@@ -17643,29 +16617,6 @@
       "Dramatise",
       "Embroideress",
       "Blow up"
-    ]
-  },
-  "EMBROIDERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "decorative needlework",
-        [
-          "Needlework",
-          "Needlecraft"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fancywork",
-      "Embroidery",
-      "Embellishment"
     ]
   },
   "EMBROIL": {
@@ -19325,30 +18276,6 @@
       "Conglomerate"
     ]
   },
-  "EMPYREAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "inspiring awe",
-        [
-
-        ],
-        [
-          "well-meaning ineptitude that rises to empyreal absurdity\"- M.S.Dworkin",
-          "empyrean aplomb\"- Hamilton Basso",
-          "the sublime beauty of the night"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Empyreal",
-      "Sublime",
-      "Empyrean"
-    ]
-  },
   "EMPYREAN": {
     "MEANINGS": {
       "1": [
@@ -19974,31 +18901,6 @@
       "Purpurate"
     ]
   },
-  "EMU": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large Australian flightless bird similar to the ostrich but smaller",
-        [
-          "Ratite",
-          "Ratite bird",
-          "Flightless bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Electromagnetic unit",
-      "Dromaius novaehollandiae",
-      "Emu novaehollandiae",
-      "Emu"
-    ]
-  },
   "EMULATE": {
     "MEANINGS": {
       "1": [
@@ -20290,31 +19192,6 @@
     "SYNONYMS": [
       "Enable",
       "Enabling"
-    ]
-  },
-  "ENACT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "act out; represent or perform as if in a play",
-        [
-          "Act",
-          "Play",
-          "Represent"
-        ],
-        [
-          "She reenacted what had happened earlier that day"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reenact",
-      "Ordain",
-      "Act out",
-      "Enact"
     ]
   },
   "ENACTMENT": {
@@ -20806,33 +19683,6 @@
       "Encephalocele"
     ]
   },
-  "ENCEPHALOGRAM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an X ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast",
-        [
-          "Roentgenogram",
-          "X ray",
-          "X-ray",
-          "X-ray picture",
-          "X-ray photograph"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Encephalogram",
-      "Pneumoencephalogram",
-      "Eeg",
-      "Electroencephalogram"
-    ]
-  },
   "ENCEPHALOGRAPHY": {
     "MEANINGS": {
       "1": [
@@ -20971,46 +19821,6 @@
     ],
     "SYNONYMS": [
       "Enchanter"
-    ]
-  },
-  "ENCHANTMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a psychological state induced by (or as if induced by) a magical incantation",
-        [
-          "Psychological state",
-          "Psychological condition",
-          "Mental state",
-          "Mental condition"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a magical spell",
-        [
-          "Sorcery",
-          "Black magic",
-          "Black art",
-          "Necromancy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spell",
-      "Fascination",
-      "Trance",
-      "Enchantment",
-      "Bewitchment"
     ]
   },
   "ENCHANTRESS": {
@@ -21272,48 +20082,6 @@
       "Enclave"
     ]
   },
-  "ENCLOSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "close in; darkness enclosed him\"",
-        [
-          "Hold",
-          "Bear",
-          "Carry",
-          "Contain"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "surround completely",
-        [
-          "Surround",
-          "Environ",
-          "Ring",
-          "Skirt",
-          "Border"
-        ],
-        [
-          "Darkness enclosed him",
-          "They closed in the porch with a fence"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Put in",
-      "Shut in",
-      "Enfold",
-      "Stick in",
-      "Introduce"
-    ]
-  },
   "ENCLOSED": {
     "MEANINGS": {
       "1": [
@@ -21513,31 +20281,6 @@
       "Encomium"
     ]
   },
-  "ENCOMPASSING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "closely encircling",
-        [
-
-        ],
-        [
-          "encompassing mountain ranges",
-          "the surrounding countryside"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Across-the-board",
-      "Cover",
-      "Extensive",
-      "Comprehend",
-      "Panoptic"
-    ]
-  },
   "ENCOMPASSMENT": {
     "MEANINGS": {
       "1": [
@@ -21603,75 +20346,6 @@
     ],
     "SYNONYMS": [
       "Encore"
-    ]
-  },
-  "ENCOUNTER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a casual meeting with a person or thing",
-        [
-          "Joining",
-          "Connection",
-          "Connexion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Clash",
-      "See",
-      "Find",
-      "Coming upon",
-      "Run into"
-    ]
-  },
-  "ENCOURAGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "inspire with confidence; give hope or courage to",
-        [
-          "Inspire",
-          "Animate",
-          "Invigorate",
-          "Enliven",
-          "Exalt"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "spur on",
-        [
-          "Induce",
-          "Stimulate",
-          "Cause",
-          "Have",
-          "Get",
-          "Make"
-        ],
-        [
-          "His financial success encouraged him to look for a wife"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "discourage"
-    ],
-    "SYNONYMS": [
-      "Advance",
-      "Boost",
-      "Further",
-      "Promote",
-      "Encourage"
     ]
   },
   "ENCOURAGEMENT": {
@@ -21909,30 +20583,6 @@
       "Restrain",
       "Constrain",
       "Encumber"
-    ]
-  },
-  "ENCUMBRANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a charge against property (as a lien or mortgage)",
-        [
-          "Charge"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hinderance",
-      "Preventative",
-      "Incumbrance",
-      "Burden",
-      "Hindrance"
     ]
   },
   "END": {
@@ -22595,40 +21245,6 @@
       "Endless"
     ]
   },
-  "ENDLESSLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with unflagging resolve",
-        [
-
-        ],
-        [
-          "dance inspires him ceaselessly to strive higher and higher toward the shining pinnacle of perfection that is the goal of every artiste"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "(spatial sense) without bounds",
-        [
-
-        ],
-        [
-          "the Nubian desert seemed to stretch out before them endlessly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "finitely"
-    ],
-    "SYNONYMS": [
-      "Interminably",
-      "Incessantly",
-      "Continuously",
-      "Unendingly",
-      "Ceaselessly"
-    ]
-  },
   "ENDLESSNESS": {
     "MEANINGS": {
       "1": [
@@ -23007,29 +21623,6 @@
       "Endogeny"
     ]
   },
-  "ENDOGENIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of rocks formed or occurring beneath the surface of the earth",
-        [
-
-        ],
-        [
-          "endogenic rocks are not clastic"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "exogenous",
-      "exogenic"
-    ],
-    "SYNONYMS": [
-      "Endogenous",
-      "Endogenetic",
-      "Endogenic"
-    ]
-  },
   "ENDOGENOUS": {
     "MEANINGS": {
       "1": [
@@ -23362,30 +21955,6 @@
       "Endorphin"
     ]
   },
-  "ENDORSE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "sign as evidence of legal transfer",
-        [
-          "Sign"
-        ],
-        [
-          "endorse cheques"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Support",
-      "Indorse",
-      "Endorse",
-      "Plump for",
-      "Plunk for"
-    ]
-  },
   "ENDORSEMENT": {
     "MEANINGS": {
       "1": [
@@ -23431,30 +22000,6 @@
       "Sanction",
       "Imprimatur",
       "Second"
-    ]
-  },
-  "ENDORSER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who transfers his ownership interest in something by signing a check or negotiable security",
-        [
-          "Signer",
-          "Signatory"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ratifier",
-      "Endorser",
-      "Indorser",
-      "Subscriber"
     ]
   },
   "ENDOSCOPE": {
@@ -23852,31 +22397,6 @@
     "SYNONYMS": [
       "Survival",
       "Endurance"
-    ]
-  },
-  "ENDURING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "patiently bearing continual wrongs or trouble",
-        [
-
-        ],
-        [
-          "an enduring disposition",
-          "a long-suffering and uncomplaining wife"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "enjoy"
-    ],
-    "SYNONYMS": [
-      "Live on",
-      "Digest",
-      "Hold out",
-      "Stand",
-      "Imperishable"
     ]
   },
   "ENDURINGLY": {
@@ -24502,29 +23022,6 @@
       "Enforcement"
     ]
   },
-  "ENFRANCHISE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "grant voting rights",
-        [
-          "Accord",
-          "Allot",
-          "Grant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disenfranchise"
-    ],
-    "SYNONYMS": [
-      "Enfranchise",
-      "Affranchise"
-    ]
-  },
   "ENFRANCHISED": {
     "MEANINGS": {
       "1": [
@@ -24568,77 +23065,6 @@
       "Franchise",
       "Enfranchisement",
       "Certification"
-    ]
-  },
-  "ENGAGE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "ask to represent; of legal counsel",
-        [
-          "Hire",
-          "Engage",
-          "Employ"
-        ],
-        [
-          "I'm retaining a lawyer"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "get caught",
-        [
-          "Touch"
-        ],
-        [
-          "make sure the gear is engaged"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "carry on (wars, battles, or campaigns)",
-        [
-          "Contend",
-          "Fight",
-          "Struggle"
-        ],
-        [
-          "Napoleon and Hitler waged war against all of Europe"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "hire for work or assistance",
-        [
-          "Procure",
-          "Secure"
-        ],
-        [
-          "engage aid, help, services, or support"
-        ]
-      ],
-      "10": [
-        "Verb",
-        "keep engaged",
-        [
-          "Move",
-          "Displace"
-        ],
-        [
-          "engaged the gears"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fire",
-      "disengage"
-    ],
-    "SYNONYMS": [
-      "Pursue",
-      "Engage",
-      "Prosecute",
-      "Affiance",
-      "Plight"
     ]
   },
   "ENGAGED": {
@@ -24707,56 +23133,6 @@
       "Prosecute",
       "Affiance",
       "Plight"
-    ]
-  },
-  "ENGAGEMENT": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "employment for performers or performing groups that lasts for a limited period of time",
-        [
-          "Employment",
-          "Work"
-        ],
-        [
-          "the play had bookings throughout the summer"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "contact by fitting together",
-        [
-          "Contact",
-          "Impinging",
-          "Striking"
-        ],
-        [
-          "the engagement of the clutch",
-          "the meshing of gears"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the act of sharing in the activities of a group",
-        [
-          "Group action"
-        ],
-        [
-          "the teacher tried to increase his students' engagement in class activities"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "non-engagement",
-      "nonparticipation",
-      "non-involvement"
-    ],
-    "SYNONYMS": [
-      "Interlocking",
-      "Employment",
-      "Engagement",
-      "Appointment",
-      "Mesh"
     ]
   },
   "ENGAGING": {
@@ -24932,47 +23308,6 @@
       "Technologist",
       "Direct",
       "Engine driver"
-    ]
-  },
-  "ENGINEERING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the discipline dealing with the art or science of applying scientific knowledge to practical problems",
-        [
-          "Discipline",
-          "Subject",
-          "Subject area",
-          "Subject field",
-          "Field",
-          "Field of study",
-          "Study",
-          "Bailiwick"
-        ],
-        [
-          "he had trouble deciding which branch of engineering to study"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a room (as on a ship) in which the engine is located",
-        [
-          "Room"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Organise",
-      "Organize",
-      "Technology",
-      "Engineering",
-      "Engine room"
     ]
   },
   "ENGINERY": {
@@ -25228,54 +23563,6 @@
       "Genus engraulis"
     ]
   },
-  "ENGRAVE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "impress or affect deeply",
-        [
-          "Affect",
-          "Impress",
-          "Move",
-          "Strike"
-        ],
-        [
-          "The event engraved itself into her memory"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "carve or cut into a block used for printing or print from such a block",
-        [
-          "Print"
-        ],
-        [
-          "engrave a letter"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "carve or cut a design or letters into",
-        [
-          "Carve",
-          "Chip at"
-        ],
-        [
-          "engrave the pen with the owner's name"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Scratch",
-      "Engrave",
-      "Etch",
-      "Grave",
-      "Inscribe"
-    ]
-  },
   "ENGRAVED": {
     "MEANINGS": {
       "1": [
@@ -25376,58 +23663,6 @@
       "Etch",
       "Engraving",
       "Grave"
-    ]
-  },
-  "ENGROSSED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "written formally in a large clear script, as a deed or other legal document",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Immerse",
-      "Plunge",
-      "Engage",
-      "Engrossed",
-      "Wrapped"
-    ]
-  },
-  "ENGULF": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "flow over or cover completely",
-        [
-          "Envelop",
-          "Enfold",
-          "Enwrap",
-          "Wrap",
-          "Enclose"
-        ],
-        [
-          "The bright light engulfed him completely"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Immerse",
-      "Plunge",
-      "Steep",
-      "Engross",
-      "Soak up"
     ]
   },
   "ENHANCE": {
@@ -25902,70 +24137,6 @@
       "Blow up"
     ]
   },
-  "ENLARGED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "larger than normal",
-        [
-
-        ],
-        [
-          "enlarged joints"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "atrophied",
-      "contract",
-      "reduce"
-    ],
-    "SYNONYMS": [
-      "Enlarged",
-      "Enlarge",
-      "Magnify",
-      "Expand",
-      "Hypertrophied"
-    ]
-  },
-  "ENLARGEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of being enlarged",
-        [
-          "State"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a photographic print that has been enlarged",
-        [
-          "Photograph",
-          "Photo",
-          "Exposure",
-          "Picture",
-          "Pic"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "contraction"
-    ],
-    "SYNONYMS": [
-      "Enlargement",
-      "Blowup",
-      "Elaboration",
-      "Expansion",
-      "Magnification"
-    ]
-  },
   "ENLARGER": {
     "MEANINGS": {
       "1": [
@@ -26203,35 +24374,6 @@
       "Enlistment"
     ]
   },
-  "ENLIVEN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make lively",
-        [
-          "Stimulate",
-          "Arouse",
-          "Brace",
-          "Energize",
-          "Energise",
-          "Perk up"
-        ],
-        [
-          "let's liven up this room a bit"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deaden"
-    ],
-    "SYNONYMS": [
-      "Enliven",
-      "Exalt",
-      "Animate",
-      "Liven up",
-      "Liven"
-    ]
-  },
   "ENLIVENED": {
     "MEANINGS": {
       "1": [
@@ -26388,31 +24530,6 @@
       "Ennoblement"
     ]
   },
-  "ENNOBLING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "tending to exalt",
-        [
-
-        ],
-        [
-          "an exalting eulogy",
-          "ennobling thoughts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Entitle",
-      "Ennoble",
-      "Exalting",
-      "Dignifying",
-      "Gentle"
-    ]
-  },
   "ENOL": {
     "MEANINGS": {
       "1": [
@@ -26498,59 +24615,6 @@
       "Fermentologist",
       "Enologist",
       "Oenologist"
-    ]
-  },
-  "ENORMITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "vastness of size or extent",
-        [
-          "Enormousness",
-          "Grandness",
-          "Greatness",
-          "Immenseness",
-          "Immensity",
-          "Sizeableness",
-          "Vastness",
-          "Wideness"
-        ],
-        [
-          "in careful usage the noun enormity is not used to express the idea of great size",
-          "universities recognized the enormity of their task"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the quality of extreme wickedness",
-        [
-          "Nefariousness",
-          "Wickedness",
-          "Vileness",
-          "Ugliness"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an act of extreme wickedness",
-        [
-          "Atrocity",
-          "Inhumanity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Enormity",
-      "Outrageousness"
     ]
   },
   "ENORMOUS": {
@@ -27322,41 +25386,6 @@
       "Mat"
     ]
   },
-  "ENTANGLED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "twisted together in a tangled mass",
-        [
-
-        ],
-        [
-          "toiled through entangled growths of mesquite"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "involved in difficulties",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disentangle",
-      "unsnarl"
-    ],
-    "SYNONYMS": [
-      "Entangle",
-      "Tangle",
-      "Snarl",
-      "Mire",
-      "Entangled"
-    ]
-  },
   "ENTASIS": {
     "MEANINGS": {
       "1": [
@@ -28060,32 +26089,6 @@
       "Entertainment"
     ]
   },
-  "ENTHRONE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "put a monarch on the throne",
-        [
-          "Invest",
-          "Vest",
-          "Enthrone"
-        ],
-        [
-          "The Queen was enthroned more than 50 years ago"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "divest",
-      "dethrone"
-    ],
-    "SYNONYMS": [
-      "Enthrone",
-      "Throne",
-      "Vest",
-      "Invest"
-    ]
-  },
   "ENTHUSE": {
     "MEANINGS": {
       "1": [
@@ -28248,29 +26251,6 @@
       "Tempt"
     ]
   },
-  "ENTICEMENT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of influencing by exciting hope or desire",
-        [
-          "Influence"
-        ],
-        [
-          "his enticements were shameless"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Come-on",
-      "Lure",
-      "Enticement",
-      "Temptation"
-    ]
-  },
   "ENTIRE": {
     "MEANINGS": {
       "1": [
@@ -28315,35 +26295,6 @@
       "Entire",
       "Integral",
       "Total"
-    ]
-  },
-  "ENTIRELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "without any others being included or involved",
-        [
-
-        ],
-        [
-          "was entirely to blame",
-          "a school devoted entirely to the needs of problem children",
-          "he works for Mr. Smith exclusively",
-          "did it solely for money",
-          "the burden of proof rests on the prosecution alone",
-          "a privilege granted only to him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "partly"
-    ],
-    "SYNONYMS": [
-      "Solely",
-      "Whole",
-      "Altogether",
-      "Alone",
-      "Exclusively"
     ]
   },
   "ENTIRETY": {
@@ -29861,60 +27812,6 @@
     ],
     "SYNONYMS": [
       "Environmentally"
-    ]
-  },
-  "ENVIRONS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an outer adjacent area of any place",
-        [
-          "Geographical area",
-          "Geographic area",
-          "Geographical region",
-          "Geographic region"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Purlieu",
-      "Environs",
-      "Surround",
-      "Ring",
-      "Environment"
-    ]
-  },
-  "ENVISION": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "picture to oneself; imagine possible",
-        [
-          "Imagine",
-          "Conceive of",
-          "Ideate",
-          "Envisage"
-        ],
-        [
-          "I cannot envision him as President"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Visualise",
-      "Picture",
-      "Image",
-      "Envision",
-      "See"
     ]
   },
   "ENVISIONED": {
@@ -33158,59 +31055,6 @@
       "Epithelium"
     ]
   },
-  "EPITHET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "descriptive word or phrase",
-        [
-          "Word picture",
-          "Word-painting",
-          "Delineation",
-          "Depiction",
-          "Picture",
-          "Characterization",
-          "Characterisation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Name",
-      "Epithet"
-    ]
-  },
-  "EPITOME": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a brief abstract (as of an article or book)",
-        [
-          "Outline",
-          "Synopsis",
-          "Abstract",
-          "Precis"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Image",
-      "Prototype",
-      "Epitome",
-      "Paradigm"
-    ]
-  },
   "EPIZOAN": {
     "MEANINGS": {
       "1": [
@@ -33273,39 +31117,6 @@
     ],
     "SYNONYMS": [
       "Epizootic"
-    ]
-  },
-  "EPOCH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(astronomy) an arbitrarily fixed date that is the point in time relative to which information (as coordinates of a celestial body) is recorded",
-        [
-          "Date"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a unit of geological time that is a subdivision of a period and is itself divided into ages",
-        [
-          "Geological time",
-          "Geologic time"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Era",
-      "Date of reference",
-      "Epoch"
     ]
   },
   "EPOCHAL": {
@@ -33809,31 +31620,6 @@
     ],
     "SYNONYMS": [
       "Equatability"
-    ]
-  },
-  "EQUATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be equivalent or parallel, in mathematics",
-        [
-          "Equal",
-          "Be"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Compare",
-      "Equal",
-      "Liken",
-      "Equate",
-      "Equalise"
     ]
   },
   "EQUATION": {
@@ -34555,30 +32341,6 @@
       "Equity"
     ]
   },
-  "EQUIVALENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "essential equality and interchangeability",
-        [
-          "Equality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonequivalence"
-    ],
-    "SYNONYMS": [
-      "Compare",
-      "Comparison",
-      "Equation",
-      "Comparability",
-      "Par"
-    ]
-  },
   "EQUIVALENT": {
     "MEANINGS": {
       "1": [
@@ -34661,43 +32423,6 @@
     "SYNONYMS": [
       "Ambiguous",
       "Equivocal"
-    ]
-  },
-  "EQUIVOCATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "intentionally vague or ambiguous",
-        [
-          "Ambiguity",
-          "Equivocalness",
-          "Untruthfulness"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "falsification by means of vague or ambiguous language",
-        [
-          "Falsification",
-          "Misrepresentation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Evasiveness",
-      "Tergiversation",
-      "Evasion",
-      "Prevarication",
-      "Equivocation"
     ]
   },
   "EQUUS": {
@@ -37284,74 +35009,6 @@
       "Erroneousness"
     ]
   },
-  "ERROR": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a misconception resulting from incorrect information",
-        [
-          "Misconception"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(baseball) a failure of a defensive player to make an out when normal play would have sufficed",
-        [
-          "Failure"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "departure from what is ethically acceptable",
-        [
-          "Evil",
-          "Evilness"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "(computer science) the occurrence of an incorrect result produced by a computer",
-        [
-          "Happening",
-          "Occurrence",
-          "Occurrent",
-          "Natural event"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "part of a statement that is not correct",
-        [
-          "Misstatement"
-        ],
-        [
-          "the book was full of errors"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Misplay",
-      "Error",
-      "Fault",
-      "Erroneousness",
-      "Computer error"
-    ]
-  },
   "ERRORLESS": {
     "MEANINGS": {
       "1": [
@@ -37604,54 +35261,6 @@
       "Irrupt"
     ]
   },
-  "ERUPTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "symptom consisting of a breaking out and becoming visible",
-        [
-          "Symptom"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(of volcanos) pouring out fumes or lava (or a deposit so formed)",
-        [
-          "Action",
-          "Activity",
-          "Activeness"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the emergence of a tooth as it breaks through the gum",
-        [
-          "Emergence",
-          "Egress",
-          "Issue"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bang",
-      "Clap",
-      "Bam",
-      "Eruption",
-      "Outbreak"
-    ]
-  },
   "ERUPTIVE": {
     "MEANINGS": {
       "1": [
@@ -37864,55 +35473,6 @@
     ],
     "SYNONYMS": [
       "Escalation"
-    ]
-  },
-  "ESCALATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a stairway whose steps move continuously on a circulating belt",
-        [
-          "Stairway",
-          "Staircase"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Escalator clause",
-      "Escalator",
-      "Moving staircase",
-      "Moving stairway"
-    ]
-  },
-  "ESCAPADE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any carefree episode",
-        [
-          "Diversion",
-          "Recreation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Escapade",
-      "Adventure",
-      "Dangerous undertaking",
-      "Risky venture",
-      "Lark"
     ]
   },
   "ESCAPE": {
@@ -38445,39 +36005,6 @@
       "Escrow"
     ]
   },
-  "ESCUTCHEON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(nautical) a plate on a ship's stern on which the name is inscribed",
-        [
-          "Plate"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a shield; especially one displaying a coat of arms",
-        [
-          "Shield",
-          "Buckler"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Escutcheon",
-      "Scutcheon",
-      "Finger plate"
-    ]
-  },
   "ESKER": {
     "MEANINGS": {
       "1": [
@@ -38921,31 +36448,6 @@
       "Espoo"
     ]
   },
-  "ESPOUSE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "take up the cause, ideology, practice, method, of someone and use it as one's own",
-        [
-          "Accept"
-        ],
-        [
-          "She embraced Catholicism",
-          "They adopted the Jewish faith"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Espouse",
-      "Get married",
-      "Sweep up",
-      "Adopt",
-      "Get hitched with"
-    ]
-  },
   "ESPRESSO": {
     "MEANINGS": {
       "1": [
@@ -39136,30 +36638,6 @@
     ],
     "SYNONYMS": [
       "Essen"
-    ]
-  },
-  "ESSENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any substance possessing to a high degree the predominant properties of a plant or drug or other natural product from which it is extracted",
-        [
-          "Substance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Substance",
-      "Heart and soul",
-      "Nitty-gritty",
-      "Kernel",
-      "Gist"
     ]
   },
   "ESSENE": {
@@ -39377,66 +36855,6 @@
       "Show",
       "Install",
       "Give"
-    ]
-  },
-  "ESTABLISHMENT": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a public or private structure (business or governmental or educational) including buildings and equipment for business or residence",
-        [
-          "Structure",
-          "Construction"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "any large organization",
-        [
-          "Organization",
-          "Organisation"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "(ecology) the process by which a plant or animal becomes established in a new habitat",
-        [
-          "Natural process",
-          "Natural action",
-          "Action",
-          "Activity"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the cognitive process of establishing a valid proof",
-        [
-          "Proof",
-          "Cogent evidence"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Validation",
-      "Constitution",
-      "Ecesis",
-      "Brass",
-      "Governing body"
     ]
   },
   "ESTABLISHMENTARIANISM": {
@@ -40189,31 +37607,6 @@
       "Estuarine"
     ]
   },
-  "ETA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 7th letter of the Greek alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Euskadi ta askatasuna",
-      "Basque fatherland and liberty",
-      "Basque homeland and freedom",
-      "Eta"
-    ]
-  },
   "ETAGERE": {
     "MEANINGS": {
       "1": [
@@ -40550,88 +37943,6 @@
       "Ethelred the unready"
     ]
   },
-  "ETHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of a class of organic compounds that have two hydrocarbon groups linked by an oxygen atom",
-        [
-          "Organic compound"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a medium that was once supposed to fill all space and to support the propagation of electromagnetic waves",
-        [
-          "Medium"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a colorless volatile highly inflammable liquid formerly used as an inhalation anesthetic",
-        [
-          "Inhalation anesthetic",
-          "Inhalation anaesthetic",
-          "Inhalation general anesthetic",
-          "Inhalation general anaesthetic"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Diethyl ether",
-      "Aether",
-      "Ethyl ether",
-      "Ether",
-      "Ethoxyethane"
-    ]
-  },
-  "ETHEREAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or containing or dissolved in ether",
-        [
-
-        ],
-        [
-          "ethereal solution"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "characterized by unusual lightness and delicacy",
-        [
-
-        ],
-        [
-          "this smallest and most ethereal of birds",
-          "gossamer shading through his playing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aerial",
-      "Gossamer",
-      "Supernal",
-      "Aery",
-      "Airy"
-    ]
-  },
   "ETHEREALIZE": {
     "MEANINGS": {
       "1": [
@@ -40871,30 +38182,6 @@
     "SYNONYMS": [
       "Ethician",
       "Ethicist"
-    ]
-  },
-  "ETHICS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the philosophical study of moral values and rules",
-        [
-          "Philosophy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Moral philosophy",
-      "Value orientation",
-      "Ethic",
-      "Moral principle",
-      "Morals"
     ]
   },
   "ETHYL": {
@@ -42988,27 +40275,6 @@
       "Eurasiatic"
     ]
   },
-  "EUREKA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a town in northwest California on an arm of the Pacific Ocean",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eureka",
-      "Constantan"
-    ]
-  },
   "EURYALE": {
     "MEANINGS": {
       "1": [
@@ -43759,30 +41025,6 @@
       "Empty"
     ]
   },
-  "EVACUATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of evacuating; leaving a place in an orderly fashion; especially for protection",
-        [
-          "Withdrawal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excreting",
-      "Voidance",
-      "Emptying",
-      "Voiding",
-      "Evacuation"
-    ]
-  },
   "EVACUEE": {
     "MEANINGS": {
       "1": [
@@ -43802,72 +41044,6 @@
     ],
     "SYNONYMS": [
       "Evacuee"
-    ]
-  },
-  "EVADE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "practice evasion",
-        [
-          "Act",
-          "Move"
-        ],
-        [
-          "This man always hesitates and evades"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "use cunning or deceit to escape or avoid",
-        [
-          "Get off",
-          "Get away",
-          "Get by",
-          "Get out",
-          "Escape"
-        ],
-        [
-          "The con man always evades"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dodge",
-      "Circumvent",
-      "Hedge",
-      "Put off",
-      "Duck"
-    ]
-  },
-  "EVALUATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "form a critical opinion of",
-        [
-          "Think",
-          "Cogitate",
-          "Cerebrate"
-        ],
-        [
-          "I cannot judge some works of modern art",
-          "How do you evaluate this grant proposal?\" \"We shouldn't pass judgment on other people"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Evaluate",
-      "Judge",
-      "Measure",
-      "Assess",
-      "Valuate"
     ]
   },
   "EVALUATION": {
@@ -45791,31 +42967,6 @@
       "Evocative"
     ]
   },
-  "EVOLUTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms",
-        [
-          "Organic process",
-          "Biological process"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "devolution"
-    ],
-    "SYNONYMS": [
-      "Development",
-      "Phylogenesis",
-      "Evolution",
-      "Organic evolution",
-      "Phylogeny"
-    ]
-  },
   "EVOLUTIONARY": {
     "MEANINGS": {
       "1": [
@@ -45949,50 +43100,6 @@
     ],
     "SYNONYMS": [
       "Ewe"
-    ]
-  },
-  "EXACERBATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "exasperate or irritate",
-        [
-          "Anger"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "better"
-    ],
-    "SYNONYMS": [
-      "Aggravate",
-      "Worsen",
-      "Exasperate",
-      "Exacerbate"
-    ]
-  },
-  "EXACERBATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "violent and bitter exasperation",
-        [
-          "Exasperation"
-        ],
-        [
-          "his foolishness was followed by an exacerbation of their quarrel"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aggravation",
-      "Exacerbation"
     ]
   },
   "EXACT": {
@@ -46143,102 +43250,6 @@
       "Magnify"
     ]
   },
-  "EXAGGERATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of making something more noticeable than usual",
-        [
-          "Increase",
-          "Step-up"
-        ],
-        [
-          "the dance involved a deliberate exaggeration of his awkwardness"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "making to seem more important than it really is",
-        [
-          "Misrepresentation",
-          "Deceit",
-          "Deception"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "understatement"
-    ],
-    "SYNONYMS": [
-      "Hyperbole",
-      "Overstatement",
-      "Exaggeration",
-      "Magnification"
-    ]
-  },
-  "EXALT": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "raise in rank, character, or status",
-        [
-          "Lift",
-          "Raise",
-          "Elevate"
-        ],
-        [
-          "exalted the humble shoemaker to the rank of King's adviser"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beatify",
-      "Exalt",
-      "Glorify",
-      "Enliven",
-      "Extol"
-    ]
-  },
-  "EXALTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the location of a planet in the zodiac at which it is believed to exert its maximum influence",
-        [
-          "Celestial point"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a flock of larks (especially a flock of larks in flight overhead)",
-        [
-          "Flock"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exaltation",
-      "Deification",
-      "Ecstasy",
-      "Transport",
-      "Apotheosis"
-    ]
-  },
   "EXALTED": {
     "MEANINGS": {
       "1": [
@@ -46345,42 +43356,6 @@
       "Examen",
       "Exam",
       "Testing"
-    ]
-  },
-  "EXAMINE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "observe, check out, and look over carefully or inspect",
-        [
-
-        ],
-        [
-          "The customs agent examined the baggage",
-          "I must see your passport before you can enter the country"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "question closely",
-        [
-          "Question",
-          "Query"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Analyze",
-      "Test",
-      "Try",
-      "See",
-      "Try out"
     ]
   },
   "EXAMINER": {
@@ -46591,30 +43566,6 @@
     ],
     "SYNONYMS": [
       "Exasperatingly"
-    ]
-  },
-  "EXASPERATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "actions that cause great irritation (or even anger)",
-        [
-          "Annoyance",
-          "Annoying",
-          "Irritation",
-          "Vexation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exasperation",
-      "Aggravation"
     ]
   },
   "EXCALIBUR": {
@@ -47042,30 +43993,6 @@
     "SYNONYMS": [
       "Objectionable",
       "Exceptionable"
-    ]
-  },
-  "EXCEPTIONAL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "deviating widely from a norm of physical or mental ability; used especially of children below normal in intelligence",
-        [
-
-        ],
-        [
-          "special educational provisions for exceptional children"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Surpassing",
-      "Exceeding",
-      "Particular",
-      "Olympian",
-      "Especial"
     ]
   },
   "EXCEPTIONALLY": {
@@ -47562,41 +44489,6 @@
       "Stimulant"
     ]
   },
-  "EXCITATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the neural or electrical arousal of an organ or muscle or gland",
-        [
-          "Arousal"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "something that agitates and arouses",
-        [
-          "Arousal",
-          "Rousing"
-        ],
-        [
-          "he looked forward to the excitements of the day"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Inflammation",
-      "Irritation",
-      "Innervation",
-      "Fervor",
-      "Excitation"
-    ]
-  },
   "EXCITE": {
     "MEANINGS": {
       "1": [
@@ -47653,32 +44545,6 @@
       "Excite"
     ]
   },
-  "EXCITED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "in an aroused state",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unexcited",
-      "calm",
-      "stifle"
-    ],
-    "SYNONYMS": [
-      "Sex",
-      "Activated",
-      "Turn on",
-      "Emotional",
-      "Stimulate"
-    ]
-  },
   "EXCITEDLY": {
     "MEANINGS": {
       "1": [
@@ -47697,31 +44563,6 @@
     ],
     "SYNONYMS": [
       "Excitedly"
-    ]
-  },
-  "EXCITEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of being emotionally aroused and worked up",
-        [
-          "Emotional arousal"
-        ],
-        [
-          "his face was flushed with excitement and his hands trembled",
-          "he tried to calm those who were in a state of extreme inflammation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Inflammation",
-      "Hullabaloo",
-      "Fervor",
-      "Turmoil",
-      "Excitation"
     ]
   },
   "EXCITING": {
@@ -48100,57 +44941,6 @@
       "Exclusion"
     ]
   },
-  "EXCORIATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "severe censure",
-        [
-          "Denunciation",
-          "Denouncement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excoriation",
-      "Scrape",
-      "Scratch",
-      "Abrasion"
-    ]
-  },
-  "EXCRESCENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(pathology) an abnormal outgrowth or enlargement of some part of the body",
-        [
-          "Growth",
-          "Process",
-          "Outgrowth",
-          "Appendage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Protrusion",
-      "Swelling",
-      "Protuberance",
-      "Hump",
-      "Gibbosity"
-    ]
-  },
   "EXCRESCENT": {
     "MEANINGS": {
       "1": [
@@ -48216,30 +45006,6 @@
     ],
     "SYNONYMS": [
       "Excretory"
-    ]
-  },
-  "EXCULPATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of freeing from guilt or blame",
-        [
-          "Forgiveness",
-          "Pardon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exculpation",
-      "Alibi",
-      "Excuse",
-      "Self-justification"
     ]
   },
   "EXCULPATORY": {
@@ -48459,41 +45225,6 @@
     ],
     "SYNONYMS": [
       "Ex-directory"
-    ]
-  },
-  "EXECRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an appeal to some supernatural power to inflict evil on someone or some group",
-        [
-          "Denunciation",
-          "Denouncement"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the object of cursing or detestation; that which is execrated",
-        [
-          "Object"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abomination",
-      "Execration",
-      "Curse",
-      "Abhorrence",
-      "Loathing"
     ]
   },
   "EXECUTANT": {
@@ -49317,29 +46048,6 @@
       "Scale"
     ]
   },
-  "EXHALATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of expelling air from the lungs",
-        [
-          "Breath"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Expiration",
-      "Breathing out",
-      "Halitus",
-      "Exhalation"
-    ]
-  },
   "EXHALE": {
     "MEANINGS": {
       "1": [
@@ -49527,31 +46235,6 @@
     ],
     "SYNONYMS": [
       "Exhaustible"
-    ]
-  },
-  "EXHAUSTING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "producing exhaustion",
-        [
-
-        ],
-        [
-          "an exhausting march",
-          "the visit was especially wearing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beat",
-      "Run through",
-      "Tucker",
-      "Eject",
-      "Run down"
     ]
   },
   "EXHAUSTION": {
@@ -49964,31 +46647,6 @@
       "Pinch"
     ]
   },
-  "EXIGENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "requiring precise accuracy",
-        [
-
-        ],
-        [
-          "an exacting job",
-          "became more exigent over his pronunciation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Insistent",
-      "Exigent",
-      "Instant",
-      "Exacting",
-      "Clamant"
-    ]
-  },
   "EXIGUOUS": {
     "MEANINGS": {
       "1": [
@@ -50140,37 +46798,6 @@
       "Existent",
       "Real",
       "Existing"
-    ]
-  },
-  "EXISTENTIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or as conceived by existentialism",
-        [
-
-        ],
-        [
-          "an existential moment of choice"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "relating to or dealing with existence (especially with human existence)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Existential",
-      "Experiential"
     ]
   },
   "EXISTENTIALISM": {
@@ -51090,29 +47717,6 @@
       "Heat-releasing"
     ]
   },
-  "EXOTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "strikingly strange or unusual",
-        [
-
-        ],
-        [
-          "an exotic hair style",
-          "protons, neutrons, electrons and all their exotic variants",
-          "the exotic landscape of a dead planet"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alien",
-      "Exotic"
-    ]
-  },
   "EXOTICISM": {
     "MEANINGS": {
       "1": [
@@ -51257,29 +47861,6 @@
       "Expand",
       "Spread out",
       "Flourish"
-    ]
-  },
-  "EXPANSE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a wide and open space or area as of surface or land or sky",
-        [
-          "Space"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Expanse",
-      "Surface area",
-      "Sweep",
-      "Area"
     ]
   },
   "EXPANSION": {
@@ -51709,29 +48290,6 @@
       "Have a bun in the oven",
       "Expected",
       "Await"
-    ]
-  },
-  "EXPECTEDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "ordinariness as a consequence of being expected and not surprising",
-        [
-          "Ordinariness",
-          "Mundaneness",
-          "Mundanity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unexpectedness"
-    ],
-    "SYNONYMS": [
-      "Expectedness",
-      "Commonness"
     ]
   },
   "EXPECTORANT": {
@@ -52620,30 +49178,6 @@
       "Atone"
     ]
   },
-  "EXPIATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of atoning for sin or wrongdoing (especially appeasing a deity)",
-        [
-          "Redemption",
-          "Salvation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Propitiation",
-      "Expiation",
-      "Atonement",
-      "Satisfaction"
-    ]
-  },
   "EXPIATORY": {
     "MEANINGS": {
       "1": [
@@ -52836,31 +49370,6 @@
       "Explanatory"
     ]
   },
-  "EXPLETIVE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a word or phrase conveying no independent meaning but added to fill out a sentence or metrical line",
-        [
-          "Utterance",
-          "Vocalization"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Expletive",
-      "Curse word",
-      "Oath",
-      "Swearword",
-      "Curse"
-    ]
-  },
   "EXPLICABLE": {
     "MEANINGS": {
       "1": [
@@ -52900,36 +49409,6 @@
     "SYNONYMS": [
       "Explanandum",
       "Explicandum"
-    ]
-  },
-  "EXPLICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "elaborate, as of theories and hypotheses",
-        [
-          "Speculate",
-          "Theorize",
-          "Theorise",
-          "Conjecture",
-          "Hypothesize",
-          "Hypothesise",
-          "Hypothecate",
-          "Suppose"
-        ],
-        [
-          "Could you develop the ideas in your thesis"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Explain",
-      "Formulate",
-      "Develop",
-      "Explicate"
     ]
   },
   "EXPLICATION": {
@@ -53399,50 +49878,6 @@
       "Exploratory"
     ]
   },
-  "EXPLORE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "travel to or penetrate into",
-        [
-          "Investigate",
-          "Look into"
-        ],
-        [
-          "explore unknown territory in biology"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "examine minutely",
-        [
-          "Diagnose",
-          "Name"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "examine (organs) for diagnostic purposes",
-        [
-          "Diagnose"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Research",
-      "Search",
-      "Explore"
-    ]
-  },
   "EXPLORER": {
     "MEANINGS": {
       "1": [
@@ -53628,41 +50063,6 @@
     ],
     "SYNONYMS": [
       "Explosively"
-    ]
-  },
-  "EXPONENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who expounds and interprets or explains",
-        [
-          "Intellectual",
-          "Intellect"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a mathematical notation indicating the number of times a quantity is multiplied by itself",
-        [
-          "Mathematical notation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Advocate",
-      "Index",
-      "Power",
-      "Proponent",
-      "Exponent"
     ]
   },
   "EXPONENTIAL": {
@@ -54596,31 +50996,6 @@
       "Expropriation"
     ]
   },
-  "EXPULSION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of expelling or projecting or ejecting",
-        [
-          "Propulsion",
-          "Actuation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ejection",
-      "Extrusion",
-      "Riddance",
-      "Projection",
-      "Forcing out"
-    ]
-  },
   "EXPUNCTION": {
     "MEANINGS": {
       "1": [
@@ -54891,127 +51266,6 @@
       "Improvisation",
       "Extemporisation",
       "Extemporization"
-    ]
-  },
-  "EXTEND": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "make available; provide",
-        [
-          "Supply",
-          "Provide",
-          "Render",
-          "Furnish"
-        ],
-        [
-          "extend a loan",
-          "The bank offers a good deal on new mortgages"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "reach outward in space",
-        [
-          "Be"
-        ],
-        [
-          "The awning extends several feet over the sidewalk"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "expand the influence of",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "The King extended his rule to the Eastern part of the continent"
-        ]
-      ],
-      "13": [
-        "Verb",
-        "open or straighten out; unbend",
-        [
-          "Straighten",
-          "Straighten out"
-        ],
-        [
-          "Can we extend the legs of this dining table?"
-        ]
-      ],
-      "15": [
-        "Verb",
-        "prolong the time allowed for payment of",
-        [
-          "Prolong",
-          "Protract",
-          "Extend",
-          "Draw out"
-        ],
-        [
-          "extend the loan"
-        ]
-      ],
-      "17": [
-        "Verb",
-        "increase in quantity or bulk by adding a cheaper substance",
-        [
-          "Increase"
-        ],
-        [
-          "stretch the soup by adding some more cream",
-          "extend the casserole with a little rice"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exsert",
-      "Pass",
-      "Hold out",
-      "Gallop",
-      "Poke out"
-    ]
-  },
-  "EXTENDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "fully extended or stretched forth",
-        [
-
-        ],
-        [
-          "an extended telescope",
-          "his extended legs reached almost across the small room",
-          "refused to accept the extended hand"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "beyond the literal or primary sense",
-        [
-
-        ],
-        [
-          "`hot off the press' shows an extended sense of `hot'"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unextended"
-    ],
-    "SYNONYMS": [
-      "Exsert",
-      "Protracted",
-      "Pass",
-      "Extensive",
-      "Hold out"
     ]
   },
   "EXTENDIBLE": {
@@ -55474,29 +51728,6 @@
       "Root out"
     ]
   },
-  "EXTERMINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of exterminating",
-        [
-          "Destruction",
-          "Devastation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Extermination",
-      "Extinction",
-      "Liquidation"
-    ]
-  },
   "EXTERMINATOR": {
     "MEANINGS": {
       "1": [
@@ -55830,33 +52061,6 @@
       "Extinction"
     ]
   },
-  "EXTINGUISH": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "terminate, end, or take out",
-        [
-          "Destroy",
-          "Destruct"
-        ],
-        [
-          "Let's eliminate the course on Akkadian hieroglyphics",
-          "Socialism extinguished these archaic customs",
-          "eliminate my debts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ignite"
-    ],
-    "SYNONYMS": [
-      "Blow out",
-      "Press out",
-      "Extinguish",
-      "Carry off",
-      "Snuff out"
-    ]
-  },
   "EXTINGUISHABLE": {
     "MEANINGS": {
       "1": [
@@ -55900,58 +52104,6 @@
       "Extinguish",
       "Carry off",
       "Extinguished"
-    ]
-  },
-  "EXTIRPATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "surgically remove (an organ)",
-        [
-          "Remove",
-          "Take",
-          "Take away",
-          "Withdraw"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exterminate",
-      "Uproot",
-      "Extirpate",
-      "Deracinate",
-      "Eradicate"
-    ]
-  },
-  "EXTIRPATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of pulling up or out; uprooting; cutting off from existence",
-        [
-          "Pull",
-          "Pulling"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excision",
-      "Extirpation",
-      "Cutting out",
-      "Ablation",
-      "Deracination"
     ]
   },
   "EXTORT": {
@@ -56594,33 +52746,6 @@
       "Extraordinariness"
     ]
   },
-  "EXTRAPOLATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "gain knowledge of (an area not known or experienced) by extrapolating",
-        [
-          "Deduce",
-          "Infer",
-          "Deduct",
-          "Derive"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Infer",
-      "Extrapolate",
-      "Generalize",
-      "Generalise",
-      "Interpolate"
-    ]
-  },
   "EXTRAPOLATION": {
     "MEANINGS": {
       "1": [
@@ -56809,54 +52934,6 @@
       "Profligacy"
     ]
   },
-  "EXTRAVAGANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "recklessly wasteful",
-        [
-
-        ],
-        [
-          "prodigal in their expenditures"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spendthrift",
-      "Excessive",
-      "Profligate",
-      "Prodigal",
-      "Exuberant"
-    ]
-  },
-  "EXTRAVAGANTLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a wasteful manner",
-        [
-
-        ],
-        [
-          "the United States, up to the 1920s, used fuel lavishly, mainly because it was so cheap"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Profusely",
-      "Abundantly",
-      "Copiously",
-      "Richly",
-      "Extravagantly"
-    ]
-  },
   "EXTRAVAGANZA": {
     "MEANINGS": {
       "1": [
@@ -57036,31 +53113,6 @@
       "Uttermost"
     ]
   },
-  "EXTREMELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "to an extreme degree",
-        [
-
-        ],
-        [
-          "extremely cold",
-          "extremely unpleasant"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Extremely",
-      "Super",
-      "Exceedingly",
-      "Passing",
-      "Highly"
-    ]
-  },
   "EXTREMENESS": {
     "MEANINGS": {
       "1": [
@@ -57191,30 +53243,6 @@
       "Extremity",
       "Member",
       "Appendage"
-    ]
-  },
-  "EXTREMUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the most extreme possible amount or value",
-        [
-          "Limit",
-          "Limitation"
-        ],
-        [
-          "voltage peak"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Peak",
-      "Extremum",
-      "Extreme",
-      "Extreme point"
     ]
   },
   "EXTRICABLE": {
@@ -57350,30 +53378,6 @@
       "Extrovert"
     ]
   },
-  "EXTROVERTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "at ease in talking to others",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "introspective"
-    ],
-    "SYNONYMS": [
-      "Outgoing",
-      "Forthcoming",
-      "Extravert",
-      "Extraverted",
-      "Extroverted"
-    ]
-  },
   "EXTROVERTISH": {
     "MEANINGS": {
       "1": [
@@ -57415,32 +53419,6 @@
     "SYNONYMS": [
       "Extrude",
       "Squeeze out"
-    ]
-  },
-  "EXTRUSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "squeezing out by applying pressure",
-        [
-          "Squeeze",
-          "Squeezing"
-        ],
-        [
-          "an unexpected extrusion of toothpaste from the bottom of the tube",
-          "the expulsion of pus from the pimple"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Protrusion",
-      "Swelling",
-      "Protuberance",
-      "Hump",
-      "Gibbosity"
     ]
   },
   "EXTRUSIVE": {
@@ -57499,30 +53477,6 @@
       "Enthusiasm",
       "Ebullience",
       "Exuberance"
-    ]
-  },
-  "EXUBERANT": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "produced or growing in extreme abundance",
-        [
-
-        ],
-        [
-          "their riotous blooming"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excessive",
-      "High-spirited",
-      "Profuse",
-      "Lush",
-      "Riotous"
     ]
   },
   "EXUBERANTLY": {
@@ -57597,30 +53551,6 @@
       "Transude",
       "Exudate",
       "Exude"
-    ]
-  },
-  "EXUDATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the process of exuding; the slow escape of liquids from blood vessels through pores or breaks in the cell membranes",
-        [
-          "Seepage",
-          "Ooze",
-          "Oozing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exudate",
-      "Transudation",
-      "Exudation"
     ]
   },
   "EXUDE": {

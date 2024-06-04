@@ -1,54 +1,4 @@
 {
-  "L": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the 12th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lambert",
-      "Cubic decimetre",
-      "Fifty",
-      "Cubic decimeter",
-      "Liter"
-    ]
-  },
-  "LA": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the syllable naming the sixth (submediant) note of a major or minor scale in solmization",
-        [
-          "Solfa syllable"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lah",
-      "Atomic number 57",
-      "Lanthanum",
-      "La",
-      "Louisiana"
-    ]
-  },
   "LAAGER": {
     "MEANINGS": {
       "1": [
@@ -1168,30 +1118,6 @@
       "Deficiency"
     ]
   },
-  "LACKADAISICAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "idle or indolent especially in a dreamy way",
-        [
-
-        ],
-        [
-          "she was annoyingly lackadaisical and impractical",
-          "a...lackadaisical, spiritless young man-about-town\"- P.G.Wodehouse"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Languorous",
-      "Lackadaisical",
-      "Dreamy",
-      "Languid"
-    ]
-  },
   "LACKADAISICALLY": {
     "MEANINGS": {
       "1": [
@@ -1235,31 +1161,6 @@
       "Toady",
       "Crawler",
       "Sycophant"
-    ]
-  },
-  "LACKING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "nonexistent",
-        [
-
-        ],
-        [
-          "the thumb is absent",
-          "her appetite was lacking"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "have"
-    ],
-    "SYNONYMS": [
-      "Missing",
-      "Absent",
-      "Lacking",
-      "Miss",
-      "Wanting"
     ]
   },
   "LACKLUSTER": {
@@ -2516,28 +2417,6 @@
       "Lagenaria"
     ]
   },
-  "LAGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in March or April and matured until September",
-        [
-          "Beer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lager",
-      "Lager beer",
-      "Laager"
-    ]
-  },
   "LAGERSTROEMIA": {
     "MEANINGS": {
       "1": [
@@ -2856,70 +2735,6 @@
     ],
     "SYNONYMS": [
       "Lahore"
-    ]
-  },
-  "LAY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not of or from a profession",
-        [
-
-        ],
-        [
-          "a lay opinion as to the cause of the disease"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "prepare or position for action or operation",
-        [
-          "Organize",
-          "Organise",
-          "Prepare",
-          "Devise",
-          "Get up",
-          "Machinate"
-        ],
-        [
-          "lay a fire",
-          "lay the foundation for a new health care plan"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "lay eggs",
-        [
-          "Lay",
-          "Put down",
-          "Repose"
-        ],
-        [
-          "This hen doesn't lay"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "impose as a duty, burden, or punishment",
-        [
-          "Levy",
-          "Impose"
-        ],
-        [
-          "lay a responsibility on someone"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "stand",
-      "arise"
-    ],
-    "SYNONYMS": [
-      "Lie",
-      "Lay",
-      "Laic",
-      "Pose",
-      "Lie in"
     ]
   },
   "LAIC": {
@@ -3939,33 +3754,6 @@
       "Wild spinach"
     ]
   },
-  "LAME": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a fabric interwoven with threads of metal",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-          "she wore a gold lame dress"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lame",
-      "Game",
-      "Gimpy",
-      "Crippled",
-      "Square"
-    ]
-  },
   "LAMEDH": {
     "MEANINGS": {
       "1": [
@@ -4006,38 +3794,6 @@
     ],
     "SYNONYMS": [
       "Lamely"
-    ]
-  },
-  "LAMELLA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a thin membrane that is one of the calcified layers that form bones",
-        [
-          "Membrane",
-          "Tissue layer"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "thin plate",
-        [
-          "Plate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gill",
-      "Lamella"
     ]
   },
   "LAMELLIBRANCH": {
@@ -4142,34 +3898,6 @@
       "Requiem",
       "Lament",
       "Plaint"
-    ]
-  },
-  "LAMENTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the passionate and demonstrative activity of expressing grief",
-        [
-          "Activity",
-          "Expression",
-          "Manifestation",
-          "Reflection",
-          "Reflexion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mourning",
-      "Lament",
-      "Plaint",
-      "Wail",
-      "Lamentation"
     ]
   },
   "LAMENTATIONS": {
@@ -5123,28 +4851,6 @@
     ],
     "SYNONYMS": [
       "Lance-shaped"
-    ]
-  },
-  "LANCET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a surgical knife with a pointed double-edged blade; used for punctures and small incisions",
-        [
-          "Surgical knife"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lancet arch",
-      "Lance",
-      "Lancet"
     ]
   },
   "LANCETFISH": {
@@ -6366,33 +6072,6 @@
       "Languidly"
     ]
   },
-  "LANGUISH": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "become feeble",
-        [
-          "Devolve",
-          "Deteriorate",
-          "Drop",
-          "Degenerate"
-        ],
-        [
-          "The prisoner has be languishing for years in the dungeon"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Yen",
-      "Pine",
-      "Fade",
-      "Yearn",
-      "Languish"
-    ]
-  },
   "LANGUISHER": {
     "MEANINGS": {
       "1": [
@@ -7296,28 +6975,6 @@
       "Lapidarian"
     ]
   },
-  "LAPIDATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "throw stones at",
-        [
-          "Pelt",
-          "Bombard"
-        ],
-        [
-          "Pilgrims lapidate a stone pillar in commemoration of Abraham's temptation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lapidate",
-      "Stone"
-    ]
-  },
   "LAPIDIFY": {
     "MEANINGS": {
       "1": [
@@ -7473,40 +7130,6 @@
       "Saami"
     ]
   },
-  "LAPPET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small lap on a garment or headdress",
-        [
-          "Lap",
-          "Overlap"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "medium-sized hairy moths; larvae are lappet caterpillars",
-        [
-          "Lasiocampid",
-          "Lasiocampid moth"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lappet",
-      "Lappet moth",
-      "Wattle"
-    ]
-  },
   "LAPPIC": {
     "MEANINGS": {
       "1": [
@@ -7527,62 +7150,6 @@
     "SYNONYMS": [
       "Lappic",
       "Lappish"
-    ]
-  },
-  "LAPSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "end, at least for a long time",
-        [
-          "End",
-          "Stop",
-          "Finish",
-          "Terminate",
-          "Cease"
-        ],
-        [
-          "The correspondence lapsed"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "drop to a lower level, as in one's morals or standards",
-        [
-          "Slip",
-          "Drop off",
-          "Drop away",
-          "Fall away"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "let slip",
-        [
-          "Forfeit",
-          "Give up",
-          "Throw overboard",
-          "Waive",
-          "Forgo",
-          "Forego"
-        ],
-        [
-          "He lapsed his membership"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lapse",
-      "Pass",
-      "Go by",
-      "Fall back",
-      "Go along"
     ]
   },
   "LAPSED": {
@@ -8080,43 +7647,6 @@
       "Micropterus salmoides"
     ]
   },
-  "LARGENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large or extensive in breadth or importance or comprehensiveness",
-        [
-          "Magnitude"
-        ],
-        [
-          "the might have repercussions of unimaginable largeness",
-          "the very extensiveness of his power was a temptation to abuse it"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the property of having a relatively great size",
-        [
-          "Size"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "smallness",
-      "littleness",
-      "unpretentiousness"
-    ],
-    "SYNONYMS": [
-      "Breadth",
-      "Pretension",
-      "Extensiveness",
-      "Comprehensiveness",
-      "Pretentiousness"
-    ]
-  },
   "LARGE-SCALE": {
     "MEANINGS": {
       "1": [
@@ -8558,31 +8088,6 @@
       "Larix"
     ]
   },
-  "LARK": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "any of numerous predominantly Old World birds noted for their singing",
-        [
-          "Oscine",
-          "Oscine bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Run around",
-      "Lark about",
-      "Pipit",
-      "Escapade",
-      "Frolic"
-    ]
-  },
   "LARKSPUR": {
     "MEANINGS": {
       "1": [
@@ -8913,42 +8418,6 @@
     "SYNONYMS": [
       "Laser",
       "Optical maser"
-    ]
-  },
-  "LASH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "lash or flick about sharply",
-        [
-          "Swing",
-          "Sway"
-        ],
-        [
-          "The lion lashed its tail"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "bind with a rope, chain, or cord",
-        [
-          "Tie",
-          "Bind"
-        ],
-        [
-          "lash the horse"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unlash"
-    ],
-    "SYNONYMS": [
-      "Strap",
-      "Cilium",
-      "Whiplash",
-      "Flog",
-      "Lather"
     ]
   },
   "LASHER": {
@@ -9313,31 +8782,6 @@
       "Lastex"
     ]
   },
-  "LASTING": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "lasting a long time without change",
-        [
-
-        ],
-        [
-          "a lasting relationship"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "caducous",
-      "impermanent"
-    ],
-    "SYNONYMS": [
-      "Live on",
-      "Long-lasting",
-      "Endure",
-      "Durable",
-      "Hold out"
-    ]
-  },
   "LASTINGLY": {
     "MEANINGS": {
       "1": [
@@ -9652,32 +9096,6 @@
       "Lateen sail"
     ]
   },
-  "LATENCY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the state of being not yet evident or active",
-        [
-          "Potential",
-          "Potentiality",
-          "Potency"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reaction time",
-      "Latency",
-      "Rotational latency",
-      "Response time",
-      "Latent period"
-    ]
-  },
   "LATENESS": {
     "MEANINGS": {
       "1": [
@@ -9796,30 +9214,6 @@
       "Sidelong",
       "Lateral",
       "Lateral pass"
-    ]
-  },
-  "LATERALITY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "superior development of one side of the body",
-        [
-          "Bodily property"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dominance",
-      "Lateralisation",
-      "Lateralization",
-      "Handedness",
-      "Laterality"
     ]
   },
   "LATERALIZATION": {
@@ -10061,56 +9455,6 @@
     ],
     "SYNONYMS": [
       "Lathe"
-    ]
-  },
-  "LATHER": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "exude sweat or lather",
-        [
-          "Froth"
-        ],
-        [
-          "this unfit horse lathers easily"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the foam resulting from excessive sweating (as on a horse)",
-        [
-          "Foam",
-          "Froth"
-        ],
-        [
-
-        ]
-      ],
-      "2": [
-        "Verb",
-        "form a lather",
-        [
-          "Foam",
-          "Froth",
-          "Fizz",
-          "Effervesce",
-          "Sparkle",
-          "Form bubbles"
-        ],
-        [
-          "The shaving cream lathered"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Strap",
-      "Swither",
-      "Suds",
-      "Soapsuds",
-      "Flog"
     ]
   },
   "LATHERY": {
@@ -10374,54 +9718,6 @@
     ],
     "SYNONYMS": [
       "Latinist"
-    ]
-  },
-  "LATINIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "translate into Latin",
-        [
-          "Translate",
-          "Interpret",
-          "Render"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Catholicise",
-      "Latinize",
-      "Romanize",
-      "Latinise",
-      "Romanise"
-    ]
-  },
-  "LATINO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an artificial language based on words common to the Romance languages",
-        [
-          "Artificial language"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Latino",
-      "Latin american",
-      "Hispanic"
     ]
   },
   "LATISH": {
@@ -11056,27 +10352,6 @@
       "Laughingly"
     ]
   },
-  "LAUGHTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the activity of laughing; the manifestation of joy or mirth or scorn",
-        [
-          "Activity"
-        ],
-        [
-          "he enjoyed the laughter of the crowd"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Laugh",
-      "Laughter"
-    ]
-  },
   "LAUGHTON": {
     "MEANINGS": {
       "1": [
@@ -11225,30 +10500,6 @@
       "First appearance",
       "Launching",
       "Launch"
-    ]
-  },
-  "LAUNDER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "convert illegally obtained funds into legal ones",
-        [
-          "Change",
-          "Exchange",
-          "Commute",
-          "Convert"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wash",
-      "Launder"
     ]
   },
   "LAUNDERETTE": {
@@ -11806,28 +11057,6 @@
       "Shower"
     ]
   },
-  "LAVISHLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a rich and lavish manner",
-        [
-
-        ],
-        [
-          "lavishly decorated"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Richly",
-      "Extravagantly",
-      "Lavishly"
-    ]
-  },
   "LAVISHNESS": {
     "MEANINGS": {
       "1": [
@@ -12076,52 +11305,6 @@
     "SYNONYMS": [
       "Lawyer",
       "Attorney"
-    ]
-  },
-  "LAWLESS": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "disobedient to or defiant of law",
-        [
-
-        ],
-        [
-          "lawless bands roaming the plains"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Anarchic",
-      "Anarchical",
-      "Lawless",
-      "Wide-open",
-      "Outlaw"
-    ]
-  },
-  "LAWLESSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "illegality as a consequence of unlawful acts; defiance of the law",
-        [
-          "Illegality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lawlessness",
-      "Anarchy",
-      "Outlawry"
     ]
   },
   "LAWMAN": {
@@ -12580,32 +11763,6 @@
       "Idly"
     ]
   },
-  "LAZINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "relaxed and easy activity",
-        [
-          "Rest",
-          "Ease",
-          "Repose",
-          "Relaxation"
-        ],
-        [
-          "the laziness of the day helped her to relax"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Acedia",
-      "Indolence",
-      "Sloth",
-      "Laziness"
-    ]
-  },
   "L-DOPA": {
     "MEANINGS": {
       "1": [
@@ -12960,51 +12117,6 @@
       "Conduce"
     ]
   },
-  "LEADEN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "made heavy or weighted down with weariness",
-        [
-
-        ],
-        [
-          "his leaden arms",
-          "weighted eyelids"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "made of lead",
-        [
-
-        ],
-        [
-          "a leaden weight"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "(of movement) slow and laborious",
-        [
-
-        ],
-        [
-          "leaden steps"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Leaden",
-      "Plodding",
-      "Heavy",
-      "Weighted",
-      "Dull"
-    ]
-  },
   "LEADER": {
     "MEANINGS": {
       "1": [
@@ -13084,29 +12196,6 @@
       "Leadership",
       "Leaders",
       "Leading"
-    ]
-  },
-  "LEAD-IN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "wire connecting an antenna to a receiver or a transmitter to a transmission line",
-        [
-          "Wire",
-          "Conducting wire"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lead",
-      "Lede",
-      "Lead-in"
     ]
   },
   "LEADING": {
@@ -13363,32 +12452,6 @@
     ],
     "SYNONYMS": [
       "Leafless"
-    ]
-  },
-  "LEAFLET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "part of a compound leaf",
-        [
-          "Leaf",
-          "Leafage",
-          "Foliage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brochure",
-      "Booklet",
-      "Folder",
-      "Pamphlet",
-      "Leaflet"
     ]
   },
   "LEAFLIKE": {
@@ -13839,30 +12902,6 @@
       "Tendency",
       "Incline",
       "List"
-    ]
-  },
-  "LEANNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of having little body fat",
-        [
-          "Bodily property"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fatness"
-    ],
-    "SYNONYMS": [
-      "Spareness",
-      "Meagreness",
-      "Thinness",
-      "Scantiness",
-      "Meagerness"
     ]
   },
   "LEAN-TO": {
@@ -14406,31 +13445,6 @@
       "Polypodium scouleri",
       "Coast polypody",
       "Leathery polypody"
-    ]
-  },
-  "LEATHERWOOD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "deciduous shrub of eastern North America having tough flexible branches and pliable bark and small yellow flowers",
-        [
-          "Shrub",
-          "Bush"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Moosewood",
-      "Ropebark",
-      "White titi",
-      "Cyrilla",
-      "Leatherwood"
     ]
   },
   "LEATHERWORK": {
@@ -15010,32 +14024,6 @@
       "Lecturing",
       "Chide",
       "Berate"
-    ]
-  },
-  "LECTURER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who lectures professionally",
-        [
-          "Speaker",
-          "Talker",
-          "Utterer",
-          "Verbalizer",
-          "Verbaliser"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lecturer",
-      "Reader",
-      "Lector"
     ]
   },
   "LECTURESHIP": {
@@ -15633,27 +14621,6 @@
       "Left-eyed"
     ]
   },
-  "LEFT-HAND": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "located on or directed toward the left",
-        [
-
-        ],
-        [
-          "a car with left-hand drive"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Left",
-      "Left-hand"
-    ]
-  },
   "LEFT-HANDED": {
     "MEANINGS": {
       "1": [
@@ -15730,35 +14697,6 @@
     "SYNONYMS": [
       "Left-handedness",
       "Sinistrality"
-    ]
-  },
-  "LEFT-HANDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who uses the left hand with greater skill than the right",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-          "their pitcher was a southpaw"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Left-handed pitcher",
-      "Left-hander",
-      "Left hander",
-      "Southpaw",
-      "Lefthander"
     ]
   },
   "LEFTISH": {
@@ -16327,30 +15265,6 @@
       "Fabled"
     ]
   },
-  "LEGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "French painter who was an early cubist (1881-1955)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ledger",
-      "Book",
-      "Account book",
-      "Leger",
-      "Fernand leger"
-    ]
-  },
   "LEGGED": {
     "MEANINGS": {
       "1": [
@@ -16427,29 +15341,6 @@
       "Leg covering"
     ]
   },
-  "LEGIBILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a quality of writing (print or handwriting) that can be easily read",
-        [
-          "Comprehensibility",
-          "Understandability"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "illegibility"
-    ],
-    "SYNONYMS": [
-      "Readability",
-      "Discernability",
-      "Legibility"
-    ]
-  },
   "LEGIBLE": {
     "MEANINGS": {
       "1": [
@@ -16490,42 +15381,6 @@
       "Legibly",
       "Decipherably",
       "Readably"
-    ]
-  },
-  "LEGION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "association of ex-servicemen",
-        [
-          "Association"
-        ],
-        [
-          "the American Legion"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a large military unit",
-        [
-          "Military unit",
-          "Military force",
-          "Military group",
-          "Force"
-        ],
-        [
-          "the French Foreign Legion"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Numerous",
-      "Horde",
-      "Legion",
-      "Host"
     ]
   },
   "LEGIONNAIRE": {
@@ -17137,27 +15992,6 @@
     "SYNONYMS": [
       "Leibnitzian",
       "Leibnizian"
-    ]
-  },
-  "LEICESTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an industrial city in Leicestershire in central England; built on the site of a Roman settlement",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Leicestershire",
-      "Leicester"
     ]
   },
   "LEICESTERSHIRE": {
@@ -18408,31 +17242,6 @@
       "At length"
     ]
   },
-  "LENGTHINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the consequence of being lengthened in duration",
-        [
-          "Duration",
-          "Length"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prolongation",
-      "Lengthiness",
-      "Continuation",
-      "Extension",
-      "Protraction"
-    ]
-  },
   "LENGTHWAYS": {
     "MEANINGS": {
       "1": [
@@ -18514,41 +17323,6 @@
       "Mildness",
       "Lenience",
       "Indulgence"
-    ]
-  },
-  "LENIENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not strict",
-        [
-
-        ],
-        [
-          "an easy teacher",
-          "easy standards",
-          "lenient rules",
-          "an easy penalty"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "characterized by tolerance and mercy",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lenient",
-      "Indulgent",
-      "Soft"
     ]
   },
   "LENIN": {
@@ -20462,30 +19236,6 @@
       "Less"
     ]
   },
-  "LESSENED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "decreased in severity; made less harsh",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "increase"
-    ],
-    "SYNONYMS": [
-      "Fall",
-      "Vitiated",
-      "Weakened",
-      "Decrease",
-      "Diminish"
-    ]
-  },
   "LESSEPS": {
     "MEANINGS": {
       "1": [
@@ -21015,42 +19765,6 @@
       "Missive",
       "Varsity letter",
       "Alphabetic character"
-    ]
-  },
-  "LETTUCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various plants of the genus Lactuca",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "leaves of any of various plants of Lactuca sativa",
-        [
-          "Salad green",
-          "Salad greens"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bread",
-      "Clams",
-      "Boodle",
-      "Moolah",
-      "Lucre"
     ]
   },
   "LETUP": {
@@ -22606,31 +21320,6 @@
       "Forbidden city"
     ]
   },
-  "LI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Chinese distance measure; approximately 0.5 kilometers",
-        [
-          "Linear unit",
-          "Linear measure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lithium",
-      "Fifty-one",
-      "Atomic number 3",
-      "Li",
-      "51"
-    ]
-  },
   "LIABILITY": {
     "MEANINGS": {
       "1": [
@@ -22686,76 +21375,6 @@
       "Liability",
       "Liabilities",
       "Indebtedness"
-    ]
-  },
-  "LIABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "subject to legal action",
-        [
-
-        ],
-        [
-          "liable to criminal charges"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "(often followed by `to') likely to be affected with",
-        [
-
-        ],
-        [
-          "liable to diabetes"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "held legally responsible",
-        [
-
-        ],
-        [
-          "men between the ages of 18 and 35 were liable for military service"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unresistant",
-      "Liable",
-      "Nonresistant",
-      "Apt",
-      "Nonimmune"
-    ]
-  },
-  "LIAISON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a channel for communication between groups",
-        [
-          "Channel",
-          "Communication channel",
-          "Line"
-        ],
-        [
-          "he provided a liaison with the guerrillas"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Contact",
-      "Affaire",
-      "Intimacy",
-      "Inter-group communication",
-      "Affair"
     ]
   },
   "LIANA": {
@@ -23167,31 +21786,6 @@
       "Liberally"
     ]
   },
-  "LIBERATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "grant freedom to",
-        [
-          "Free",
-          "Discharge"
-        ],
-        [
-          "The students liberated their slaves upon graduating from the university"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "confine"
-    ],
-    "SYNONYMS": [
-      "Loose",
-      "Unloose",
-      "Free",
-      "Liberate",
-      "Set free"
-    ]
-  },
   "LIBERATED": {
     "MEANINGS": {
       "1": [
@@ -23370,43 +21964,6 @@
     ],
     "SYNONYMS": [
       "Libertarianism"
-    ]
-  },
-  "LIBERTY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "freedom of choice",
-        [
-          "Freedom"
-        ],
-        [
-          "liberty of opinion",
-          "liberty of worship",
-          "liberty--perfect liberty--to think or feel or do just as one pleases",
-          "at liberty to choose whatever occupation one wishes"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "personal freedom from servitude or confinement or oppression",
-        [
-          "Freedom"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Autonomy",
-      "Familiarity",
-      "Impropriety",
-      "Liberty",
-      "Indecorum"
     ]
   },
   "LIBERTINE": {
@@ -23708,28 +22265,6 @@
     ],
     "SYNONYMS": [
       "Librarianship"
-    ]
-  },
-  "LIBRATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "vibrate before coming to a total rest",
-        [
-          "Oscillate",
-          "Vibrate"
-        ],
-        [
-          "the children's swing librated"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Weigh",
-      "Librate"
     ]
   },
   "LIBRATION": {
@@ -24092,30 +22627,6 @@
       "Looseness"
     ]
   },
-  "LYCEUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a public hall for lectures and concerts",
-        [
-          "Hall"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Secondary school",
-      "Lyceum",
-      "Middle school",
-      "Gymnasium",
-      "Lycee"
-    ]
-  },
   "LICHEN": {
     "MEANINGS": {
       "1": [
@@ -24313,30 +22824,6 @@
     "SYNONYMS": [
       "Genus lycium",
       "Lycium"
-    ]
-  },
-  "LICK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "pass the tongue over",
-        [
-          "Stroke"
-        ],
-        [
-          "the dog licked her hand"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Clobber",
-      "Salt lick",
-      "Clout",
-      "Lap up",
-      "Puzzle out"
     ]
   },
   "LICKED": {
@@ -24651,31 +23138,6 @@
     "SYNONYMS": [
       "Lycosidae",
       "Family lycosidae"
-    ]
-  },
-  "LID": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a movable top or cover (hinged or separate) for closing the opening at the top of a box, chest, jar, pan, etc.",
-        [
-          "Top",
-          "Cover"
-        ],
-        [
-          "he raised the piano lid"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chapeau",
-      "Hat",
-      "Palpebra",
-      "Lid",
-      "Eyelid"
     ]
   },
   "LIDAR": {
@@ -25566,74 +24028,6 @@
     "SYNONYMS": [
       "Deadly",
       "Lifelessly"
-    ]
-  },
-  "LIFELIKE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "free from artificiality",
-        [
-
-        ],
-        [
-          "a lifelike pose",
-          "a natural reaction"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lifelike",
-      "Pictorial",
-      "Vivid",
-      "Natural",
-      "Graphic"
-    ]
-  },
-  "LIFELINE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "support that enables people to survive or to continue doing something (often by providing an essential connection)",
-        [
-          "Support"
-        ],
-        [
-          "the airlift provided a lifeline for Berlin",
-          "she offered me a lifeline in my time of grief"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "line that raises or lowers a deep-sea diver",
-        [
-          "Line"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "line thrown from a vessel that people can cling to in order to save themselves from drowning",
-        [
-          "Line"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Life line",
-      "Lifeline",
-      "Line of life"
     ]
   },
   "LIFELONG": {
@@ -26852,31 +25246,6 @@
       "Light-handedly"
     ]
   },
-  "LIGHTHEADEDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a frivolous lack of prudence",
-        [
-          "Heedlessness",
-          "Mindlessness",
-          "Rashness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Giddiness",
-      "Vertigo",
-      "Dizziness",
-      "Lightheadedness"
-    ]
-  },
   "LIGHT-HEARTEDLY": {
     "MEANINGS": {
       "1": [
@@ -26896,43 +25265,6 @@
     "SYNONYMS": [
       "Lightsomely",
       "Light-heartedly"
-    ]
-  },
-  "LIGHTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "apparatus for supplying artificial light effects for the stage or a film",
-        [
-          "Apparatus",
-          "Setup"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the craft of providing artificial light",
-        [
-          "Interior decoration",
-          "Interior design"
-        ],
-        [
-          "an interior decorator must understand lighting"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dark",
-      "extinguish"
-    ],
-    "SYNONYMS": [
-      "Ignite",
-      "Kindling",
-      "Alight",
-      "Fire up",
-      "Unhorse"
     ]
   },
   "LIGHTLESS": {
@@ -27043,41 +25375,6 @@
       "Thinly",
       "Softly",
       "Gently"
-    ]
-  },
-  "LIGHTNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of being comparatively small in weight",
-        [
-          "Weight"
-        ],
-        [
-          "the lightness of balsa wood"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "having a light color",
-        [
-          "Value"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "heaviness",
-      "darkness"
-    ],
-    "SYNONYMS": [
-      "Lightsomeness",
-      "Weightlessness",
-      "Lightness",
-      "Legerity",
-      "Light"
     ]
   },
   "LIGHTNING": {
@@ -27233,31 +25530,6 @@
       "Trippingly",
       "Lightsomely",
       "Light-heartedly"
-    ]
-  },
-  "LIGHTSOMENESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the trait of being lighthearted and frivolous",
-        [
-          "Giddiness",
-          "Silliness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Insouciance",
-      "Lightsomeness",
-      "Lightheartedness",
-      "Legerity",
-      "Lightness"
     ]
   },
   "LIGHTS-OUT": {
@@ -27633,29 +25905,6 @@
       "Lie in",
       "Lying",
       "Lie down"
-    ]
-  },
-  "LIKABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "easy to like; agreeable",
-        [
-
-        ],
-        [
-          "an attractive and likable young man"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unsympathetic"
-    ],
-    "SYNONYMS": [
-      "Likable",
-      "Appealing",
-      "Sympathetic",
-      "Likeable"
     ]
   },
   "LIKE": {
@@ -28213,27 +26462,6 @@
       "Lydia kamekeha paki liliuokalani"
     ]
   },
-  "LILY-WHITE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of a pure white color",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "White",
-      "Lily-white"
-    ]
-  },
   "LILLE": {
     "MEANINGS": {
       "1": [
@@ -28788,41 +27016,6 @@
       "Limbless"
     ]
   },
-  "LIMBO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an imaginary place for lost or neglected things",
-        [
-          "Imaginary place",
-          "Mythical place",
-          "Fictitious place"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(theology) in Roman Catholicism, the place of unbaptized but innocent or righteous souls (such as infants and virtuous individuals)",
-        [
-          "Imaginary place",
-          "Mythical place",
-          "Fictitious place"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Limbo",
-      "Oblivion"
-    ]
-  },
   "LIMBURGER": {
     "MEANINGS": {
       "1": [
@@ -28865,53 +27058,6 @@
     ],
     "SYNONYMS": [
       "Limbus"
-    ]
-  },
-  "LIME": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "any of various related trees bearing limes",
-        [
-          "Citrus",
-          "Citrus tree"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the green acidic fruit of any of various lime trees",
-        [
-          "Citrus",
-          "Citrus fruit",
-          "Citrous fruit"
-        ],
-        [
-
-        ]
-      ],
-      "2": [
-        "Verb",
-        "cover with lime so as to induce growth",
-        [
-          "Cover"
-        ],
-        [
-          "lime the lawn"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Basswood",
-      "Calcined lime",
-      "Linden",
-      "Linden tree",
-      "Hydrated lime"
     ]
   },
   "LIMEADE": {
@@ -29186,49 +27332,6 @@
       "Restrain"
     ]
   },
-  "LIMITATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being limited or restricted",
-        [
-          "Disadvantage"
-        ],
-        [
-          "it is a good plan but it has serious limitations"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(law) a time period after which suits cannot be brought",
-        [
-          "Time limit"
-        ],
-        [
-          "statute of limitations"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "an act of limiting or restricting (as by regulation)",
-        [
-          "Regulation",
-          "Regulating"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Limit",
-      "Limitation",
-      "Restriction"
-    ]
-  },
   "LIMITED": {
     "MEANINGS": {
       "1": [
@@ -29347,30 +27450,6 @@
     "SYNONYMS": [
       "Clipper",
       "Limiter"
-    ]
-  },
-  "LIMITING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "strictly limiting the reference of a modified word or phrase",
-        [
-
-        ],
-        [
-          "the restrictive clause in `Each made a list of the books that had influenced him' limits the books on the list to only those particular ones defined by the clause"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bound",
-      "Trammel",
-      "Throttle",
-      "Restrain",
-      "Restrict"
     ]
   },
   "LIMNOBIUM": {
@@ -30077,35 +28156,6 @@
       "Lymphuria"
     ]
   },
-  "LIMPID": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "(of language) transparently clear; easily understandable",
-        [
-
-        ],
-        [
-          "writes in a limpid style",
-          "lucid directions",
-          "a luculent oration\"- Robert Burton",
-          "pellucid prose",
-          "a crystal clear explanation",
-          "a perspicuous argument"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Liquid",
-      "Perspicuous",
-      "Transparent",
-      "Crystal clear",
-      "Limpid"
-    ]
-  },
   "LIMPKIN": {
     "MEANINGS": {
       "1": [
@@ -30413,30 +28463,6 @@
       "Lynch"
     ]
   },
-  "LINCHPIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "pin inserted through an axletree to hold a wheel on",
-        [
-          "Pin"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Keystone",
-      "Anchor",
-      "Lynchpin",
-      "Backbone",
-      "Linchpin"
-    ]
-  },
   "LINCOLN": {
     "MEANINGS": {
       "1": [
@@ -30610,30 +28636,6 @@
       "Charles augustus lindbergh",
       "Lucky lindy",
       "Charles lindbergh"
-    ]
-  },
-  "LINDEN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various deciduous trees of the genus Tilia with heart-shaped leaves and drooping cymose clusters of yellowish often fragrant flowers; several yield valuable timber",
-        [
-          "Tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Basswood",
-      "Linden",
-      "Linden tree",
-      "Lime",
-      "Lime tree"
     ]
   },
   "LINDERA": {
@@ -31108,27 +29110,6 @@
       "Linearly"
     ]
   },
-  "LINEATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of marking or outlining with lines",
-        [
-          "Marking"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Outline",
-      "Lineation"
-    ]
-  },
   "LINEBACKER": {
     "MEANINGS": {
       "1": [
@@ -31437,28 +29418,6 @@
       "Electrician"
     ]
   },
-  "LINEUP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a line of persons arranged by police for inspection or identification",
-        [
-          "Line"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Batting order",
-      "Card",
-      "Lineup"
-    ]
-  },
   "LING": {
     "MEANINGS": {
       "1": [
@@ -31636,30 +29595,6 @@
     "SYNONYMS": [
       "Lingeringly",
       "Protractedly"
-    ]
-  },
-  "LINGONBERRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "tart red berries similar to American cranberries but smaller",
-        [
-          "Berry"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foxberry",
-      "Lingenberry",
-      "Lingonberry",
-      "Lowbush cranberry",
-      "Cowberry"
     ]
   },
   "LINGUAL": {
@@ -32229,30 +30164,6 @@
       "Carolus linnaeus"
     ]
   },
-  "LINNET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small Old World finch whose male has a red breast and forehead",
-        [
-          "Finch"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lintwhite",
-      "Carpodacus mexicanus",
-      "Carduelis cannabina",
-      "House finch",
-      "Linnet"
-    ]
-  },
   "LINOCUT": {
     "MEANINGS": {
       "1": [
@@ -32728,39 +30639,6 @@
     ],
     "SYNONYMS": [
       "Lyonnaise"
-    ]
-  },
-  "LYONS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the council in 1274 that effected a temporary reunion of the Greek Orthodox with the Roman Catholic Church",
-        [
-          "Council"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the council of the Western Church in 1245 that excommunicated Holy Roman Emperor Frederick II and planned a new crusade against the Holy Land",
-        [
-          "Council"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "First council of lyons",
-      "Second council of lyons",
-      "Lyon",
-      "Lyons"
     ]
   },
   "LYOPHILIZE": {
@@ -33646,76 +31524,6 @@
       "Liquidity"
     ]
   },
-  "LIQUIDAMBAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any tree of the genus Liquidambar",
-        [
-          "Gum tree",
-          "Gum"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Genus liquidambar",
-      "Liquidambar",
-      "Sweet gum"
-    ]
-  },
-  "LIQUIDATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "eliminate by paying off (debts)",
-        [
-          "Pay up",
-          "Ante up",
-          "Pay"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "convert into cash",
-        [
-          "Cash",
-          "Cash in"
-        ],
-        [
-          "I had to liquidate my holdings to pay off my ex-husband"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "settle the affairs of by determining the debts and applying the assets to pay them off",
-        [
-          "Settle"
-        ],
-        [
-          "liquidate a company"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neutralise",
-      "Do in",
-      "Liquidate",
-      "Waste",
-      "Neutralize"
-    ]
-  },
   "LIQUIDATION": {
     "MEANINGS": {
       "1": [
@@ -33739,56 +31547,6 @@
       "Elimination",
       "Liquidation",
       "Settlement"
-    ]
-  },
-  "LIQUIDATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) a person (usually appointed by a court of law) who liquidates assets or preserves them for the benefit of affected parties",
-        [
-          "Fiduciary"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Manslayer",
-      "Receiver",
-      "Liquidator",
-      "Murderer"
-    ]
-  },
-  "LIQUIDITY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "being in cash or easily convertible to cash; debt paying ability",
-        [
-          "Exchangeability",
-          "Interchangeability",
-          "Interchangeableness",
-          "Fungibility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fluidity",
-      "Liquid state",
-      "Liquid",
-      "Runniness",
-      "Liquidity"
     ]
   },
   "LIQUOR": {
@@ -34098,30 +31856,6 @@
     ],
     "SYNONYMS": [
       "Lyrically"
-    ]
-  },
-  "LYRICISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "unrestrained and exaggerated enthusiasm",
-        [
-          "Exuberance",
-          "Enthusiasm",
-          "Ebullience"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Songfulness",
-      "Lyricism",
-      "Lyricality"
     ]
   },
   "LYRICIST": {
@@ -34990,31 +32724,6 @@
       "Listeriosis"
     ]
   },
-  "LISTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of making a list of items",
-        [
-          "Organization",
-          "Organisation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Name",
-      "Lean",
-      "Heel",
-      "List",
-      "Listing"
-    ]
-  },
   "LISTLESS": {
     "MEANINGS": {
       "1": [
@@ -35054,31 +32763,6 @@
     ],
     "SYNONYMS": [
       "Listlessly"
-    ]
-  },
-  "LISTLESSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "inactivity resulting from lethargy and lack of vigor or energy",
-        [
-          "Passivity",
-          "Passiveness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Torpidity",
-      "Torpidness",
-      "Lassitude",
-      "Listlessness",
-      "Languor"
     ]
   },
   "LISZT": {
@@ -35234,50 +32918,6 @@
     ],
     "SYNONYMS": [
       "Literacy"
-    ]
-  },
-  "LITERAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "without interpretation or embellishment",
-        [
-
-        ],
-        [
-          "a literal depiction of the scene before him"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "limited to the explicit meaning of a word or text",
-        [
-
-        ],
-        [
-          "a literal translation"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "avoiding embellishment or exaggeration (used for emphasis)",
-        [
-
-        ],
-        [
-          "it's the literal truth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "figurative"
-    ],
-    "SYNONYMS": [
-      "Misprint",
-      "Typo",
-      "Literal error",
-      "Literal",
-      "Actual"
     ]
   },
   "LITERALISM": {
@@ -36482,31 +34122,6 @@
       "Littre"
     ]
   },
-  "LITURGY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a rite or body of rites prescribed for public worship",
-        [
-          "Rite",
-          "Religious rite"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eucharistic liturgy",
-      "Holy eucharist",
-      "Holy sacrament",
-      "Liturgy",
-      "Sacrament of the eucharist"
-    ]
-  },
   "LITURGICAL": {
     "MEANINGS": {
       "1": [
@@ -37123,41 +34738,6 @@
       "Livy"
     ]
   },
-  "LIVID": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of a light) imparting a deathlike luminosity",
-        [
-
-        ],
-        [
-          "livid lightning streaked the sky",
-          "a thousand flambeaux...turned all at once that deep gloom into a livid and preternatural day\"- E.A.Poe"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "furiously angry",
-        [
-
-        ],
-        [
-          "willful stupidity makes him absolutely livid"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bloodless",
-      "Ashen",
-      "White",
-      "Black-and-blue",
-      "Livid"
-    ]
-  },
   "LIVIDITY": {
     "MEANINGS": {
       "1": [
@@ -37733,151 +35313,6 @@
       "Stretch"
     ]
   },
-  "LOADED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of weapons) charged with ammunition",
-        [
-
-        ],
-        [
-          "a loaded gun"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "(of statements or questions) charged with associative significance and often meant to mislead or influence",
-        [
-
-        ],
-        [
-          "a loaded question"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unloaded"
-    ],
-    "SYNONYMS": [
-      "Pixilated",
-      "Lade",
-      "Affluent",
-      "Soaked",
-      "Wealthy"
-    ]
-  },
-  "LOADER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an attendant who loads guns for someone shooting game",
-        [
-          "Attendant",
-          "Attender",
-          "Tender"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stevedore",
-      "Lumper",
-      "Dock worker",
-      "Dock-walloper",
-      "Loader"
-    ]
-  },
-  "LOADING": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the ratio of the gross weight of an airplane to some factor determining its lift",
-        [
-          "Ratio"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the labor of putting a load of something on or in a vehicle or ship or container etc.",
-        [
-          "Handling"
-        ],
-        [
-          "the loading took 2 hours"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unloading"
-    ],
-    "SYNONYMS": [
-      "Lade",
-      "Stretch",
-      "Dilute",
-      "Shipment",
-      "Cargo"
-    ]
-  },
-  "LOAF": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a quantity of food (other than bread) formed in a particular shape",
-        [
-          "Food",
-          "Solid food"
-        ],
-        [
-          "meat loaf",
-          "sugar loaf",
-          "a loaf of cheese"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Loiter",
-      "Loaf of bread",
-      "Loll around",
-      "Lallygag",
-      "Footle"
-    ]
-  },
-  "LOAFER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a low leather step-in shoe; the top resembles a moccasin but it has a broad flat heel",
-        [
-          "Shoe"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bum",
-      "Layabout",
-      "Loafer",
-      "Idler",
-      "Do-nothing"
-    ]
-  },
   "LOAM": {
     "MEANINGS": {
       "1": [
@@ -37981,31 +35416,6 @@
       "Hybrid",
       "Loan-blend",
       "Loanblend"
-    ]
-  },
-  "LOANER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a car that is lent as a replacement for one that is under repair",
-        [
-          "Car",
-          "Auto",
-          "Automobile",
-          "Machine",
-          "Motorcar"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "borrower"
-    ],
-    "SYNONYMS": [
-      "Loaner",
-      "Lender"
     ]
   },
   "LOANWORD": {
@@ -38786,40 +36196,6 @@
       "Localization principle"
     ]
   },
-  "LOCALIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "concentrate on a particular place or spot",
-        [
-          "Lie"
-        ],
-        [
-          "The infection has localized in the left eye"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "restrict something to a particular area",
-        [
-          "Restrict"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Focalise",
-      "Set",
-      "Localize",
-      "Place",
-      "Focalize"
-    ]
-  },
   "LOCALIZED": {
     "MEANINGS": {
       "1": [
@@ -39233,32 +36609,6 @@
       "Locke"
     ]
   },
-  "LOCKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a fastener that locks or closes",
-        [
-          "Fastener",
-          "Fastening",
-          "Holdfast",
-          "Fixing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cabinet",
-      "Footlocker",
-      "Locker",
-      "Storage locker"
-    ]
-  },
   "LOCKET": {
     "MEANINGS": {
       "1": [
@@ -39555,39 +36905,6 @@
       "Locule"
     ]
   },
-  "LOCUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the specific site of a particular gene on its chromosome",
-        [
-          "Site",
-          "Situation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the set of all points or lines that satisfy or are determined by specific conditions",
-        [
-          "Set"
-        ],
-        [
-          "the locus of points equidistant from a given point is a circle"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Venue",
-      "Locale",
-      "Locus"
-    ]
-  },
   "LOCUST": {
     "MEANINGS": {
       "1": [
@@ -39816,32 +37133,6 @@
       "Boarder",
       "Roomer",
       "Lodger"
-    ]
-  },
-  "LODGING": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of lodging",
-        [
-          "Residency",
-          "Residence",
-          "Abidance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dislodge"
-    ],
-    "SYNONYMS": [
-      "File",
-      "Deposit",
-      "Wedge",
-      "Lodge",
-      "Living accommodations"
     ]
   },
   "LODGMENT": {
@@ -40333,31 +37624,6 @@
     "SYNONYMS": [
       "Box",
       "Loge"
-    ]
-  },
-  "LOGGERHEAD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "very large carnivorous sea turtle; wide-ranging in warm open seas",
-        [
-          "Sea turtle",
-          "Marine turtle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shithead",
-      "Fuckhead",
-      "Dumbass",
-      "Muttonhead",
-      "Blockhead"
     ]
   },
   "LOGGIA": {
@@ -41106,30 +38372,6 @@
       "Loin"
     ]
   },
-  "LOINS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the region of the hips and groin and lower abdomen",
-        [
-          "Body part"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lumbus",
-      "Pubes",
-      "Loins",
-      "Loin",
-      "Pubic region"
-    ]
-  },
   "LOIR": {
     "MEANINGS": {
       "1": [
@@ -41327,31 +38569,6 @@
     "SYNONYMS": [
       "Lolium",
       "Genus lolium"
-    ]
-  },
-  "LOLLIPOP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "hard candy on a stick",
-        [
-          "Candy",
-          "Confect"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Popsicle",
-      "Ice lolly",
-      "Lollipop",
-      "Lolly",
-      "Sucker"
     ]
   },
   "LOLLOP": {
@@ -41552,88 +38769,6 @@
     ],
     "SYNONYMS": [
       "Londoner"
-    ]
-  },
-  "LONE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by or preferring solitude",
-        [
-
-        ],
-        [
-          "a lone wolf",
-          "a lonely existence",
-          "a man of a solitary disposition",
-          "a solitary walk"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "being the only one; single and isolated from others",
-        [
-
-        ],
-        [
-          "the lone doctor in the entire county",
-          "a lonesome pine",
-          "an only child",
-          "the sole heir",
-          "the sole example",
-          "a solitary instance of cowardice",
-          "a solitary speck in the sky"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alone",
-      "Lonely",
-      "Sole",
-      "Only",
-      "Solitary"
-    ]
-  },
-  "LONELY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by dejection from being alone",
-        [
-
-        ],
-        [
-          "felt sad and lonely",
-          "the loneliest night of the week",
-          "lonesome when her husband is away",
-          "spent a lonesome hour in the bar"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "devoid of creatures",
-        [
-
-        ],
-        [
-          "a lonely crossroads",
-          "a solitary retreat",
-          "a trail leading to an unfrequented lake"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unfrequented",
-      "Alone",
-      "Lonely",
-      "Solitary",
-      "Lonesome"
     ]
   },
   "LONELINESS": {
@@ -42796,34 +39931,6 @@
       "Loofa"
     ]
   },
-  "LOOFAH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the loofah climber that has cylindrical fruit",
-        [
-          "Luffa",
-          "Dishcloth gourd",
-          "Sponge gourd",
-          "Rag gourd",
-          "Strainer vine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Loofah",
-      "Luffa cylindrica",
-      "Loofa",
-      "Loufah sponge",
-      "Luffa"
-    ]
-  },
   "LOOK": {
     "MEANINGS": {
       "2": [
@@ -43544,91 +40651,6 @@
       "Tease",
       "Untie",
       "Tease apart"
-    ]
-  },
-  "LOOSENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "freedom from restraint",
-        [
-          "Unrestraint"
-        ],
-        [
-          "the flexibility and looseness of the materials from which mythology is made"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a lack of strict accuracy; laxity of practice",
-        [
-          "Inaccuracy"
-        ],
-        [
-          "misunderstandings can often be traced to a looseness of expression"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the quality of movability by virtue of being free from attachment or other restraints",
-        [
-          "Movability",
-          "Movableness"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "movement or space for movement",
-        [
-          "Movability",
-          "Movableness"
-        ],
-        [
-          "there was too much play in the steering wheel"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fixedness",
-      "tightness",
-      "stiffen"
-    ],
-    "SYNONYMS": [
-      "Loose",
-      "Diarrhoea",
-      "Licentiousness",
-      "Loosen",
-      "Tease"
-    ]
-  },
-  "LOOSENING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of making something less tight",
-        [
-          "Alteration",
-          "Modification",
-          "Adjustment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "stiffen",
-      "tightening"
-    ],
-    "SYNONYMS": [
-      "Loose",
-      "Loosen",
-      "Tease",
-      "Slackening",
-      "Loosening"
     ]
   },
   "LOOSESTRIFE": {
@@ -45424,30 +42446,6 @@
       "Loiter"
     ]
   },
-  "LOUNGER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an article of clothing designed for comfort and leisure wear",
-        [
-          "Loungewear"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dilly-dallier",
-      "Lounger",
-      "Reclining chair",
-      "Recliner",
-      "Dallier"
-    ]
-  },
   "LOUPE": {
     "MEANINGS": {
       "1": [
@@ -45493,30 +42491,6 @@
       "Worm",
       "Sucking louse",
       "Bird louse"
-    ]
-  },
-  "LOUSY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "infested with lice",
-        [
-
-        ],
-        [
-          "burned their lousy clothes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stinky",
-      "Shitty",
-      "Lousy",
-      "Dirty",
-      "Stinking"
     ]
   },
   "LOUT": {
@@ -45751,30 +42725,6 @@
       "Have it off",
       "Get it on",
       "Enjoy"
-    ]
-  },
-  "LOVEBIRD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small African parrot noted for showing affection for their mates",
-        [
-          "Parrot"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Melopsittacus undulatus",
-      "Budgie",
-      "Lovebird",
-      "Shell parakeet",
-      "Budgereegah"
     ]
   },
   "LOVED": {
@@ -46353,28 +43303,6 @@
       "Low-priced"
     ]
   },
-  "LOW-CUT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a low-cut back",
-        [
-
-        ],
-        [
-          "a backless dress"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Low-necked",
-      "Decollete",
-      "Low-cut"
-    ]
-  },
   "LOWELL": {
     "MEANINGS": {
       "1": [
@@ -46812,65 +43740,6 @@
       "Low-lying"
     ]
   },
-  "LOWNESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the quality of being low; lacking height",
-        [
-          "Height",
-          "Tallness"
-        ],
-        [
-          "he was suddenly aware of the lowness of the ceiling"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a low or small degree of any quality (amount or force or temperature etc.)",
-        [
-          "Degree",
-          "Grade",
-          "Level"
-        ],
-        [
-          "he took advantage of the lowness of interest rates"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "high_status",
-      "highness"
-    ],
-    "SYNONYMS": [
-      "Dispiritedness",
-      "Low-spiritedness",
-      "Dejectedness",
-      "Downheartedness",
-      "Lowliness"
-    ]
-  },
-  "LOW-PITCHED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "set at a low angle or slant",
-        [
-
-        ],
-        [
-          "a low-pitched roof"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "high"
-    ],
-    "SYNONYMS": [
-      "Low-pitched",
-      "Low"
-    ]
-  },
   "LOW-PRESSURE": {
     "MEANINGS": {
       "1": [
@@ -46965,27 +43834,6 @@
     "SYNONYMS": [
       "Low-voltage",
       "Low-tension"
-    ]
-  },
-  "LOX": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "brine-cured salmon that is lightly smoked",
-        [
-          "Smoked salmon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Liquid oxygen",
-      "Lox"
     ]
   },
   "LOXIA": {
@@ -47545,56 +44393,6 @@
       "Lucy"
     ]
   },
-  "LUCID": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a clear mind",
-        [
-
-        ],
-        [
-          "a lucid moment in his madness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Coherent",
-      "Logical",
-      "Perspicuous",
-      "Transparent",
-      "Crystal clear"
-    ]
-  },
-  "LUCIDITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a lucid state of mind; not confused",
-        [
-          "Sanity",
-          "Saneness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unclearness",
-      "obscurity"
-    ],
-    "SYNONYMS": [
-      "Pellucidity",
-      "Lucidness",
-      "Lucidity",
-      "Clarity",
-      "Clearness"
-    ]
-  },
   "LUCIDLY": {
     "MEANINGS": {
       "1": [
@@ -47699,43 +44497,6 @@
     "SYNONYMS": [
       "Lucite",
       "Perspex"
-    ]
-  },
-  "LUCK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an unknown and unpredictable phenomenon that causes an event to result one way rather than another",
-        [
-          "Phenomenon"
-        ],
-        [
-          "bad luck caused his downfall",
-          "we ran into each other by pure chance"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an unknown and unpredictable phenomenon that leads to a favorable outcome",
-        [
-          "Phenomenon"
-        ],
-        [
-          "it was my good luck to be there",
-          "they say luck is a lady",
-          "it was as if fortune guided his hand"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Portion",
-      "Chance",
-      "Luck",
-      "Hazard",
-      "Fortune"
     ]
   },
   "LUCKY": {
@@ -48010,30 +44771,6 @@
     "SYNONYMS": [
       "Luff",
       "Point"
-    ]
-  },
-  "LUFFA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several tropical annual climbers having large yellow flowers and edible young fruits; grown commercially for the mature fruit's dried fibrous interior that is used as a sponge",
-        [
-          "Vine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Loofah",
-      "Sponge gourd",
-      "Strainer vine",
-      "Loofa",
-      "Dishcloth gourd"
     ]
   },
   "LUFKIN": {
@@ -48647,30 +45384,6 @@
       "Heavy"
     ]
   },
-  "LUMBERJACK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a short warm outer jacket",
-        [
-          "Jacket"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Faller",
-      "Lumber jacket",
-      "Lumberjack",
-      "Lumberman",
-      "Logger"
-    ]
-  },
   "LUMBERMAN": {
     "MEANINGS": {
       "1": [
@@ -49000,32 +45713,6 @@
       "Lumpenproletariat"
     ]
   },
-  "LUMPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a taxonomist who classifies organisms into large groups on the basis of major characteristics",
-        [
-          "Taxonomist",
-          "Taxonomer",
-          "Systematist"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "splitter"
-    ],
-    "SYNONYMS": [
-      "Stevedore",
-      "Lumper",
-      "Dock worker",
-      "Dock-walloper",
-      "Loader"
-    ]
-  },
   "LUMPFISH": {
     "MEANINGS": {
       "1": [
@@ -49046,27 +45733,6 @@
     "SYNONYMS": [
       "Cyclopterus lumpus",
       "Lumpfish"
-    ]
-  },
-  "LUMPY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having lumps; not smooth and even in texture",
-        [
-
-        ],
-        [
-          "lumpy gravy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chunky",
-      "Lumpy"
     ]
   },
   "LUMPISH": {
@@ -49578,30 +46244,6 @@
       "Alfred lunt"
     ]
   },
-  "LUNULA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a crescent-shaped metal ornament of the Bronze Age",
-        [
-          "Decoration",
-          "Ornament",
-          "Ornamentation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lunule",
-      "Lunula",
-      "Half-moon"
-    ]
-  },
   "LUO": {
     "MEANINGS": {
       "1": [
@@ -49977,32 +46619,6 @@
       "Lusciously"
     ]
   },
-  "LUSH": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "full of juice",
-        [
-
-        ],
-        [
-          "lush fruits",
-          "succulent roast beef",
-          "succulent plants with thick fleshy leaves"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lucullan",
-      "Dipsomaniac",
-      "Soaker",
-      "Lavish",
-      "Souse"
-    ]
-  },
   "LUSITANIA": {
     "MEANINGS": {
       "1": [
@@ -50021,52 +46637,6 @@
     ],
     "SYNONYMS": [
       "Lusitania"
-    ]
-  },
-  "LUSITANIAN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or characteristic of the region of Lusitania or its people or language",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lusitanian",
-      "Portuguese"
-    ]
-  },
-  "LUST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "self-indulgent sexual desire (personified as one of the deadly sins)",
-        [
-          "Mortal sin",
-          "Deadly sin"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hunger",
-      "Lustfulness",
-      "Lust",
-      "Thirst",
-      "Crave"
     ]
   },
   "LUSTER": {
@@ -50122,30 +46692,6 @@
     ],
     "SYNONYMS": [
       "Lusterware"
-    ]
-  },
-  "LUSTFUL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "vigorously passionate",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lascivious",
-      "Libidinous",
-      "Lewd",
-      "Concupiscent",
-      "Prurient"
     ]
   },
   "LUSTFULLY": {
@@ -50208,31 +46754,6 @@
     ],
     "SYNONYMS": [
       "Lustrate"
-    ]
-  },
-  "LUSTROUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "brilliant",
-        [
-
-        ],
-        [
-          "set a lustrous example for others to follow",
-          "lustrous actors of the time"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shining",
-      "Burnished",
-      "Shiny",
-      "Sheeny",
-      "Lustrous"
     ]
   },
   "LUSTRUM": {
@@ -50649,30 +47170,6 @@
     ],
     "SYNONYMS": [
       "Luxation"
-    ]
-  },
-  "LUXEMBOURG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a grand duchy (a constitutional monarchy) landlocked in northwestern Europe between France and Belgium and Germany; an international financial center",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Luxembourg city",
-      "Luxembourg",
-      "Luxemburg",
-      "Luxembourg-ville",
-      "Capital of luxembourg"
     ]
   },
   "LUXEMBURGER": {

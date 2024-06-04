@@ -1,27 +1,4 @@
 {
-  "P": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 16th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Atomic number 15",
-      "Phosphorus"
-    ]
-  },
   "PABLUM": {
     "MEANINGS": {
       "1": [
@@ -41,32 +18,6 @@
     "SYNONYMS": [
       "Pablum",
       "Pap"
-    ]
-  },
-  "PABULUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "insipid intellectual nourishment",
-        [
-          "Food",
-          "Food for thought",
-          "Intellectual nourishment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Victual",
-      "Victuals",
-      "Eatable",
-      "Comestible",
-      "Pabulum"
     ]
   },
   "PACA": {
@@ -151,41 +102,6 @@
       "Tread",
       "Rate",
       "Pace"
-    ]
-  },
-  "PACEMAKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a specialized bit of heart tissue that controls the heartbeat",
-        [
-          "Cardiac muscle",
-          "Heart muscle"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an implanted electronic device that takes over the function of the natural cardiac pacemaker",
-        [
-          "Electronic device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sinoatrial node",
-      "Sa node",
-      "Pacesetter",
-      "Artificial pacemaker",
-      "Pacer"
     ]
   },
   "PACER": {
@@ -549,30 +465,6 @@
       "Peace"
     ]
   },
-  "PACIFIER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "anything that serves to pacify",
-        [
-          "Thing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Teething ring",
-      "Pacifier",
-      "Conciliator",
-      "Baby's dummy",
-      "Peacemaker"
-    ]
-  },
   "PACIFISM": {
     "MEANINGS": {
       "1": [
@@ -651,29 +543,6 @@
     ],
     "SYNONYMS": [
       "Pacifistically"
-    ]
-  },
-  "PACING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "walking with slow regular strides",
-        [
-          "Gait"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Step",
-      "Pacing",
-      "Pace",
-      "Tempo"
     ]
   },
   "PACK": {
@@ -946,30 +815,6 @@
       "Promotional material"
     ]
   },
-  "PACKED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "pressed together or compressed",
-        [
-
-        ],
-        [
-          "packed snow"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unpack"
-    ],
-    "SYNONYMS": [
-      "Take",
-      "Jammed",
-      "Mob",
-      "Tamp",
-      "Jam-packed"
-    ]
-  },
   "PACKER": {
     "MEANINGS": {
       "1": [
@@ -997,41 +842,6 @@
       "Meat packer"
     ]
   },
-  "PACKET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(computer science) a message or message fragment",
-        [
-          "Message"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a small package or bundle",
-        [
-          "Package",
-          "Parcel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Package",
-      "Mail boat",
-      "Mailboat",
-      "Packet",
-      "Packet boat"
-    ]
-  },
   "PACKHORSE": {
     "MEANINGS": {
       "1": [
@@ -1052,43 +862,6 @@
     ],
     "SYNONYMS": [
       "Packhorse"
-    ]
-  },
-  "PACKING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the enclosure of something in a package or box",
-        [
-          "Enclosure",
-          "Enclosing",
-          "Envelopment",
-          "Inclosure"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "carrying something in a pack on the back",
-        [
-          "Carry"
-        ],
-        [
-          "the backpacking of oxygen is essential for astronauts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unpack"
-    ],
-    "SYNONYMS": [
-      "Backpacking",
-      "Backpack",
-      "Load down",
-      "Take",
-      "Pack"
     ]
   },
   "PACKINGHOUSE": {
@@ -1653,31 +1426,6 @@
       "Paducah"
     ]
   },
-  "PAEAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(ancient Greece) a hymn of praise (especially one sung in ancient Greece to invoke or thank a deity)",
-        [
-          "Hymn",
-          "Anthem"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eulogy",
-      "Panegyric",
-      "Pean",
-      "Paean",
-      "Encomium"
-    ]
-  },
   "PAELLA": {
     "MEANINGS": {
       "1": [
@@ -1739,30 +1487,6 @@
       "Peony family",
       "Family paeoniaceae",
       "Paeoniaceae"
-    ]
-  },
-  "PAGAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who follows a polytheistic or pre-Christian religion (not a Christian or Muslim or Jew)",
-        [
-          "Religious person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Heathenish",
-      "Gentile",
-      "Infidel",
-      "Heathen",
-      "Pagan"
     ]
   },
   "PAGANINI": {
@@ -1944,31 +1668,6 @@
     "SYNONYMS": [
       "Pageantry",
       "Pageant"
-    ]
-  },
-  "PAGEBOY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a smooth hair style with the ends of the hair curled inward",
-        [
-          "Hairdo",
-          "Hairstyle",
-          "Hair style",
-          "Coiffure",
-          "Coif"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pageboy",
-      "Page"
     ]
   },
   "PAGET": {
@@ -2520,28 +2219,6 @@
       "Satchel paige"
     ]
   },
-  "PAIL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quantity contained in a pail",
-        [
-          "Containerful"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bucket",
-      "Pail",
-      "Pailful"
-    ]
-  },
   "PAILLASSE": {
     "MEANINGS": {
       "1": [
@@ -2790,28 +2467,6 @@
       "Distressingly",
       "Painfully",
       "Sorely"
-    ]
-  },
-  "PAINFULNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being painful",
-        [
-          "Quality"
-        ],
-        [
-          "she feared the painfulness of childbirth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "pleasure"
-    ],
-    "SYNONYMS": [
-      "Painfulness",
-      "Distressingness",
-      "Pain"
     ]
   },
   "PAYNIM": {
@@ -3290,54 +2945,6 @@
       "Twin",
       "Duo",
       "Duad"
-    ]
-  },
-  "PAIRED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "mated sexually",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "alternate"
-    ],
-    "SYNONYMS": [
-      "Copulate",
-      "Mate",
-      "Pair",
-      "Pair off",
-      "Couple"
-    ]
-  },
-  "PAIRING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of grouping things or people in pairs",
-        [
-          "Grouping"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Copulate",
-      "Pairing",
-      "Mate",
-      "Geminate",
-      "Pair"
     ]
   },
   "PAYROLL": {
@@ -4061,44 +3668,6 @@
       "Pelew"
     ]
   },
-  "PALAVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "loud and confused and empty talk",
-        [
-          "Nonsense",
-          "Bunk",
-          "Nonsensicality",
-          "Meaninglessness",
-          "Hokum"
-        ],
-        [
-          "mere rhetoric"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "have a lengthy discussion, usually between people of different backgrounds",
-        [
-          "Parley"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wheedle",
-      "Cajolery",
-      "Cajole",
-      "Blab",
-      "Tittle-tattle"
-    ]
-  },
   "PALE": {
     "MEANINGS": {
       "1": [
@@ -4255,64 +3824,6 @@
     ],
     "SYNONYMS": [
       "Pale-faced"
-    ]
-  },
-  "PALELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a pale manner; without physical or emotional color",
-        [
-
-        ],
-        [
-          "his wife, always palely appealing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Palely",
-      "Pallidly",
-      "Dimly"
-    ]
-  },
-  "PALENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of having a naturally light complexion",
-        [
-          "Complexion",
-          "Skin color",
-          "Skin colour"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "being deficient in color",
-        [
-          "Color property"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pallidity",
-      "Achromasia",
-      "Luridness",
-      "Lividity",
-      "Blondness"
     ]
   },
   "PALEO-AMERICAN": {
@@ -5453,30 +4964,6 @@
       "Pd"
     ]
   },
-  "PALLAS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large asteroid; the second asteroid to be discovered",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Athena",
-      "Pallas",
-      "Pallas athene",
-      "Athene",
-      "Pallas athena"
-    ]
-  },
   "PALLASITE": {
     "MEANINGS": {
       "1": [
@@ -5519,47 +5006,6 @@
     "SYNONYMS": [
       "Pallbearer",
       "Bearer"
-    ]
-  },
-  "PALLET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a portable platform for storing or moving goods that are stacked on it",
-        [
-          "Platform"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a hand tool with a flat blade used by potters for mixing and shaping clay",
-        [
-          "Hand tool"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a mattress filled with straw or a pad made of quilts; used as a bed",
-        [
-          "Mattress"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Palette",
-      "Pallet"
     ]
   },
   "PALLETTE": {
@@ -5659,40 +5105,6 @@
       "Palely",
       "Pallidly",
       "Dimly"
-    ]
-  },
-  "PALLIUM": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(Roman Catholic Church) vestment consisting of a band encircling the shoulders with two lappets hanging in front and back",
-        [
-          "Vestment"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "cloak or mantle worn by men in ancient Rome",
-        [
-          "Cloak"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pallium",
-      "Mantle",
-      "Cortex",
-      "Cerebral cortex",
-      "Cerebral mantle"
     ]
   },
   "PALL-MALL": {
@@ -6713,30 +6125,6 @@
       "Cure-all"
     ]
   },
-  "PANACHE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a feathered plume on a helmet",
-        [
-          "Plume"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Elan",
-      "Dash",
-      "Style",
-      "Flair",
-      "Panache"
-    ]
-  },
   "PANAMA": {
     "MEANINGS": {
       "1": [
@@ -7123,57 +6511,6 @@
     ],
     "SYNONYMS": [
       "Pandemic"
-    ]
-  },
-  "PANDER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "arrange for sexual partners for others",
-        [
-          "Provide",
-          "Supply",
-          "Ply",
-          "Cater"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Panderer",
-      "Indulge",
-      "Procurer",
-      "Fancy man",
-      "Ponce"
-    ]
-  },
-  "PANDERER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who serves or caters to the vulgar passions or plans of others (especially in order to make money)",
-        [
-          "Bad person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Panderer",
-      "Procurer",
-      "Fancy man",
-      "Ponce",
-      "Pimp"
     ]
   },
   "PANDICULATION": {
@@ -8009,33 +7346,6 @@
       "Panopticon"
     ]
   },
-  "PANORAMA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a picture (or series of pictures) representing a continuous scene",
-        [
-          "Picture",
-          "Image",
-          "Icon",
-          "Ikon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "View",
-      "Panorama",
-      "Aspect",
-      "Cyclorama",
-      "Scene"
-    ]
-  },
   "PANORPIDAE": {
     "MEANINGS": {
       "1": [
@@ -8339,31 +7649,6 @@
     ],
     "SYNONYMS": [
       "Pantheon"
-    ]
-  },
-  "PANTHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a leopard in the black color phase",
-        [
-          "Leopard",
-          "Panthera pardus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cougar",
-      "Puma",
-      "Catamount",
-      "Panther",
-      "Mountain lion"
     ]
   },
   "PANTIE": {
@@ -8810,29 +8095,6 @@
     "SYNONYMS": [
       "Papaverine",
       "Kavrin"
-    ]
-  },
-  "PAPAW": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fruit with yellow flesh; related to custard apples",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Papaw",
-      "Papaw tree",
-      "Asimina triloba",
-      "Pawpaw"
     ]
   },
   "PAPEETE": {
@@ -9527,35 +8789,6 @@
       "Pappus"
     ]
   },
-  "PAPRIKA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mild powdered seasoning made from dried pimientos",
-        [
-          "Flavorer",
-          "Flavourer",
-          "Flavoring",
-          "Flavouring",
-          "Seasoner",
-          "Seasoning"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bell pepper",
-      "Pimiento",
-      "Sweet pepper plant",
-      "Capsicum annuum grossum",
-      "Sweet pepper"
-    ]
-  },
   "PAPUA": {
     "MEANINGS": {
       "1": [
@@ -9656,63 +8889,6 @@
       "Equivalence",
       "Par",
       "Equality"
-    ]
-  },
-  "PARA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "100 para equal 1 dinar in Yugoslavia",
-        [
-          "Yugoslavian monetary unit"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an estuary in northern Brazil into which the Tocantins River flows",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Belem",
-      "St. mary of bethlehem",
-      "Para river",
-      "Santa maria de belem",
-      "Paratrooper"
-    ]
-  },
-  "PARABLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(New Testament) any of the stories told by Jesus to convey his religious message",
-        [
-          "Story"
-        ],
-        [
-          "the parable of the prodigal son"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Apologue",
-      "Allegory",
-      "Fable",
-      "Parable"
     ]
   },
   "PARABOLA": {
@@ -10018,30 +9194,6 @@
     ],
     "SYNONYMS": [
       "Paradigmatic"
-    ]
-  },
-  "PARADISE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Christianity) the abode of righteous souls after death",
-        [
-          "Heaven"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Promised land",
-      "Paradise",
-      "Shangri-la",
-      "Heaven",
-      "Eden"
     ]
   },
   "PARADISIACAL": {
@@ -11169,28 +10321,6 @@
       "Paranoiac"
     ]
   },
-  "PARANORMAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not in accordance with scientific laws",
-        [
-
-        ],
-        [
-          "what seemed to be paranormal manifestations"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "normal",
-      "sensory"
-    ],
-    "SYNONYMS": [
-      "Extrasensory",
-      "Paranormal"
-    ]
-  },
   "PARANTHROPUS": {
     "MEANINGS": {
       "1": [
@@ -11930,30 +11060,6 @@
       "Parch"
     ]
   },
-  "PARCHED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "toasted or roasted slightly",
-        [
-
-        ],
-        [
-          "parched corn was a staple of the Indian diet"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sunbaked",
-      "Scorched",
-      "Parch",
-      "Adust",
-      "Parched"
-    ]
-  },
   "PARCHEESI": {
     "MEANINGS": {
       "1": [
@@ -12006,31 +11112,6 @@
       "Lambskin",
       "Parchment",
       "Sheepskin"
-    ]
-  },
-  "PARDON": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "grant a pardon to",
-        [
-          "Forgive"
-        ],
-        [
-          "Ford pardoned Nixon",
-          "The Thanksgiving turkey was pardoned by the President"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excuse",
-      "Free pardon",
-      "Forgiveness",
-      "Amnesty",
-      "Pardon"
     ]
   },
   "PARDONABLE": {
@@ -12238,32 +11319,6 @@
       "Rear",
       "Parent",
       "Raise"
-    ]
-  },
-  "PARENTAGE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the kinship relation of an offspring to the parents",
-        [
-          "Kinship",
-          "Family relationship",
-          "Relationship"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Birth",
-      "Line of descent",
-      "Blood line",
-      "Stock",
-      "Bloodline"
     ]
   },
   "PARENTAL": {
@@ -12655,41 +11710,6 @@
     "SYNONYMS": [
       "Pargeting",
       "Parget",
-      "Pargetting"
-    ]
-  },
-  "PARGETING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "ornamental plasterwork",
-        [
-          "Plaster",
-          "Plasterwork"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "ornamental plastering",
-        [
-          "Plastering",
-          "Daubing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pargeting",
-      "Parget",
-      "Pargetry",
       "Pargetting"
     ]
   },
@@ -15192,31 +14212,6 @@
       "Partial tone"
     ]
   },
-  "PARTIALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an inclination to favor one group or view or opinion over alternatives",
-        [
-          "Inclination",
-          "Disposition",
-          "Tendency"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "impartiality"
-    ],
-    "SYNONYMS": [
-      "Partiality",
-      "Partisanship",
-      "Fancy",
-      "Fondness"
-    ]
-  },
   "PARTIALLY": {
     "MEANINGS": {
       "1": [
@@ -15325,32 +14320,6 @@
       "Participate"
     ]
   },
-  "PARTICIPATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the condition of sharing in common with others (as fellows or partners etc.)",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "non-engagement",
-      "nonparticipation",
-      "non-involvement"
-    ],
-    "SYNONYMS": [
-      "Participation",
-      "Involvement",
-      "Engagement",
-      "Involution"
-    ]
-  },
   "PARTICIPATORY": {
     "MEANINGS": {
       "1": [
@@ -15411,41 +14380,6 @@
     "SYNONYMS": [
       "Participle",
       "Participial"
-    ]
-  },
-  "PARTICLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a body having finite mass and internal structure but negligible dimensions",
-        [
-          "Body"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a function word that can be used in English to form phrasal verbs",
-        [
-          "Function word",
-          "Closed-class word"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Speck",
-      "Subatomic particle",
-      "Particle",
-      "Atom",
-      "Corpuscle"
     ]
   },
   "PARTICULAR": {
@@ -16262,30 +15196,6 @@
       "Annapurna"
     ]
   },
-  "PARVENU": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or characteristic of a parvenu",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Arriviste",
-      "Parvenue",
-      "Upstart",
-      "Parvenu",
-      "Nouveau-riche"
-    ]
-  },
   "PARVIS": {
     "MEANINGS": {
       "1": [
@@ -16983,93 +15893,6 @@
       "Rider"
     ]
   },
-  "PASSE-PARTOUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mounting for a picture using gummed tape",
-        [
-          "Mounting"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Master key",
-      "Master",
-      "Passkey",
-      "Passe-partout"
-    ]
-  },
-  "PASSER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who passes as a member of a different ethnic or racial group",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a student who passes an examination",
-        [
-          "Student",
-          "Pupil",
-          "Educatee",
-          "Testee",
-          "Examinee"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(football) a ball carrier who tries to gain ground by throwing a forward pass",
-        [
-          "Ball carrier",
-          "Runner"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "type genus of the Passeridae",
-        [
-          "Bird genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Passer",
-      "Forward passer",
-      "Passerby",
-      "Genus passer",
-      "Passer-by"
-    ]
-  },
   "PASSERBY": {
     "MEANINGS": {
       "1": [
@@ -17219,77 +16042,6 @@
     "SYNONYMS": [
       "Throughout",
       "Passim"
-    ]
-  },
-  "PASSING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of advancing the ball by throwing it",
-        [
-
-        ],
-        [
-          "a team with a good passing attack",
-          "a pass play"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "allowing you to pass (e.g., an examination or inspection) satisfactorily",
-        [
-
-        ],
-        [
-          "a passing grade"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the end of something",
-        [
-          "End",
-          "Last",
-          "Final stage"
-        ],
-        [
-          "the passing of winter"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "going by something that is moving in order to get in front of it",
-        [
-          "Reordering"
-        ],
-        [
-          "she drove but well but her reckless passing of every car on the road frightened me"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "success in satisfying a test or requirement",
-        [
-          "Success"
-        ],
-        [
-          "his future depended on his passing that test",
-          "he got a pass in introductory chemistry"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fail",
-      "running",
-      "be_born",
-      "failing"
-    ],
-    "SYNONYMS": [
-      "Reach",
-      "Buy the farm",
-      "Go along",
-      "Going",
-      "Pass away"
     ]
   },
   "PASSION": {
@@ -17567,31 +16319,6 @@
       "Pesach",
       "Passover",
       "Feast of the unleavened bread"
-    ]
-  },
-  "PASSPORT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country",
-        [
-          "Legal document",
-          "Legal instrument",
-          "Official document",
-          "Instrument"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Recommendation",
-      "Passport",
-      "Pass"
     ]
   },
   "PASSWORD": {
@@ -18025,28 +16752,6 @@
       "Pasty"
     ]
   },
-  "PASTICHE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a work of art that imitates the style of some previous work",
-        [
-          "Work of art"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pastiche",
-      "Medley",
-      "Potpourri"
-    ]
-  },
   "PASTIME": {
     "MEANINGS": {
       "1": [
@@ -18138,30 +16843,6 @@
     ],
     "SYNONYMS": [
       "Pastness"
-    ]
-  },
-  "PASTOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "only the rose-colored starlings; in some classifications considered a separate genus",
-        [
-          "Bird genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Minister",
-      "Rector",
-      "Subgenus pastor",
-      "Pastor",
-      "Parson"
     ]
   },
   "PASTORAL": {
@@ -19165,52 +17846,6 @@
       "Paterson"
     ]
   },
-  "PATH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a way especially designed for a particular use",
-        [
-          "Way"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an established line of travel or access",
-        [
-          "Line"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a line or route along which something travels or moves",
-        [
-          "Line"
-        ],
-        [
-          "the hurricane demolished houses in its path",
-          "the track of an animal",
-          "the course of the river"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Way",
-      "Route",
-      "Track",
-      "Course",
-      "Path"
-    ]
-  },
   "PATHAN": {
     "MEANINGS": {
       "1": [
@@ -19243,42 +17878,6 @@
       "Pashtoon",
       "Pashtun",
       "Pathan"
-    ]
-  },
-  "PATHETIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "inspiring mixed contempt and pity",
-        [
-
-        ],
-        [
-          "their efforts were pathetic",
-          "pitiable lack of character",
-          "pitiful exhibition of cowardice"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "inspiring scornful pity",
-        [
-
-        ],
-        [
-          "how silly an ardent and unsuccessful wooer can be especially if he is getting on in years\"- Dashiell Hammett"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Miserable",
-      "Misfortunate",
-      "Wretched",
-      "Pathetic",
-      "Pitiful"
     ]
   },
   "PATHETICALLY": {
@@ -19523,30 +18122,6 @@
       "Ruth"
     ]
   },
-  "PATHWAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a trodden path",
-        [
-          "Path"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Footpath",
-      "Tract",
-      "Pathway",
-      "Nerve tract",
-      "Nerve pathway"
-    ]
-  },
   "PATIENCE": {
     "MEANINGS": {
       "1": [
@@ -19700,32 +18275,6 @@
     ],
     "SYNONYMS": [
       "Patisserie"
-    ]
-  },
-  "PATOIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a regional dialect of a language (especially French); usually considered substandard",
-        [
-          "Dialect",
-          "Idiom",
-          "Accent"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vernacular",
-      "Argot",
-      "Jargon",
-      "Lingo",
-      "Cant"
     ]
   },
   "PATON": {
@@ -20455,53 +19004,6 @@
       "Patronym"
     ]
   },
-  "PATRONIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "do one's shopping at; do business with; be a customer or client of",
-        [
-          "Support",
-          "Back up"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "treat condescendingly",
-        [
-          "Interact"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "be a regular customer or client of",
-        [
-          "Foster",
-          "Nurture"
-        ],
-        [
-          "We patronize this store",
-          "Our sponsor kept our art studio going for as long as he could"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "boycott"
-    ],
-    "SYNONYMS": [
-      "Sponsor",
-      "Frequent",
-      "Shop",
-      "Support",
-      "Keep going"
-    ]
-  },
   "PATRONIZED": {
     "MEANINGS": {
       "1": [
@@ -20525,75 +19027,6 @@
       "Shop",
       "Support",
       "Keep going"
-    ]
-  },
-  "PATTER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make light, rapid and repeated sounds",
-        [
-          "Sound",
-          "Go"
-        ],
-        [
-          "gently pattering rain"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sprinkle",
-      "Patter",
-      "Line of gab",
-      "Spit",
-      "Spiel"
-    ]
-  },
-  "PATTERN": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "a model considered worthy of imitation",
-        [
-          "Exemplar",
-          "Example",
-          "Model",
-          "Good example"
-        ],
-        [
-          "the American constitution has provided a pattern for many republics"
-        ]
-      ],
-      "2": [
-        "Verb",
-        "form a pattern",
-        [
-          "Match",
-          "Fit",
-          "Correspond",
-          "Check",
-          "Jibe",
-          "Gibe",
-          "Tally",
-          "Agree"
-        ],
-        [
-          "These sentences pattern like the ones we studied before"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Normal",
-      "Rule",
-      "Traffic pattern",
-      "Pattern",
-      "Shape"
     ]
   },
   "PATTERN-BOMB": {
@@ -20868,31 +19301,6 @@
     ],
     "SYNONYMS": [
       "Pauper"
-    ]
-  },
-  "PAUPERIZATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of making someone poor",
-        [
-          "Privation",
-          "Deprivation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pauperism",
-      "Pauperisation",
-      "Penury",
-      "Impoverishment",
-      "Pauperization"
     ]
   },
   "PAUROPODA": {
@@ -21507,31 +19915,6 @@
       "Pawnee"
     ]
   },
-  "PAWPAW": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small tree native to the eastern United States having oblong leaves and fleshy fruit",
-        [
-          "Custard apple",
-          "Custard apple tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Papaw tree",
-      "Melon tree",
-      "Asimina triloba",
-      "Papaya",
-      "Papaya tree"
-    ]
-  },
   "PAX": {
     "MEANINGS": {
       "1": [
@@ -21990,30 +20373,6 @@
       "Peach-colored"
     ]
   },
-  "PEACHY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of something resembling a peach in color",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neat",
-      "Cracking",
-      "Dandy",
-      "Groovy",
-      "Peachy"
-    ]
-  },
   "PEACHICK": {
     "MEANINGS": {
       "1": [
@@ -22132,59 +20491,6 @@
     ],
     "SYNONYMS": [
       "Peahen"
-    ]
-  },
-  "PEAK": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the top or extreme point of something (usually a mountain or hill)",
-        [
-          "Topographic point",
-          "Place",
-          "Spot"
-        ],
-        [
-          "the view from the peak was magnificent",
-          "they clambered to the tip of Monadnock",
-          "the region is a few molecules wide at the summit"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "bottom_out"
-    ],
-    "SYNONYMS": [
-      "Height",
-      "Elevation",
-      "Extremum",
-      "Top",
-      "Bill"
-    ]
-  },
-  "PEAKED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having or rising to a peak",
-        [
-
-        ],
-        [
-          "the peaked ceiling",
-          "the island's peaked hills"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "bottom_out"
-    ],
-    "SYNONYMS": [
-      "Poorly",
-      "Seedy",
-      "Peak",
-      "Peaked",
-      "Top out"
     ]
   },
   "PEAKY": {
@@ -23099,41 +21405,6 @@
       "Pecs"
     ]
   },
-  "PECULIAR": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "markedly different from the usual",
-        [
-
-        ],
-        [
-          "a peculiar hobby of stuffing and mounting bats",
-          "a man...feels it a peculiar insult to be taunted with cowardice by a woman\"-Virginia Woolf"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "characteristic of one only; distinctive or special",
-        [
-
-        ],
-        [
-          "the peculiar character of the Government of the U.S.\"- R.B.Taney"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Curious",
-      "Particular",
-      "Queer",
-      "Peculiar",
-      "Rum"
-    ]
-  },
   "PECULIARITY": {
     "MEANINGS": {
       "1": [
@@ -23517,41 +21788,6 @@
     "SYNONYMS": [
       "Paederastic",
       "Pederastic"
-    ]
-  },
-  "PEDESTAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a position of great esteem (and supposed superiority)",
-        [
-          "Status",
-          "Position"
-        ],
-        [
-          "they put him on a pedestal"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an architectural support or base (as for a column or statue)",
-        [
-          "Support"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pedestal",
-      "Plinth",
-      "Stand",
-      "Footstall",
-      "Base"
     ]
   },
   "PEDESTRIAN": {
@@ -24189,40 +22425,6 @@
       "Undress"
     ]
   },
-  "PEELER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a worker who peels the skins from fruits and vegetables",
-        [
-          "Worker"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a device for peeling vegetables or fruits",
-        [
-          "Device"
-        ],
-        [
-          "she invented a potato peeler"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Peeler",
-      "Stripteaser",
-      "Exotic dancer",
-      "Striptease artist",
-      "Ecdysiast"
-    ]
-  },
   "PEEN": {
     "MEANINGS": {
       "1": [
@@ -24314,45 +22516,6 @@
       "Cheep",
       "Peep",
       "Peek"
-    ]
-  },
-  "PEEPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an informal term referring to the eye",
-        [
-          "Eye",
-          "Oculus",
-          "Optic"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an animal that makes short high-pitched sounds",
-        [
-          "Animal",
-          "Animate being",
-          "Beast",
-          "Brute",
-          "Creature",
-          "Fauna"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Peeper",
-      "Voyeur",
-      "Peeping tom"
     ]
   },
   "PEEPHOLE": {
@@ -25125,31 +23288,6 @@
       "Pellicularia"
     ]
   },
-  "PELLITORY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small Mediterranean plant containing a volatile oil once used to relieve toothache",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Parietaria difussa",
-      "Pellitory-of-the-wall",
-      "Anacyclus pyrethrum",
-      "Pellitory-of-spain",
-      "Pellitory"
-    ]
-  },
   "PELLUCIDNESS": {
     "MEANINGS": {
       "1": [
@@ -25302,30 +23440,6 @@
     "SYNONYMS": [
       "Shield-shaped",
       "Peltate"
-    ]
-  },
-  "PELTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a thrower of missiles",
-        [
-          "Thrower"
-        ],
-        [
-          "the police were too busy to chase the pelters"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pelter",
-      "Torrent",
-      "Soaker",
-      "Deluge",
-      "Downpour"
     ]
   },
   "PELUDO": {
@@ -25623,86 +23737,6 @@
     "SYNONYMS": [
       "Punishable",
       "Penal"
-    ]
-  },
-  "PENALTY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a payment required for not fulfilling a contract",
-        [
-          "Payment"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the disadvantage or painful consequences of an action or condition",
-        [
-          "Disadvantage"
-        ],
-        [
-          "neglected his health and paid the penalty"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(games) a handicap or disadvantage that is imposed on a competitor (or a team) for an infraction of the rules of the game",
-        [
-          "Handicap"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "reward"
-    ],
-    "SYNONYMS": [
-      "Penalisation",
-      "Penalization",
-      "Penalty",
-      "Punishment"
-    ]
-  },
-  "PENANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a Catholic sacrament; repentance and confession and atonement and absolution",
-        [
-          "Sacrament"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "voluntary self-punishment in order to atone for some wrongdoing",
-        [
-          "Punishment",
-          "Penalty",
-          "Penalization",
-          "Penalisation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Self-abasement",
-      "Self-mortification",
-      "Penitence",
-      "Repentance",
-      "Penance"
     ]
   },
   "PEN-AND-INK": {
@@ -26216,32 +24250,6 @@
       "Insight",
       "Penetration",
       "Incursion"
-    ]
-  },
-  "PENETRATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "tending to penetrate; having the power of entering or piercing",
-        [
-
-        ],
-        [
-          "a toxic penetrative spray applied to the surface",
-          "a cold penetrating wind",
-          "a penetrating odor"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sharp",
-      "Incisive",
-      "Penetrative",
-      "Knifelike",
-      "Acute"
     ]
   },
   "PENETRATOR": {
@@ -26991,30 +24999,6 @@
       "Penn'orth"
     ]
   },
-  "PENNON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "wing of a bird",
-        [
-          "Wing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pinion",
-      "Waft",
-      "Pennon",
-      "Streamer",
-      "Pennant"
-    ]
-  },
   "PENNONCEL": {
     "MEANINGS": {
       "1": [
@@ -27284,30 +25268,6 @@
     "SYNONYMS": [
       "Pensionary",
       "Pensioner"
-    ]
-  },
-  "PENSIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "showing pensive sadness",
-        [
-
-        ],
-        [
-          "the sensitive and wistful response of a poet to the gentler phases of beauty"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brooding",
-      "Pondering",
-      "Reflective",
-      "Wistful",
-      "Meditative"
     ]
   },
   "PENSIVELY": {
@@ -28126,28 +26086,6 @@
     ],
     "SYNONYMS": [
       "Penuriously"
-    ]
-  },
-  "PENURIOUSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a disposition to be niggardly with money",
-        [
-          "Stinginess"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pennilessness",
-      "Impecuniousness",
-      "Penuriousness"
     ]
   },
   "PENUTIAN": {
@@ -29052,29 +26990,6 @@
       "Comprehend"
     ]
   },
-  "PERCEIVED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "detected by means of the senses",
-        [
-
-        ],
-        [
-          "a perceived difference in temperature"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perceive",
-      "Perceived",
-      "Sensed",
-      "Comprehend"
-    ]
-  },
   "PERCEIVER": {
     "MEANINGS": {
       "1": [
@@ -29249,53 +27164,6 @@
       "Noticeably"
     ]
   },
-  "PERCEPTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a way of conceiving something",
-        [
-          "Conceptualization",
-          "Conceptualisation",
-          "Conceptuality"
-        ],
-        [
-          "Luther had a new perception of the Bible"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the process of perceiving",
-        [
-          "Basic cognitive process"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "knowledge gained by perceiving",
-        [
-          "Cognition",
-          "Knowledge",
-          "Noesis"
-        ],
-        [
-          "a man admired for the depth of his perception"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perceptual experience",
-      "Sensing",
-      "Percept",
-      "Perception"
-    ]
-  },
   "PERCEPTIVE": {
     "MEANINGS": {
       "1": [
@@ -29345,31 +27213,6 @@
     ],
     "SYNONYMS": [
       "Perceptively"
-    ]
-  },
-  "PERCEPTIVENESS": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the quality of insight and sympathetic understanding",
-        [
-          "Sensitivity",
-          "Sensitiveness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unperceptiveness"
-    ],
-    "SYNONYMS": [
-      "Perceptivity",
-      "Taste",
-      "Appreciation",
-      "Discernment",
-      "Perceptiveness"
     ]
   },
   "PERCEPTUAL": {
@@ -30069,41 +27912,6 @@
       "Mobile"
     ]
   },
-  "PEREMPTORY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not allowing contradiction or refusal",
-        [
-
-        ],
-        [
-          "spoke in peremptory tones",
-          "peremptory commands"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "putting an end to all debate or action",
-        [
-
-        ],
-        [
-          "a peremptory decree"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bossy",
-      "High-and-mighty",
-      "Dominating",
-      "Peremptory",
-      "Magisterial"
-    ]
-  },
   "PERENNATE": {
     "MEANINGS": {
       "1": [
@@ -30475,31 +28283,6 @@
       "Perfect"
     ]
   },
-  "PERFECTLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a perfect or faultless way",
-        [
-
-        ],
-        [
-          "She performed perfectly on the balance beam",
-          "spoke English perfectly",
-          "solved the problem perfectly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "imperfectly"
-    ],
-    "SYNONYMS": [
-      "Dead",
-      "Absolutely",
-      "Utterly",
-      "Perfectly"
-    ]
-  },
   "PERFIDY": {
     "MEANINGS": {
       "1": [
@@ -30562,32 +28345,6 @@
     ],
     "SYNONYMS": [
       "Perfoliate"
-    ]
-  },
-  "PERFORATED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a number or series of holes",
-        [
-
-        ],
-        [
-          "a perforated steel plate",
-          "perforated cancellation",
-          "perforated stamp"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pierced",
-      "Penetrate",
-      "Perforated",
-      "Punctured",
-      "Perforate"
     ]
   },
   "PERFORATION": {
@@ -31552,29 +29309,6 @@
       "Perilously"
     ]
   },
-  "PERIMETER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a line enclosing a plane areas",
-        [
-          "Line"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Margin",
-      "Perimeter",
-      "Border",
-      "Circumference"
-    ]
-  },
   "PERIMYSIUM": {
     "MEANINGS": {
       "1": [
@@ -31697,77 +29431,6 @@
     ],
     "SYNONYMS": [
       "Perineurium"
-    ]
-  },
-  "PERIOD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the interval taken to complete one cycle of a regularly repeating phenomenon",
-        [
-          "Time interval",
-          "Interval"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(ice hockey) one of three divisions into which play is divided in hockey games",
-        [
-          "Part",
-          "Section",
-          "Division"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a unit of geological time during which a system of rocks formed",
-        [
-          "Geological time",
-          "Geologic time"
-        ],
-        [
-          "ganoid fishes swarmed during the earlier geological periods"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the end or completion of something",
-        [
-          "End",
-          "Ending"
-        ],
-        [
-          "death put a period to his endeavors",
-          "a change soon put a period to my tranquility"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations",
-        [
-          "Punctuation",
-          "Punctuation mark"
-        ],
-        [
-          "in England they call a period a stop"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Point",
-      "Period",
-      "Menstruum",
-      "Flow",
-      "Catamenia"
     ]
   },
   "PERIODIC": {
@@ -33295,53 +30958,6 @@
       "Permutability"
     ]
   },
-  "PERMUTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of changing the arrangement of a given number of elements",
-        [
-          "Mathematical process",
-          "Mathematical operation",
-          "Operation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "complete change in character or condition",
-        [
-          "Transformation",
-          "Translation"
-        ],
-        [
-          "the permutations...taking place in the physical world\"- Henry Miller"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "act of changing the lineal order of objects in a group",
-        [
-          "Reordering"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Transposition",
-      "Switch",
-      "Substitution",
-      "Replacement",
-      "Permutation"
-    ]
-  },
   "PERMUTE": {
     "MEANINGS": {
       "1": [
@@ -33790,50 +31406,6 @@
       "English-gothic architecture",
       "Vertical",
       "English-gothic"
-    ]
-  },
-  "PERPENDICULARITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being at right angles to a given line or plane (especially the plane of the horizon)",
-        [
-          "Rectangularity",
-          "Oblongness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perpendicularity",
-      "Orthogonal opposition",
-      "Orthogonality"
-    ]
-  },
-  "PERPENDICULARLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a perpendicular manner",
-        [
-
-        ],
-        [
-          "this red line runs perpendicularly to the green line"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perpendicularly",
-      "Sheer"
     ]
   },
   "PERPETRATE": {
@@ -34311,31 +31883,6 @@
       "Perseus"
     ]
   },
-  "PERSEVERANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of persisting or persevering; continuing or repeating behavior",
-        [
-          "Continuance",
-          "Continuation"
-        ],
-        [
-          "his perseveration continued to the point where it was no longer appropriate"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Doggedness",
-      "Tenacity",
-      "Perseveration",
-      "Pertinacity",
-      "Persistence"
-    ]
-  },
   "PERSEVERATE": {
     "MEANINGS": {
       "1": [
@@ -34479,30 +32026,6 @@
       "Islamic republic of iran"
     ]
   },
-  "PERSIAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the language of Persia (Iran) in any of its ancient forms",
-        [
-          "Iranian",
-          "Iranian language"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Irani",
-      "Farsi",
-      "Iranian",
-      "Persian"
-    ]
-  },
   "PERSIFLAGE": {
     "MEANINGS": {
       "1": [
@@ -34555,31 +32078,6 @@
     "SYNONYMS": [
       "Persimmon",
       "Persimmon tree"
-    ]
-  },
-  "PERSIST": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "stay behind",
-        [
-
-        ],
-        [
-          "The smell stayed in the room",
-          "The hostility remained long after they made up"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Run",
-      "Endure",
-      "Hang in",
-      "Hold on",
-      "Remain"
     ]
   },
   "PERSISTENT": {
@@ -34707,31 +32205,6 @@
       "Soul",
       "Somebody",
       "Person"
-    ]
-  },
-  "PERSONA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Jungian psychology) a personal facade that one presents to the world",
-        [
-          "Appearance",
-          "Visual aspect"
-        ],
-        [
-          "a public image is as fragile as Humpty Dumpty"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Part",
-      "Image",
-      "Character",
-      "Persona",
-      "Role"
     ]
   },
   "PERSONABLE": {
@@ -34924,31 +32397,6 @@
       "Personalize"
     ]
   },
-  "PERSONALIZED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "pointedly referring to or concerning a person's individual personality or intimate affairs especially offensively",
-        [
-
-        ],
-        [
-          "unnecessarily personalized remarks"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "depersonalize",
-      "depersonalise"
-    ],
-    "SYNONYMS": [
-      "Individualise",
-      "Personalized",
-      "Individualize",
-      "Personalise",
-      "Individualised"
-    ]
-  },
   "PERSONALLY": {
     "MEANINGS": {
       "1": [
@@ -35033,33 +32481,6 @@
       "Personhood"
     ]
   },
-  "PERSONIFY": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "attribute human qualities to something",
-        [
-          "Impute",
-          "Ascribe",
-          "Assign",
-          "Attribute"
-        ],
-        [
-          "The Greeks personated their gods ridiculous"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Body",
-      "Personify",
-      "Personate",
-      "Embody",
-      "Be"
-    ]
-  },
   "PERSONIFICATION": {
     "MEANINGS": {
       "1": [
@@ -35130,30 +32551,6 @@
     "SYNONYMS": [
       "One-on-one",
       "Person-to-person"
-    ]
-  },
-  "PERSPECTIVE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the appearance of things relative to one another as determined by their distance from the viewer",
-        [
-          "Appearance",
-          "Visual aspect"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "View",
-      "Position",
-      "Perspective",
-      "Linear perspective"
     ]
   },
   "PERSPICACIOUS": {
@@ -35244,33 +32641,6 @@
       "Perspiration",
       "Hidrosis",
       "Sweat"
-    ]
-  },
-  "PERSUADE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm",
-        [
-          "Induce",
-          "Stimulate",
-          "Cause",
-          "Have",
-          "Get",
-          "Make"
-        ],
-        [
-          "You can't persuade me to buy this ugly vase!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dissuade"
-    ],
-    "SYNONYMS": [
-      "Persuade",
-      "Carry",
-      "Sway"
     ]
   },
   "PERSUADER": {
@@ -35383,31 +32753,6 @@
       "Persuasiveness"
     ]
   },
-  "PERTAIN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be a part or attribute of",
-        [
-          "Belong to",
-          "Belong"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Relate",
-      "Concern",
-      "Bear on",
-      "Touch on",
-      "Have-to doe with"
-    ]
-  },
   "PERTH": {
     "MEANINGS": {
       "1": [
@@ -35491,33 +32836,6 @@
       "Pertinently"
     ]
   },
-  "PERTNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "quality of being lively and confident",
-        [
-          "Liveliness",
-          "Life",
-          "Spirit",
-          "Sprightliness"
-        ],
-        [
-          "there was a pertness about her that attracted him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perkiness",
-      "Pertness",
-      "Sauciness",
-      "Impertinence",
-      "Archness"
-    ]
-  },
   "PERTURB": {
     "MEANINGS": {
       "1": [
@@ -35573,52 +32891,6 @@
       "Derange",
       "Perturb",
       "Trouble"
-    ]
-  },
-  "PERTURBATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(physics) a secondary influence on a system that causes it to deviate slightly",
-        [
-          "Influence"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "activity that is a malfunction, intrusion, or interruption",
-        [
-          "Activity"
-        ],
-        [
-          "the term `distress' connotes some degree of perturbation and emotional upset",
-          "he looked around for the source of the disturbance",
-          "there was a disturbance of neural function"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a disposition that is confused or nervous and upset",
-        [
-          "Discomposure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perturbation",
-      "Disruption",
-      "Disturbance",
-      "Fluster",
-      "Upset"
     ]
   },
   "PERTUSARIA": {
@@ -35936,29 +33208,6 @@
       "Perversion"
     ]
   },
-  "PERVERSITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "deliberately deviating from what is good",
-        [
-          "Evil",
-          "Evilness"
-        ],
-        [
-          "there will always be a few people who, through macho perversity, gain satisfaction from bullying and terrorism"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perversity",
-      "Perverseness",
-      "Contrariness"
-    ]
-  },
   "PERVERT": {
     "MEANINGS": {
       "1": [
@@ -36192,48 +33441,6 @@
       "Pessimistically"
     ]
   },
-  "PEST": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a persistently annoying person",
-        [
-          "Tormentor",
-          "Tormenter",
-          "Persecutor"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "any unwanted and destructive insect or other animal that attacks food or crops or livestock etc.",
-        [
-          "Animal",
-          "Animate being",
-          "Beast",
-          "Brute",
-          "Creature",
-          "Fauna"
-        ],
-        [
-          "he sprayed the garden to get rid of pests",
-          "many pests have developed resistance to the common pesticides"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blighter",
-      "Pestis",
-      "Gadfly",
-      "Pest",
-      "Cuss"
-    ]
-  },
   "PESTHOLE": {
     "MEANINGS": {
       "1": [
@@ -36273,56 +33480,6 @@
     ],
     "SYNONYMS": [
       "Pesticide"
-    ]
-  },
-  "PESTILENCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a pernicious and malign influence that is hard to get rid of",
-        [
-          "Influence"
-        ],
-        [
-          "racism is a pestilence at the heart of the nation",
-          "according to him, I was the canker in their midst"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pestis",
-      "Pest",
-      "Canker",
-      "Plague",
-      "Pestilence"
-    ]
-  },
-  "PESTILENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "likely to spread and cause an epidemic disease",
-        [
-
-        ],
-        [
-          "a pestilential malignancy in the air\"- Jonathan Swift",
-          "plaguey fevers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pestiferous",
-      "Pestilent",
-      "Deadly",
-      "Pestilential",
-      "Pernicious"
     ]
   },
   "PESTLE": {
@@ -37269,31 +34426,6 @@
     "SYNONYMS": [
       "Fondler",
       "Petter"
-    ]
-  },
-  "PETTY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "contemptibly narrow in outlook",
-        [
-
-        ],
-        [
-          "petty little comments",
-          "disgusted with their small-minded pettiness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "grand_larceny"
-    ],
-    "SYNONYMS": [
-      "Trivial",
-      "Lilliputian",
-      "Piffling",
-      "Niggling",
-      "Petty"
     ]
   },
   "PETTICOAT": {
@@ -39771,29 +36903,6 @@
       "Philanthropy"
     ]
   },
-  "PHILANTHROPIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or characterized by philanthropy",
-        [
-
-        ],
-        [
-          "a philanthropic society"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Philanthropic",
-      "Eleemosynary",
-      "Benevolent",
-      "Beneficent"
-    ]
-  },
   "PHILANTHROPICALLY": {
     "MEANINGS": {
       "1": [
@@ -40812,44 +37921,6 @@
       "Philosopher"
     ]
   },
-  "PHILOSOPHY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the rational investigation of questions about existence and knowledge and ethics",
-        [
-          "Humanistic discipline",
-          "Humanities",
-          "Liberal arts",
-          "Arts"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "any personal belief about how to live or how to deal with a situation",
-        [
-          "Belief"
-        ],
-        [
-          "self-indulgence was his only philosophy",
-          "my father's philosophy of child-rearing was to let mother do it"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "School of thought",
-      "Doctrine",
-      "Ism",
-      "Philosophy",
-      "Philosophical system"
-    ]
-  },
   "PHILOSOPHIC": {
     "MEANINGS": {
       "1": [
@@ -40861,28 +37932,6 @@
         [
           "philosophical writing",
           "a considerable knowledge of philosophical terminology"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Philosophical",
-      "Philosophic"
-    ]
-  },
-  "PHILOSOPHICAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
-        [
-
-        ],
-        [
-          "philosophical resignation",
-          "a philosophic attitude toward life"
         ]
       ]
     },
@@ -41931,54 +38980,6 @@
       "Phlebotomist"
     ]
   },
-  "PHLEBOTOMUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small bloodsucking sand flies that resemble moths",
-        [
-          "Arthropod genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Phlebotomus",
-      "Pappataci fever",
-      "Sandfly fever",
-      "Genus phlebotomus"
-    ]
-  },
-  "PHLEGM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "expectorated matter; saliva mixed with discharges from the respiratory passages; in ancient and medieval physiology it was believed to cause sluggishness",
-        [
-          "Mucus",
-          "Mucous secretion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Emotionlessness",
-      "Impassiveness",
-      "Stolidity",
-      "Languor",
-      "Sputum"
-    ]
-  },
   "PHLEGMATIC": {
     "MEANINGS": {
       "1": [
@@ -42352,43 +39353,6 @@
       "Seal limbs"
     ]
   },
-  "PHOEBE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Greek mythology) a Titaness who became identified with Artemis as goddess of the Moon",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "small dun-colored North American flycatcher",
-        [
-          "New world flycatcher",
-          "Flycatcher",
-          "Tyrant flycatcher",
-          "Tyrant bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cinque",
-      "Quintuplet",
-      "Quint",
-      "Quintet",
-      "Pentad"
-    ]
-  },
   "PHOENICIA": {
     "MEANINGS": {
       "1": [
@@ -42671,31 +39635,6 @@
     ],
     "SYNONYMS": [
       "Phon"
-    ]
-  },
-  "PHONE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language",
-        [
-          "Language unit",
-          "Linguistic unit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Telephone",
-      "Call up",
-      "Sound",
-      "Earpiece",
-      "Headphone"
     ]
   },
   "PHONE-IN": {
@@ -47619,32 +44558,6 @@
       "Piezometer"
     ]
   },
-  "PIFFLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "act in a trivial or ineffective way",
-        [
-          "Act",
-          "Behave",
-          "Do"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Palaver",
-      "Prate",
-      "Maunder",
-      "Balderdash",
-      "Piffle"
-    ]
-  },
   "PIG": {
     "MEANINGS": {
       "6": [
@@ -48201,30 +45114,6 @@
       "Pigtail"
     ]
   },
-  "PIGWEED": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "leaves sometimes used as potherbs; seeds used as cereal; southern United States to Central America; India and China",
-        [
-          "Amaranth"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chenopodium album",
-      "Pigweed",
-      "Lamb's-quarters",
-      "Amaranthus hypochondriacus",
-      "Lamb's-quarter"
-    ]
-  },
   "PIKA": {
     "MEANINGS": {
       "1": [
@@ -48248,64 +45137,6 @@
       "Coney",
       "Rock rabbit",
       "Mouse hare"
-    ]
-  },
-  "PIKE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "highly valued northern freshwater fish with lean flesh",
-        [
-          "Freshwater fish"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a sharp point (as on the end of a spear)",
-        [
-          "Point"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "medieval weapon consisting of a spearhead attached to a long pole or pikestaff; superseded by the bayonet",
-        [
-          "Weapon",
-          "Arm",
-          "Weapon system"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "any of several elongate long-snouted freshwater game and food fishes widely distributed in cooler parts of the northern hemisphere",
-        [
-          "Percoid fish",
-          "Percoid",
-          "Percoidean"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Expressway",
-      "State highway",
-      "Thruway",
-      "Pike",
-      "Motorway"
     ]
   },
   "PIKEBLENNY": {
@@ -48453,29 +45284,6 @@
     "SYNONYMS": [
       "Pontius pilate",
       "Pilate"
-    ]
-  },
-  "PILCHARD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small fishes found in great schools along coasts of Europe; smaller and rounder than herring",
-        [
-          "Clupeid fish",
-          "Clupeid"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pilchard",
-      "Sardina pilchardus",
-      "Sardine"
     ]
   },
   "PILE": {
@@ -49226,31 +46034,6 @@
       "Pilothouse"
     ]
   },
-  "PILOTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the occupation of a pilot",
-        [
-          "Trade",
-          "Craft"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pilot",
-      "Fly",
-      "Navigate",
-      "Aviate",
-      "Navigation"
-    ]
-  },
   "PILOTLESS": {
     "MEANINGS": {
       "1": [
@@ -49357,27 +46140,6 @@
       "Pilularia"
     ]
   },
-  "PILUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "hairlike structure especially on the surface of a cell or microorganism",
-        [
-          "Hair"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hair",
-      "Pilus"
-    ]
-  },
   "PIMA": {
     "MEANINGS": {
       "1": [
@@ -49432,30 +46194,6 @@
       "Pimenta"
     ]
   },
-  "PIMENTO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fully ripened sweet red pepper; usually cooked",
-        [
-          "Sweet pepper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bell pepper",
-      "Pimiento",
-      "Sweet pepper plant",
-      "Capsicum annuum grossum",
-      "Sweet pepper"
-    ]
-  },
   "PIMLICO": {
     "MEANINGS": {
       "1": [
@@ -49499,30 +46237,6 @@
       "Fancy man",
       "Ponce",
       "Pimp"
-    ]
-  },
-  "PIMPERNEL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several plants of the genus Anagallis",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pimpernel",
-      "Salad burnet",
-      "Poterium sanguisorba",
-      "Burnet bloodwort"
     ]
   },
   "PIMPINELLA": {
@@ -49885,30 +46599,6 @@
     "SYNONYMS": [
       "Leontocebus oedipus",
       "Pinche"
-    ]
-  },
-  "PINCHED": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "as if squeezed uncomfortably tight",
-        [
-
-        ],
-        [
-          "her pinched toes in her pointed shoes were killing her"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pilfer",
-      "Snarf",
-      "Top",
-      "Vellicate",
-      "Pinch"
     ]
   },
   "PINCHGUT": {
@@ -50422,30 +47112,6 @@
     "SYNONYMS": [
       "Pinguicula",
       "Genus pinguicula"
-    ]
-  },
-  "PINHEAD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the head of a pin",
-        [
-          "Head"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dummy",
-      "Dumbbell",
-      "Boob",
-      "Dope",
-      "Pinhead"
     ]
   },
   "PINHOLE": {
@@ -52018,31 +48684,6 @@
       "Pipeful"
     ]
   },
-  "PIPELINE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a pipe used to transport liquids or gases",
-        [
-          "Pipe",
-          "Pipage",
-          "Piping"
-        ],
-        [
-          "a pipeline runs from the wells to the seaport"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pipeline",
-      "Line",
-      "Grapevine",
-      "Word of mouth"
-    ]
-  },
   "PIPER": {
     "MEANINGS": {
       "1": [
@@ -52510,30 +49151,6 @@
       "Genus piptadenia"
     ]
   },
-  "PIQUANCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being agreeably stimulating or mentally exciting",
-        [
-          "Quality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tang",
-      "Piquance",
-      "Piquantness",
-      "Tanginess",
-      "Nip"
-    ]
-  },
   "PIQUANT": {
     "MEANINGS": {
       "1": [
@@ -52923,32 +49540,6 @@
     "SYNONYMS": [
       "Piranga",
       "Genus piranga"
-    ]
-  },
-  "PIRANHA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals",
-        [
-          "Characin",
-          "Characin fish",
-          "Characid"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vulture",
-      "Predator",
-      "Piranha",
-      "Caribe",
-      "Pirana"
     ]
   },
   "PIRATE": {
@@ -54729,27 +51320,6 @@
       "Pistil"
     ]
   },
-  "PISTILLATE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having gynoecia, or pistils, the ovule-bearing organ of a seed plant",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "acarpelous"
-    ],
-    "SYNONYMS": [
-      "Pistillate",
-      "Carpellate"
-    ]
-  },
   "PISTILLODE": {
     "MEANINGS": {
       "1": [
@@ -55015,29 +51585,6 @@
     "SYNONYMS": [
       "Pocket bread",
       "Pita"
-    ]
-  },
-  "PITAHAYA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "highly colored edible fruit of pitahaya cactus having bright red juice; often as large as a peach",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Acanthocereus pentagonus",
-      "Pitahaya",
-      "Pitahaya cactus",
-      "Acanthocereus tetragonus"
     ]
   },
   "PIT-A-PAT": {
@@ -55335,30 +51882,6 @@
     "SYNONYMS": [
       "Fork",
       "Pitchfork"
-    ]
-  },
-  "PITCHY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having the characteristics of pitch or tar",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sooty",
-      "Resinous",
-      "Jet",
-      "Tarry",
-      "Jet-black"
     ]
   },
   "PITCHING": {
@@ -55833,31 +52356,6 @@
       "Pythoninae"
     ]
   },
-  "PITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an unfortunate development",
-        [
-          "Misfortune",
-          "Bad luck"
-        ],
-        [
-          "it's a pity he couldn't do it"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Feel for",
-      "Pathos",
-      "Shame",
-      "Commiseration",
-      "Condole with"
-    ]
-  },
   "PITIFULLY": {
     "MEANINGS": {
       "1": [
@@ -55932,30 +52430,6 @@
       "Remorseless",
       "Pitiless",
       "Unkind"
-    ]
-  },
-  "PITILESSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "mercilessness characterized by a lack of pity",
-        [
-          "Mercilessness",
-          "Unmercifulness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ruthlessness",
-      "Pitilessness",
-      "Cruelty",
-      "Mercilessness"
     ]
   },
   "PITYRIASIS": {
@@ -56518,37 +52992,6 @@
       "Pixie"
     ]
   },
-  "PYXIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a constellation in the southern hemisphere near Puppis and Antlia",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a small box used by ancient Greeks to hold medicines",
-        [
-          "Box"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pyxis",
-      "Pyxidium"
-    ]
-  },
   "PIZARRO": {
     "MEANINGS": {
       "1": [
@@ -56711,167 +53154,6 @@
       "Conciliation"
     ]
   },
-  "PLACE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "place somebody in a particular situation or location",
-        [
-          "Delegate",
-          "Designate",
-          "Depute",
-          "Assign"
-        ],
-        [
-          "he was placed on probation"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an abstract mental location",
-        [
-          "Cognition",
-          "Knowledge",
-          "Noesis"
-        ],
-        [
-          "he has a special place in my thoughts",
-          "a place in my heart",
-          "a political system with no place for the less prominent groups"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a general vicinity",
-        [
-          "Vicinity",
-          "Locality",
-          "Neighborhood",
-          "Neighbourhood",
-          "Neck of the woods"
-        ],
-        [
-          "He comes from a place near Chicago"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "take a place in a competition; often followed by an ordinal",
-        [
-          "Rank"
-        ],
-        [
-          "Jerry came in third in the Marathon"
-        ]
-      ],
-      "10": [
-        "Noun",
-        "proper or designated social situation",
-        [
-          "Social station",
-          "Social status",
-          "Social rank",
-          "Rank"
-        ],
-        [
-          "he overstepped his place",
-          "the responsibilities of a man in his station",
-          "married above her station"
-        ]
-      ],
-      "12": [
-        "Verb",
-        "identify the location or place of",
-        [
-          "Situate",
-          "Locate"
-        ],
-        [
-          "We localized the source of the infection"
-        ]
-      ],
-      "13": [
-        "Noun",
-        "proper or appropriate position or location",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-          "a woman's place is no longer in the kitchen"
-        ]
-      ],
-      "15": [
-        "Verb",
-        "finish second or better in a horse or dog race",
-        [
-          "Race",
-          "Run"
-        ],
-        [
-          "he bet $2 on number six to place"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "to arrange for",
-        [
-          "Order"
-        ],
-        [
-          "place a phone call",
-          "place a bet"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "assign to (a job or a home)",
-        [
-          "Delegate",
-          "Designate",
-          "Depute",
-          "Assign"
-        ],
-        [
-
-        ]
-      ],
-      "11": [
-        "Verb",
-        "estimate",
-        [
-          "Estimate",
-          "Gauge",
-          "Approximate",
-          "Guess",
-          "Judge"
-        ],
-        [
-          "We put the time of arrival at 8 P.M."
-        ]
-      ],
-      "16": [
-        "Verb",
-        "sing a note with the correct pitch",
-        [
-          "Sing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "divest"
-    ],
-    "SYNONYMS": [
-      "Lay",
-      "Invest",
-      "Situation",
-      "Target",
-      "Home"
-    ]
-  },
   "PLACEBO": {
     "MEANINGS": {
       "1": [
@@ -56903,52 +53185,6 @@
     ],
     "SYNONYMS": [
       "Placebo"
-    ]
-  },
-  "PLACED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "put in position in relation to other things",
-        [
-
-        ],
-        [
-          "end tables placed conveniently"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "divest"
-    ],
-    "SYNONYMS": [
-      "Lay",
-      "Invest",
-      "Placed",
-      "Target",
-      "Place"
-    ]
-  },
-  "PLACEHOLDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a symbol in a logical or mathematical expression that can be replaced by the name of any member of specified set",
-        [
-          "Variable"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Proxy",
-      "Placeholder",
-      "Procurator"
     ]
   },
   "PLACE-KICK": {
@@ -58291,31 +54527,6 @@
       "Playfully"
     ]
   },
-  "PLAYFULNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a disposition to find (or make) causes for amusement",
-        [
-          "Frivolity",
-          "Frivolousness"
-        ],
-        [
-          "her playfulness surprised me",
-          "he was fun to be with"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Merriment",
-      "Playfulness",
-      "Gaiety",
-      "Fun"
-    ]
-  },
   "PLAYGOER": {
     "MEANINGS": {
       "1": [
@@ -58340,30 +54551,6 @@
       "Theatergoer",
       "Theatregoer",
       "Playgoer"
-    ]
-  },
-  "PLAYGROUND": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "yard consisting of an outdoor area for children's play",
-        [
-          "Yard",
-          "Grounds",
-          "Curtilage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Playground",
-      "Resort area",
-      "Vacation spot"
     ]
   },
   "PLAYHOUSE": {
@@ -58623,31 +54810,6 @@
     ],
     "SYNONYMS": [
       "Plainclothesman"
-    ]
-  },
-  "PLAINLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a simple manner; without extravagance or embellishment",
-        [
-
-        ],
-        [
-          "she was dressed plainly",
-          "they lived very simply"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Manifestly",
-      "Plain",
-      "Apparently",
-      "Patently",
-      "Plainly"
     ]
   },
   "PLAINNESS": {
@@ -58926,31 +55088,6 @@
     ],
     "SYNONYMS": [
       "Playsuit"
-    ]
-  },
-  "PLAIT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "weave into plaits",
-        [
-          "Weave",
-          "Interweave"
-        ],
-        [
-          "plait hair"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tress",
-      "Lace",
-      "Plait",
-      "Twist",
-      "Pleat"
     ]
   },
   "PLAITER": {
@@ -59385,32 +55522,6 @@
     "SYNONYMS": [
       "Planetary",
       "Planetal"
-    ]
-  },
-  "PLANETARY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or characteristic of the planet Earth or its inhabitants",
-        [
-
-        ],
-        [
-          "planetary rumblings and eructations\"- L.C.Eiseley",
-          "the planetary tilt",
-          "this terrestrial ball"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Global",
-      "Erratic",
-      "World",
-      "Terrestrial",
-      "World-wide"
     ]
   },
   "PLANETARIUM": {
@@ -60229,30 +56340,6 @@
       "Phytophagous",
       "Phytophagic",
       "Plant-eating"
-    ]
-  },
-  "PLANTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "set in the soil for growth",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unplanted"
-    ],
-    "SYNONYMS": [
-      "Found",
-      "Engraft",
-      "Institute",
-      "Constitute",
-      "Implanted"
     ]
   },
   "PLANTER": {
@@ -62292,65 +58379,6 @@
       "Piazza"
     ]
   },
-  "PLEA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) a defendant's answer by a factual matter (as distinguished from a demurrer)",
-        [
-          "Answer"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an answer indicating why a suit should be dismissed",
-        [
-          "Due process",
-          "Due process of law"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Plea",
-      "Supplication"
-    ]
-  },
-  "PLEACH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "interlace the shoots of",
-        [
-          "Intertwine",
-          "Twine",
-          "Entwine",
-          "Enlace",
-          "Interlace",
-          "Lace"
-        ],
-        [
-          "pleach a hedge"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unbraid"
-    ],
-    "SYNONYMS": [
-      "Pleach",
-      "Plash",
-      "Braid"
-    ]
-  },
   "PLEAD": {
     "MEANINGS": {
       "1": [
@@ -63392,27 +59420,6 @@
       "Pleomorphic"
     ]
   },
-  "PLEOMORPHISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(biology) the appearance of two or more distinctly different forms in the life cycle of some organisms",
-        [
-          "Organic phenomenon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Polymorphism",
-      "Pleomorphism"
-    ]
-  },
   "PLEONASM": {
     "MEANINGS": {
       "1": [
@@ -64059,31 +60066,6 @@
       "Cater"
     ]
   },
-  "PLIABILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "adaptability of mind or character",
-        [
-          "Adaptability"
-        ],
-        [
-          "he was valued for his reliability and pliability",
-          "he increased the leanness and suppleness of the organization"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pliancy",
-      "Bendability",
-      "Pliantness",
-      "Pliability",
-      "Suppleness"
-    ]
-  },
   "PLIANCY": {
     "MEANINGS": {
       "1": [
@@ -64106,31 +60088,6 @@
       "Pliability",
       "Pliancy",
       "Suppleness"
-    ]
-  },
-  "PLICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of folding in parallel folds",
-        [
-          "Fold",
-          "Folding"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bend",
-      "Plication",
-      "Fold",
-      "Pleating",
-      "Crease"
     ]
   },
   "PLIER": {
@@ -64179,31 +60136,6 @@
       "Pliers"
     ]
   },
-  "PLIGHT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a solemn pledge of fidelity",
-        [
-          "Assurance",
-          "Pledge"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pledge",
-      "Engage",
-      "Affiance",
-      "Plight",
-      "Betroth"
-    ]
-  },
   "PLYMOUTH": {
     "MEANINGS": {
       "1": [
@@ -64222,31 +60154,6 @@
     ],
     "SYNONYMS": [
       "Plymouth"
-    ]
-  },
-  "PLIMSOLL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a light gym shoe with a rubber sole and a canvas top",
-        [
-          "Gym shoe",
-          "Sneaker",
-          "Tennis shoe"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Plimsoll",
-      "Plimsoll mark",
-      "Load line",
-      "Plimsoll line"
     ]
   },
   "PLINY": {
@@ -64387,72 +60294,6 @@
       "Ploceus"
     ]
   },
-  "PLODDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who works slowly and monotonously for long hours",
-        [
-          "Hack",
-          "Drudge",
-          "Hacker"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "someone who moves slowly",
-        [
-          "Dawdler",
-          "Drone",
-          "Laggard",
-          "Lagger",
-          "Trailer",
-          "Poke"
-        ],
-        [
-          "in England they call a slowpoke a slowcoach"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Trudger",
-      "Stick-in-the-mud",
-      "Slogger",
-      "Plodder",
-      "Slowpoke"
-    ]
-  },
-  "PLODDING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of walking with a slow heavy gait",
-        [
-          "Walk",
-          "Walking"
-        ],
-        [
-          "I could recognize his plod anywhere"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drudgery",
-      "Tramp",
-      "Plodding",
-      "Leaden",
-      "Slog"
-    ]
-  },
   "PLODDINGLY": {
     "MEANINGS": {
       "1": [
@@ -64471,31 +60312,6 @@
     ],
     "SYNONYMS": [
       "Ploddingly"
-    ]
-  },
-  "PLOY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a maneuver in a game or conversation",
-        [
-          "Maneuver",
-          "Manoeuvre",
-          "Tactical maneuver",
-          "Tactical manoeuvre"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ploy",
-      "Gambit",
-      "Stratagem"
     ]
   },
   "PLONK": {
@@ -64673,40 +60489,6 @@
     ],
     "SYNONYMS": [
       "Plotinus"
-    ]
-  },
-  "PLOTTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a clerk who marks data on a chart",
-        [
-          "Clerk"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an instrument (usually driven by a computer) for drawing graphs or pictures",
-        [
-          "Instrument"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Machinator",
-      "Plotter",
-      "Schemer",
-      "Conspirator",
-      "Mapper"
     ]
   },
   "PLOVDIV": {
@@ -65367,29 +61149,6 @@
       "Plumbaginaceous"
     ]
   },
-  "PLUMBAGO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any plumbaginaceous plant of the genus Plumbago",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Black lead",
-      "Graphite",
-      "Plumbago"
-    ]
-  },
   "PLUMBER": {
     "MEANINGS": {
       "1": [
@@ -65787,30 +61546,6 @@
       "Plumule"
     ]
   },
-  "PLUNDER": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "steal goods; take as spoils",
-        [
-          "Take"
-        ],
-        [
-          "During the earthquake people looted the stores that were deserted by their owners"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Strip",
-      "Swag",
-      "Sack",
-      "Violate",
-      "Dirty money"
-    ]
-  },
   "PLUNDERAGE": {
     "MEANINGS": {
       "1": [
@@ -65882,108 +61617,6 @@
       "Violate",
       "Pillaging",
       "Ransack"
-    ]
-  },
-  "PLUNGE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a steep and rapid fall",
-        [
-          "Drop",
-          "Fall"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "dash violently or with great speed or impetuosity",
-        [
-          "Dart",
-          "Dash",
-          "Scoot",
-          "Scud",
-          "Flash",
-          "Shoot"
-        ],
-        [
-          "She plunged at it eagerly"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "begin with vigor",
-        [
-          "Get down",
-          "Begin",
-          "Get",
-          "Start out",
-          "Start",
-          "Set about",
-          "Set out",
-          "Commence"
-        ],
-        [
-          "He launched into a long diatribe",
-          "She plunged into a dangerous adventure"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "cause to be immersed",
-        [
-
-        ],
-        [
-          "The professor plunged his students into the study of the Italian text"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "fall abruptly",
-        [
-          "Drop"
-        ],
-        [
-          "It plunged to the bottom of the well"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Immerse",
-      "Douse",
-      "Plunge",
-      "Dive",
-      "Souse"
-    ]
-  },
-  "PLUNGER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "hand tool consisting of a stick with a rubber suction cup at one end; used to clean clogged drains",
-        [
-          "Hand tool"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Piston",
-      "Speculator",
-      "Diver",
-      "Plunger",
-      "Plumber's helper"
     ]
   },
   "PLUNK": {
@@ -66713,30 +62346,6 @@
       "Pneumonoconiosis"
     ]
   },
-  "PNEUMOGASTRIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to or involving the lungs and stomach",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nervus vagus",
-      "Vagus",
-      "Vagus nerve",
-      "Wandering nerve",
-      "Pneumogastric"
-    ]
-  },
   "PNEUMONECTOMY": {
     "MEANINGS": {
       "1": [
@@ -66855,30 +62464,6 @@
     ],
     "SYNONYMS": [
       "Pneumothorax"
-    ]
-  },
-  "PO": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a European river; flows into the Adriatic Sea",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Polonium",
-      "Us post office",
-      "Post office",
-      "P.o.",
-      "Po river"
     ]
   },
   "POA": {
@@ -67307,30 +62892,6 @@
     "SYNONYMS": [
       "Pocket knife",
       "Pocketknife"
-    ]
-  },
-  "POCKET-SIZE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "small enough to be carried in a garment pocket",
-        [
-
-        ],
-        [
-          "pocket-size paperbacks"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Small",
-      "Minor",
-      "Small-scale",
-      "Modest",
-      "Pocket-size"
     ]
   },
   "POCKMARK": {
@@ -68092,28 +63653,6 @@
       "Poignance"
     ]
   },
-  "POIGNANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "keenly distressing to the mind or feelings",
-        [
-
-        ],
-        [
-          "poignant anxiety"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Poignant",
-      "Touching",
-      "Affecting"
-    ]
-  },
   "POIKILOTHERM": {
     "MEANINGS": {
       "1": [
@@ -68576,62 +64115,6 @@
     ],
     "SYNONYMS": [
       "Pointedly"
-    ]
-  },
-  "POINTEDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being obviously directed at a particular person or thing",
-        [
-          "Directness",
-          "Straightness"
-        ],
-        [
-          "the pointedness of his sarcasm was unmistakable"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unpointedness"
-    ],
-    "SYNONYMS": [
-      "Pointedness",
-      "Point"
-    ]
-  },
-  "POINTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an indicator as on a dial",
-        [
-          "Indicator"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a strong slender smooth-haired dog of Spanish origin having a white coat with brown or black patches; scents out and points to game",
-        [
-          "Sporting dog",
-          "Gun dog"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cursor",
-      "Spanish pointer",
-      "Pointer",
-      "Arrow"
     ]
   },
   "POINTILLISM": {
@@ -69365,30 +64848,6 @@
       "Polaris"
     ]
   },
-  "POLARITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "having an indicated pole (as the distinction between positive and negative electric charges)",
-        [
-          "Opposition",
-          "Oppositeness"
-        ],
-        [
-          "he got the polarity of the battery reversed",
-          "charges of opposite sign"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Polarity",
-      "Sign",
-      "Mutual opposition"
-    ]
-  },
   "POLARIZATION": {
     "MEANINGS": {
       "1": [
@@ -69677,32 +65136,6 @@
     "SYNONYMS": [
       "Poleaxe",
       "Poleax"
-    ]
-  },
-  "POLECAT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened",
-        [
-          "Musteline mammal",
-          "Mustelid",
-          "Musteline"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mustela putorius",
-      "Foulmart",
-      "Skunk",
-      "Wood pussy",
-      "Foumart"
     ]
   },
   "POLEMIC": {
@@ -71389,38 +66822,6 @@
       "Polymorph"
     ]
   },
-  "POLYMORPHIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to the occurrence of more than one kind of individual (independent of sexual differences) in an interbreeding population",
-        [
-
-        ],
-        [
-          "a polymorphic species"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "having or occurring in several distinct forms",
-        [
-
-        ],
-        [
-          "man is both polymorphic and polytypic",
-          "a polymorphous god"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Polymorphous",
-      "Polymorphic"
-    ]
-  },
   "POLYMORPHISM": {
     "MEANINGS": {
       "1": [
@@ -72692,39 +68093,6 @@
     ],
     "SYNONYMS": [
       "Polytheistic"
-    ]
-  },
-  "POLITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a politically organized unit",
-        [
-          "Organization",
-          "Organisation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "shrewd or crafty management of public affairs",
-        [
-          "Administration",
-          "Disposal"
-        ],
-        [
-          "we was innocent of stratagems and polity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Polity",
-      "Civil order"
     ]
   },
   "POLITIC": {
@@ -74292,28 +69660,6 @@
       "Pomologist"
     ]
   },
-  "POMP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "ceremonial elegance and splendor",
-        [
-          "Elegance"
-        ],
-        [
-          "entered with much eclat in a coach drawn by eight white horses"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gaudery",
-      "Eclat",
-      "Pomp"
-    ]
-  },
   "POMPADOUR": {
     "MEANINGS": {
       "1": [
@@ -74455,30 +69801,6 @@
       "Pom-pom",
       "Pompon",
       "Black margate"
-    ]
-  },
-  "POMPOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by pomp and ceremony and stately display",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pompous",
-      "Ceremonious",
-      "Grandiloquent",
-      "Pontifical",
-      "Overblown"
     ]
   },
   "POMPOUSLY": {
@@ -74662,40 +69984,6 @@
       "Western yellow pine",
       "Pinus ponderosa",
       "Ponderosa"
-    ]
-  },
-  "PONDEROUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having great mass and weight and unwieldiness",
-        [
-
-        ],
-        [
-          "a ponderous stone",
-          "a ponderous burden",
-          "ponderous weapons"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "labored and dull",
-        [
-
-        ],
-        [
-          "a ponderous speech"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lumbering",
-      "Heavy",
-      "Ponderous"
     ]
   },
   "PONDEROUSLY": {
@@ -75486,67 +70774,6 @@
       "Poon"
     ]
   },
-  "POOR": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having little money or few possessions",
-        [
-
-        ],
-        [
-          "deplored the gap between rich and poor countries",
-          "the proverbial poor artist living in a garret"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "characterized by or indicating poverty",
-        [
-
-        ],
-        [
-          "the country had a poor economy",
-          "they lived in the poor section of town"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "lacking in specific resources, qualities or substances",
-        [
-
-        ],
-        [
-          "a poor land",
-          "the area was poor in timber and coal",
-          "food poor in nutritive value"
-        ]
-      ],
-      "6": [
-        "Adjective",
-        "unsatisfactory",
-        [
-
-        ],
-        [
-          "a poor light for reading",
-          "poor morale",
-          "expectations were poor"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "rich_people",
-      "rich"
-    ],
-    "SYNONYMS": [
-      "Miserable",
-      "Misfortunate",
-      "Wretched",
-      "Pathetic",
-      "Poor people"
-    ]
-  },
   "POORHOUSE": {
     "MEANINGS": {
       "1": [
@@ -75565,43 +70792,6 @@
     ],
     "SYNONYMS": [
       "Poorhouse"
-    ]
-  },
-  "POORNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "less than adequate",
-        [
-          "Fruitlessness",
-          "Aridity",
-          "Barrenness"
-        ],
-        [
-          "the relative poorness of New England farmland"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the quality of being poorly made or maintained",
-        [
-          "Inferiority",
-          "Low quality"
-        ],
-        [
-          "she was unrecognizable because of the poorness of the photography"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "wealth"
-    ],
-    "SYNONYMS": [
-      "Meagreness",
-      "Impoverishment",
-      "Scantiness",
-      "Meagerness",
-      "Poorness"
     ]
   },
   "POORWILL": {
@@ -75830,28 +71020,6 @@
       "Holy father",
       "Catholic pope",
       "Pope"
-    ]
-  },
-  "POPEYED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having bulging eyes",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Popeyed",
-      "Goggle-eyed",
-      "Openmouthed"
     ]
   },
   "POPERY": {
@@ -77930,34 +73098,6 @@
       "Stout"
     ]
   },
-  "PORTMANTEAU": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large travelling bag made of stiff leather",
-        [
-          "Bag",
-          "Traveling bag",
-          "Travelling bag",
-          "Grip",
-          "Suitcase"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gladstone bag",
-      "Portmanteau",
-      "Gladstone",
-      "Portmanteau word",
-      "Blend"
-    ]
-  },
   "PORTO": {
     "MEANINGS": {
       "1": [
@@ -78068,29 +73208,6 @@
       "Characterization"
     ]
   },
-  "PORTRAIT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any likeness of a person, in any medium",
-        [
-          "Likeness",
-          "Semblance"
-        ],
-        [
-          "the photographer made excellent portraits"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Portrayal",
-      "Portraiture",
-      "Portrait"
-    ]
-  },
   "PORTRAITIST": {
     "MEANINGS": {
       "1": [
@@ -78112,30 +73229,6 @@
       "Portrait painter",
       "Limner",
       "Portraitist"
-    ]
-  },
-  "PORTRAITURE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the activity of making portraits",
-        [
-          "Depiction",
-          "Delineation",
-          "Portrayal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Portrayal",
-      "Portraiture",
-      "Portrait"
     ]
   },
   "PORTSMOUTH": {
@@ -78336,61 +73429,6 @@
       "Genus porzana"
     ]
   },
-  "POSE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a posture assumed by models for photographic or artistic purposes",
-        [
-          "Position",
-          "Posture",
-          "Attitude"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "pretend to be someone you are not; sometimes with fraudulent intentions",
-        [
-          "Deceive",
-          "Betray",
-          "Lead astray"
-        ],
-        [
-          "She posed as the Czar's daughter"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "behave affectedly or unnaturally in order to impress others",
-        [
-          "Behave",
-          "Acquit",
-          "Bear",
-          "Deport",
-          "Conduct",
-          "Comport",
-          "Carry"
-        ],
-        [
-          "Don't pay any attention to him--he is always posing to impress his peers!",
-          "She postured and made a total fool of herself"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lay",
-      "Present",
-      "Amaze",
-      "Beat",
-      "Place"
-    ]
-  },
   "POSED": {
     "MEANINGS": {
       "1": [
@@ -78433,30 +73471,6 @@
     ],
     "SYNONYMS": [
       "Poseidon"
-    ]
-  },
-  "POSER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a particularly difficult or baffling question or problem",
-        [
-          "Problem"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Poseur",
-      "Poser",
-      "Model",
-      "Sticker",
-      "Toughie"
     ]
   },
   "POSEUR": {
@@ -79718,27 +74732,6 @@
       "Subsequentness"
     ]
   },
-  "POSTERITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "all future generations",
-        [
-          "Generation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Descendants",
-      "Posterity"
-    ]
-  },
   "POSTERN": {
     "MEANINGS": {
       "1": [
@@ -80033,31 +75026,6 @@
     ],
     "SYNONYMS": [
       "Postindustrial"
-    ]
-  },
-  "POSTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(bookkeeping) a listing on the company's records",
-        [
-          "List",
-          "Listing"
-        ],
-        [
-          "the posting was made in the cash account"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Poster",
-      "Station",
-      "Brand",
-      "Notice",
-      "Stake"
     ]
   },
   "POSTLUDE": {
@@ -80363,31 +75331,6 @@
       "Put off",
       "Table",
       "Shelve"
-    ]
-  },
-  "POSTPONEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "act of putting off to a future time",
-        [
-          "Delay",
-          "Holdup"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Delay",
-      "Time lag",
-      "Deferment",
-      "Postponement",
-      "Deferral"
     ]
   },
   "POSTPOSE": {
@@ -80930,31 +75873,6 @@
       "Potassium"
     ]
   },
-  "POTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of drinking (especially an alcoholic drink)",
-        [
-          "Drinking",
-          "Imbibing",
-          "Imbibition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tipple",
-      "Draft",
-      "Draught",
-      "Potation"
-    ]
-  },
   "POTATO": {
     "MEANINGS": {
       "1": [
@@ -81042,34 +75960,6 @@
     ],
     "SYNONYMS": [
       "Potawatomi"
-    ]
-  },
-  "POTBELLY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a bulbous stove in which wood or coal is burned",
-        [
-          "Stove",
-          "Kitchen stove",
-          "Range",
-          "Kitchen range",
-          "Cooking stove"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tummy",
-      "Potbelly stove",
-      "Pot",
-      "Bay window",
-      "Corporation"
     ]
   },
   "POTBOY": {
@@ -81163,45 +76053,6 @@
       "Potemkin",
       "Grigori potemkin",
       "Grigori aleksandrovich potemkin"
-    ]
-  },
-  "POTENCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "capacity to produce strong physiological or chemical effects",
-        [
-          "Power",
-          "Powerfulness"
-        ],
-        [
-          "the toxin's potency",
-          "the strength of the drinks"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the state of being potent; a male's capacity to have sexual intercourse",
-        [
-          "Physical condition",
-          "Physiological state",
-          "Physiological condition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "impotency",
-      "impotence"
-    ],
-    "SYNONYMS": [
-      "Strength",
-      "Potency",
-      "Dominance",
-      "Say-so",
-      "Potential"
     ]
   },
   "POTENT": {
@@ -81877,31 +76728,6 @@
       "Potpie"
     ]
   },
-  "POTPOURRI": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a jar of mixed flower petals and spices used as perfume",
-        [
-          "Perfume",
-          "Essence"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Miscellanea",
-      "Miscellany",
-      "Variety",
-      "Medley",
-      "Salmagundi"
-    ]
-  },
   "POTSDAM": {
     "MEANINGS": {
       "1": [
@@ -82120,40 +76946,6 @@
       "Clayware"
     ]
   },
-  "POTTY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(British informal) trivial",
-        [
-
-        ],
-        [
-          "potty little details"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "slightly intoxicated",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thunder mug",
-      "Taken with",
-      "Soft on",
-      "Enamored",
-      "Tiddly"
-    ]
-  },
   "POTTLE": {
     "MEANINGS": {
       "1": [
@@ -82172,30 +76964,6 @@
     ],
     "SYNONYMS": [
       "Pottle"
-    ]
-  },
-  "POTTO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a kind of lemur",
-        [
-          "Lemur"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Potos caudivolvulus",
-      "Potos flavus",
-      "Perodicticus potto",
-      "Potto",
-      "Kinkajou"
     ]
   },
   "POUCH": {
@@ -82327,29 +77095,6 @@
       "Cataplasm",
       "Plaster",
       "Poultice"
-    ]
-  },
-  "POULTRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "flesh of chickens or turkeys or ducks or geese raised for food",
-        [
-          "Bird",
-          "Fowl"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Poultry",
-      "Domestic fowl",
-      "Fowl"
     ]
   },
   "POULTRYMAN": {
@@ -82938,30 +77683,6 @@
       "Powderer"
     ]
   },
-  "POWDERY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "as if dulled in color with a sprinkling of powder",
-        [
-
-        ],
-        [
-          "a powdery blue"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Small-grained",
-      "Pulverized",
-      "Powdered",
-      "Powdery",
-      "Fine-grained"
-    ]
-  },
   "POWDERIZE": {
     "MEANINGS": {
       "1": [
@@ -83457,31 +78178,6 @@
       "Powwow"
     ]
   },
-  "POX": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a contagious disease characterized by purulent skin eruptions that may leave pock marks",
-        [
-          "Contagious disease",
-          "Contagion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Syph",
-      "Syphilis",
-      "Lues",
-      "Lues venerea",
-      "Pox"
-    ]
-  },
   "POXVIRUS": {
     "MEANINGS": {
       "1": [
@@ -83701,30 +78397,6 @@
       "Exercise"
     ]
   },
-  "PRACTICED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "skillful after much practice",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Skillful",
-      "Rehearse",
-      "Proficient",
-      "Practiced",
-      "Skilful"
-    ]
-  },
   "PRACTITIONER": {
     "MEANINGS": {
       "1": [
@@ -83873,30 +78545,6 @@
     ],
     "SYNONYMS": [
       "Praetorship"
-    ]
-  },
-  "PRAGMATIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or concerning the theory of pragmatism",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hardheaded",
-      "Practical",
-      "Pragmatic sanction",
-      "Hard-nosed",
-      "Matter-of-fact"
     ]
   },
   "PRAGMATICALLY": {
@@ -84347,54 +78995,6 @@
     ],
     "SYNONYMS": [
       "Praline"
-    ]
-  },
-  "PRANCE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "spring forward on the hind legs",
-        [
-          "Travel",
-          "Go",
-          "Move",
-          "Locomote"
-        ],
-        [
-          "The young horse was prancing in the meadow"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "cause (a horse) to bound spring forward",
-        [
-          "Ride",
-          "Sit"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "ride a horse such that it springs and bounds forward",
-        [
-          "Ride horseback"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tittup",
-      "Swagger",
-      "Ruffle",
-      "Strut",
-      "Sashay"
     ]
   },
   "PRANCER": {
@@ -85187,68 +79787,6 @@
     "SYNONYMS": [
       "Precautionary",
       "Precautional"
-    ]
-  },
-  "PRECEDE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "come before",
-        [
-          "Lie"
-        ],
-        [
-          "Most English adjectives precede the noun they modify"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "be the predecessor of",
-        [
-
-        ],
-        [
-          "Bill preceded John in the long line of Susan's husbands"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "move ahead (of others) in time or space",
-        [
-          "Travel",
-          "Go",
-          "Move",
-          "Locomote"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "furnish with a preface or introduction",
-        [
-          "State",
-          "Say",
-          "Tell"
-        ],
-        [
-          "She always precedes her lectures with a joke",
-          "He prefaced his lecture with a critical remark about the institution"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "postdate",
-      "succeed",
-      "follow"
-    ],
-    "SYNONYMS": [
-      "Lead",
-      "Introduce",
-      "Antecede",
-      "Forego",
-      "Preface"
     ]
   },
   "PRECEDENCE": {
@@ -86048,32 +80586,6 @@
       "Presymptomatic"
     ]
   },
-  "PRECLUDE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make impossible, especially beforehand",
-        [
-          "Obviate",
-          "Rid of",
-          "Eliminate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rule out",
-      "Forestall",
-      "Close out",
-      "Preclude",
-      "Foreclose"
-    ]
-  },
   "PRECLUSIVE": {
     "MEANINGS": {
       "1": [
@@ -86552,30 +81064,6 @@
       "Precursory"
     ]
   },
-  "PREDACEOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "living by or given to victimizing others for personal gain",
-        [
-
-        ],
-        [
-          "predatory capitalists",
-          "a predatory, insensate society in which innocence and decency can prove fatal\"- Peter S. Prescott",
-          "a predacious kind of animal--the early geological gangster\"- W.E.Swinton"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Predaceous",
-      "Predatory",
-      "Predacious"
-    ]
-  },
   "PREDACIOUS": {
     "MEANINGS": {
       "1": [
@@ -86631,85 +81119,6 @@
       "Foredate",
       "Forgo",
       "Antedate"
-    ]
-  },
-  "PREDATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of preying by a predator who kills and eats the prey",
-        [
-          "Hunt",
-          "Hunting"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Predation",
-      "Depredation"
-    ]
-  },
-  "PREDATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any animal that lives by preying on other animals",
-        [
-          "Animal",
-          "Animate being",
-          "Beast",
-          "Brute",
-          "Creature",
-          "Fauna"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vulture",
-      "Predator",
-      "Piranha",
-      "Predatory animal",
-      "Marauder"
-    ]
-  },
-  "PREDATORY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "living by preying on other animals especially by catching living prey",
-        [
-
-        ],
-        [
-          "a predatory bird",
-          "the rapacious wolf",
-          "raptorial birds",
-          "ravening wolves",
-          "a vulturine taste for offal"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vulturine",
-      "Predacious",
-      "Predaceous",
-      "Raiding",
-      "Ravening"
     ]
   },
   "PREDECEASE": {
@@ -86892,42 +81301,6 @@
       "Foreordain",
       "Predestinate",
       "Preordain"
-    ]
-  },
-  "PREDETERMINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mental determination or resolve in advance; an antecedent intention to do something",
-        [
-          "Decision",
-          "Determination",
-          "Conclusion"
-        ],
-        [
-          "he entered the argument with a predetermination to prove me wrong"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of determining or ordaining in advance what is to take place",
-        [
-          "Determination",
-          "Finding"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foreordination",
-      "Predestination",
-      "Preordination",
-      "Predetermination"
     ]
   },
   "PREDETERMINE": {
@@ -87223,44 +81596,6 @@
       "Predictive"
     ]
   },
-  "PREDICTOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "information that supports a probabilistic estimate of future events",
-        [
-          "Information"
-        ],
-        [
-          "the weekly bulletin contains several predictors of mutual fund performance"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a computer for controlling antiaircraft fire that computes the position of an aircraft at the instant of a shell's arrival",
-        [
-          "Computer",
-          "Computing machine",
-          "Computing device",
-          "Data processor",
-          "Electronic computer",
-          "Information processing system"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Predictor",
-      "Forecaster",
-      "Prognosticator",
-      "Soothsayer"
-    ]
-  },
   "PREDIGEST": {
     "MEANINGS": {
       "1": [
@@ -87368,39 +81703,6 @@
     "SYNONYMS": [
       "Predisposed",
       "Predispose"
-    ]
-  },
-  "PREDISPOSITION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an inclination beforehand to interpret statements in a particular way",
-        [
-          "Inclination",
-          "Disposition",
-          "Tendency"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a disposition in advance to react in a particular way",
-        [
-          "Disposition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Predisposition",
-      "Sensitivity"
     ]
   },
   "PREDNISOLONE": {
@@ -87524,31 +81826,6 @@
       "Reign",
       "Hulk",
       "Overriding"
-    ]
-  },
-  "PREDOMINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being more noticeable than anything else",
-        [
-          "Obviousness",
-          "Noticeability",
-          "Noticeableness",
-          "Patency"
-        ],
-        [
-          "the predomination of blues gave the painting a quiet tone"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Predomination",
-      "Predominance",
-      "Prepotency"
     ]
   },
   "PRE-EMINENTLY": {
@@ -88766,29 +83043,6 @@
       "Prejudiced"
     ]
   },
-  "PREJUDICIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "tending to favor preconceived ideas",
-        [
-
-        ],
-        [
-          "the presence of discriminatory or prejudicial attitudes in the white population"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prejudicial",
-      "Prejudicious",
-      "Damaging",
-      "Detrimental"
-    ]
-  },
   "PRELACY": {
     "MEANINGS": {
       "1": [
@@ -89486,31 +83740,6 @@
       "Premarital"
     ]
   },
-  "PREOCCUPANCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of taking occupancy before someone else does",
-        [
-          "Occupation",
-          "Occupancy",
-          "Moving in"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Absorption",
-      "Preoccupancy",
-      "Preoccupation",
-      "Engrossment"
-    ]
-  },
   "PREOCCUPATION": {
     "MEANINGS": {
       "1": [
@@ -89720,54 +83949,6 @@
       "Preparatory",
       "Preparative",
       "Propaedeutic"
-    ]
-  },
-  "PREPARE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "to prepare verbally, either for written or spoken delivery",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "prepare a report",
-          "prepare a speech"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "educate for a future role or function",
-        [
-          "Educate"
-        ],
-        [
-          "He is grooming his son to become his successor",
-          "The prince was prepared to become King one day",
-          "They trained him to be a warrior"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "lead up to and soften by sounding the dissonant note in it as a consonant note in the preceding chord",
-        [
-          "Sound"
-        ],
-        [
-          "prepare the discord in bar 139"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ready",
-      "Organise",
-      "Organize",
-      "Machinate",
-      "Gear up"
     ]
   },
   "PREPARED": {
@@ -91088,31 +85269,6 @@
       "Presentist"
     ]
   },
-  "PRESENTLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "at this time or period; now",
-        [
-
-        ],
-        [
-          "he is presently our ambassador to the United Nations",
-          "currently they live in Connecticut"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Currently",
-      "Soon",
-      "Before long",
-      "Shortly",
-      "Presently"
-    ]
-  },
   "PRESENTMENT": {
     "MEANINGS": {
       "1": [
@@ -91378,45 +85534,6 @@
       "Bear on",
       "Preserved",
       "Save"
-    ]
-  },
-  "PRESERVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a cook who preserves fruits or meat",
-        [
-          "Cook"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "someone who keeps safe from harm or danger",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Life preserver",
-      "Flotation device",
-      "Restorer",
-      "Renovator",
-      "Preserver"
     ]
   },
   "PRESET": {
@@ -92000,44 +86117,6 @@
       "Pressure-cook"
     ]
   },
-  "PRESSURIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "maintain a certain pressure",
-        [
-          "Keep",
-          "Maintain",
-          "Hold"
-        ],
-        [
-          "the airplane cabin is pressurized",
-          "pressurize a space suit"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "increase the pressure in or of",
-        [
-          "Adjust",
-          "Set",
-          "Correct"
-        ],
-        [
-          "The captain will pressurize the cabin for the passengers' comfort"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "depressurize",
-      "depressurise"
-    ],
-    "SYNONYMS": [
-      "Pressurize",
-      "Supercharge",
-      "Pressurise"
-    ]
-  },
   "PRESTIDIGITATION": {
     "MEANINGS": {
       "1": [
@@ -92086,28 +86165,6 @@
     "SYNONYMS": [
       "Prestige",
       "Prestigiousness"
-    ]
-  },
-  "PRESTIGIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "exerting influence by reason of high status or prestige",
-        [
-
-        ],
-        [
-          "a prestigious professor at a prestigious university"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Esteemed",
-      "Honored",
-      "Prestigious"
     ]
   },
   "PRESTISSIMO": {
@@ -92201,95 +86258,6 @@
     "SYNONYMS": [
       "Presumptively",
       "Presumably"
-    ]
-  },
-  "PRESUME": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "constitute reasonable evidence for",
-        [
-          "Testify",
-          "Bear witness",
-          "Prove",
-          "Evidence",
-          "Show"
-        ],
-        [
-          "A restaurant bill presumes the consumption of food"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "take liberties or act with too much confidence",
-        [
-          "Act",
-          "Behave",
-          "Do"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Make bold",
-      "Take for granted",
-      "Dare",
-      "Assume",
-      "Presume"
-    ]
-  },
-  "PRESUMPTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) an inference of the truth of a fact from other facts proved or admitted or judicially noticed",
-        [
-          "Inference",
-          "Illation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "audacious (even arrogant) behavior that you have no right to",
-        [
-          "Audacity",
-          "Audaciousness"
-        ],
-        [
-          "he despised them for their presumptuousness"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a kind of discourtesy in the form of an act of presuming",
-        [
-          "Discourtesy",
-          "Offense",
-          "Offence",
-          "Offensive activity"
-        ],
-        [
-          "his presumption was intolerable"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Assumption",
-      "Presumption",
-      "Presumptuousness",
-      "Given",
-      "Precondition"
     ]
   },
   "PRESUMPTIVE": {
@@ -92418,32 +86386,6 @@
       "Preteen",
       "Preadolescent",
       "Preteenager"
-    ]
-  },
-  "PRETEND": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "put forward a claim and assert right or possession of",
-        [
-          "Claim",
-          "Lay claim",
-          "Arrogate"
-        ],
-        [
-          "pretend the title of King"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Make",
-      "Pretend",
-      "Act",
-      "Sham",
-      "Hazard"
     ]
   },
   "PRETENDER": {
@@ -92599,30 +86541,6 @@
     ],
     "SYNONYMS": [
       "Pretentiously"
-    ]
-  },
-  "PRETENTIOUSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being pretentious (behaving or speaking in such a manner as to create a false appearance of great importance or worth)",
-        [
-          "Unnaturalness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unpretentiousness"
-    ],
-    "SYNONYMS": [
-      "Pompousness",
-      "Pretension",
-      "Puffiness",
-      "Ostentation",
-      "Pretentiousness"
     ]
   },
   "PRETERIST": {
@@ -92949,62 +86867,6 @@
     ],
     "SYNONYMS": [
       "Pretzel"
-    ]
-  },
-  "PREVAIL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be valid, applicable, or true",
-        [
-          "Exist",
-          "Be"
-        ],
-        [
-          "This theory still holds"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "continue to exist",
-        [
-          "Continue"
-        ],
-        [
-          "These stories die hard",
-          "The legend of Elvis endures"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "prove superior",
-        [
-          "Win"
-        ],
-        [
-          "The champion prevailed, though it was a hard fight"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "use persuasion successfully",
-        [
-          "Persuade"
-        ],
-        [
-          "He prevailed upon her to visit his parents"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Obtain",
-      "Run",
-      "Rule",
-      "Endure",
-      "Prevail"
     ]
   },
   "PREVAILING": {
@@ -93632,59 +87494,6 @@
     "SYNONYMS": [
       "Price",
       "Pricing"
-    ]
-  },
-  "PRICK": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the act of puncturing with a small point",
-        [
-          "Puncture"
-        ],
-        [
-          "he gave the balloon a small prick"
-        ]
-      ],
-      "2": [
-        "Verb",
-        "cause a stinging pain",
-        [
-          "Hurt",
-          "Ache",
-          "Suffer"
-        ],
-        [
-          "The needle pricked his skin"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "to cause a sharp emotional pain",
-        [
-          "Arouse",
-          "Elicit",
-          "Enkindle",
-          "Kindle",
-          "Evoke",
-          "Fire",
-          "Raise",
-          "Provoke"
-        ],
-        [
-          "The thought of her unhappiness pricked his conscience"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cocksucker",
-      "Pecker",
-      "Prick",
-      "Incision",
-      "Tool"
     ]
   },
   "PRICKET": {
@@ -94357,58 +88166,6 @@
       "Elemental"
     ]
   },
-  "PRIMARILY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "of primary import",
-        [
-
-        ],
-        [
-          "this is primarily a question of economics",
-          "it was in the first place a local matter"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "secondarily"
-    ],
-    "SYNONYMS": [
-      "In the main",
-      "Primarily",
-      "In the first place",
-      "Principally",
-      "Chiefly"
-    ]
-  },
-  "PRIMATE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any placental mammal of the order Primates; has good eyesight and flexible hands and feet",
-        [
-          "Placental",
-          "Placental mammal",
-          "Eutherian",
-          "Eutherian mammal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prelate",
-      "Hierarch",
-      "Primate",
-      "Archpriest",
-      "High priest"
-    ]
-  },
   "PRIMATES": {
     "MEANINGS": {
       "1": [
@@ -94760,30 +88517,6 @@
       "Originally"
     ]
   },
-  "PRIMITIVISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a genre characteristic of (or imitative of) primitive artists or children",
-        [
-          "Genre"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crudeness",
-      "Primitivism",
-      "Primitiveness",
-      "Crudity",
-      "Rudeness"
-    ]
-  },
   "PRIMLY": {
     "MEANINGS": {
       "1": [
@@ -95045,31 +88778,6 @@
     "SYNONYMS": [
       "Principality",
       "Princedom"
-    ]
-  },
-  "PRINCELY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having the rank of or befitting a prince",
-        [
-
-        ],
-        [
-          "a princely bearing",
-          "princely manner"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gilded",
-      "Opulent",
-      "Princely",
-      "Luxurious",
-      "Deluxe"
     ]
   },
   "PRINCELING": {
@@ -95801,30 +89509,6 @@
     ],
     "SYNONYMS": [
       "Priory"
-    ]
-  },
-  "PRIORITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "preceding in time",
-        [
-          "Earliness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "posteriority"
-    ],
-    "SYNONYMS": [
-      "Priority",
-      "Anteriority",
-      "Precedence",
-      "Antecedence",
-      "Precedency"
     ]
   },
   "PRIORITIZE": {
@@ -97371,54 +91055,6 @@
       "Function"
     ]
   },
-  "PROCEED": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "move ahead; travel onward in time or space",
-        [
-          "Travel",
-          "Go",
-          "Move",
-          "Locomote"
-        ],
-        [
-          "We proceeded towards Washington",
-          "She continued in the direction of the hills",
-          "We are moving ahead in time now"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "follow a certain course",
-        [
-          "Happen",
-          "Hap",
-          "Go on",
-          "Pass off",
-          "Occur",
-          "Pass",
-          "Fall out",
-          "Come about",
-          "Take place"
-        ],
-        [
-          "The inauguration went well",
-          "how did your interview go?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "discontinue"
-    ],
-    "SYNONYMS": [
-      "Go on",
-      "Continue",
-      "Go forward",
-      "Carry on",
-      "Move"
-    ]
-  },
   "PROCEEDING": {
     "MEANINGS": {
       "1": [
@@ -97666,34 +91302,6 @@
       "Sue"
     ]
   },
-  "PROCESSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the group action of a collection of people or animals or vehicles moving ahead in more or less regular formation",
-        [
-          "Collection",
-          "Aggregation",
-          "Accumulation",
-          "Assemblage",
-          "Group action"
-        ],
-        [
-          "processions were forbidden"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "retreat"
-    ],
-    "SYNONYMS": [
-      "Advance",
-      "Forward motion",
-      "Procession",
-      "Progress",
-      "Emanation"
-    ]
-  },
   "PROCESSIONAL": {
     "MEANINGS": {
       "1": [
@@ -97871,33 +91479,6 @@
       "Extol",
       "Exclaim",
       "Laud"
-    ]
-  },
-  "PROCLAMATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the formal act of proclaiming; giving public notice",
-        [
-          "Act",
-          "Deed",
-          "Human action",
-          "Human activity"
-        ],
-        [
-          "his promulgation of the policy proved to be premature"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Proclamation",
-      "Annunciation",
-      "Promulgation",
-      "Declaration",
-      "Announcement"
     ]
   },
   "PROCLIVITY": {
@@ -98357,29 +91938,6 @@
       "Procumbent"
     ]
   },
-  "PROCURATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(ancient Rome) someone employed by the Roman Emperor to manage finance and taxes",
-        [
-          "Bureaucrat",
-          "Administrative official"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Proxy",
-      "Placeholder",
-      "Procurator"
-    ]
-  },
   "PROCURE": {
     "MEANINGS": {
       "1": [
@@ -98425,30 +91983,6 @@
       "Procurement"
     ]
   },
-  "PROCURER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who obtains or acquires",
-        [
-          "Acquirer"
-        ],
-        [
-          "the procurer of opera tickets"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Panderer",
-      "Procurer",
-      "Fancy man",
-      "Ponce",
-      "Pimp"
-    ]
-  },
   "PROCURESS": {
     "MEANINGS": {
       "1": [
@@ -98477,30 +92011,6 @@
       "Procuress",
       "Procure",
       "Pander"
-    ]
-  },
-  "PROD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "urge on; cause to act",
-        [
-
-        ],
-        [
-          "The other children egged the boy on, but he did not want to throw the stone through the window"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stab",
-      "Dig",
-      "Goading",
-      "Nudge",
-      "Prod"
     ]
   },
   "PRODIGAL": {
@@ -98705,101 +92215,6 @@
       "Produce"
     ]
   },
-  "PRODUCER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work)",
-        [
-          "Creator"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "something that produces",
-        [
-          "Cause"
-        ],
-        [
-          "Maine is a leading producer of potatoes",
-          "this microorganism is a producer of disease"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Producer",
-      "Manufacturer"
-    ]
-  },
-  "PRODUCT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an artifact that has been created by someone or some process",
-        [
-          "Creation"
-        ],
-        [
-          "they improve their product every year",
-          "they export most of their agricultural production"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a quantity obtained by multiplication",
-        [
-          "Quantity"
-        ],
-        [
-          "the product of 2 and 3 is 6"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a chemical substance formed as a result of a chemical reaction",
-        [
-          "Chemical",
-          "Chemical substance"
-        ],
-        [
-          "a product of lime and nitric acid"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a consequence of someone's efforts or of a particular set of circumstances",
-        [
-          "Consequence",
-          "Effect",
-          "Outcome",
-          "Result",
-          "Event",
-          "Issue",
-          "Upshot"
-        ],
-        [
-          "skill is the product of hours of practice",
-          "his reaction was the product of hunger and fatigue"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ware",
-      "Cartesian product",
-      "Production",
-      "Mathematical product",
-      "Merchandise"
-    ]
-  },
   "PRODUCTION": {
     "MEANINGS": {
       "1": [
@@ -98962,27 +92377,6 @@
       "Productiveness"
     ]
   },
-  "PRODUCTIVITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(economics) the ratio of the quantity and quality of units produced to the labor per unit of time",
-        [
-          "Ratio"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unproductiveness"
-    ],
-    "SYNONYMS": [
-      "Productivity",
-      "Productiveness"
-    ]
-  },
   "PROENZYME": {
     "MEANINGS": {
       "1": [
@@ -99057,42 +92451,6 @@
     ],
     "SYNONYMS": [
       "Profanatory"
-    ]
-  },
-  "PROFANE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not concerned with or devoted to religion",
-        [
-
-        ],
-        [
-          "sacred and profane music",
-          "secular drama",
-          "secular architecture\", \"children being brought up in an entirely profane environment"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not holy because unconsecrated or impure or defiled",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sacred"
-    ],
-    "SYNONYMS": [
-      "Outrage",
-      "Unsanctified",
-      "Corrupt",
-      "Violate",
-      "Sacrilegious"
     ]
   },
   "PROFANED": {
@@ -99850,33 +93208,6 @@
       "Profitable"
     ]
   },
-  "PROFITABLENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of affording gain or benefit or profit",
-        [
-          "Profit",
-          "Gain"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unprofitableness",
-      "unprofitability",
-      "unfavorableness"
-    ],
-    "SYNONYMS": [
-      "Positiveness",
-      "Gainfulness",
-      "Positivity",
-      "Favourableness",
-      "Favorableness"
-    ]
-  },
   "PROFITEER": {
     "MEANINGS": {
       "1": [
@@ -99960,32 +93291,6 @@
       "Unprofitably",
       "Profitlessly",
       "Gainlessly"
-    ]
-  },
-  "PROFLIGACY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "dissolute indulgence in sensual pleasure",
-        [
-          "Intemperance",
-          "Intemperateness",
-          "Self-indulgence"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Licentiousness",
-      "Dissolution",
-      "Prodigality",
-      "Profligacy",
-      "Extravagance"
     ]
   },
   "PROFLIGATELY": {
@@ -100104,32 +93409,6 @@
         ],
         [
           "the profoundness of his ignorance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "shallowness",
-      "superficiality"
-    ],
-    "SYNONYMS": [
-      "Astuteness",
-      "Abstrusity",
-      "Reconditeness",
-      "Depth",
-      "Profundity"
-    ]
-  },
-  "PROFUNDITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "intellectual depth; penetrating knowledge; keen insight; etc",
-        [
-          "Depth"
-        ],
-        [
-          "the depth of my feeling",
-          "the profoundness of the silence"
         ]
       ]
     },
@@ -100531,30 +93810,6 @@
       "Coder",
       "Computer programmer",
       "Software engineer"
-    ]
-  },
-  "PROGRAMMING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "creating a sequence of instructions to enable the computer to do something",
-        [
-          "Creating by mental acts"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Computer programming",
-      "Scheduling",
-      "Computer programing",
-      "Programming",
-      "Program"
     ]
   },
   "PROGRESS": {
@@ -101431,29 +94686,6 @@
     ],
     "SYNONYMS": [
       "Proliferation"
-    ]
-  },
-  "PROLIFIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "bearing in abundance especially offspring",
-        [
-
-        ],
-        [
-          "flying foxes are extremely prolific",
-          "a prolific pear tree"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fertile",
-      "Prolific",
-      "Fecund"
     ]
   },
   "PROLINE": {
@@ -102501,29 +95733,6 @@
       "Punctuality"
     ]
   },
-  "PROMULGATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "put a law into effect by formal declaration",
-        [
-          "Announce",
-          "Declare"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Promulgate",
-      "Proclaim",
-      "Exclaim"
-    ]
-  },
   "PROMULGATED": {
     "MEANINGS": {
       "1": [
@@ -102546,31 +95755,6 @@
       "Proclaim",
       "Promulgate",
       "Published"
-    ]
-  },
-  "PROMULGATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the official announcement of a new law or ordinance whereby the law or ordinance is put into effect",
-        [
-          "Announcement",
-          "Proclamation",
-          "Annunciation",
-          "Declaration"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Proclamation",
-      "Promulgation",
-      "Announcement"
     ]
   },
   "PROMULGATOR": {
@@ -104398,30 +97582,6 @@
       "Advise"
     ]
   },
-  "PROPOSER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(parliamentary procedure) someone who makes a formal motion",
-        [
-          "Originator",
-          "Conceiver",
-          "Mastermind"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Suggester",
-      "Mover",
-      "Proposer"
-    ]
-  },
   "PROPOSITION": {
     "MEANINGS": {
       "1": [
@@ -104852,32 +98012,6 @@
     ],
     "SYNONYMS": [
       "Prorogation"
-    ]
-  },
-  "PROROGUE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "adjourn by royal prerogative; without dissolving the legislative body",
-        [
-          "Adjourn",
-          "Withdraw",
-          "Retire"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Remit",
-      "Prorogue",
-      "Put off",
-      "Table",
-      "Shelve"
     ]
   },
   "PROSAICALLY": {
@@ -105891,41 +99025,6 @@
       "Prostrate"
     ]
   },
-  "PROSTRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "abject submission; the emotional equivalent of prostrating your body",
-        [
-          "Submission",
-          "Compliance"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of assuming a prostrate position",
-        [
-          "Motion",
-          "Movement",
-          "Move",
-          "Motility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Collapse",
-      "Prostration"
-    ]
-  },
   "PROTACTINIUM": {
     "MEANINGS": {
       "1": [
@@ -105948,30 +99047,6 @@
       "Protoactinium",
       "Protactinium",
       "Pa"
-    ]
-  },
-  "PROTAGONIST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the principal character in a work of fiction",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Protagonist",
-      "Agonist",
-      "Supporter",
-      "Admirer",
-      "Booster"
     ]
   },
   "PROTAMINE": {
@@ -106759,27 +99834,6 @@
       "Protestantism"
     ]
   },
-  "PROTESTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a strong declaration of protest",
-        [
-          "Declaration"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Protest",
-      "Protestation"
-    ]
-  },
   "PROTEUS": {
     "MEANINGS": {
       "1": [
@@ -107409,30 +100463,6 @@
       "Protrusible"
     ]
   },
-  "PROTRUSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of projecting out from something",
-        [
-          "Change of shape"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Protrusion",
-      "Swelling",
-      "Protuberance",
-      "Hump",
-      "Gibbosity"
-    ]
-  },
   "PROTRUSIVE": {
     "MEANINGS": {
       "1": [
@@ -107451,31 +100481,6 @@
     ],
     "SYNONYMS": [
       "Protrusive"
-    ]
-  },
-  "PROTUBERANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the condition of being protuberant; the condition of bulging out",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-          "the protuberance of his belly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Protrusion",
-      "Swelling",
-      "Protuberance",
-      "Hump",
-      "Gibbosity"
     ]
   },
   "PROTUBERATE": {
@@ -107907,70 +100912,6 @@
       "Proverbs"
     ]
   },
-  "PROVIDE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "give what is desired or needed, especially support, food or sustenance",
-        [
-          "Give"
-        ],
-        [
-          "The hostess provided lunch for all the guests"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation",
-        [
-          "Stipulate",
-          "Qualify",
-          "Condition",
-          "Specify"
-        ],
-        [
-          "The will provides that each child should receive half of the money",
-          "The Constitution provides for the right to free speech"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "supply means of subsistence; earn a living",
-        [
-          "Support"
-        ],
-        [
-          "He provides for his large family by working three jobs",
-          "Women nowadays not only take care of the household but also bring home the bacon"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "take measures in preparation for",
-        [
-          "Fix",
-          "Prepare",
-          "Set up",
-          "Ready",
-          "Gear up",
-          "Set"
-        ],
-        [
-          "provide for the proper care of the passengers on the cruise ship"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Render",
-      "Allow for",
-      "Bring home the bacon",
-      "Allow",
-      "Supply"
-    ]
-  },
   "PROVIDENCE": {
     "MEANINGS": {
       "1": [
@@ -108063,40 +101004,6 @@
       "Provident"
     ]
   },
-  "PROVIDENTIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to or characteristic of providence",
-        [
-
-        ],
-        [
-          "assumption that nature operates only according to a providential plan\"- M.R.Cohen"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "resulting from divine providence",
-        [
-
-        ],
-        [
-          "providential care",
-          "a providential visitation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Divine",
-      "Heaven-sent",
-      "Providential",
-      "Miraculous"
-    ]
-  },
   "PROVIDENTIALLY": {
     "MEANINGS": {
       "1": [
@@ -108146,55 +101053,6 @@
     ],
     "SYNONYMS": [
       "Providently"
-    ]
-  },
-  "PROVIDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who provides the means for subsistence",
-        [
-          "Benefactor",
-          "Helper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Supplier",
-      "Provider"
-    ]
-  },
-  "PROVINCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the proper sphere or extent of your activities",
-        [
-          "Sphere",
-          "Domain",
-          "Area",
-          "Orbit",
-          "Field",
-          "Arena"
-        ],
-        [
-          "it was his province to take care of himself"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "State",
-      "Province",
-      "Responsibility"
     ]
   },
   "PROVINCIAL": {
@@ -108425,30 +101283,6 @@
       "Provo"
     ]
   },
-  "PROVOCATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "needed encouragement",
-        [
-          "Encouragement"
-        ],
-        [
-          "the result was a provocation of vigorous investigation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Provocation",
-      "Incitation",
-      "Irritation",
-      "Aggravation",
-      "Incitement"
-    ]
-  },
   "PROVOCATIVE": {
     "MEANINGS": {
       "1": [
@@ -108500,42 +101334,6 @@
     "SYNONYMS": [
       "Provokingly",
       "Provocatively"
-    ]
-  },
-  "PROVOKE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "evoke or provoke to appear or occur",
-        [
-          "Cause",
-          "Do",
-          "Make"
-        ],
-        [
-          "Her behavior provoked a quarrel between the couple"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "provide the needed stimulus for",
-        [
-          "Challenge"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Enkindle",
-      "Stimulate",
-      "Raise",
-      "Molest",
-      "Arouse"
     ]
   },
   "PROVOST": {
@@ -109906,53 +102704,6 @@
       "Pseudotsuga"
     ]
   },
-  "PSI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 23rd letter of the Greek alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Psi",
-      "Pounds per square inch"
-    ]
-  },
-  "PSYCHE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(Greek mythology) a beautiful princess loved by Cupid who visited her at night and told her she must not try to see him; became the personification of the soul",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nous",
-      "Mind",
-      "Soul",
-      "Head",
-      "Psyche"
-    ]
-  },
   "PSYCHEDELIA": {
     "MEANINGS": {
       "1": [
@@ -110311,27 +103062,6 @@
         ],
         [
 
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Psychogenic",
-      "Psychogenetic"
-    ]
-  },
-  "PSYCHOGENIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "mental or emotional rather than physiological in origin",
-        [
-
-        ],
-        [
-          "a psychogenic disorder"
         ]
       ]
     },
@@ -111090,32 +103820,6 @@
     ],
     "SYNONYMS": [
       "Psilophyton"
-    ]
-  },
-  "PSILOSIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "falling out of hair",
-        [
-          "Bodily process",
-          "Body process",
-          "Bodily function",
-          "Activity",
-          "Epilation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tropical sprue",
-      "Sprue",
-      "Psilosis"
     ]
   },
   "PSILOTACEAE": {
@@ -112336,29 +105040,6 @@
       "Publiciser"
     ]
   },
-  "PUBLICITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being open to public view",
-        [
-          "Quality"
-        ],
-        [
-          "the publicity of the court room"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Promotion",
-      "Packaging",
-      "Publicity",
-      "Promotional material"
-    ]
-  },
   "PUBLICIZE": {
     "MEANINGS": {
       "1": [
@@ -112458,44 +105139,6 @@
     ],
     "SYNONYMS": [
       "Public-spirited"
-    ]
-  },
-  "PUBLISH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "prepare and issue for public distribution or sale",
-        [
-          "Publicize",
-          "Publicise",
-          "Air",
-          "Bare"
-        ],
-        [
-          "publish a magazine or newspaper"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "have (one's written work) issued for publication",
-        [
-          "Create verbally"
-        ],
-        [
-          "How many books did Georges Simenon write?",
-          "She published 25 books during her long career"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bring out",
-      "Issue",
-      "Print",
-      "Write",
-      "Put out"
     ]
   },
   "PUBLISHABLE": {
@@ -113361,31 +106004,6 @@
       "Puffbird"
     ]
   },
-  "PUFFER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers",
-        [
-          "Plectognath",
-          "Plectognath fish"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pufferfish",
-      "Puffer",
-      "Globefish",
-      "Sea squab",
-      "Blowfish"
-    ]
-  },
   "PUFFERY": {
     "MEANINGS": {
       "1": [
@@ -113404,35 +106022,6 @@
     ],
     "SYNONYMS": [
       "Puffery"
-    ]
-  },
-  "PUFFY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "abnormally distended especially by fluids or gas",
-        [
-
-        ],
-        [
-          "hungry children with bloated stomachs",
-          "he had a grossly distended stomach",
-          "eyes with puffed (or puffy) lids",
-          "swollen hands",
-          "tumescent tissue",
-          "puffy tumid flesh"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gusty",
-      "Intumescent",
-      "Puffy",
-      "Turgid",
-      "Tumescent"
     ]
   },
   "PUFFIN": {
@@ -113618,30 +106207,6 @@
     "SYNONYMS": [
       "Puglia",
       "Apulia"
-    ]
-  },
-  "PUGNACIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "ready and able to resort to force or violence",
-        [
-
-        ],
-        [
-          "pugnacious spirits...lamented that there was so little prospect of an exhilarating disturbance\"- Herman Melville",
-          "they were rough and determined fighting men"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rough",
-      "Hard-boiled",
-      "Pugnacious",
-      "Hard-bitten"
     ]
   },
   "PUGNACIOUSLY": {
@@ -114241,29 +106806,6 @@
       "Dragger"
     ]
   },
-  "PULLET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "young hen usually less than a year old",
-        [
-          "Hen",
-          "Biddy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pullet",
-      "Frier",
-      "Fryer"
-    ]
-  },
   "PULL-IN": {
     "MEANINGS": {
       "1": [
@@ -114379,41 +106921,6 @@
       "Pull-through"
     ]
   },
-  "PULLULATE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "become abundant; increase rapidly",
-        [
-          "Increase"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "breed freely and abundantly",
-        [
-          "Breed",
-          "Multiply"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sprout",
-      "Swarm",
-      "Shoot",
-      "Stream",
-      "Teem"
-    ]
-  },
   "PULLULATION": {
     "MEANINGS": {
       "1": [
@@ -114446,28 +106953,6 @@
     "SYNONYMS": [
       "Gemmation",
       "Pullulation"
-    ]
-  },
-  "PULL-UP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an arm exercise performed by pulling yourself up on a horizontal bar until your chin is level with the bar",
-        [
-          "Arm exercise"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pull-up",
-      "Chin-up",
-      "Pull-in"
     ]
   },
   "PULMONATA": {
@@ -114736,79 +107221,6 @@
       "Pulsing",
       "Heartbeat",
       "Pulse"
-    ]
-  },
-  "PULSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses",
-        [
-          "Produce",
-          "Make",
-          "Create"
-        ],
-        [
-          "pulse waves",
-          "a transmitter pulsed by an electronic tube"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "drive by or as if by pulsation",
-        [
-          "Move",
-          "Displace"
-        ],
-        [
-          "A soft breeze pulsed the air"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "edible seeds of various pod-bearing plants (peas or beans or lentils etc.)",
-        [
-          "Legume"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Impulse",
-      "Beat",
-      "Pulsing",
-      "Pulse rate",
-      "Throb"
-    ]
-  },
-  "PULVERIZATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "annihilation by pulverizing something",
-        [
-          "Annihilation",
-          "Obliteration"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Powder",
-      "Pulverisation",
-      "Grind",
-      "Mill",
-      "Pulverization"
     ]
   },
   "PUMICE": {
@@ -115130,31 +107542,6 @@
       "Silly",
       "Punch-drunk",
       "Slaphappy"
-    ]
-  },
-  "PUNCHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who delivers punches",
-        [
-          "Boxer",
-          "Pugilist"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cowhand",
-      "Cowpuncher",
-      "Cowherd",
-      "Cowboy",
-      "Cowman"
     ]
   },
   "PUNCH-UP": {
@@ -115759,31 +108146,6 @@
       "Punily"
     ]
   },
-  "PUNINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "smallness of stature",
-        [
-          "Smallness",
-          "Littleness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pettiness",
-      "Triviality",
-      "Slightness",
-      "Stuntedness",
-      "Runtiness"
-    ]
-  },
   "PUNISH": {
     "MEANINGS": {
       "1": [
@@ -115992,32 +108354,6 @@
     "SYNONYMS": [
       "Punjabi",
       "Panjabi"
-    ]
-  },
-  "PUNK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "substance that smolders when ignited; used to light fuses (especially fireworks)",
-        [
-          "Igniter",
-          "Ignitor",
-          "Lighter"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Touchwood",
-      "Punk",
-      "Kindling",
-      "Sleazy",
-      "Thug"
     ]
   },
   "PUNKAH": {
@@ -116300,30 +108636,6 @@
       "Pupate"
     ]
   },
-  "PUPIL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the contractile aperture in the center of the iris of the eye; resembles a large black dot",
-        [
-          "Aperture"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Schoolchild",
-      "Pupil",
-      "Student",
-      "School-age child",
-      "Educatee"
-    ]
-  },
   "PUPILLARY": {
     "MEANINGS": {
       "1": [
@@ -116572,31 +108884,6 @@
       "Purcell"
     ]
   },
-  "PURCHASABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "available for purchase",
-        [
-
-        ],
-        [
-          "purchasable goods",
-          "many houses in the area are for sale"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Purchasable",
-      "For sale",
-      "Dishonest",
-      "Venal",
-      "Corruptible"
-    ]
-  },
   "PURCHASE": {
     "MEANINGS": {
       "1": [
@@ -116637,39 +108924,6 @@
       "Purchase",
       "Buy",
       "Leverage"
-    ]
-  },
-  "PURDAH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the traditional Hindu or Muslim system of keeping women secluded",
-        [
-          "Segregation",
-          "Separatism"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a screen used in India to separate women from men or strangers",
-        [
-          "Screen"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Purdah",
-      "Sex segregation",
-      "Solitude"
     ]
   },
   "PURE": {
@@ -117071,30 +109325,6 @@
     ],
     "SYNONYMS": [
       "Purifier"
-    ]
-  },
-  "PURIFYING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "freeing from noxious matter",
-        [
-
-        ],
-        [
-          "filtration is a purifying agent"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "adulterating"
-    ],
-    "SYNONYMS": [
-      "Purge",
-      "Cleansing",
-      "Sublimate",
-      "Purifying",
-      "Make pure"
     ]
   },
   "PURIM": {
@@ -118071,30 +110301,6 @@
       "Purslane"
     ]
   },
-  "PURSUANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the continuance of something begun with a view to its completion",
-        [
-          "Continuance",
-          "Continuation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quest",
-      "Pursuit",
-      "Prosecution",
-      "Pursuance"
-    ]
-  },
   "PURSUANT": {
     "MEANINGS": {
       "1": [
@@ -118114,45 +110320,6 @@
     ],
     "SYNONYMS": [
       "Pursuant"
-    ]
-  },
-  "PURSUE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "follow in or as if in pursuit",
-        [
-          "Travel",
-          "Go",
-          "Move",
-          "Locomote"
-        ],
-        [
-          "The police car pursued the suspected attacker",
-          "Her bad deed followed her and haunted her dreams all her life"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "carry further or advance",
-        [
-          "React",
-          "Oppose"
-        ],
-        [
-          "Can you act on this matter soon?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pursue",
-      "Engage",
-      "Prosecute",
-      "Go after",
-      "Follow up on"
     ]
   },
   "PURSUED": {

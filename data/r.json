@@ -1,53 +1,4 @@
 {
-  "R": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the 18th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Roentgen",
-      "Universal gas constant",
-      "Radius",
-      "Gas constant"
-    ]
-  },
-  "RA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "ancient Egyptian sun god with the head of a hawk; a universal creator; he merged with the god Amen as Amen-Ra to become the king of the gods",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Radium",
-      "Atomic number 88",
-      "Right ascension",
-      "Re",
-      "Celestial longitude"
-    ]
-  },
   "RABAT": {
     "MEANINGS": {
       "1": [
@@ -316,32 +267,6 @@
       "Pyrularia pubera",
       "Buffalo nut",
       "Rabbitwood"
-    ]
-  },
-  "RABBLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "disparaging terms for the common people",
-        [
-          "Folk",
-          "Folks",
-          "Common people"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mob",
-      "Ragtag and bobtail",
-      "Rabble",
-      "Riffraff",
-      "Ragtag"
     ]
   },
   "RABELAIS": {
@@ -894,30 +819,6 @@
       "Sergei vasilievich rachmaninov",
       "Rachmaninov",
       "Sergei rachmaninov"
-    ]
-  },
-  "RACY": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "designed or suitable for competing in a race",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rich",
-      "Gamey",
-      "Full-bodied",
-      "Risque",
-      "Spicy"
     ]
   },
   "RACIAL": {
@@ -1961,51 +1862,6 @@
     ],
     "SYNONYMS": [
       "Radiator"
-    ]
-  },
-  "RADICAL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "arising from or going to the root or source",
-        [
-
-        ],
-        [
-          "a radical flaw in the plan"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "of or relating to or constituting a linguistic root",
-        [
-
-        ],
-        [
-          "a radical verb form"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "especially of leaves; located at the base of a plant or stem; especially arising directly from the root or rootstock or a root-like stem",
-        [
-
-        ],
-        [
-          "basal placentation",
-          "radical leaves"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "cauline"
-    ],
-    "SYNONYMS": [
-      "Theme",
-      "Root",
-      "Stem",
-      "Chemical group",
-      "Extremist"
     ]
   },
   "RADICALISM": {
@@ -3425,74 +3281,6 @@
       "Tatterdemalion"
     ]
   },
-  "RAGBAG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a bag in which rags are kept",
-        [
-          "Bag"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gallimaufry",
-      "Farrago",
-      "Ragbag",
-      "Hodgepodge",
-      "Hotchpotch"
-    ]
-  },
-  "RAGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be violent; as of fires and storms",
-        [
-          "Be"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "feel intense anger",
-        [
-
-        ],
-        [
-          "Rage against the dying of the light!"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "violent state of the elements",
-        [
-          "Violence"
-        ],
-        [
-          "the sea hurled itself in thundering rage against the rocks"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ramp",
-      "Furor",
-      "Storm",
-      "Fad",
-      "Craze"
-    ]
-  },
   "RAGGED": {
     "MEANINGS": {
       "1": [
@@ -3580,55 +3368,6 @@
       "Jaggedly",
       "Stragglingly",
       "Raggedly"
-    ]
-  },
-  "RAGGEDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "shabbiness by virtue of being in rags",
-        [
-          "Shabbiness",
-          "Seediness",
-          "Manginess",
-          "Sleaziness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "smoothness"
-    ],
-    "SYNONYMS": [
-      "Roughness",
-      "Raggedness"
-    ]
-  },
-  "RAGING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "very severe",
-        [
-
-        ],
-        [
-          "a raging thirst",
-          "a raging toothache"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ramp",
-      "Hot",
-      "Twit",
-      "Dress down",
-      "Chew out"
     ]
   },
   "RAGLAN": {
@@ -3730,30 +3469,6 @@
     "SYNONYMS": [
       "Rag",
       "Ragtime"
-    ]
-  },
-  "RAGWEED": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of numerous chiefly North American weedy plants constituting the genus Ambrosia that produce highly allergenic pollen responsible for much hay fever and asthma",
-        [
-          "Weed"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tansy ragwort",
-      "Senecio jacobaea",
-      "Bitterweed",
-      "Ragweed",
-      "Ragwort"
     ]
   },
   "RAGWORT": {
@@ -3929,30 +3644,6 @@
       "Foray into",
       "Foray",
       "Maraud"
-    ]
-  },
-  "RAIDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a corporate investor who intends to take over a company by buying a controlling interest in its stock and installing new management",
-        [
-          "Corporate investor"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Plunderer",
-      "Pillager",
-      "Raider",
-      "Looter",
-      "Despoiler"
     ]
   },
   "RAIL": {
@@ -4184,45 +3875,6 @@
       "Vituperate",
       "Fulminate",
       "Railing"
-    ]
-  },
-  "RAILROAD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "supply with railroad lines",
-        [
-          "Supply",
-          "Provide",
-          "Render",
-          "Furnish"
-        ],
-        [
-          "railroad the West"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "transport by railroad",
-        [
-          "Transport",
-          "Send",
-          "Ship"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Railway",
-      "Railway system",
-      "Railway line",
-      "Railroad track",
-      "Railroad line"
     ]
   },
   "RAIL-SPLITTER": {
@@ -5708,55 +5360,6 @@
       "Boehmeria nivea"
     ]
   },
-  "RAMIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "grow and send out branches or branch-like structures",
-        [
-          "Grow"
-        ],
-        [
-          "these plants ramify early and get to be very large"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ramify",
-      "Separate",
-      "Branch",
-      "Fork",
-      "Furcate"
-    ]
-  },
-  "RAMIFICATION": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "an arrangement of branching parts",
-        [
-          "Placement",
-          "Arrangement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Complication",
-      "Forking",
-      "Branch",
-      "Branching",
-      "Fork"
-    ]
-  },
   "RAMJET": {
     "MEANINGS": {
       "1": [
@@ -6683,39 +6286,6 @@
       "Rangeland"
     ]
   },
-  "RANGY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "adapted to wandering or roaming",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "allowing ample room for ranging",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gangling",
-      "Gangly",
-      "Rangy",
-      "Lanky"
-    ]
-  },
   "RANGIFER": {
     "MEANINGS": {
       "1": [
@@ -7337,32 +6907,6 @@
       "Rap"
     ]
   },
-  "RAPACIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "excessively greedy and grasping",
-        [
-
-        ],
-        [
-          "a rapacious divorcee on the prowl",
-          "ravening creditors",
-          "paying taxes to voracious governments"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Esurient",
-      "Vulturine",
-      "Voracious",
-      "Ravenous",
-      "Edacious"
-    ]
-  },
   "RAPACIOUSLY": {
     "MEANINGS": {
       "1": [
@@ -7919,27 +7463,6 @@
       "Uncommon"
     ]
   },
-  "RAREE-SHOW": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a street show",
-        [
-          "Show"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Raree-show",
-      "Peepshow"
-    ]
-  },
   "RAREFACTION": {
     "MEANINGS": {
       "1": [
@@ -8084,56 +7607,6 @@
       "Infrequency",
       "Peculiarity",
       "Curiosity"
-    ]
-  },
-  "RASCALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being a slippery rascal",
-        [
-          "Dishonesty"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mischief",
-      "Mischief-making",
-      "Shiftiness",
-      "Slipperiness",
-      "Deviltry"
-    ]
-  },
-  "RASCALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking principles or scruples",
-        [
-
-        ],
-        [
-          "the rascally rabble",
-          "the tyranny of a scoundrelly aristocracy\" - W.M. Thackaray",
-          "the captain was set adrift by his roguish crew"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Devilish",
-      "Scoundrelly",
-      "Blackguardly",
-      "Roguish",
-      "Rascally"
     ]
   },
   "RASH": {
@@ -8894,30 +8367,6 @@
       "Sanctioned"
     ]
   },
-  "RATING": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "standing or position on a scale",
-        [
-          "Standing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grass",
-      "Military rank",
-      "Shop",
-      "Scab",
-      "Place"
-    ]
-  },
   "RATIO": {
     "MEANINGS": {
       "1": [
@@ -8958,29 +8407,6 @@
     ],
     "SYNONYMS": [
       "Ratiocinate"
-    ]
-  },
-  "RATIOCINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "logical and methodical reasoning",
-        [
-          "Reasoning",
-          "Logical thinking",
-          "Abstract thought"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Conclusion",
-      "Ratiocination"
     ]
   },
   "RATIOCINATIVE": {
@@ -9284,55 +8710,6 @@
       "Rationalization",
       "Rationalisation",
       "Systematisation"
-    ]
-  },
-  "RATIONALIZE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "structure and run according to rational or scientific principles in order to achieve desired results",
-        [
-          "Organize",
-          "Organise"
-        ],
-        [
-          "We rationalized the factory's production and raised profits"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "think rationally; employ logic or reason",
-        [
-          "Think",
-          "Cogitate",
-          "Cerebrate"
-        ],
-        [
-          "When one wonders why one is doing certain things, one should rationalize"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "remove irrational quantities from",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "This function can be rationalized"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excuse",
-      "Prune",
-      "Justify",
-      "Cut",
-      "Rationalize"
     ]
   },
   "RATIONALLY": {
@@ -10625,30 +10002,6 @@
       "Razzmatazz"
     ]
   },
-  "RE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the syllable naming the second (supertonic) note of any major scale in solmization",
-        [
-          "Solfa syllable"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Atomic number 75",
-      "Re",
-      "Rhenium",
-      "Ray",
-      "Ra"
-    ]
-  },
   "REABSORB": {
     "MEANINGS": {
       "1": [
@@ -10865,86 +10218,6 @@
       "Reactant"
     ]
   },
-  "REACTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an idea evoked by some experience",
-        [
-          "Idea",
-          "Thought"
-        ],
-        [
-          "his reaction to the news was to start planning what to do"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a bodily process occurring due to the effect of some antecedent stimulus or agent",
-        [
-          "Bodily process",
-          "Body process",
-          "Bodily function",
-          "Activity"
-        ],
-        [
-          "a bad reaction to the medicine",
-          "his responses have slowed with age"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(mechanics) the equal and opposite force that is produced when any force is applied to a body",
-        [
-          "Force"
-        ],
-        [
-          "every action has an equal and opposite reaction"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a response that reveals a person's feelings or attitude",
-        [
-          "Response"
-        ],
-        [
-          "he was pleased by the audience's reaction to his performance",
-          "John feared his mother's reaction when she saw the broken lamp"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "extreme conservatism in political or social matters",
-        [
-          "Conservatism",
-          "Conservativism"
-        ],
-        [
-          "the forces of reaction carried the election"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "doing something in opposition to another way of doing it that you don't like",
-        [
-          "Resistance",
-          "Opposition"
-        ],
-        [
-          "his style of painting was a reaction against cubism"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chemical reaction",
-      "Response",
-      "Reaction"
-    ]
-  },
   "REACTIONARY": {
     "MEANINGS": {
       "1": [
@@ -11041,28 +10314,6 @@
     "SYNONYMS": [
       "Responsive",
       "Reactive"
-    ]
-  },
-  "REACTIVITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "ready susceptibility to chemical change",
-        [
-          "Susceptibility",
-          "Susceptibleness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Responsiveness",
-      "Reactivity"
     ]
   },
   "REACTOR": {
@@ -12168,52 +11419,6 @@
       "Realistically"
     ]
   },
-  "REALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of being actual or real",
-        [
-          "Actuality"
-        ],
-        [
-          "the reality of his situation slowly dawned on him"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the state of the world as it really is rather than as you might want it to be",
-        [
-          "Actuality"
-        ],
-        [
-          "businessmen have to face harsh realities"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the quality possessed by something that is real",
-        [
-          "Materiality",
-          "Physicalness",
-          "Corporeality",
-          "Corporality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unreality"
-    ],
-    "SYNONYMS": [
-      "Realness",
-      "World",
-      "Realism",
-      "Reality"
-    ]
-  },
   "REALIZABLE": {
     "MEANINGS": {
       "1": [
@@ -12322,52 +11527,6 @@
       "Actualisation",
       "Realisation",
       "Realization"
-    ]
-  },
-  "REALIZE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make real or concrete; give reality or substance to",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "our ideas must be substantiated into actions"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "convert into cash; of goods and property",
-        [
-          "Sell"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Verb",
-        "expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass",
-        [
-          "Harmonize",
-          "Harmonise"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Actualize",
-      "Make",
-      "Agnize",
-      "See",
-      "Earn"
     ]
   },
   "REALLOCATION": {
@@ -13116,65 +12275,6 @@
       "Fairish"
     ]
   },
-  "REASONABLENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "goodness of reason and judgment",
-        [
-          "Wisdom",
-          "Wiseness",
-          "Soundness"
-        ],
-        [
-          "the judiciary is built on the reasonableness of judges"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the property of being moderate in price or expenditures",
-        [
-          "Inexpensiveness"
-        ],
-        [
-          "the store is famous for the reasonableness of its prices",
-          "the modestness of the living standards here becomes obvious immediately"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "moderation in expectations",
-        [
-          "Moderation",
-          "Moderateness"
-        ],
-        [
-          "without greater reasonableness by both parties we will never settle this matter!"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the quality of being plausible or acceptable to a reasonable person",
-        [
-          "Plausibility",
-          "Plausibleness"
-        ],
-        [
-          "he questioned the tenability of my claims"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Moderateness",
-      "Reasonableness",
-      "Reason",
-      "Tenability",
-      "Tenableness"
-    ]
-  },
   "REASONABLY": {
     "MEANINGS": {
       "1": [
@@ -13276,29 +12376,6 @@
       "Reasoning",
       "Abstract thought",
       "Thinking"
-    ]
-  },
-  "REASONLESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not endowed with the capacity to reason",
-        [
-
-        ],
-        [
-          "a reasonless brute"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reasonless",
-      "Mindless",
-      "Causeless",
-      "Senseless"
     ]
   },
   "REASSAIL": {
@@ -13871,72 +12948,6 @@
       "Rebind"
     ]
   },
-  "REBIRTH": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the revival of learning and culture",
-        [
-          "Revival",
-          "Resurgence",
-          "Revitalization",
-          "Revitalisation",
-          "Revivification"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Metempsychosis",
-      "Renaissance",
-      "Spiritual rebirth",
-      "Rebirth",
-      "Conversion"
-    ]
-  },
-  "REBOUND": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a reaction to a crisis or setback or frustration",
-        [
-          "Reaction",
-          "Response"
-        ],
-        [
-          "he is still on the rebound from his wife's death"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of securing possession of the rebounding basketball after a missed shot",
-        [
-          "Catch",
-          "Grab",
-          "Snatch",
-          "Snap"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rebound",
-      "Spring",
-      "Take a hop",
-      "Bound",
-      "Reverberate"
-    ]
-  },
   "REBOZO": {
     "MEANINGS": {
       "1": [
@@ -14231,28 +13242,6 @@
       "Disprover"
     ]
   },
-  "RECALCITRANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by stubborn resistance to authority",
-        [
-
-        ],
-        [
-          "the University suspended the most recalcitrant demonstrators"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fractious",
-      "Recalcitrant",
-      "Refractory"
-    ]
-  },
   "RECALCITRATE": {
     "MEANINGS": {
       "1": [
@@ -14461,51 +13450,6 @@
       "Reprise"
     ]
   },
-  "RECAPITULATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(music) the section of a composition or movement (especially in sonata form) in which musical themes that were introduced earlier are repeated",
-        [
-          "Section",
-          "Subdivision"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a summary at the end that repeats the substance of a longer discussion",
-        [
-          "Capitulation"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(music) the repetition of themes introduced earlier (especially when one is composing the final part of a movement)",
-        [
-          "Composing",
-          "Composition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "cenogenesis"
-    ],
-    "SYNONYMS": [
-      "Palingenesis",
-      "Recap",
-      "Review",
-      "Recapitulation"
-    ]
-  },
   "RECAPTURE": {
     "MEANINGS": {
       "1": [
@@ -14633,31 +13577,6 @@
       "Reccy"
     ]
   },
-  "RECEDE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "become faint or more distant",
-        [
-          "Change"
-        ],
-        [
-          "the unhappy memories of her childhood receded as she grew older"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "advance",
-      "gain"
-    ],
-    "SYNONYMS": [
-      "Draw back",
-      "Pull back",
-      "Fall back",
-      "Lose",
-      "Fall behind"
-    ]
-  },
   "RECEDING": {
     "MEANINGS": {
       "1": [
@@ -14691,33 +13610,6 @@
       "Fadeout",
       "Pull back",
       "Fall back"
-    ]
-  },
-  "RECEIPT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "mark or stamp as paid",
-        [
-          "Check",
-          "Check off",
-          "Mark",
-          "Mark off",
-          "Tick off",
-          "Tick"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reception",
-      "Acknowledge",
-      "Receipt"
     ]
   },
   "RECEIVABLE": {
@@ -14863,32 +13755,6 @@
       "Receive",
       "Find",
       "Welcome"
-    ]
-  },
-  "RECEIVED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "widely accepted as true or worthy; surveys show otherwise\"- Economist",
-        [
-
-        ],
-        [
-          "a received moral idea",
-          "Received political wisdom says not"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "say_farewell",
-      "nonstandard"
-    ],
-    "SYNONYMS": [
-      "Obtain",
-      "Standard",
-      "Meet",
-      "Receive",
-      "Find"
     ]
   },
   "RECEIVER": {
@@ -15361,30 +14227,6 @@
       "Break"
     ]
   },
-  "RECESSED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "resembling an alcove",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Break up",
-      "Sunken",
-      "Recessed",
-      "Adjourn",
-      "Deep-set"
-    ]
-  },
   "RECESSION": {
     "MEANINGS": {
       "1": [
@@ -15481,28 +14323,6 @@
     "SYNONYMS": [
       "Recessive",
       "Recessionary"
-    ]
-  },
-  "RECESSIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of genes) producing its characteristic phenotype only when its allele is identical",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dominant"
-    ],
-    "SYNONYMS": [
-      "Recessive",
-      "Recessionary",
-      "Recessive allele"
     ]
   },
   "RECHARGE": {
@@ -15928,29 +14748,6 @@
       "Reciprocative"
     ]
   },
-  "RECIPROCITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "mutual exchange of commercial or other privileges",
-        [
-          "Interchange",
-          "Reciprocation",
-          "Give-and-take"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reciprocality",
-      "Reciprocity"
-    ]
-  },
   "RECIRCULATION": {
     "MEANINGS": {
       "1": [
@@ -15990,54 +14787,6 @@
     "SYNONYMS": [
       "Recission",
       "Rescission"
-    ]
-  },
-  "RECITAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "performance of music or dance especially by soloists",
-        [
-          "Performance",
-          "Public presentation"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a detailed statement giving facts and figures",
-        [
-          "Statement"
-        ],
-        [
-          "his wife gave a recital of his infidelities"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a detailed account or description of something",
-        [
-          "History",
-          "Account",
-          "Chronicle",
-          "Story"
-        ],
-        [
-          "he was forced to listen to a recital of his many shortcomings"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Recital",
-      "Yarn",
-      "Recitation",
-      "Narration",
-      "Reading"
     ]
   },
   "RECITALIST": {
@@ -16118,42 +14867,6 @@
       "Recitative"
     ]
   },
-  "RECITE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "repeat aloud from memory",
-        [
-          "Repeat",
-          "Echo"
-        ],
-        [
-          "she recited a poem",
-          "The pupil recited his lesson for the day"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "render verbally, \"recite a poem\"",
-        [
-          "Re-create"
-        ],
-        [
-          "retell a story"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Declaim",
-      "Narrate",
-      "Recount",
-      "Retell",
-      "Tell"
-    ]
-  },
   "RECITER": {
     "MEANINGS": {
       "1": [
@@ -16219,87 +14932,6 @@
       "Recklessness",
       "Foolhardiness",
       "Rashness"
-    ]
-  },
-  "RECKON": {
-    "MEANINGS": {
-      "6": [
-        "Verb",
-        "take account of",
-        [
-          "Estimate",
-          "Gauge",
-          "Approximate",
-          "Guess",
-          "Judge"
-        ],
-        [
-          "You have to reckon with our opponents",
-          "Count on the monsoon"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Opine",
-      "Compute",
-      "Count",
-      "See",
-      "Consider"
-    ]
-  },
-  "RECKONER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a handbook of tables used to facilitate computation",
-        [
-          "Handbook",
-          "Enchiridion",
-          "Vade mecum"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ready reckoner",
-      "Estimator",
-      "Computer",
-      "Figurer",
-      "Reckoner"
-    ]
-  },
-  "RECKONING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a bill for an amount due",
-        [
-          "Bill",
-          "Account",
-          "Invoice"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Counting",
-      "Opine",
-      "Count",
-      "Compute",
-      "See"
     ]
   },
   "RECLAIM": {
@@ -16466,34 +15098,6 @@
     ],
     "SYNONYMS": [
       "Reclassification"
-    ]
-  },
-  "RECLINE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to recline",
-        [
-          "Put",
-          "Set",
-          "Place",
-          "Pose",
-          "Position",
-          "Lay"
-        ],
-        [
-          "She reclined her head on the pillow"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Recline",
-      "Repose",
-      "Lean back",
-      "Recumb"
     ]
   },
   "RECLINER": {
@@ -16805,96 +15409,6 @@
       "Recognizance"
     ]
   },
-  "RECOGNIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be fully aware or cognizant of",
-        [
-          "Know",
-          "Cognize",
-          "Cognise"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "perceive to be the same",
-        [
-          "Remember",
-          "Retrieve",
-          "Recall",
-          "Call back",
-          "Call up",
-          "Recollect",
-          "Think"
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Verb",
-        "exhibit recognition for (an antigen or a substrate)",
-        [
-          "Be"
-        ],
-        [
-
-        ]
-      ],
-      "9": [
-        "Verb",
-        "show approval or appreciation of",
-        [
-          "Prize",
-          "Value",
-          "Treasure",
-          "Appreciate"
-        ],
-        [
-          "My work is not recognized by anybody!",
-          "The best student was recognized by the Dean"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Discern",
-      "Greet",
-      "Agnize",
-      "Spot",
-      "Tell apart"
-    ]
-  },
-  "RECOGNIZED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "provided with a secure reputation",
-        [
-
-        ],
-        [
-          "a recognized authority"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Discern",
-      "Accepted",
-      "Distinguish",
-      "Accredit",
-      "Spot"
-    ]
-  },
   "RECOIL": {
     "MEANINGS": {
       "1": [
@@ -16949,30 +15463,6 @@
     ],
     "SYNONYMS": [
       "Recoilless"
-    ]
-  },
-  "RECOLLECTION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "something recalled to the mind",
-        [
-          "Memory"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reminiscence",
-      "Recollection",
-      "Recall",
-      "Remembrance",
-      "Anamnesis"
     ]
   },
   "RECOMBINANT": {
@@ -17293,33 +15783,6 @@
     ],
     "SYNONYMS": [
       "Reconcilable"
-    ]
-  },
-  "RECONCILE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "come to terms",
-        [
-          "Agree",
-          "Hold",
-          "Concur",
-          "Concord"
-        ],
-        [
-          "After some discussion we finally made up"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Patch up",
-      "Make up",
-      "Reconcile",
-      "Harmonize",
-      "Harmonise"
     ]
   },
   "RECONCILED": {
@@ -18231,30 +16694,6 @@
       "Recoverable"
     ]
   },
-  "RECOVERED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "found after being lost",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deteriorate"
-    ],
-    "SYNONYMS": [
-      "Recover",
-      "Regain",
-      "Find",
-      "Retrieve",
-      "Go back"
-    ]
-  },
   "RECOVERY": {
     "MEANINGS": {
       "1": [
@@ -18316,31 +16755,6 @@
       "Turncoat",
       "Recreant",
       "Renegade"
-    ]
-  },
-  "RECREATE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "create anew",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "she recreated the feeling of the 1920's with her stage setting"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dishearten"
-    ],
-    "SYNONYMS": [
-      "Animate",
-      "Hearten",
-      "Repair",
-      "Recreate",
-      "Quicken"
     ]
   },
   "RE-CREATE": {
@@ -19067,45 +17481,6 @@
       "Recumb"
     ]
   },
-  "RECUPERATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "restore to good health or strength",
-        [
-          "Bring around",
-          "Cure",
-          "Heal"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "get over an illness or shock",
-        [
-          "Better",
-          "Improve",
-          "Ameliorate",
-          "Meliorate"
-        ],
-        [
-          "The patient is recuperating"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deteriorate"
-    ],
-    "SYNONYMS": [
-      "Recover",
-      "Go back",
-      "Convalesce",
-      "Recuperate",
-      "Recoup"
-    ]
-  },
   "RECUPERATIVE": {
     "MEANINGS": {
       "1": [
@@ -19386,28 +17761,6 @@
       "Recusancy"
     ]
   },
-  "RECUSANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "refusing to submit to authority",
-        [
-
-        ],
-        [
-          "the recusant electors...cooperated in electing a new Senate\"- Mary W.Williams"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "conformist"
-    ],
-    "SYNONYMS": [
-      "Nonconformist",
-      "Recusant",
-      "Dissentient"
-    ]
-  },
   "RECUSATION": {
     "MEANINGS": {
       "1": [
@@ -19526,30 +17879,6 @@
       "Edit",
       "Couch",
       "Put"
-    ]
-  },
-  "REDACTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of putting something in writing",
-        [
-          "Writing",
-          "Authorship",
-          "Composition",
-          "Penning"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Editing",
-      "Redaction"
     ]
   },
   "REDBERRY": {
@@ -19735,49 +18064,6 @@
       "Red-coated"
     ]
   },
-  "REDDEN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make red",
-        [
-          "Color",
-          "Colorize",
-          "Colorise",
-          "Colourise",
-          "Colourize",
-          "Colour",
-          "Color in",
-          "Colour in"
-        ],
-        [
-          "The setting sun reddened the sky"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "turn red or redder",
-        [
-          "Discolor",
-          "Discolour",
-          "Colour",
-          "Color"
-        ],
-        [
-          "The sky reddened"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blush",
-      "Crimson",
-      "Redden",
-      "Flush"
-    ]
-  },
   "REDDING": {
     "MEANINGS": {
       "1": [
@@ -19904,65 +18190,6 @@
       "Rededication"
     ]
   },
-  "REDEEM": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "restore the honor or worth of",
-        [
-          "Restore",
-          "Reinstate",
-          "Reestablish"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "to turn in (vouchers or coupons) and receive something in exchange",
-        [
-          "Exchange",
-          "Change",
-          "Interchange"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "pay off (loans or promissory notes)",
-        [
-          "Pay"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Verb",
-        "convert into cash; of commercial papers",
-        [
-          "Cash",
-          "Cash in"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Save",
-      "Pay off",
-      "Redeem",
-      "Deliver",
-      "Ransom"
-    ]
-  },
   "REDEEMABLE": {
     "MEANINGS": {
       "1": [
@@ -19993,56 +18220,6 @@
       "Cashable",
       "Redeemable",
       "Reformable"
-    ]
-  },
-  "REDEEMER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who redeems or buys back (promissory notes or merchandise or commercial paper etc.)",
-        [
-          "Money handler",
-          "Money dealer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Christ",
-      "Saviour",
-      "Redeemer",
-      "Jesus christ",
-      "Deliverer"
-    ]
-  },
-  "REDEEMING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "compensating for some fault or defect",
-        [
-
-        ],
-        [
-          "the redeeming feature of the plan is its simplicity",
-          "his saving grace was his sense of humor"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Redeeming",
-      "Save",
-      "Redemptive",
-      "Pay off",
-      "Redeem"
     ]
   },
   "REDEFINE": {
@@ -20624,41 +18801,6 @@
       "Redhorse"
     ]
   },
-  "RED-HOT": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "characterized by intense emotion or interest or excitement",
-        [
-
-        ],
-        [
-          "a red-hot speech",
-          "sizzling political issues"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "glowing red with heat",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hot",
-      "Sizzling",
-      "Voluptuous",
-      "Toothsome",
-      "Blistering"
-    ]
-  },
   "REDIFFUSION": {
     "MEANINGS": {
       "1": [
@@ -20928,31 +19070,6 @@
       "Cracker"
     ]
   },
-  "REDOLENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used with `of' or `with') noticeably odorous",
-        [
-
-        ],
-        [
-          "the hall was redolent of floor wax",
-          "air redolent with the fumes of beer and whiskey"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Redolent",
-      "Smelling",
-      "Aromatic",
-      "Remindful",
-      "Resonant"
-    ]
-  },
   "RED-ORANGE": {
     "MEANINGS": {
       "1": [
@@ -21071,28 +19188,6 @@
     ],
     "SYNONYMS": [
       "Redoubt"
-    ]
-  },
-  "REDOUBTABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "worthy of respect or honor",
-        [
-
-        ],
-        [
-          "born of a redoubtable family"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Formidable",
-      "Redoubtable",
-      "Unnerving"
     ]
   },
   "REDOUND": {
@@ -21215,31 +19310,6 @@
       "Redraft"
     ]
   },
-  "REDRESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "act of correcting an error or a fault or an evil",
-        [
-          "Correction",
-          "Rectification"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "wrong"
-    ],
-    "SYNONYMS": [
-      "Restitution",
-      "Amends",
-      "Damages",
-      "Indemnity",
-      "Correct"
-    ]
-  },
   "RED-RIMMED": {
     "MEANINGS": {
       "1": [
@@ -21303,29 +19373,6 @@
       "Redskin",
       "Injun",
       "Red man"
-    ]
-  },
-  "REDSTART": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "European songbird with a reddish breast and tail; related to Old World robins",
-        [
-          "Thrush"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Redtail",
-      "American redstart",
-      "Setophaga ruticilla",
-      "Redstart"
     ]
   },
   "REDTAIL": {
@@ -21538,57 +19585,6 @@
       "Deoxidise"
     ]
   },
-  "REDUCED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "well below normal (especially in price)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "blow_up",
-      "expand",
-      "gain",
-      "oxidise",
-      "increased"
-    ],
-    "SYNONYMS": [
-      "Foreshorten",
-      "Cut",
-      "Subdue",
-      "Decoct",
-      "Deoxidise"
-    ]
-  },
-  "REDUCER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "pipefitting that joins two pipes of different diameter",
-        [
-          "Pipefitting",
-          "Pipe fitting"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reducer",
-      "Reductant",
-      "Reducing agent"
-    ]
-  },
   "REDUCIBLE": {
     "MEANINGS": {
       "1": [
@@ -21609,34 +19605,6 @@
       "Reducible"
     ]
   },
-  "REDUCING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "loss of excess weight (as by dieting); becoming slimmer",
-        [
-          "Loss"
-        ],
-        [
-          "a doctor supervised her reducing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "blow_up",
-      "expand",
-      "gain",
-      "oxidise",
-      "oxidize"
-    ],
-    "SYNONYMS": [
-      "Foreshorten",
-      "Cut",
-      "Subdue",
-      "Decoct",
-      "Deoxidise"
-    ]
-  },
   "REDUCTASE": {
     "MEANINGS": {
       "1": [
@@ -21655,41 +19623,6 @@
     ],
     "SYNONYMS": [
       "Reductase"
-    ]
-  },
-  "REDUCTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent",
-        [
-          "Chemical reaction",
-          "Reaction"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of reducing complexity",
-        [
-          "Change"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "increase"
-    ],
-    "SYNONYMS": [
-      "Diminution",
-      "Decrease",
-      "Step-down",
-      "Reducing",
-      "Simplification"
     ]
   },
   "REDUCTIONISM": {
@@ -21849,49 +19782,6 @@
       "Duplicate"
     ]
   },
-  "REDUPLICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the syllable added in a reduplicated word form",
-        [
-          "Syllable"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a word formed by or containing a repeated syllable or speech sound (usually at the beginning of the word)",
-        [
-          "Word"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of repeating over and again (or an instance thereof)",
-        [
-          "Repetition",
-          "Repeating"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Anadiplosis",
-      "Reduplication",
-      "Reiteration"
-    ]
-  },
   "REDUVIIDAE": {
     "MEANINGS": {
       "1": [
@@ -21953,29 +19843,6 @@
     "SYNONYMS": [
       "Red-violet",
       "Reddish-violet"
-    ]
-  },
-  "REDWING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small European thrush having reddish flanks",
-        [
-          "Thrush"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Redwing",
-      "Agelaius phoeniceus",
-      "Red-winged blackbird",
-      "Turdus iliacus"
     ]
   },
   "REDWOOD": {
@@ -22228,56 +20095,6 @@
       "Shelfy"
     ]
   },
-  "REEK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "smell badly and offensively",
-        [
-          "Smell"
-        ],
-        [
-          "The building reeks of smoke"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "be wet with sweat or blood, as of one's face",
-        [
-          "Exude",
-          "Exudate",
-          "Transude",
-          "Ooze out",
-          "Ooze"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "give off smoke, fumes, warm vapour, steam, etc.",
-        [
-          "Emit",
-          "Give out",
-          "Give off"
-        ],
-        [
-          "Marshes reeking in the sun"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fetor",
-      "Reek",
-      "Stench",
-      "Stink",
-      "Smack"
-    ]
-  },
   "REEKING": {
     "MEANINGS": {
       "1": [
@@ -22410,28 +20227,6 @@
     ],
     "SYNONYMS": [
       "Reelection"
-    ]
-  },
-  "REELER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a dancer of reels",
-        [
-          "Folk dancer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Staggerer",
-      "Reeler",
-      "Totterer"
     ]
   },
   "REENACT": {
@@ -22775,69 +20570,6 @@
       "Refectory"
     ]
   },
-  "REFER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be relevant to",
-        [
-
-        ],
-        [
-          "There were lots of questions referring to her talk",
-          "My remark pertained to your earlier comments"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "think of, regard, or classify under a subsuming principle or with a general group or in relation to another",
-        [
-          "Classify",
-          "Class",
-          "Sort",
-          "Assort",
-          "Sort out",
-          "Separate"
-        ],
-        [
-          "This plant can be referred to a known species"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "send or direct for treatment, information, or a decision",
-        [
-          "Send",
-          "Direct"
-        ],
-        [
-          "refer a patient to a specialist",
-          "refer a bill to a committee"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "use a name to designate",
-        [
-          "Name",
-          "Call"
-        ],
-        [
-          "Christians refer to the mother of Jesus as the Virgin Mary"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Name",
-      "Relate",
-      "Concern",
-      "Bear on",
-      "Bring up"
-    ]
-  },
   "REFEREE": {
     "MEANINGS": {
       "1": [
@@ -23179,69 +20911,6 @@
       "Refinance"
     ]
   },
-  "REFINE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "treat or prepare so as to put in a usable condition",
-        [
-          "Process",
-          "Treat"
-        ],
-        [
-          "refine paper stock",
-          "refine pig iron",
-          "refine oil"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities",
-        [
-          "Purify",
-          "Sublimate",
-          "Make pure",
-          "Distill"
-        ],
-        [
-          "refine sugar"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "attenuate or reduce in vigor, strength, or validity by polishing or purifying",
-        [
-          "Attenuate"
-        ],
-        [
-          "many valuable nutrients are refined out of the foods in our modern diet"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "make more precise or increase the discriminatory powers of",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "refine a method of analysis",
-          "refine the constant in the equation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rarify",
-      "Fine-tune",
-      "Down",
-      "Elaborate",
-      "Rectify"
-    ]
-  },
   "REFINED": {
     "MEANINGS": {
       "1": [
@@ -23277,43 +20946,6 @@
       "Neat",
       "Graceful",
       "Svelte"
-    ]
-  },
-  "REFINEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the result of improving something",
-        [
-          "Improvement",
-          "Betterment",
-          "Advance"
-        ],
-        [
-          "he described a refinement of this technique"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the quality of excellence in thought and manners and taste",
-        [
-          "Excellence"
-        ],
-        [
-          "a man of intellectual refinement",
-          "he is remembered for his generosity and civilization"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nicety",
-      "Refinement",
-      "Civilisation",
-      "Elaboration",
-      "Subtlety"
     ]
   },
   "REFINER": {
@@ -23667,97 +21299,6 @@
       "Reflect"
     ]
   },
-  "REFLECTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the phenomenon of a propagating wave (light or sound) being thrown back from a surface",
-        [
-          "Physical phenomenon"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the image of something as reflected by a mirror (or other reflective material)",
-        [
-          "Picture",
-          "Image",
-          "Icon",
-          "Ikon"
-        ],
-        [
-          "he studied his reflection in the mirror"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "(mathematics) a transformation in which the direction of one axis is reversed",
-        [
-          "Transformation"
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Noun",
-        "the ability to reflect beams or rays",
-        [
-          "Physical property"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thoughtfulness",
-      "Expression",
-      "Reflectivity",
-      "Manifestation",
-      "Contemplation"
-    ]
-  },
-  "REFLECTIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of physically reflecting light or sound",
-        [
-
-        ],
-        [
-          "a reflective surface"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "devoted to matters of the mind",
-        [
-
-        ],
-        [
-          "the reflective type"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonreflective"
-    ],
-    "SYNONYMS": [
-      "Brooding",
-      "Pondering",
-      "Reflective",
-      "Meditative",
-      "Musing"
-    ]
-  },
   "REFLECTIVELY": {
     "MEANINGS": {
       "1": [
@@ -23907,30 +21448,6 @@
     ],
     "SYNONYMS": [
       "Reflexed"
-    ]
-  },
-  "REFLEXIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "referring back to itself",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Automatic",
-      "Self-referent",
-      "Reflexive",
-      "Reflex",
-      "Reflexive pronoun"
     ]
   },
   "REFLEXIVITY": {
@@ -24685,43 +22202,6 @@
       "Abstain"
     ]
   },
-  "REFRESH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make (to feel) fresh",
-        [
-          "Regenerate",
-          "Renew"
-        ],
-        [
-          "The cool water refreshed us"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "make fresh again",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tire"
-    ],
-    "SYNONYMS": [
-      "Brush up",
-      "Refresh",
-      "Freshen up",
-      "Refreshen",
-      "Freshen"
-    ]
-  },
   "REFRESHER": {
     "MEANINGS": {
       "1": [
@@ -24980,30 +22460,6 @@
     ],
     "SYNONYMS": [
       "Refuel"
-    ]
-  },
-  "REFUGE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a shelter from danger or hardship",
-        [
-          "Shelter"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Resort",
-      "Asylum",
-      "Recourse",
-      "Sanctuary",
-      "Refuge"
     ]
   },
   "REFUGEE": {
@@ -25327,62 +22783,6 @@
     ],
     "SYNONYMS": [
       "Regally"
-    ]
-  },
-  "REGARD": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(usually plural) a polite expression of desire for someone's welfare",
-        [
-          "Greeting",
-          "Salutation"
-        ],
-        [
-          "give him my kind regards",
-          "my best wishes"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a feeling of friendship and esteem",
-        [
-          "Affection",
-          "Affectionateness",
-          "Fondness",
-          "Tenderness",
-          "Heart",
-          "Warmness",
-          "Warmheartedness",
-          "Philia"
-        ],
-        [
-          "she mistook his manly regard for love",
-          "he inspires respect"
-        ]
-      ],
-      "2": [
-        "Verb",
-        "look at attentively",
-        [
-          "Look"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "inattentiveness",
-      "disrespect",
-      "disesteem"
-    ],
-    "SYNONYMS": [
-      "View",
-      "Paying attention",
-      "Respect",
-      "See",
-      "Esteem"
     ]
   },
   "REGARDANT": {
@@ -26472,56 +23872,6 @@
       "Lapse"
     ]
   },
-  "REGRESSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state",
-        [
-          "Defense mechanism",
-          "Defense reaction",
-          "Defence mechanism",
-          "Defence reaction",
-          "Defense",
-          "Defence"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)",
-        [
-          "Statistical method",
-          "Statistical procedure"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "returning to a former state",
-        [
-          "Reversal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Regress",
-      "Statistical regression",
-      "Simple regression",
-      "Regression",
-      "Arrested development"
-    ]
-  },
   "REGRESSIVE": {
     "MEANINGS": {
       "1": [
@@ -26550,51 +23900,6 @@
     ],
     "SYNONYMS": [
       "Regressive"
-    ]
-  },
-  "REGRET": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "feel sad about the loss or absence of",
-        [
-          "Miss"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "decline formally or politely",
-        [
-          "Refuse",
-          "Decline"
-        ],
-        [
-          "I regret I can't come to the party"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "express with regret",
-        [
-          "Inform"
-        ],
-        [
-          "I regret to say that you did not gain admission to Harvard"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sorrow",
-      "Rue",
-      "Ruefulness",
-      "Regret",
-      "Repent"
     ]
   },
   "REGRETFUL": {
@@ -26662,28 +23967,6 @@
     "SYNONYMS": [
       "Too bad",
       "Regrettable"
-    ]
-  },
-  "REGROUP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "reorganize into new groups",
-        [
-          "Group"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reorganize",
-      "Reorganise",
-      "Regroup"
     ]
   },
   "REGROW": {
@@ -26889,31 +24172,6 @@
       "Regularisation",
       "Regularization",
       "Regulation"
-    ]
-  },
-  "REGULARIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make regular or more regular",
-        [
-          "Arrange",
-          "Set up"
-        ],
-        [
-          "regularize the heart beat with a pace maker"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deregulate"
-    ],
-    "SYNONYMS": [
-      "Regularize",
-      "Regularise",
-      "Govern",
-      "Order",
-      "Regulate"
     ]
   },
   "REGULARLY": {
@@ -28109,30 +25367,6 @@
       "Reenforce"
     ]
   },
-  "REINFORCEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "information that makes more forcible or convincing",
-        [
-          "Confirmation"
-        ],
-        [
-          "his gestures provided eloquent reinforcement for his complaints"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reenforcement",
-      "Reward",
-      "Reinforcer",
-      "Support",
-      "Reinforcing stimulus"
-    ]
-  },
   "REYNOLDS": {
     "MEANINGS": {
       "1": [
@@ -28960,81 +26194,6 @@
       "Relay race"
     ]
   },
-  "RELAPSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "go back to bad behavior",
-        [
-          "Revert",
-          "Return",
-          "Retrovert",
-          "Regress",
-          "Turn back"
-        ],
-        [
-          "Those who recidivate are often minor criminals"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "get_well"
-    ],
-    "SYNONYMS": [
-      "Relapsing",
-      "Regress",
-      "Lapse",
-      "Reverting",
-      "Fall back"
-    ]
-  },
-  "RELATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "give an account of",
-        [
-          "Tell",
-          "Narrate",
-          "Recount",
-          "Recite"
-        ],
-        [
-          "The witness related the events"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "be in a relationship with",
-        [
-          "Be"
-        ],
-        [
-          "How are these two observations related?"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "have or establish a relationship to",
-        [
-          "Interact"
-        ],
-        [
-          "She relates well to her peers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dissociate"
-    ],
-    "SYNONYMS": [
-      "Connect",
-      "Relate",
-      "Concern",
-      "Tie in",
-      "Bear on"
-    ]
-  },
   "RELATED": {
     "MEANINGS": {
       "1": [
@@ -29822,46 +26981,6 @@
       "Kick downstairs"
     ]
   },
-  "RELEGATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of assigning (someone or something) to a particular class or category",
-        [
-          "Categorization",
-          "Categorisation",
-          "Classification",
-          "Compartmentalization",
-          "Compartmentalisation",
-          "Assortment"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "mild banishment; consignment to an inferior position",
-        [
-          "Banishment",
-          "Proscription"
-        ],
-        [
-          "he has been relegated to a post in Siberia"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Relegation",
-      "Delegating",
-      "Relegating",
-      "Delegation",
-      "Deputation"
-    ]
-  },
   "RELENTLESSLY": {
     "MEANINGS": {
       "1": [
@@ -30263,48 +27382,6 @@
       "Excuse"
     ]
   },
-  "RELIEVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who reduces the intensity (e.g., of fears) and calms and pacifies",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-          "a reliever of anxiety",
-          "an allayer of fears"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a pitcher who does not start the game",
-        [
-          "Pitcher",
-          "Hurler",
-          "Twirler"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Allayer",
-      "Relief",
-      "Backup man",
-      "Substitute",
-      "Stand-in"
-    ]
-  },
   "RELIGION": {
     "MEANINGS": {
       "1": [
@@ -30489,27 +27566,6 @@
       "Conscientiously"
     ]
   },
-  "RELIGIOUSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being extremely conscientious",
-        [
-          "Conscientiousness"
-        ],
-        [
-          "his care in observing the rules of good health amounted to a kind of religiousness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Religiousness",
-      "Devoutness"
-    ]
-  },
   "RELINE": {
     "MEANINGS": {
       "1": [
@@ -30618,44 +27674,6 @@
       "Reliquary"
     ]
   },
-  "RELISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "spicy or savory condiment",
-        [
-          "Condiment"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the taste experience when a savoury condiment is taken into the mouth",
-        [
-          "Taste",
-          "Taste sensation",
-          "Gustatory sensation",
-          "Taste perception",
-          "Gustatory perception"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bask",
-      "Flavour",
-      "Tang",
-      "Savour",
-      "Gusto"
-    ]
-  },
   "RELIVE": {
     "MEANINGS": {
       "1": [
@@ -30700,30 +27718,6 @@
       "Re-experiencing",
       "Reliving",
       "Relive"
-    ]
-  },
-  "RELOAD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "place a new load on",
-        [
-          "Load",
-          "Lade",
-          "Laden",
-          "Load up"
-        ],
-        [
-          "The movers reloaded the truck"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Recharge",
-      "Reload"
     ]
   },
   "RELOCATE": {
@@ -30816,40 +27810,6 @@
       "Disinclination"
     ]
   },
-  "RELUCTANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "disinclined to become involved",
-        [
-
-        ],
-        [
-          "they were usually reluctant to socialize",
-          "reluctant to help"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not eager",
-        [
-
-        ],
-        [
-          "foreigners stubbornly reluctant to accept our ways",
-          "fresh from college and reluctant for the moment to marry him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reluctant",
-      "Loth",
-      "Loath"
-    ]
-  },
   "RELUCTANTLY": {
     "MEANINGS": {
       "1": [
@@ -30888,55 +27848,6 @@
     ],
     "SYNONYMS": [
       "Reluctivity"
-    ]
-  },
-  "REM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Roentgen Equivalent Man) the dosage of ionizing radiation that will cause the same amount of injury to human tissue as 1 roentgen of X-rays",
-        [
-          "Radioactivity unit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rem sleep",
-      "Rapid eye movement sleep",
-      "Rapid eye movement",
-      "Paradoxical sleep",
-      "Rem"
-    ]
-  },
-  "REMAIN": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "be left; of persons, questions, problems, results, evidence, etc.",
-        [
-          "Be"
-        ],
-        [
-          "There remains the question of who pulled the trigger",
-          "Carter remains the only President in recent history under whose Presidency the U.S. did not fight a war"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "change"
-    ],
-    "SYNONYMS": [
-      "Continue",
-      "Stay on",
-      "Remain",
-      "Rest",
-      "Persist"
     ]
   },
   "REMAINDER": {
@@ -31206,31 +28117,6 @@
     ],
     "SYNONYMS": [
       "Rembrandtesque"
-    ]
-  },
-  "REMEDY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "provide relief for",
-        [
-          "Treat",
-          "Care for"
-        ],
-        [
-          "remedy his illness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Therapeutic",
-      "Relieve",
-      "Redress",
-      "Cure",
-      "Repair"
     ]
   },
   "REMEDIABLE": {
@@ -32113,32 +28999,6 @@
       "Remuda"
     ]
   },
-  "REMUNERATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of paying for goods or services or to recompense for losses",
-        [
-          "Payment",
-          "Defrayal",
-          "Defrayment"
-        ],
-        [
-          "adequate remuneration for his work"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pay",
-      "Remuneration",
-      "Wage",
-      "Salary",
-      "Earnings"
-    ]
-  },
   "REMUS": {
     "MEANINGS": {
       "1": [
@@ -32326,53 +29186,6 @@
       "Show",
       "Give",
       "Deliver"
-    ]
-  },
-  "RENDERING": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "a coat of stucco applied to a masonry wall",
-        [
-          "Coating",
-          "Coat"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "perspective drawing of an architect's design",
-        [
-          "Drawing"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "giving in acknowledgment of obligation",
-        [
-          "Payment",
-          "Defrayal",
-          "Defrayment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Picture",
-      "Try",
-      "Rendition",
-      "Show",
-      "Interlingual rendition"
     ]
   },
   "RENDEZVOUS": {
@@ -32564,31 +29377,6 @@
     ],
     "SYNONYMS": [
       "Renewable"
-    ]
-  },
-  "RENEWAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of renewing",
-        [
-          "Repetition",
-          "Repeating"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Refilling",
-      "Reclamation",
-      "Replacement",
-      "Replenishment",
-      "Renewal"
     ]
   },
   "RENEWED": {
@@ -32937,28 +29725,6 @@
       "Rental"
     ]
   },
-  "RENTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an owner of property who receives payment for its use by another person",
-        [
-          "Owner",
-          "Proprietor"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Renter",
-      "Tenant"
-    ]
-  },
   "RENT-FREE": {
     "MEANINGS": {
       "1": [
@@ -33041,40 +29807,6 @@
       "Renunciant",
       "Self-abnegating",
       "Renunciative"
-    ]
-  },
-  "RENUNCIATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an act (spoken or written) declaring that something is surrendered or disowned",
-        [
-          "Resignation"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of renouncing; sacrificing or giving up or surrendering (a possession or right or title or privilege etc.)",
-        [
-          "Rejection"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Renunciation",
-      "Apostasy",
-      "Repudiation",
-      "Defection",
-      "Forgoing"
     ]
   },
   "REOPEN": {
@@ -33251,37 +29983,6 @@
       "Reorganise"
     ]
   },
-  "REORIENT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to turn",
-        [
-          "Turn"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "set or arrange in a new or different determinate position",
-        [
-          "Change"
-        ],
-        [
-          "Orient the house towards the South"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reorientate",
-      "Reorient"
-    ]
-  },
   "REORIENTATE": {
     "MEANINGS": {
       "1": [
@@ -33399,28 +30100,6 @@
     ],
     "SYNONYMS": [
       "Repayable"
-    ]
-  },
-  "REPAYMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "payment of a debt or obligation",
-        [
-          "Payment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Repayment",
-      "Refund",
-      "Quittance"
     ]
   },
   "REPAINT": {
@@ -34082,30 +30761,6 @@
       "Backlash"
     ]
   },
-  "REPERTOIRE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a collection of works (plays, songs, operas, ballets) that an artist or company can perform and do perform for short intervals on a regular schedule",
-        [
-          "Collection",
-          "Aggregation",
-          "Accumulation",
-          "Assemblage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Repertory",
-      "Repertoire"
-    ]
-  },
   "REPERTORY": {
     "MEANINGS": {
       "1": [
@@ -34142,61 +30797,6 @@
     "SYNONYMS": [
       "Repertory",
       "Repertoire"
-    ]
-  },
-  "REPETITION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of doing or performing again",
-        [
-          "Continuance",
-          "Continuation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the repeated use of the same word or word pattern as a rhetorical device",
-        [
-          "Rhetorical device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Repeat",
-      "Repetition",
-      "Repeating"
-    ]
-  },
-  "REPETITIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by repetition",
-        [
-
-        ],
-        [
-          "repetitive movement"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonrepetitive"
-    ],
-    "SYNONYMS": [
-      "Repetitive",
-      "Insistent",
-      "Repetitious"
     ]
   },
   "REPETITIVELY": {
@@ -34521,29 +31121,6 @@
       "Surfeit"
     ]
   },
-  "REPLY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the speech act of continuing a conversational exchange",
-        [
-          "Speech act"
-        ],
-        [
-          "he growled his reply"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reply",
-      "Answer",
-      "Response",
-      "Respond"
-    ]
-  },
   "REPLICA": {
     "MEANINGS": {
       "1": [
@@ -34563,81 +31140,6 @@
     "SYNONYMS": [
       "Reproduction",
       "Replication",
-      "Replica"
-    ]
-  },
-  "REPLICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "reproduce or make an exact copy of",
-        [
-          "Duplicate",
-          "Reduplicate",
-          "Double",
-          "Repeat",
-          "Replicate"
-        ],
-        [
-          "replicate the cell",
-          "copy the genetic information"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Replicate",
-      "Retroflex",
-      "Repeat",
-      "Double",
-      "Reduplicate"
-    ]
-  },
-  "REPLICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(genetics) the process whereby DNA makes a copy of itself before cell division",
-        [
-          "Organic process",
-          "Biological process"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(law) a pleading made by a plaintiff in reply to the defendant's plea or answer",
-        [
-          "Pleading"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the repetition of an experiment in order to test the validity of its conclusion",
-        [
-          "Repetition",
-          "Repeating"
-        ],
-        [
-          "scientists will not believe an experimental result until they have seen at least one replication"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Reproduction",
-      "Return",
-      "Rejoinder",
-      "Reverberation",
       "Replica"
     ]
   },
@@ -34918,35 +31420,6 @@
       "Reposit"
     ]
   },
-  "REPOSITION": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "place into another position",
-        [
-          "Put",
-          "Set",
-          "Place",
-          "Pose",
-          "Position",
-          "Lay"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shift",
-      "Repositing",
-      "Warehousing",
-      "Reposition",
-      "Storage"
-    ]
-  },
   "REPOSITIONING": {
     "MEANINGS": {
       "1": [
@@ -34973,44 +31446,6 @@
       "Repositioning",
       "Reposition",
       "Dislodge"
-    ]
-  },
-  "REPOSITORY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person to whom a secret is entrusted",
-        [
-          "Confidant",
-          "Intimate"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a burial vault (usually for some famous person)",
-        [
-          "Burial chamber",
-          "Sepulcher",
-          "Sepulchre",
-          "Sepulture"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Repository",
-      "Deposit",
-      "Depositary",
-      "Monument",
-      "Secretary"
     ]
   },
   "REPOSSESSION": {
@@ -36053,29 +32488,6 @@
       "Reptile"
     ]
   },
-  "REPUBLIC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a form of government whose head of state is not a monarch",
-        [
-          "Political system",
-          "Form of government"
-        ],
-        [
-          "the head of state in a republic is usually a president"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Commonwealth",
-      "Republic",
-      "Democracy"
-    ]
-  },
   "REPUBLICAN": {
     "MEANINGS": {
       "1": [
@@ -36207,49 +32619,6 @@
       "Republish"
     ]
   },
-  "REPUDIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "refuse to acknowledge, ratify, or recognize as valid",
-        [
-          "Reject"
-        ],
-        [
-          "The woman repudiated the divorce settlement"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "refuse to recognize or pay",
-        [
-          "Refuse",
-          "Decline"
-        ],
-        [
-          "repudiate a debt"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "reject as untrue, unfounded, or unjust",
-        [
-          "Deny"
-        ],
-        [
-          "She repudiated the accusations"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Renounce",
-      "Disown",
-      "Repudiate"
-    ]
-  },
   "REPUDIATION": {
     "MEANINGS": {
       "1": [
@@ -36370,30 +32739,6 @@
       "Repulsive force"
     ]
   },
-  "REPULSIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "possessing the ability to repel",
-        [
-
-        ],
-        [
-          "a repulsive force"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "attractive"
-    ],
-    "SYNONYMS": [
-      "Hideous",
-      "Repulsive",
-      "Abhorrent",
-      "Repugnant",
-      "Obscene"
-    ]
-  },
   "REPUTABLE": {
     "MEANINGS": {
       "1": [
@@ -36434,41 +32779,6 @@
     ],
     "SYNONYMS": [
       "Reputably"
-    ]
-  },
-  "REPUTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "notoriety for some particular characteristic",
-        [
-          "Notoriety",
-          "Ill fame"
-        ],
-        [
-          "his reputation for promiscuity"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the general estimation that the public has for a person",
-        [
-          "Estimate",
-          "Estimation"
-        ],
-        [
-          "he acquired a reputation as an actor before he started writing",
-          "he was a person of bad report"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disrepute"
-    ],
-    "SYNONYMS": [
-      "Repute",
-      "Reputation",
-      "Report"
     ]
   },
   "REPUTE": {
@@ -36593,40 +32903,6 @@
       "Quest"
     ]
   },
-  "REQUIEM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a musical setting for a Mass celebrating the dead",
-        [
-          "Mass"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a Mass celebrated for the dead",
-        [
-          "Mass"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Threnody",
-      "Requiem",
-      "Lament",
-      "Dirge",
-      "Coronach"
-    ]
-  },
   "REQUIESCAT": {
     "MEANINGS": {
       "1": [
@@ -36729,30 +33005,6 @@
       "Requisition form",
       "Sequestration",
       "Requisition"
-    ]
-  },
-  "REQUITAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an act of requiting; returning in kind",
-        [
-          "Return",
-          "Paying back",
-          "Getting even"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Requital",
-      "Payment",
-      "Retribution"
     ]
   },
   "REQUITE": {
@@ -37042,35 +33294,6 @@
       "Rescued",
       "Deliver",
       "Rescue"
-    ]
-  },
-  "RESCUER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who saves something from danger or violence",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Recoverer",
-      "Saviour",
-      "Saver",
-      "Deliverer",
-      "Savior"
     ]
   },
   "RESEAL": {
@@ -38330,30 +34553,6 @@
       "Resift"
     ]
   },
-  "RESIGN": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "accept as inevitable",
-        [
-          "Accept"
-        ],
-        [
-          "He resigned himself to his fate"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "take_office"
-    ],
-    "SYNONYMS": [
-      "Renounce",
-      "Reconcile",
-      "Vacate",
-      "Free",
-      "Relinquish"
-    ]
-  },
   "RESIGNATION": {
     "MEANINGS": {
       "1": [
@@ -38623,72 +34822,6 @@
       "Resinoid"
     ]
   },
-  "RESIST": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "stand up or offer resistance to somebody or something",
-        [
-          "Fight",
-          "Oppose",
-          "Fight back",
-          "Fight down",
-          "Defend"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "withstand the force of something",
-        [
-          "Fight",
-          "Oppose",
-          "Fight back",
-          "Fight down",
-          "Defend"
-        ],
-        [
-          "The trees resisted her",
-          "stand the test of time",
-          "The mountain climbers had to fend against the ice and snow"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "resist immunologically the introduction of some foreign tissue or organ",
-        [
-          "React",
-          "Respond"
-        ],
-        [
-          "His body rejected the liver of the donor"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "refuse to comply",
-        [
-          "Disobey"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "surrender",
-      "lend_oneself"
-    ],
-    "SYNONYMS": [
-      "Fend",
-      "Stand firm",
-      "Hold out",
-      "Stand",
-      "Protest"
-    ]
-  },
   "RESISTANCE": {
     "MEANINGS": {
       "1": [
@@ -38778,31 +34911,6 @@
       "Electric resistance"
     ]
   },
-  "RESISTANT": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "impervious to being affected",
-        [
-
-        ],
-        [
-          "resistant to the effects of heat",
-          "resistant to persuasion"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Resistive",
-      "Resistant",
-      "Tolerant",
-      "Insubordinate",
-      "Repellent"
-    ]
-  },
   "RESISTIBLE": {
     "MEANINGS": {
       "1": [
@@ -38844,30 +34952,6 @@
       "Insubordinate",
       "Resistive",
       "Resistant"
-    ]
-  },
-  "RESISTLESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "offering no resistance",
-        [
-
-        ],
-        [
-          "resistless hostages",
-          "No other colony showed such supine, selfish helplessness in allowing her own border citizens to be mercilessly harried\"- Theodore Roosevelt"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "resistible"
-    ],
-    "SYNONYMS": [
-      "Irresistible",
-      "Unresisting",
-      "Supine",
-      "Resistless"
     ]
   },
   "RESISTOR": {
@@ -39074,76 +35158,6 @@
       "Closure",
       "Firmness of purpose",
       "Solution"
-    ]
-  },
-  "RESOLVABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of being settled or resolved",
-        [
-
-        ],
-        [
-          "all disputed points are potentially resolvable",
-          "a resolvable quarrel"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Resolvable",
-      "Solvable"
-    ]
-  },
-  "RESOLVE": {
-    "MEANINGS": {
-      "5": [
-        "Verb",
-        "make clearly visible",
-        [
-          "Spot",
-          "Recognize",
-          "Recognise",
-          "Distinguish",
-          "Discern",
-          "Pick out",
-          "Make out",
-          "Tell apart"
-        ],
-        [
-          "can this image be resolved?"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "find the solution",
-        [
-          "Calculate",
-          "Cipher",
-          "Cypher",
-          "Compute",
-          "Work out",
-          "Reckon",
-          "Figure"
-        ],
-        [
-          "solve an equation",
-          "solve for x"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "irresoluteness"
-    ],
-    "SYNONYMS": [
-      "Resoluteness",
-      "Break up",
-      "Answer",
-      "Firmness of purpose",
-      "Declaration"
     ]
   },
   "RESONANCE": {
@@ -39979,45 +35993,6 @@
       "Breathe"
     ]
   },
-  "RESPITE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a pause from doing something (as work)",
-        [
-          "Pause"
-        ],
-        [
-          "we took a 10-minute break",
-          "he took time out to recuperate"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a pause for relaxation",
-        [
-          "Pause",
-          "Intermission",
-          "Break",
-          "Interruption",
-          "Suspension"
-        ],
-        [
-          "people actually accomplish more when they take time for short rests"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Respite",
-      "Relief",
-      "Time out",
-      "Break",
-      "Abatement"
-    ]
-  },
   "RESPLEND": {
     "MEANINGS": {
       "1": [
@@ -40037,30 +36012,6 @@
     ],
     "SYNONYMS": [
       "Resplend"
-    ]
-  },
-  "RESPOND": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "respond favorably or as hoped",
-        [
-          "React",
-          "Respond"
-        ],
-        [
-          "The cancer responded to the aggressive therapy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "React",
-      "Answer",
-      "Reply",
-      "Respond"
     ]
   },
   "RESPONDENT": {
@@ -40149,32 +36100,6 @@
       "Reaction",
       "Reception",
       "Answer"
-    ]
-  },
-  "RESPONSIBILITY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a form of trustworthiness; the trait of being answerable to someone for something or being responsible for one's conduct",
-        [
-          "Trustworthiness",
-          "Trustiness"
-        ],
-        [
-          "he holds a position of great responsibility"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "irresponsibleness",
-      "irresponsibility"
-    ],
-    "SYNONYMS": [
-      "Duty",
-      "Province",
-      "Obligation",
-      "Responsibility",
-      "Responsibleness"
     ]
   },
   "RESPONSIBLE": {
@@ -40677,70 +36602,6 @@
       "Ononis repens",
       "Ononis spinosa",
       "Restharrow"
-    ]
-  },
-  "RESTITUTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of restoring something to its original state",
-        [
-          "Repair",
-          "Fix",
-          "Fixing",
-          "Fixture",
-          "Mend",
-          "Mending",
-          "Reparation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "getting something back again",
-        [
-          "Acquisition"
-        ],
-        [
-          "upon the restitution of the book to its rightful owner the child was given a tongue lashing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Return",
-      "Restitution",
-      "Amends",
-      "Damages",
-      "Indemnity"
-    ]
-  },
-  "RESTIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "impatient especially under restriction or delay",
-        [
-
-        ],
-        [
-          "the government has done nothing to ease restrictions and manufacturers are growing restive"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overstrung",
-      "Edgy",
-      "Uptight",
-      "Nervy",
-      "Jumpy"
     ]
   },
   "RESTIVELY": {
@@ -42212,32 +38073,6 @@
       "Retake"
     ]
   },
-  "RETALIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make a counterattack and return like for like, especially evil for evil",
-        [
-          "Strike",
-          "Hit"
-        ],
-        [
-          "The Empire strikes back",
-          "The Giants struck back and won the opener",
-          "The Israeli army retaliated for the Hamas bombing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Strike back",
-      "Revenge",
-      "Retaliate",
-      "Avenge"
-    ]
-  },
   "RETALIATION": {
     "MEANINGS": {
       "1": [
@@ -42361,44 +38196,6 @@
       "Retardation",
       "Retardent",
       "Retardant"
-    ]
-  },
-  "RETARDATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the extent to which something is delayed or held back",
-        [
-          "Delay",
-          "Hold",
-          "Time lag",
-          "Postponement",
-          "Wait"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "lack of normal development of intellectual capacities",
-        [
-          "Stupidity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "acceleration"
-    ],
-    "SYNONYMS": [
-      "Slowness",
-      "Retardent",
-      "Mental retardation",
-      "Subnormality",
-      "Deceleration"
     ]
   },
   "RETARDED": {
@@ -42538,40 +38335,6 @@
     ],
     "SYNONYMS": [
       "Retentively"
-    ]
-  },
-  "RETENTIVENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of retaining possessions that have been acquired",
-        [
-          "Acquisitiveness"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the power of retaining liquid",
-        [
-          "Impermeability",
-          "Impermeableness"
-        ],
-        [
-          "moisture retentivity of soil"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Retention",
-      "Retentivity",
-      "Memory",
-      "Retentiveness"
     ]
   },
   "RETHINK": {
@@ -43328,30 +39091,6 @@
       "Touch up"
     ]
   },
-  "RETRACT": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "use a surgical instrument to hold open (the edges of a wound or an organ)",
-        [
-          "Pull"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Draw back",
-      "Draw in",
-      "Resile",
-      "Pull back",
-      "Abjure"
-    ]
-  },
   "RETRACTABLE": {
     "MEANINGS": {
       "1": [
@@ -43889,30 +39628,6 @@
       "Retribution"
     ]
   },
-  "RETRIBUTIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "given or inflicted in requital according to merits or deserts",
-        [
-
-        ],
-        [
-          "retributive justice"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Retributive",
-      "Vindicatory",
-      "Retaliatory",
-      "Retributory",
-      "Relatiative"
-    ]
-  },
   "RETRIEVABLE": {
     "MEANINGS": {
       "1": [
@@ -43964,46 +39679,6 @@
     "SYNONYMS": [
       "Recovery",
       "Retrieval"
-    ]
-  },
-  "RETRIEVE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "go for and bring back",
-        [
-          "Bring",
-          "Get",
-          "Convey",
-          "Fetch"
-        ],
-        [
-          "retrieve the car from the parking garage"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "run after, pick up, and bring to the master",
-        [
-          "Bring",
-          "Get",
-          "Convey",
-          "Fetch"
-        ],
-        [
-          "train the dog to retrieve"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "forget"
-    ],
-    "SYNONYMS": [
-      "Recover",
-      "Regain",
-      "Call up",
-      "Remember",
-      "Find"
     ]
   },
   "RETRIEVER": {
@@ -44137,41 +39812,6 @@
     ],
     "SYNONYMS": [
       "Retrofit"
-    ]
-  },
-  "RETROFLECTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an articulatory gesture made by turning the tip of the tongue back against the roof of the mouth",
-        [
-          "Articulation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of bending backward",
-        [
-          "Motion",
-          "Movement",
-          "Move",
-          "Motility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Retroversion",
-      "Retroflexion",
-      "Retroflection"
     ]
   },
   "RETROFLEX": {
@@ -44813,30 +40453,6 @@
       "Reunify"
     ]
   },
-  "REVALUE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "value anew",
-        [
-          "Rate",
-          "Value"
-        ],
-        [
-          "revalue the German Mark"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "depreciate"
-    ],
-    "SYNONYMS": [
-      "Apprise",
-      "Appreciate",
-      "Apprize",
-      "Revalue"
-    ]
-  },
   "REVAMP": {
     "MEANINGS": {
       "1": [
@@ -44857,40 +40473,6 @@
     "SYNONYMS": [
       "Vamp",
       "Revamp"
-    ]
-  },
-  "REVEAL": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "disclose directly or through prophets",
-        [
-          "Unwrap",
-          "Disclose",
-          "Let on",
-          "Bring out",
-          "Reveal",
-          "Discover",
-          "Expose",
-          "Divulge",
-          "Break",
-          "Give away",
-          "Let out"
-        ],
-        [
-          "God rarely reveal his plans for Mankind"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bring out",
-      "Disclose",
-      "Break",
-      "Unveil",
-      "Let out"
     ]
   },
   "REVEALING": {
@@ -44998,53 +40580,6 @@
       "Revel",
       "Revelry",
       "Racket"
-    ]
-  },
-  "REVELATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an enlightening or astonishing disclosure",
-        [
-          "Insight",
-          "Brainstorm",
-          "Brainwave"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "communication of knowledge to man by a divine or supernatural agency",
-        [
-          "Informing",
-          "Making known"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the last book of the New Testament; contains visionary descriptions of heaven and of conflicts between good and evil and of the end of the world; attributed to Saint John the Apostle",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Revelation",
-      "Revealing",
-      "Apocalypse",
-      "Revelation of saint john the divine",
-      "Book of revelation"
     ]
   },
   "REVELER": {
@@ -45211,56 +40746,6 @@
     ],
     "SYNONYMS": [
       "Reverberant"
-    ]
-  },
-  "REVERBERATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "have a long or continuing effect",
-        [
-          "Prevail",
-          "Persist",
-          "Die hard",
-          "Run",
-          "Endure"
-        ],
-        [
-          "The discussions with my teacher reverberated throughout my adult life"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "be reflected as heat, sound, or light or shock waves",
-        [
-          "Reflect",
-          "Reverberate"
-        ],
-        [
-          "the waves reverberate as far away as the end of the building"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "treat, process, heat, melt, or refine in a reverberatory furnace",
-        [
-          "Process",
-          "Treat"
-        ],
-        [
-          "reverberate ore"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rebound",
-      "Reverberate",
-      "Take a hop",
-      "Resound",
-      "Bound"
     ]
   },
   "REVERE": {
@@ -46255,29 +41740,6 @@
       "Revisit"
     ]
   },
-  "REVITALIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "give new life or vigor to",
-        [
-          "Regenerate",
-          "Renew"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Regenerate",
-      "Revitalise",
-      "Revitalize"
-    ]
-  },
   "REVITALIZED": {
     "MEANINGS": {
       "1": [
@@ -46380,46 +41842,6 @@
     ],
     "SYNONYMS": [
       "Revivalistic"
-    ]
-  },
-  "REVIVE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "be brought back to life, consciousness, or strength",
-        [
-          "Boom",
-          "Thrive",
-          "Flourish",
-          "Expand"
-        ],
-        [
-          "Interest in ESP revived"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "restore from a depressed, inactive, or unused state",
-        [
-          "Regenerate",
-          "Restore",
-          "Rejuvenate"
-        ],
-        [
-          "He revived this style of opera",
-          "He resurrected the tango in this remote part of Argentina"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Resurrect",
-      "Animate",
-      "Repair",
-      "Recreate",
-      "Quicken"
     ]
   },
   "REVIVED": {
@@ -46807,53 +42229,6 @@
     "SYNONYMS": [
       "Review",
       "Revue"
-    ]
-  },
-  "REWARD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "payment made in return for a service rendered",
-        [
-          "Payment"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "act or give recompense in recognition of someone's behavior or actions",
-        [
-          "Act",
-          "Move"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the offer of money for helping to find a criminal or for returning lost property",
-        [
-          "Offer",
-          "Offering"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "penalty",
-      "dishonor"
-    ],
-    "SYNONYMS": [
-      "Repay",
-      "Pay back",
-      "Payoff",
-      "Reinforce",
-      "Wages"
     ]
   },
   "REWARDFUL": {
@@ -49312,29 +44687,6 @@
       "Rh-positive"
     ]
   },
-  "RHUBARB": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "plants having long green or reddish acidic leafstalks growing in basal clumps; stems (and only the stems) are edible when cooked; leaves are poisonous",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rhubarb",
-      "Rhubarb plant",
-      "Pieplant"
-    ]
-  },
   "RHUMBA": {
     "MEANINGS": {
       "1": [
@@ -49649,30 +45001,6 @@
       "Palm",
       "Laurel wreath",
       "Ribbon"
-    ]
-  },
-  "RIBBONFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "marine fish having a long compressed ribbonlike body",
-        [
-          "Soft-finned fish",
-          "Malacopterygian"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Oarfish",
-      "Ribbonfish",
-      "King of the herring",
-      "Regalecus glesne"
     ]
   },
   "RIBBONLIKE": {
@@ -50225,80 +45553,6 @@
     "SYNONYMS": [
       "Richmondena",
       "Genus richmondena"
-    ]
-  },
-  "RICHNESS": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the quality of having high intrinsic value",
-        [
-          "Value"
-        ],
-        [
-          "the richness of the mines and pastureland",
-          "the cut of her clothes and the richness of the fabric were distinctive"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the property of producing abundantly and sustaining vigorous and luxuriant growth",
-        [
-          "Fruitfulness",
-          "Fecundity"
-        ],
-        [
-          "he praised the richness of the soil",
-          "weeds lovely in their rankness"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a strong deep vividness of hue",
-        [
-          "Shade",
-          "Tint",
-          "Tincture",
-          "Tone"
-        ],
-        [
-          "the fire-light gave a richness of coloring to that side of the room"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Profuseness",
-      "Profusion",
-      "Grandness",
-      "Fertility",
-      "Mellowness"
-    ]
-  },
-  "RICHWEED": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a plants of the genus Pilea having drooping green flower clusters and smooth translucent stems and leaves",
-        [
-          "Nettle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stoneroot",
-      "Stone-root",
-      "Horseweed",
-      "Clearweed",
-      "Richweed"
     ]
   },
   "RICIN": {
@@ -51447,44 +46701,6 @@
       "Riffle"
     ]
   },
-  "RIFFLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "shuffling by splitting the pack and interweaving the two halves at their corners",
-        [
-          "Shuffle",
-          "Shuffling",
-          "Make"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "shuffle (playing cards) by separating the deck into two parts and riffling with the thumbs so the cards intermix",
-        [
-          "Shuffle",
-          "Ruffle",
-          "Mix"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thumb",
-      "Ruffle",
-      "Flip",
-      "Riff",
-      "Undulate"
-    ]
-  },
   "RIFLE": {
     "MEANINGS": {
       "1": [
@@ -52253,34 +47469,6 @@
       "Right-handedness"
     ]
   },
-  "RIGHT-HANDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who uses the right hand more skillfully than the left",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Right-handed pitcher",
-      "Right hander",
-      "Righthander",
-      "Right-hander"
-    ]
-  },
   "RIGHTISH": {
     "MEANINGS": {
       "1": [
@@ -52759,30 +47947,6 @@
       "Rainer maria rilke"
     ]
   },
-  "RILL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small channel (as one formed by soil erosion)",
-        [
-          "Channel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Run",
-      "Runnel",
-      "Rivulet",
-      "Rill",
-      "Streamlet"
-    ]
-  },
   "RIM": {
     "MEANINGS": {
       "1": [
@@ -53129,96 +48293,6 @@
       "Cushat"
     ]
   },
-  "RINGED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having colored rings around the body",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "wearing a wedding ring; lawfully married",
-        [
-
-        ],
-        [
-          "a ringed wife\"- Tennyson"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ring",
-      "Border",
-      "Annulate",
-      "Call",
-      "Annulated"
-    ]
-  },
-  "RINGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who is almost identical to another",
-        [
-          "Double",
-          "Image",
-          "Look-alike"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a contestant entered in a competition under false pretenses",
-        [
-          "Imposter",
-          "Impostor",
-          "Pretender",
-          "Fake",
-          "Faker",
-          "Fraud",
-          "Sham",
-          "Shammer",
-          "Pseudo",
-          "Pseud",
-          "Role player"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(horseshoes) the successful throw of a horseshoe or quoit so as to encircle a stake or peg",
-        [
-          "Throw"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Clone",
-      "Dead ringer",
-      "Bell ringer",
-      "Ringer",
-      "Toller"
-    ]
-  },
   "RINGGIT": {
     "MEANINGS": {
       "1": [
@@ -53263,32 +48337,6 @@
       "Rinkhals"
     ]
   },
-  "RINGING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the giving of a ring as a token of engagement",
-        [
-          "Betrothal",
-          "Troth",
-          "Engagement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ring",
-      "Border",
-      "Call",
-      "Tintinnabulation",
-      "Sonorousness"
-    ]
-  },
   "RINGLEADER": {
     "MEANINGS": {
       "1": [
@@ -53311,41 +48359,6 @@
     ],
     "SYNONYMS": [
       "Ringleader"
-    ]
-  },
-  "RINGLET": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a small ring",
-        [
-          "Ring",
-          "Band"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "any of various butterflies belonging to the family Satyridae",
-        [
-          "Butterfly"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Curl",
-      "Whorl",
-      "Gyre",
-      "Lock",
-      "Roll"
     ]
   },
   "RINGLETED": {
@@ -53478,31 +48491,6 @@
     "SYNONYMS": [
       "Ringside",
       "Ringside seat"
-    ]
-  },
-  "RINGTAIL": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "an immature golden eagle",
-        [
-          "Golden eagle",
-          "Aquila chrysaetos"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cacomixle",
-      "Civet cat",
-      "Common raccoon",
-      "Capuchin",
-      "Common racoon"
     ]
   },
   "RINK": {
@@ -53674,59 +48662,6 @@
       "Roister",
       "Carouse",
       "Riot"
-    ]
-  },
-  "RIP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "move precipitously or violently",
-        [
-          "Tear",
-          "Shoot",
-          "Shoot down",
-          "Charge",
-          "Buck"
-        ],
-        [
-          "The tornado ripped along the coast"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "cut (wood) along the grain",
-        [
-          "Cut"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "criticize or abuse strongly and violently",
-        [
-          "Attack",
-          "Round",
-          "Assail",
-          "Lash out",
-          "Snipe",
-          "Assault"
-        ],
-        [
-          "The candidate ripped into his opponent mercilessly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rake",
-      "Tear",
-      "Pull",
-      "Rent",
-      "Blood"
     ]
   },
   "RIPARIAN": {
@@ -53903,31 +48838,6 @@
       "Mature"
     ]
   },
-  "RIPENING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "acquiring desirable qualities by being left undisturbed for some time",
-        [
-          "Organic process",
-          "Biological process"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Maturation",
-      "Mature",
-      "Ageing",
-      "Ripening",
-      "Maturement"
-    ]
-  },
   "RIPOSTE": {
     "MEANINGS": {
       "2": [
@@ -54024,31 +48934,6 @@
       "Riffle"
     ]
   },
-  "RIPPLED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "shaken into waves or undulations as by wind",
-        [
-
-        ],
-        [
-          "the rippled surface of the pond",
-          "with ruffled flags flying"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ruffled",
-      "Bubble",
-      "Ruffle",
-      "Undulate",
-      "Wavy"
-    ]
-  },
   "RIPSAW": {
     "MEANINGS": {
       "1": [
@@ -54070,31 +48955,6 @@
     "SYNONYMS": [
       "Splitsaw",
       "Ripsaw"
-    ]
-  },
-  "RIPTIDE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a strong surface current flowing outwards from a shore",
-        [
-          "Current",
-          "Stream"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rip",
-      "Riptide",
-      "Countercurrent",
-      "Crosscurrent",
-      "Tide rip"
     ]
   },
   "RISE": {
@@ -54908,66 +49768,6 @@
       "Riverbed"
     ]
   },
-  "RIVERSIDE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a city in southern California",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Riverside",
-      "Riverbank"
-    ]
-  },
-  "RIVET": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "fasten with a rivet or rivets",
-        [
-          "Fasten",
-          "Fix",
-          "Secure"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "hold (someone's attention)",
-        [
-          "Absorb",
-          "Engross",
-          "Engage",
-          "Occupy"
-        ],
-        [
-          "The discovery of the skull riveted the paleontologists"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pore",
-      "Rivet",
-      "Concentrate",
-      "Center",
-      "Stud"
-    ]
-  },
   "RIVETER": {
     "MEANINGS": {
       "1": [
@@ -55198,28 +49998,6 @@
       "Roadbed"
     ]
   },
-  "ROADBLOCK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.",
-        [
-          "Barrier"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Barricade",
-      "Roadblock",
-      "Barrier"
-    ]
-  },
   "ROADBOOK": {
     "MEANINGS": {
       "1": [
@@ -55263,33 +50041,6 @@
     ],
     "SYNONYMS": [
       "Roadhouse"
-    ]
-  },
-  "ROADMAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a workman who is employed to repair roads",
-        [
-          "Workman",
-          "Workingman",
-          "Working man",
-          "Working person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Travelling salesman",
-      "Bagman",
-      "Roadman",
-      "Commercial traveller",
-      "Commercial traveler"
     ]
   },
   "ROADRUNNER": {
@@ -57197,30 +51948,6 @@
       "Auguste rodin"
     ]
   },
-  "ROD-SHAPED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "resembling a rod",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bacillar",
-      "Rod-shaped",
-      "Rodlike",
-      "Baculiform",
-      "Bacillary"
-    ]
-  },
   "ROE": {
     "MEANINGS": {
       "1": [
@@ -57696,36 +52423,6 @@
       "Royal line"
     ]
   },
-  "ROIL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make turbid by stirring up the sediments of",
-        [
-          "Agitate",
-          "Vex",
-          "Disturb",
-          "Commove",
-          "Shake up",
-          "Stir up",
-          "Raise up"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Roil",
-      "Rile",
-      "Moil",
-      "Churn",
-      "Boil"
-    ]
-  },
   "ROISTERER": {
     "MEANINGS": {
       "1": [
@@ -57794,30 +52491,6 @@
       "Rolaids"
     ]
   },
-  "ROLE": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "normal or customary activity of a person in a particular social setting",
-        [
-          "Activity"
-        ],
-        [
-          "what is your role on the team?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Part",
-      "Office",
-      "Use",
-      "Purpose",
-      "Character"
-    ]
-  },
   "ROLEPLAYING": {
     "MEANINGS": {
       "1": [
@@ -57843,30 +52516,6 @@
       "Playact",
       "Roleplay",
       "Play"
-    ]
-  },
-  "ROLY-POLY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "pudding made of suet pastry spread with jam or fruit and rolled up and baked or steamed",
-        [
-          "Pudding"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "thin_person"
-    ],
-    "SYNONYMS": [
-      "Dumpy",
-      "Fat person",
-      "Fatso",
-      "Roly-poly",
-      "Podgy"
     ]
   },
   "ROLL": {
@@ -58102,30 +52751,6 @@
       "Push back"
     ]
   },
-  "ROLLED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "uttered with a trill",
-        [
-
-        ],
-        [
-          "she used rolling r's as in Spanish"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unwind"
-    ],
-    "SYNONYMS": [
-      "Hustle",
-      "Twine",
-      "Involute",
-      "Wrap",
-      "Seethe"
-    ]
-  },
   "ROLLER": {
     "MEANINGS": {
       "1": [
@@ -58223,30 +52848,6 @@
     "SYNONYMS": [
       "Rollickingly",
       "Boisterously"
-    ]
-  },
-  "ROLLING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of robbing a helpless person",
-        [
-          "Robbery"
-        ],
-        [
-          "he was charged with rolling drunks in the park"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unwind"
-    ],
-    "SYNONYMS": [
-      "Hustle",
-      "Twine",
-      "Wrap",
-      "Pealing",
-      "Wheeling"
     ]
   },
   "ROLLMOPS": {
@@ -58794,30 +53395,6 @@
       "Romanticism"
     ]
   },
-  "ROMANTICIST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an artist of the Romantic Movement or someone influenced by Romanticism",
-        [
-          "Artist",
-          "Creative person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "classicist"
-    ],
-    "SYNONYMS": [
-      "Romanticistic",
-      "Sentimentalist",
-      "Romanticist",
-      "Romantic"
-    ]
-  },
   "ROMANTICIZE": {
     "MEANINGS": {
       "1": [
@@ -58985,40 +53562,6 @@
       "Romneya"
     ]
   },
-  "ROMP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "run easily and fairly fast",
-        [
-          "Run"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "win easily",
-        [
-          "Win"
-        ],
-        [
-          "romp a race"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Walkaway",
-      "Sport",
-      "Cavort",
-      "Romp",
-      "Gambol"
-    ]
-  },
   "ROMPER": {
     "MEANINGS": {
       "1": [
@@ -59095,29 +53638,6 @@
       "Bokkos",
       "Daffo",
       "Ron"
-    ]
-  },
-  "RONDEAU": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a French verse form of 10 or 13 lines running on two rhymes; the opening phrase is repeated as the refrain of the second and third stanzas",
-        [
-          "Poem",
-          "Verse form"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rondeau",
-      "Rondel",
-      "Rondo"
     ]
   },
   "RONDELET": {
@@ -59357,30 +53877,6 @@
     ],
     "SYNONYMS": [
       "Rooftop"
-    ]
-  },
-  "ROOK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "common gregarious Old World bird about the size and color of the American crow",
-        [
-          "Corvine bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rook",
-      "Nobble",
-      "Scam",
-      "Mulct",
-      "Swindle"
     ]
   },
   "ROOKERY": {
@@ -59884,28 +54380,6 @@
       "Solution"
     ]
   },
-  "ROOTSTOCK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "root or part of a root used for plant propagation; especially that part of a grafted plant that supplies the roots",
-        [
-          "Stock"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rootstalk",
-      "Rootstock",
-      "Rhizome"
-    ]
-  },
   "ROPE": {
     "MEANINGS": {
       "1": [
@@ -59939,30 +54413,6 @@
       "Rope",
       "Lasso",
       "Roach"
-    ]
-  },
-  "ROPEY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "(British informal) very poor in quality",
-        [
-
-        ],
-        [
-          "ropey food",
-          "a ropey performance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thready",
-      "Ropey",
-      "Stringy",
-      "Ropy"
     ]
   },
   "ROPEMAKER": {
@@ -60534,29 +54984,6 @@
       "Rosy-colored",
       "Rosy",
       "Rose-colored"
-    ]
-  },
-  "ROSEFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large fish of northern Atlantic coasts of America and Europe",
-        [
-          "Rockfish"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ocean perch",
-      "Sebastodes marinus",
-      "Rosefish",
-      "Redfish"
     ]
   },
   "ROSELLE": {
@@ -61276,60 +55703,6 @@
       "Rotatable"
     ]
   },
-  "ROTATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "exchange on a regular basis",
-        [
-          "Alternate"
-        ],
-        [
-          "We rotate the lead soprano every night"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "perform a job or duty on a rotating basis",
-        [
-          "Serve"
-        ],
-        [
-          "Interns have to rotate for a few months"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "cause to turn on an axis or center",
-        [
-          "Turn"
-        ],
-        [
-          "Rotate the handle"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "plant or grow in a fixed cyclic order of succession",
-        [
-          "Grow"
-        ],
-        [
-          "We rotate the crops so as to maximize the use of the soil"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Circumvolve",
-      "Revolve",
-      "Go around",
-      "Spread out",
-      "Rotate"
-    ]
-  },
   "ROTATED": {
     "MEANINGS": {
       "1": [
@@ -61774,30 +56147,6 @@
     "SYNONYMS": [
       "Rotor",
       "Rotor coil"
-    ]
-  },
-  "ROTTEN": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "having decayed or disintegrated; usually implies foulness",
-        [
-
-        ],
-        [
-          "dead and rotten in his grave"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rotted",
-      "Stinky",
-      "Shitty",
-      "Lousy",
-      "Stinking"
     ]
   },
   "ROTTENSTONE": {
@@ -62331,41 +56680,6 @@
       "Roughish"
     ]
   },
-  "ROUGHLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with roughness or violence (`rough' is an informal variant for `roughly')",
-        [
-
-        ],
-        [
-          "he was pushed roughly aside",
-          "they treated him rough"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "with rough motion as over a rough surface",
-        [
-
-        ],
-        [
-          "ride rough"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Approximately",
-      "Close to",
-      "Some",
-      "More or less",
-      "Just about"
-    ]
-  },
   "ROUGHNESS": {
     "MEANINGS": {
       "1": [
@@ -62855,30 +57169,6 @@
     ],
     "SYNONYMS": [
       "Roundelay"
-    ]
-  },
-  "ROUNDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a tool for rounding corners or edges",
-        [
-          "Tool"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "square"
-    ],
-    "SYNONYMS": [
-      "Orotund",
-      "Rotund",
-      "Round",
-      "Rounder",
-      "Pear-shaped"
     ]
   },
   "ROUNDERS": {
@@ -63534,30 +57824,6 @@
       "Roux"
     ]
   },
-  "ROVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an adult member of the Boy Scouts movement",
-        [
-          "Boy scout"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rover",
-      "Bird of passage",
-      "Wanderer",
-      "Scouter",
-      "Roamer"
-    ]
-  },
   "ROW": {
     "MEANINGS": {
       "1": [
@@ -63958,30 +58224,6 @@
       "Sightseer",
       "Rubbernecker",
       "Rubberneck"
-    ]
-  },
-  "RUBBING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "representation consisting of a copy (as of an engraving) made by laying paper over something and rubbing it with charcoal",
-        [
-          "Representation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chafe",
-      "Scratch",
-      "Rub",
-      "Rubbing",
-      "Detrition"
     ]
   },
   "RUBBISH": {
@@ -64659,30 +58901,6 @@
       "Rudder"
     ]
   },
-  "RUDDERFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fish having the habit of following ships; found in North American and South American coastal waters",
-        [
-          "Jack"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rudderfish",
-      "Seriola zonata",
-      "Banded rudderfish",
-      "Kyphosus sectatrix",
-      "Bermuda chub"
-    ]
-  },
   "RUDDERPOST": {
     "MEANINGS": {
       "1": [
@@ -64797,29 +59015,6 @@
       "First principle"
     ]
   },
-  "RUDIMENTARY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "being in the earliest stages of development",
-        [
-
-        ],
-        [
-          "rudimentary plans"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rudimentary",
-      "Fundamental",
-      "Underlying",
-      "Vestigial"
-    ]
-  },
   "RUDRA": {
     "MEANINGS": {
       "1": [
@@ -64907,41 +59102,6 @@
       "Remorsefully"
     ]
   },
-  "RUFF": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "common Eurasian sandpiper; the male has an erectile neck ruff in breeding season",
-        [
-          "Sandpiper"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(card games) the act of taking a trick with a trump when unable to follow suit",
-        [
-          "Turn",
-          "Play"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neck ruff",
-      "Ruff",
-      "Ruffle",
-      "Trumping",
-      "Choker"
-    ]
-  },
   "RUFFIANISM": {
     "MEANINGS": {
       "1": [
@@ -64984,85 +59144,6 @@
     "SYNONYMS": [
       "Ruffianly",
       "Tough"
-    ]
-  },
-  "RUFFLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "trouble or vex",
-        [
-          "Annoy",
-          "Rag",
-          "Get to",
-          "Bother",
-          "Get at",
-          "Irritate",
-          "Rile",
-          "Nark",
-          "Nettle",
-          "Gravel",
-          "Vex",
-          "Chafe",
-          "Devil"
-        ],
-        [
-          "ruffle somebody's composure"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "discompose",
-        [
-          "Fluster"
-        ],
-        [
-          "This play is going to ruffle some people",
-          "She has a way of ruffling feathers among her colleagues"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "erect or fluff up",
-        [
-          "Loosen"
-        ],
-        [
-          "the bird ruffled its feathers"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "disturb the smoothness of",
-        [
-          "Disarrange"
-        ],
-        [
-          "ruffle the surface of the water"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "pleat or gather into a ruffle",
-        [
-          "Fold",
-          "Fold up",
-          "Turn up"
-        ],
-        [
-          "ruffle the curtain fabric"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ruffle up",
-      "Sashay",
-      "Fray",
-      "Disturbance",
-      "Ripple"
     ]
   },
   "RUG": {
@@ -65233,30 +59314,6 @@
     ],
     "SYNONYMS": [
       "Ruggedly"
-    ]
-  },
-  "RUGGEDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being topologically uneven",
-        [
-          "Unevenness",
-          "Variability"
-        ],
-        [
-          "the ruggedness of the mountains"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ruggedness",
-      "Huskiness",
-      "Toughness",
-      "Hardness"
     ]
   },
   "RUGOSE": {
@@ -65878,48 +59935,6 @@
       "Muse"
     ]
   },
-  "RUMINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(of ruminants) chewing (the cud)",
-        [
-          "Chew",
-          "Chewing",
-          "Mastication",
-          "Manduction"
-        ],
-        [
-          "ruminants have remarkable powers of rumination"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "regurgitation of small amounts of food; seen in some infants after feeding",
-        [
-          "Vomit",
-          "Vomiting",
-          "Emesis",
-          "Regurgitation",
-          "Disgorgement",
-          "Puking"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thoughtfulness",
-      "Contemplation",
-      "Musing",
-      "Reflexion",
-      "Reflection"
-    ]
-  },
   "RUMMAGE": {
     "MEANINGS": {
       "1": [
@@ -65962,31 +59977,6 @@
       "Rummer"
     ]
   },
-  "RUMMY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a card game based on collecting sets and sequences; the winner is the first to meld all their cards",
-        [
-          "Card game",
-          "Cards"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Curious",
-      "Singular",
-      "Drunk",
-      "Queer",
-      "Sot"
-    ]
-  },
   "RUMOR": {
     "MEANINGS": {
       "1": [
@@ -66011,30 +60001,6 @@
       "Rumour"
     ]
   },
-  "RUMP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fleshy hindquarters; behind the loin and above the round",
-        [
-          "Cut of beef"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Croupe",
-      "Posterior",
-      "Buttocks",
-      "Keister",
-      "Behind"
-    ]
-  },
   "RUMPELSTILTSKIN": {
     "MEANINGS": {
       "1": [
@@ -66053,31 +60019,6 @@
     ],
     "SYNONYMS": [
       "Rumpelstiltskin"
-    ]
-  },
-  "RUMPLE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "become wrinkled or crumpled or creased",
-        [
-          "Fold",
-          "Fold up"
-        ],
-        [
-          "This fabric won't wrinkle"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ruffle up",
-      "Ruffle",
-      "Pucker",
-      "Knit",
-      "Crinkle"
     ]
   },
   "RUMPUS": {
@@ -66562,30 +60503,6 @@
       "Spoke"
     ]
   },
-  "RUN-DOWN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having the spring unwound",
-        [
-
-        ],
-        [
-          "a run-down watch"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Woebegone",
-      "Creaky",
-      "Flea-bitten",
-      "Derelict",
-      "Decrepit"
-    ]
-  },
   "RUNDSTEDT": {
     "MEANINGS": {
       "1": [
@@ -66697,85 +60614,6 @@
       "Alfred damon runyon"
     ]
   },
-  "RUNNER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who travels on foot by running",
-        [
-          "Traveler",
-          "Traveller"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a person who is employed to deliver messages or documents",
-        [
-          "Messenger",
-          "Courier"
-        ],
-        [
-          "he sent a runner over with the contract"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a trained athlete who competes in foot races",
-        [
-          "Athlete",
-          "Jock"
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Noun",
-        "a long narrow carpet",
-        [
-          "Rug",
-          "Carpet",
-          "Carpeting"
-        ],
-        [
-
-        ]
-      ],
-      "9": [
-        "Noun",
-        "device consisting of the parts on which something can slide along",
-        [
-          "Device"
-        ],
-        [
-
-        ]
-      ],
-      "10": [
-        "Noun",
-        "fish of western Atlantic: Cape Cod to Brazil",
-        [
-          "Jack"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Base runner",
-      "Moon curser",
-      "Smuggler",
-      "Stolon",
-      "Moon-curser"
-    ]
-  },
   "RUNNER-UP": {
     "MEANINGS": {
       "1": [
@@ -66870,28 +60708,6 @@
       "Bunk",
       "Pass",
       "Bleed"
-    ]
-  },
-  "RUNOFF": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a final election to resolve an earlier election that did not produce a winner",
-        [
-          "Election"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overspill",
-      "Runoff",
-      "Overflow"
     ]
   },
   "RUN-OF-THE-MILL": {
@@ -67003,75 +60819,6 @@
     ],
     "SYNONYMS": [
       "Run-through"
-    ]
-  },
-  "RUN-UP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the approach run during which an athlete gathers speed",
-        [
-          "Approach",
-          "Approaching",
-          "Coming"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Run-up",
-      "Runup"
-    ]
-  },
-  "RUNWAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a chute down which logs can slide",
-        [
-          "Chute",
-          "Slide",
-          "Slideway",
-          "Sloping trough"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a narrow platform extending from the stage into the audience in a theater or nightclub etc.",
-        [
-          "Platform"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a strip of level paved surface where planes can take off and land",
-        [
-          "Paved surface"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rails",
-      "Runway",
-      "Track",
-      "Rail"
     ]
   },
   "RUPERT": {
@@ -67842,40 +61589,6 @@
     ],
     "SYNONYMS": [
       "Russet"
-    ]
-  },
-  "RUSSIA": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital; powerful in the 17th and 18th centuries under Peter the Great and Catherine the Great when Saint Petersburg was the capital; overthrown by revolution in 1917",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a federation in northeastern Europe and northern Asia; formerly Soviet Russia; since 1991 an independent state",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Russian federation",
-      "Ussr",
-      "Russian soviet federated socialist republic",
-      "Union of soviet socialist republics",
-      "Russia"
     ]
   },
   "RUSSIAN": {

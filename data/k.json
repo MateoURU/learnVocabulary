@@ -1,42 +1,4 @@
 {
-  "K": {
-    "MEANINGS": {
-      "6": [
-        "Noun",
-        "the 11th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "street names for ketamine",
-        [
-          "Ketamine",
-          "Ketamine hydrochloride",
-          "Ketalar"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Super acid",
-      "Kib",
-      "One thousand",
-      "Thou",
-      "Honey oil"
-    ]
-  },
   "K2": {
     "MEANINGS": {
       "1": [
@@ -98,30 +60,6 @@
     "SYNONYMS": [
       "Caaba",
       "Kaaba"
-    ]
-  },
-  "KABBALAH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries",
-        [
-          "Theosophy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kabala",
-      "Qabala",
-      "Qabalah",
-      "Cabbala",
-      "Cabbalah"
     ]
   },
   "KABOB": {
@@ -275,54 +213,6 @@
     ],
     "SYNONYMS": [
       "Kaffiyeh"
-    ]
-  },
-  "KAFFIR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an offensive and insulting term for any Black African",
-        [
-          "Black african"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Caffer",
-      "Great millet",
-      "Sorghum bicolor",
-      "Kaffir corn",
-      "Kaffir"
-    ]
-  },
-  "KAFIR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a member of the Kafir people in northeastern Afghanistan",
-        [
-          "Afghan",
-          "Afghanistani"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kafir",
-      "Kaffir",
-      "Caffre",
-      "Caffer"
     ]
   },
   "KAFIRI": {
@@ -589,34 +479,6 @@
       "Kakemono"
     ]
   },
-  "KAKI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "blackish stilt of New Zealand sometimes considered a color phase of the white-headed stilt",
-        [
-          "Stilt",
-          "Stiltbird",
-          "Longlegs",
-          "Long-legs",
-          "Stilt plover",
-          "Himantopus stilt"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Japanese persimmon",
-      "Himantopus novae-zelandiae",
-      "Diospyros kaki",
-      "Kaki"
-    ]
-  },
   "KALAHARI": {
     "MEANINGS": {
       "1": [
@@ -699,42 +561,6 @@
       "Kalashnikov"
     ]
   },
-  "KALE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a hardy cabbage with coarse curly leaves that do not form a head",
-        [
-          "Crucifer",
-          "Cruciferous plant"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "coarse curly-leafed cabbage",
-        [
-          "Cabbage",
-          "Chou"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bread",
-      "Clams",
-      "Boodle",
-      "Moolah",
-      "Borecole"
-    ]
-  },
   "KALEIDOSCOPE": {
     "MEANINGS": {
       "1": [
@@ -787,30 +613,6 @@
     "SYNONYMS": [
       "Kaleidoscopical",
       "Kaleidoscopic"
-    ]
-  },
-  "KALI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "wife of Siva and malevolent form of Devi",
-        [
-
-        ],
-        [
-          "the black"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Salsola soda",
-      "Salsola kali",
-      "Glasswort",
-      "Kelpwort",
-      "Saltwort"
     ]
   },
   "KALININ": {
@@ -3701,30 +3503,6 @@
       "Keynote"
     ]
   },
-  "KEYSTONE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the central building block at the top of an arch or vault",
-        [
-          "Building block"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Keystone",
-      "Anchor",
-      "Key",
-      "Lynchpin",
-      "Backbone"
-    ]
-  },
   "KEYSTROKE": {
     "MEANINGS": {
       "1": [
@@ -3917,29 +3695,6 @@
         "(Scottish folklore) water spirit in the form of a horse that likes to drown its riders",
         [
           "Evil spirit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kelpy",
-      "Kelpie"
-    ]
-  },
-  "KELPIE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an Australian sheepdog with pointed ears",
-        [
-          "Shepherd dog",
-          "Sheepdog",
-          "Sheep dog"
         ],
         [
 
@@ -5077,30 +4832,6 @@
       "Jack kerouac"
     ]
   },
-  "KESTREL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small Old World falcon that hovers in the air against a wind",
-        [
-          "Falcon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "American kestrel",
-      "Falco sparverius",
-      "Falco tinnunculus",
-      "Sparrow hawk",
-      "Kestrel"
-    ]
-  },
   "KETCH": {
     "MEANINGS": {
       "1": [
@@ -5884,29 +5615,6 @@
       "Nikita khrushchev"
     ]
   },
-  "KI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "goddess personifying earth; counterpart of Akkadian Aruru",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chi",
-      "Qi",
-      "Ki",
-      "Ch'i"
-    ]
-  },
   "KIANG": {
     "MEANINGS": {
       "1": [
@@ -6380,51 +6088,6 @@
     ],
     "SYNONYMS": [
       "Kick-start"
-    ]
-  },
-  "KID": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be silly or tease one another",
-        [
-          "Tease",
-          "Razz",
-          "Rag",
-          "Cod",
-          "Tantalize",
-          "Tantalise",
-          "Bait",
-          "Taunt",
-          "Twit",
-          "Rally",
-          "Ride"
-        ],
-        [
-          "After we relaxed, we just kidded around"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "young goat",
-        [
-          "Goat",
-          "Caprine animal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "parent"
-    ],
-    "SYNONYMS": [
-      "Minor",
-      "Tiddler",
-      "Nestling",
-      "Shaver",
-      "Tyke"
     ]
   },
   "KYD": {
@@ -7902,30 +7565,6 @@
       "Benignity"
     ]
   },
-  "KINDRED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "related by blood or marriage",
-        [
-
-        ],
-        [
-          "kindred clans"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kindred",
-      "Kin group",
-      "Clan",
-      "Tribe",
-      "Akin"
-    ]
-  },
   "KINEMATICS": {
     "MEANINGS": {
       "1": [
@@ -8517,31 +8156,6 @@
       "Kinglike"
     ]
   },
-  "KINGMAKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an important person who can bring leaders to power through the exercise of political influence",
-        [
-          "Important person",
-          "Influential person",
-          "Personage"
-        ],
-        [
-          "the Earl of Warwick was the first kingmaker"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kingmaker",
-      "Warwick",
-      "Earl of warwick",
-      "Richard neville"
-    ]
-  },
   "KINGPIN": {
     "MEANINGS": {
       "1": [
@@ -8726,71 +8340,6 @@
       "Kinin"
     ]
   },
-  "KINK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a sharp bend in a line produced when a line having a loop is pulled tight",
-        [
-          "Fold",
-          "Crease",
-          "Plication",
-          "Flexure",
-          "Crimp",
-          "Bend"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a person with unusual sexual tastes",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an eccentric idea",
-        [
-          "Idea",
-          "Thought"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a difficulty or flaw in a plan or operation",
-        [
-          "Difficulty"
-        ],
-        [
-          "there are still a few kinks to iron out"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Curl",
-      "Crick",
-      "Twist",
-      "Curve",
-      "Wrick"
-    ]
-  },
   "KINKAJOU": {
     "MEANINGS": {
       "1": [
@@ -8955,29 +8504,6 @@
     "SYNONYMS": [
       "Kinshasa",
       "Leopoldville"
-    ]
-  },
-  "KINSHIP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(anthropology) relatedness or connection by blood or marriage or adoption",
-        [
-          "Relation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kinship",
-      "Relationship",
-      "Family relationship",
-      "Affinity"
     ]
   },
   "KINSMAN": {
@@ -10002,33 +9528,6 @@
       "Frisky"
     ]
   },
-  "KITTY": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "informal terms referring to a domestic cat",
-        [
-          "Domestic cat",
-          "House cat",
-          "Felis domesticus",
-          "Felis catus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kitten",
-      "Kitty",
-      "Jackpot",
-      "Pot",
-      "Puss"
-    ]
-  },
   "KITTIWAKE": {
     "MEANINGS": {
       "1": [
@@ -10090,42 +9589,6 @@
     "SYNONYMS": [
       "Kivu",
       "Lake kivu"
-    ]
-  },
-  "KIWI": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "fuzzy brown egg-shaped fruit with slightly tart green flesh",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "nocturnal flightless bird of New Zealand having a long neck and stout legs; only surviving representative of the order Apterygiformes",
-        [
-          "Ratite",
-          "Ratite bird",
-          "Flightless bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kiwi",
-      "Actinidia deliciosa",
-      "Apteryx",
-      "Chinese gooseberry",
-      "Kiwi fruit"
     ]
   },
   "KLAIPEDA": {
@@ -11291,30 +10754,6 @@
       "Knitter"
     ]
   },
-  "KNITTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "creating knitted wear",
-        [
-          "Handicraft"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pucker",
-      "Knit",
-      "Entwine",
-      "Knitting",
-      "Cockle"
-    ]
-  },
   "KNITWEAR": {
     "MEANINGS": {
       "1": [
@@ -11730,30 +11169,6 @@
       "Knockoff"
     ]
   },
-  "KNOCKOUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a blow that renders the opponent unconscious",
-        [
-          "Blow"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Severe",
-      "Knockout",
-      "Hard",
-      "Looker",
-      "Ko"
-    ]
-  },
   "KNOLL": {
     "MEANINGS": {
       "1": [
@@ -11934,31 +11349,6 @@
       "Knot",
       "Knotted",
       "Gnarled"
-    ]
-  },
-  "KNOTTY": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "tangled in knots or snarls",
-        [
-
-        ],
-        [
-          "a mass of knotted string",
-          "snarled thread"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tangled",
-      "Knobbed",
-      "Tortuous",
-      "Elusive",
-      "Convoluted"
     ]
   },
   "KNOUT": {
@@ -12226,33 +11616,6 @@
       "Have it off"
     ]
   },
-  "KNOWINGNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "shrewdness demonstrated by knowledge",
-        [
-          "Shrewdness",
-          "Astuteness",
-          "Perspicacity",
-          "Perspicaciousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "incognizance"
-    ],
-    "SYNONYMS": [
-      "Awareness",
-      "Cognisance",
-      "Cognizance",
-      "Knowingness",
-      "Consciousness"
-    ]
-  },
   "KNOW-IT-ALL": {
     "MEANINGS": {
       "1": [
@@ -12298,31 +11661,6 @@
       "Knowledgeableness",
       "Initiation",
       "Knowledgeability"
-    ]
-  },
-  "KNOWLEDGEABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "alert and fully informed",
-        [
-
-        ],
-        [
-          "a knowing collector of rare books",
-          "surprisingly knowledgeable about what was going on"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Knowledgeable",
-      "Learned",
-      "Intimate",
-      "Knowing",
-      "Well-read"
     ]
   },
   "KNOWN": {

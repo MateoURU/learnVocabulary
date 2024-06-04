@@ -1,30 +1,4 @@
 {
-  "H": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the 8th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Total heat",
-      "Heat content",
-      "Atomic number 1",
-      "Enthalpy",
-      "Henry"
-    ]
-  },
   "HABAKKUK": {
     "MEANINGS": {
       "1": [
@@ -128,31 +102,6 @@
     "SYNONYMS": [
       "Fritz haber",
       "Haber"
-    ]
-  },
-  "HABERDASHERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the drygoods sold by a haberdasher",
-        [
-          "Drygoods",
-          "Soft goods"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mens store",
-      "Men's furnishings",
-      "Clothing store",
-      "Haberdashery store",
-      "Haberdashery"
     ]
   },
   "HABERGEON": {
@@ -425,56 +374,6 @@
     ],
     "SYNONYMS": [
       "Habitually"
-    ]
-  },
-  "HABITUATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make psychologically or physically used (to something)",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "She became habituated to the background music"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Accustom",
-      "Use",
-      "Habituate"
-    ]
-  },
-  "HABITUATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a general accommodation to unchanging environmental conditions",
-        [
-          "Adjustment",
-          "Accommodation",
-          "Fitting"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Habituation",
-      "Dependence",
-      "Dependency",
-      "Addiction",
-      "Dependance"
     ]
   },
   "HABITUDE": {
@@ -3784,30 +3683,6 @@
       "Halfback"
     ]
   },
-  "HALF-BAKED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "insufficiently cooked",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Underdone",
-      "Half-baked",
-      "Screwball",
-      "Softheaded",
-      "Crazy"
-    ]
-  },
   "HALFBEAK": {
     "MEANINGS": {
       "1": [
@@ -4789,103 +4664,6 @@
       "Exhalation"
     ]
   },
-  "HALL": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a large room for gatherings or entertainment",
-        [
-          "Room"
-        ],
-        [
-          "lecture hall",
-          "pool hall"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "English writer whose novel about a lesbian relationship was banned in Britain for many years (1883-1943)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "United States child psychologist whose theories of child psychology strongly influenced educational psychology (1844-1924)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Noun",
-        "United States chemist who developed an economical method of producing aluminum from bauxite (1863-1914)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "9": [
-        "Noun",
-        "United States explorer who led three expeditions to the Arctic (1821-1871)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "10": [
-        "Noun",
-        "United States astronomer who discovered Phobos and Deimos (the two satellites of Mars) (1829-1907)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "12": [
-        "Noun",
-        "a large building used by a college or university for teaching or research",
-        [
-          "Building",
-          "Edifice"
-        ],
-        [
-          "halls of learning"
-        ]
-      ],
-      "13": [
-        "Noun",
-        "a large building for meetings or entertainment",
-        [
-          "Building",
-          "Edifice"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dormitory",
-      "Charles martin hall",
-      "Mansion house",
-      "Antechamber",
-      "Mansion"
-    ]
-  },
   "HALLE": {
     "MEANINGS": {
       "1": [
@@ -5263,30 +5041,6 @@
       "Halma"
     ]
   },
-  "HALO": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a circle of light around the sun or moon",
-        [
-          "Atmospheric phenomenon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aura",
-      "Glory",
-      "Ring",
-      "Anchor ring",
-      "Halo"
-    ]
-  },
   "HALOCARBON": {
     "MEANINGS": {
       "1": [
@@ -5562,30 +5316,6 @@
       "Hangman's rope",
       "Cramp",
       "Strangle"
-    ]
-  },
-  "HALTING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "fragmentary or halting from emotional strain",
-        [
-
-        ],
-        [
-          "uttered a few halting words of sorrow"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "start"
-    ],
-    "SYNONYMS": [
-      "Staunch",
-      "Lame",
-      "Game",
-      "Stem",
-      "Stanch"
     ]
   },
   "HALTINGLY": {
@@ -6232,40 +5962,6 @@
       "Hammer"
     ]
   },
-  "HAMMERHEAD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the striking part of a hammer",
-        [
-          "Head"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "medium-sized live-bearing shark with eyes at either end of a flattened hammer-shaped head; worldwide in warm waters; can be dangerous",
-        [
-          "Shark"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shithead",
-      "Fuckhead",
-      "Dumbass",
-      "Muttonhead",
-      "Blockhead"
-    ]
-  },
   "HAMMERLOCK": {
     "MEANINGS": {
       "1": [
@@ -6415,30 +6111,6 @@
       "Overact",
       "Ham it up",
       "Overacting"
-    ]
-  },
-  "HAMMOCK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a hanging bed of canvas or rope netting (usually suspended between two trees); swings easily",
-        [
-          "Bed"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hillock",
-      "Hammock",
-      "Knoll",
-      "Hummock",
-      "Mound"
     ]
   },
   "HAMMURABI": {
@@ -7305,42 +6977,6 @@
       "W. c. handy"
     ]
   },
-  "HANDICAP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant",
-        [
-          "Bias"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "put at a disadvantage",
-        [
-          "Disadvantage",
-          "Disfavor",
-          "Disfavour"
-        ],
-        [
-          "The brace I have to wear is hindering my movements"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deterrent",
-      "Hinderance",
-      "Invalid",
-      "Check",
-      "Disable"
-    ]
-  },
   "HANDICRAFT": {
     "MEANINGS": {
       "1": [
@@ -7600,29 +7236,6 @@
     ],
     "SYNONYMS": [
       "Handleless"
-    ]
-  },
-  "HANDLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an agent who handles something or someone",
-        [
-          "Agent"
-        ],
-        [
-          "the senator's campaign handlers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Handler",
-      "Animal trainer",
-      "Coach",
-      "Manager"
     ]
   },
   "HANDLESS": {
@@ -8527,29 +8140,6 @@
       "Cling"
     ]
   },
-  "HANGDOG": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "frightened into submission or compliance",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hangdog",
-      "Shamefaced",
-      "Shamed",
-      "Guilty"
-    ]
-  },
   "HANGER": {
     "MEANINGS": {
       "1": [
@@ -8897,33 +8487,6 @@
     "SYNONYMS": [
       "Hanoi",
       "Capital of vietnam"
-    ]
-  },
-  "HANOVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the English royal house that reigned from 1714 to 1901 (from George I to Victoria)",
-        [
-          "Dynasty",
-          "Royalty",
-          "Royal family",
-          "Royal line",
-          "Royal house"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hanoverian line",
-      "House of hanover",
-      "Hanover",
-      "Hannover"
     ]
   },
   "HANOVERIAN": {
@@ -10090,30 +9653,6 @@
       "Hard-bitten"
     ]
   },
-  "HARD-BOILED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "(eggs) cooked until the yolk is solid",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hard-boiled",
-      "Pugnacious",
-      "Hardened",
-      "Hard-bitten",
-      "Case-hardened"
-    ]
-  },
   "HARD-CORE": {
     "MEANINGS": {
       "1": [
@@ -10208,42 +9747,6 @@
     "SYNONYMS": [
       "Genus hardenbergia",
       "Hardenbergia"
-    ]
-  },
-  "HARDENED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "protected against attack (especially by nuclear weapons)",
-        [
-
-        ],
-        [
-          "hardened missile silos"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "converted to solid form (as concrete)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "soften",
-      "soft",
-      "untempered"
-    ],
-    "SYNONYMS": [
-      "Season",
-      "Temper",
-      "Hard-boiled",
-      "Indurate",
-      "Set"
     ]
   },
   "HARDENING": {
@@ -10479,32 +9982,6 @@
       "Warren gamaliel harding"
     ]
   },
-  "HARDLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "almost not",
-        [
-
-        ],
-        [
-          "he hardly ever goes fishing",
-          "he was hardly more than sixteen years old",
-          "they scarcely ever used the emergency generator"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hardly",
-      "Barely",
-      "Scarce",
-      "Just",
-      "Scarcely"
-    ]
-  },
   "HARD-LINE": {
     "MEANINGS": {
       "1": [
@@ -10634,32 +10111,6 @@
     ],
     "SYNONYMS": [
       "Hard-shelled"
-    ]
-  },
-  "HARDSHIP": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "something that causes or entails suffering",
-        [
-          "Misfortune",
-          "Bad luck"
-        ],
-        [
-          "I cannot think it a hardship that more indulgence is allowed to men than to women\"- James Boswell",
-          "the many hardships of frontier life"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rigour",
-      "Severity",
-      "Hardship",
-      "Rigourousness",
-      "Adversity"
     ]
   },
   "HARDTACK": {
@@ -10832,31 +10283,6 @@
     "SYNONYMS": [
       "Hare",
       "Rabbit"
-    ]
-  },
-  "HAREBELL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "perennial of northern hemisphere with slender stems and bell-shaped blue flowers",
-        [
-          "Campanula",
-          "Bellflower"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wood hyacinth",
-      "Hyacinthoides nonscripta",
-      "Wild hyacinth",
-      "Harebell",
-      "Bluebell"
     ]
   },
   "HAREBRAINED": {
@@ -11785,53 +11211,6 @@
       "Dwell"
     ]
   },
-  "HARPY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Greek mythology) vicious winged monster; often depicted as a bird with the head of a woman",
-        [
-          "Mythical monster",
-          "Mythical creature"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "any of various fruit bats of the genus Nyctimene distinguished by nostrils drawn out into diverging tubes",
-        [
-          "Fruit bat",
-          "Megabat"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "large black-and-white crested eagle of tropical America",
-        [
-          "Eagle",
-          "Bird of jove"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Harpy bat",
-      "Vixen",
-      "Harpy eagle",
-      "Tube-nosed bat",
-      "Tube-nosed fruit bat"
-    ]
-  },
   "HARPIST": {
     "MEANINGS": {
       "1": [
@@ -11984,31 +11363,6 @@
       "Harpullia"
     ]
   },
-  "HARRY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make a pillaging or destructive raid on (a place), as in wartimes",
-        [
-          "Destroy",
-          "Ruin"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hassle",
-      "Plague",
-      "Ravage",
-      "Chivvy",
-      "Chivy"
-    ]
-  },
   "HARRIDAN": {
     "MEANINGS": {
       "1": [
@@ -12031,38 +11385,6 @@
     ],
     "SYNONYMS": [
       "Harridan"
-    ]
-  },
-  "HARRIER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a hound that resembles a foxhound but is smaller; used to hunt rabbits",
-        [
-          "Hound",
-          "Hound dog"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "hawks that hunt over meadows and marshes and prey on small terrestrial animals",
-        [
-          "Hawk"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Harasser",
-      "Harrier"
     ]
   },
   "HARRIMAN": {
@@ -12683,28 +12005,6 @@
       "Carefree"
     ]
   },
-  "HARVARD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "American philanthropist who left his library and half his estate to the Massachusetts college that now bears his name (1607-1638)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "John harvard",
-      "Harvard",
-      "Harvard university"
-    ]
-  },
   "HARVEY": {
     "MEANINGS": {
       "1": [
@@ -12724,55 +12024,6 @@
     "SYNONYMS": [
       "William harvey",
       "Harvey"
-    ]
-  },
-  "HARVEST": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "remove from a culture or a living or dead body, as for the purposes of transplantation",
-        [
-          "Remove",
-          "Take",
-          "Take away",
-          "Withdraw"
-        ],
-        [
-          "The Chinese are said to harvest organs from executed criminals"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the gathering of a ripened crop",
-        [
-          "Gather",
-          "Gathering"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the season for gathering crops",
-        [
-          "Season",
-          "Time of year"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Harvesting",
-      "Crop",
-      "Harvest",
-      "Harvest home",
-      "Reap"
     ]
   },
   "HARVESTER": {
@@ -13060,30 +12311,6 @@
       "Chassid"
     ]
   },
-  "HASIDISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "beliefs and practices of a sect of Orthodox Jews",
-        [
-          "Orthodox judaism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chasidim",
-      "Hasidism",
-      "Hasidim",
-      "Hassidism",
-      "Chasidism"
-    ]
-  },
   "HASLET": {
     "MEANINGS": {
       "1": [
@@ -13169,57 +12396,6 @@
     "SYNONYMS": [
       "Odd hassel",
       "Hassel"
-    ]
-  },
-  "HASSLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "disorderly fighting",
-        [
-          "Fight",
-          "Fighting",
-          "Combat",
-          "Scrap"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Harry",
-      "Hassle",
-      "Plague",
-      "Tussle",
-      "Chivvy"
-    ]
-  },
-  "HASSOCK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a cushion for kneeling on (as when praying in church)",
-        [
-          "Cushion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pouf",
-      "Pouffe",
-      "Puff",
-      "Hassock",
-      "Ottoman"
     ]
   },
   "HASTATE": {
@@ -13317,30 +12493,6 @@
       "Hasty",
       "Headlong",
       "Precipitous"
-    ]
-  },
-  "HASTINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "hasty impulsiveness",
-        [
-          "Impulsiveness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hastiness",
-      "Precipitation",
-      "Haste",
-      "Hurriedness",
-      "Hurry"
     ]
   },
   "HASTINGS": {
@@ -13633,28 +12785,6 @@
       "Hatchery"
     ]
   },
-  "HATCHET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small ax with a short handle used with one hand (usually to chop wood)",
-        [
-          "Ax",
-          "Axe"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hatchet",
-      "Tomahawk"
-    ]
-  },
   "HATCHLING": {
     "MEANINGS": {
       "1": [
@@ -13847,30 +12977,6 @@
     ],
     "SYNONYMS": [
       "Hater"
-    ]
-  },
-  "HATFUL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "as many or as much as a hat will hold",
-        [
-          "Containerful"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Great deal",
-      "Tidy sum",
-      "Sight",
-      "Mickle",
-      "Heap"
     ]
   },
   "HATHAWAY": {
@@ -15351,30 +14457,6 @@
       "Hazlitt"
     ]
   },
-  "HE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 5th letter of the Hebrew alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "He",
-      "Helium",
-      "Atomic number 2"
-    ]
-  },
   "HEAD": {
     "MEANINGS": {
       "1": [
@@ -15626,31 +14708,6 @@
       "Promontory"
     ]
   },
-  "HEADACHE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs",
-        [
-          "Ache",
-          "Aching"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Concern",
-      "Headache",
-      "Vexation",
-      "Cephalalgia",
-      "Head ache"
-    ]
-  },
   "HEADBAND": {
     "MEANINGS": {
       "1": [
@@ -15796,84 +14853,6 @@
       "Channelise"
     ]
   },
-  "HEADER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "horizontal beam used as a finishing piece over a door or window",
-        [
-          "Beam"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "brick that is laid sideways at the top of a wall",
-        [
-          "Brick"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a framing member crossing and supporting the ends of joists, studs, or rafters so as to transfer their weight to parallel joists, studs, or rafters",
-        [
-          "Beam"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a machine that cuts the heads off grain and moves them into a wagon",
-        [
-          "Harvester",
-          "Reaper"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "(soccer) the act of hitting the ball with your head",
-        [
-          "Hit",
-          "Hitting",
-          "Striking"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "a headlong jump (or fall)",
-        [
-          "Jump",
-          "Jumping"
-        ],
-        [
-          "he took a header into the shrubbery"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Coping",
-      "Header",
-      "Heading",
-      "Lintel",
-      "Head"
-    ]
-  },
   "HEADFAST": {
     "MEANINGS": {
       "1": [
@@ -15948,39 +14927,6 @@
       "Headful"
     ]
   },
-  "HEADGEAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the hoist at the pithead of a mine",
-        [
-          "Hoist"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "stable gear consisting of any part of a harness that fits about the horse's head",
-        [
-          "Stable gear",
-          "Saddlery",
-          "Tack"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Headdress",
-      "Headgear"
-    ]
-  },
   "HEADHUNTER": {
     "MEANINGS": {
       "1": [
@@ -16011,30 +14957,6 @@
     "SYNONYMS": [
       "Head-shrinker",
       "Headhunter"
-    ]
-  },
-  "HEADY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "extremely exciting as if by alcohol or a narcotic",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wise",
-      "Heady",
-      "Reckless",
-      "Intoxicating",
-      "Rash"
     ]
   },
   "HEADING": {
@@ -16248,30 +15170,6 @@
       "Headlong"
     ]
   },
-  "HEADMAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the head of a tribe or clan",
-        [
-          "Leader"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Headman",
-      "Headsman",
-      "Chieftain",
-      "Tribal chief",
-      "Chief"
-    ]
-  },
   "HEADMASTER": {
     "MEANINGS": {
       "1": [
@@ -16389,27 +15287,6 @@
     "SYNONYMS": [
       "Head-on",
       "Frontal"
-    ]
-  },
-  "HEADPIECE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a protective helmet for the head",
-        [
-          "Helmet"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Headstall",
-      "Headpiece"
     ]
   },
   "HEADPIN": {
@@ -16871,31 +15748,6 @@
       "Wide-awake"
     ]
   },
-  "HEADWAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "forward movement",
-        [
-          "Progress",
-          "Progression",
-          "Advance"
-        ],
-        [
-          "the ship made little headway against the gale"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Head",
-      "Headway",
-      "Clearance",
-      "Headroom"
-    ]
-  },
   "HEADWATER": {
     "MEANINGS": {
       "1": [
@@ -16972,32 +15824,6 @@
     "SYNONYMS": [
       "Head word",
       "Headword"
-    ]
-  },
-  "HEAL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "get healthy again",
-        [
-          "Better",
-          "Improve",
-          "Ameliorate",
-          "Meliorate"
-        ],
-        [
-          "The wound is healing slowly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Heal",
-      "Mend",
-      "Bring around",
-      "Cure"
     ]
   },
   "HEALING": {
@@ -17600,30 +16426,6 @@
       "Affectionateness"
     ]
   },
-  "HEARTBEAT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an animating or vital unifying force",
-        [
-          "Force"
-        ],
-        [
-          "New York is the commercial heartbeat of America"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wink",
-      "Split second",
-      "New york minute",
-      "Beat",
-      "Twinkling"
-    ]
-  },
   "HEARTBREAKER": {
     "MEANINGS": {
       "1": [
@@ -17723,46 +16525,6 @@
       "Recreate",
       "Embolden",
       "Heartening"
-    ]
-  },
-  "HEARTH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "home symbolized as a part of the fireplace",
-        [
-          "Dwelling",
-          "Home",
-          "Domicile",
-          "Abode",
-          "Habitation",
-          "Dwelling house"
-        ],
-        [
-          "driven from hearth and home",
-          "fighting in defense of their firesides"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an area near a fireplace (usually paved and extending out into a room)",
-        [
-          "Area",
-          "Country"
-        ],
-        [
-          "they sat on the hearth and warmed themselves before the fire"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hearth",
-      "Open fireplace",
-      "Fireplace",
-      "Fireside"
     ]
   },
   "HEARTHRUG": {
@@ -17908,30 +16670,6 @@
       "Cordially"
     ]
   },
-  "HEARTINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of hearty sincerity",
-        [
-          "Sincerity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Heartiness",
-      "Wholeheartedness",
-      "Vigour",
-      "Dynamism",
-      "Vigor"
-    ]
-  },
   "HEARTLAND": {
     "MEANINGS": {
       "1": [
@@ -17984,27 +16722,6 @@
       "Asarum virginicum",
       "Heart-leaf",
       "Asarum shuttleworthii"
-    ]
-  },
-  "HEARTLESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "devoid of courage or enthusiasm",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "softhearted"
-    ],
-    "SYNONYMS": [
-      "Heartless",
-      "Hardhearted"
     ]
   },
   "HEARTLESSLY": {
@@ -18702,53 +17419,6 @@
       "Lift"
     ]
   },
-  "HEAVEN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the abode of God and the angels",
-        [
-          "Imaginary place",
-          "Mythical place",
-          "Fictitious place"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "Hell"
-    ],
-    "SYNONYMS": [
-      "Promised land",
-      "Paradise",
-      "Shangri-la",
-      "Heaven",
-      "Eden"
-    ]
-  },
-  "HEAVENLY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "of or belonging to heaven or god",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "earthly"
-    ],
-    "SYNONYMS": [
-      "Heavenly",
-      "Celestial"
-    ]
-  },
   "HEAVEN-SENT": {
     "MEANINGS": {
       "1": [
@@ -19162,31 +17832,6 @@
     ],
     "SYNONYMS": [
       "Heavy-footed"
-    ]
-  },
-  "HEAVY-HANDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "unjustly domineering",
-        [
-
-        ],
-        [
-          "incensed at the government's heavy-handed economic policies",
-          "a manager who rode roughshod over all opposition"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ham-handed",
-      "Bungling",
-      "Left-handed",
-      "Heavy-handed",
-      "Bumbling"
     ]
   },
   "HEAVYHEARTED": {
@@ -20142,29 +18787,6 @@
       "Put off"
     ]
   },
-  "HEDGEHOG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small nocturnal Old World mammal covered with both hair and protective spines",
-        [
-          "Insectivore"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Erinaceus europeaeus",
-      "Hedgehog",
-      "Erinaceus europaeus",
-      "Porcupine"
-    ]
-  },
   "HEDGEHOP": {
     "MEANINGS": {
       "1": [
@@ -20419,32 +19041,6 @@
       "Unheeding"
     ]
   },
-  "HEEDLESSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of acting rashly and without prudence",
-        [
-          "Imprudence"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "mindfulness",
-      "heedfulness",
-      "attentiveness"
-    ],
-    "SYNONYMS": [
-      "Mindlessness",
-      "Inadvertence",
-      "Heedlessness",
-      "Unmindfulness",
-      "Inadvertency"
-    ]
-  },
   "HEE-HAW": {
     "MEANINGS": {
       "1": [
@@ -20593,30 +19189,6 @@
       "Heave up",
       "Heft up",
       "Massiveness"
-    ]
-  },
-  "HEFTY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of considerable weight and size",
-        [
-
-        ],
-        [
-          "a hefty dictionary"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Goodish",
-      "Goodly",
-      "Respectable",
-      "Muscular",
-      "Healthy"
     ]
   },
   "HEGARI": {
@@ -22006,39 +20578,6 @@
       "Hellebore"
     ]
   },
-  "HELLEBORINE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various orchids of the genus Epipactis",
-        [
-          "Orchid",
-          "Orchidaceous plant"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "any of several orchids of the genus Cephalanthera",
-        [
-          "Orchid",
-          "Orchidaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Helleborine",
-      "Rattlesnake plantain"
-    ]
-  },
   "HELLEBORUS": {
     "MEANINGS": {
       "1": [
@@ -22060,30 +20599,6 @@
       "Genus helleborus"
     ]
   },
-  "HELLENIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to or characteristic of the classical Greek civilization",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Graeco-roman",
-      "Hellenistic",
-      "Grecian",
-      "Classic",
-      "Hellenic language"
-    ]
-  },
   "HELLENISM": {
     "MEANINGS": {
       "1": [
@@ -22102,30 +20617,6 @@
     ],
     "SYNONYMS": [
       "Hellenism"
-    ]
-  },
-  "HELLER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "United States novelist whose best known work was a black comedy inspired by his experiences in the Air Force during World War II (1923-1999)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Joseph heller",
-      "Hellion",
-      "Haler",
-      "Heller",
-      "Devil"
     ]
   },
   "HELLFIRE": {
@@ -22364,31 +20855,6 @@
     ],
     "SYNONYMS": [
       "Helmeted"
-    ]
-  },
-  "HELMETFLOWER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several orchids of the genus Coryanthes having racemes of a few musky-scented waxy flowers with a helmet-shaped lip process",
-        [
-          "Orchid",
-          "Orchidaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monkshood",
-      "Helmet orchid",
-      "Aconitum napellus",
-      "Helmet flower",
-      "Helmetflower"
     ]
   },
   "HELMET-SHAPED": {
@@ -24732,40 +23198,6 @@
       "Henbit"
     ]
   },
-  "HENCE": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "from this place",
-        [
-
-        ],
-        [
-          "get thee hence!"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "from this time",
-        [
-
-        ],
-        [
-          "a year hence it will be forgotten"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "So",
-      "Hence",
-      "Therefore",
-      "Thus",
-      "Thence"
-    ]
-  },
   "HENCEFORTH": {
     "MEANINGS": {
       "1": [
@@ -25981,40 +24413,6 @@
       "Hereabout"
     ]
   },
-  "HEREAFTER": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a future life or state",
-        [
-
-        ],
-        [
-          "hope to win salvation hereafter"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "following this in time or order or place; after this",
-        [
-
-        ],
-        [
-          "hereafter you will no longer receive an allowance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "past"
-    ],
-    "SYNONYMS": [
-      "Futurity",
-      "Future",
-      "Hereunder",
-      "Hereinafter",
-      "Time to come"
-    ]
-  },
   "HEREBY": {
     "MEANINGS": {
       "1": [
@@ -26267,30 +24665,6 @@
       "Herero"
     ]
   },
-  "HERESY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a belief that rejects the orthodox tenets of a religion",
-        [
-          "Content",
-          "Cognitive content",
-          "Mental object"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "orthodoxy"
-    ],
-    "SYNONYMS": [
-      "Heterodoxy",
-      "Unorthodoxy",
-      "Heresy"
-    ]
-  },
   "HERETIC": {
     "MEANINGS": {
       "1": [
@@ -26345,28 +24719,6 @@
     ],
     "SYNONYMS": [
       "Hereto"
-    ]
-  },
-  "HEREUNDER": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "under the terms of this agreement",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hereinafter",
-      "Hereafter",
-      "Hereunder"
     ]
   },
   "HEREUPON": {
@@ -26679,32 +25031,6 @@
       "Hermetically"
     ]
   },
-  "HERMIT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one who lives in solitude",
-        [
-          "Loner",
-          "Lone wolf",
-          "Lone hand"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Troglodyte",
-      "Recluse",
-      "Anchorite",
-      "Solitary",
-      "Hermit"
-    ]
-  },
   "HERMITAGE": {
     "MEANINGS": {
       "1": [
@@ -26880,42 +25206,6 @@
       "Herodotus"
     ]
   },
-  "HEROIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to or characteristic of heroes of antiquity",
-        [
-
-        ],
-        [
-          "heroic legends",
-          "the heroic age"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "having or displaying qualities appropriate for heroes",
-        [
-
-        ],
-        [
-          "the heroic attack on the beaches of Normandy",
-          "heroic explorers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Heroic verse",
-      "Larger-than-life",
-      "Desperate",
-      "Heroic",
-      "Grand"
-    ]
-  },
   "HEROICALLY": {
     "MEANINGS": {
       "1": [
@@ -27045,29 +25335,6 @@
       "Valour",
       "Valiance",
       "Heroism"
-    ]
-  },
-  "HERON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "grey or white wading bird with long neck and long legs and (usually) long bill",
-        [
-          "Wading bird",
-          "Wader"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hero",
-      "Heron",
-      "Hero of alexandria"
     ]
   },
   "HERONRY": {
@@ -27943,28 +26210,6 @@
         ],
         [
           "the population of the United States is vast and heterogeneous"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "homogeneous",
-      "autogenous"
-    ],
-    "SYNONYMS": [
-      "Heterogeneous",
-      "Heterogenous"
-    ]
-  },
-  "HETEROGENOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "originating outside the body",
-        [
-
-        ],
-        [
-
         ]
       ]
     },
@@ -29347,30 +27592,6 @@
       "Hyazyme"
     ]
   },
-  "HIATUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a missing piece (as a gap in a manuscript)",
-        [
-          "Piece"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foramen",
-      "Abatement",
-      "Suspension",
-      "Reprieve",
-      "Hiatus"
-    ]
-  },
   "HIAWATHA": {
     "MEANINGS": {
       "1": [
@@ -29671,29 +27892,6 @@
       "Hiccup"
     ]
   },
-  "HICKEY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a temporary red mark on a person's skin resulting from kissing or sucking by their lover",
-        [
-          "Erythema"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Zit",
-      "Love bite",
-      "Hickey",
-      "Pimple"
-    ]
-  },
   "HICKORY": {
     "MEANINGS": {
       "1": [
@@ -29825,44 +28023,6 @@
       "Gros ventre"
     ]
   },
-  "HIDDEN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "designed to elude detection",
-        [
-
-        ],
-        [
-          "a hidden room or place of concealment such as a priest hole",
-          "a secret passage",
-          "the secret compartment in the desk"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "difficult to find",
-        [
-
-        ],
-        [
-          "hidden valleys",
-          "a hidden cave",
-          "an obscure retreat"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "show"
-    ],
-    "SYNONYMS": [
-      "Secret",
-      "Cover",
-      "Out of sight",
-      "Hide out",
-      "Shroud"
-    ]
-  },
   "HIDDENITE": {
     "MEANINGS": {
       "1": [
@@ -29963,29 +28123,6 @@
     "SYNONYMS": [
       "Hide-and-seek",
       "Hide and go seek"
-    ]
-  },
-  "HIDEAWAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an area where you can be alone",
-        [
-          "Area"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hideout",
-      "Den",
-      "Hideaway",
-      "Retreat"
     ]
   },
   "HIDEBOUND": {
@@ -30138,33 +28275,6 @@
     ],
     "SYNONYMS": [
       "Hyderabad"
-    ]
-  },
-  "HIDING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of being hidden",
-        [
-          "Privacy",
-          "Privateness",
-          "Secrecy",
-          "Concealment"
-        ],
-        [
-          "he went into hiding"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "show"
-    ],
-    "SYNONYMS": [
-      "Hiding",
-      "Cover",
-      "Concealing",
-      "Hide out",
-      "Concealment"
     ]
   },
   "HYDNACEAE": {
@@ -30395,29 +28505,6 @@
       "Hydrangea family",
       "Hydrangeaceae",
       "Family hydrangeaceae"
-    ]
-  },
-  "HYDRANT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a discharge pipe with a valve and spout at which water may be drawn from the mains of waterworks",
-        [
-          "Discharge pipe"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Water faucet",
-      "Hydrant",
-      "Tap",
-      "Water tap"
     ]
   },
   "HYDRARTHROSIS": {
@@ -33479,51 +31566,6 @@
       "High-octane"
     ]
   },
-  "HIGH-PITCHED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "set at a sharp or high angle or slant",
-        [
-
-        ],
-        [
-          "a high-pitched roof"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "low"
-    ],
-    "SYNONYMS": [
-      "High-pitched",
-      "High"
-    ]
-  },
-  "HIGH-POWERED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used of microscopes) capable of a high degree of magnification",
-        [
-
-        ],
-        [
-          "a high-powered microscope"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "High-powered",
-      "High-energy",
-      "High-voltage",
-      "High-power",
-      "High-octane"
-    ]
-  },
   "HIGH-PRINCIPLED": {
     "MEANINGS": {
       "1": [
@@ -34506,27 +32548,6 @@
       "Hilt"
     ]
   },
-  "HILUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the scar on certain seeds marking its point of attachment to the funicle",
-        [
-          "Point"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hilum",
-      "Hilus"
-    ]
-  },
   "HILUS": {
     "MEANINGS": {
       "1": [
@@ -35153,30 +33174,6 @@
     ],
     "SYNONYMS": [
       "Hindquarter"
-    ]
-  },
-  "HINDQUARTERS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the part of an animal that corresponds to the human buttocks",
-        [
-          "Body part"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Croupe",
-      "Posterior",
-      "Buttocks",
-      "Keister",
-      "Behind"
     ]
   },
   "HINDRANCE": {
@@ -37228,27 +35225,6 @@
     "SYNONYMS": [
       "Hyphenate",
       "Hyphen"
-    ]
-  },
-  "HYPHENATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "connecting syllables and words by hyphens",
-        [
-          "Punctuation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hyphenation",
-      "Word division"
     ]
   },
   "HIPLENGTH": {
@@ -40105,44 +38081,6 @@
       "Hysteresis"
     ]
   },
-  "HYSTERIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "excessive or uncontrollable fear",
-        [
-          "Fear",
-          "Fearfulness",
-          "Fright"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions",
-        [
-          "Neurosis",
-          "Neuroticism",
-          "Psychoneurosis"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hysteria",
-      "Frenzy",
-      "Hysterical neurosis",
-      "Delirium",
-      "Craze"
-    ]
-  },
   "HYSTERIC": {
     "MEANINGS": {
       "1": [
@@ -40154,28 +38092,6 @@
         [
           "during hysterical conditions various functions of the human body are disordered\"- Morris Fishbein",
           "hysterical amnesia"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hysterical",
-      "Hysteric"
-    ]
-  },
-  "HYSTERICAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by excessive or uncontrollable emotion",
-        [
-
-        ],
-        [
-          "hysterical laughter",
-          "a mob of hysterical vigilantes"
         ]
       ]
     },
@@ -40802,29 +38718,6 @@
       "Histrionic"
     ]
   },
-  "HISTRIONICS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a deliberate display of emotion for effect",
-        [
-          "Display"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Theatrical",
-      "Histrionics",
-      "Theatrical performance",
-      "Representation"
-    ]
-  },
   "HIT": {
     "MEANINGS": {
       "1": [
@@ -41233,32 +39126,6 @@
       "Scoreless"
     ]
   },
-  "HITTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who hits",
-        [
-          "Mover"
-        ],
-        [
-          "a hard hitter",
-          "a fine striker of the ball",
-          "blacksmiths are good hitters"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Batter",
-      "Slugger",
-      "Batsman",
-      "Striker",
-      "Hitter"
-    ]
-  },
   "HITTITE": {
     "MEANINGS": {
       "1": [
@@ -41434,51 +39301,6 @@
       "Hoarder"
     ]
   },
-  "HOARY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "ancient",
-        [
-
-        ],
-        [
-          "hoary jokes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grey-headed",
-      "Gray-headed",
-      "Grizzly",
-      "Grey",
-      "Hoar"
-    ]
-  },
-  "HOARINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "great age (especially grey or white with age)",
-        [
-          "Oldness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frostiness",
-      "Hoariness"
-    ]
-  },
   "HOARSELY": {
     "MEANINGS": {
       "1": [
@@ -41636,41 +39458,6 @@
       "Thomas hobbes"
     ]
   },
-  "HOBBY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a child's plaything consisting of an imitation horse mounted on rockers; the child straddles it and pretends to ride",
-        [
-          "Plaything",
-          "Toy"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "small Old World falcon formerly trained and flown at small birds",
-        [
-          "Falcon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "By-line",
-      "Hobbyhorse",
-      "Avocation",
-      "Rocking horse",
-      "Hobby"
-    ]
-  },
   "HOBBYHORSE": {
     "MEANINGS": {
       "1": [
@@ -41752,31 +39539,6 @@
     ],
     "SYNONYMS": [
       "Hobbit"
-    ]
-  },
-  "HOBBLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "hamper the action or progress of",
-        [
-          "Impede",
-          "Hinder"
-        ],
-        [
-          "The chairman was hobbled by the all-powerful dean"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fetter",
-      "Hopple",
-      "Limp",
-      "Hobble",
-      "Hitch"
     ]
   },
   "HOBBLEDEHOY": {
@@ -41910,33 +39672,6 @@
     ],
     "SYNONYMS": [
       "Hobnob"
-    ]
-  },
-  "HOCK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "disable by cutting the hock",
-        [
-          "Disable",
-          "Invalid",
-          "Incapacitate",
-          "Handicap"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hock",
-      "Rhenish",
-      "Soak",
-      "Rhine wine",
-      "Pawn"
     ]
   },
   "HOD": {
@@ -42868,261 +40603,6 @@
       "Holcus"
     ]
   },
-  "HOLD": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "organize or be responsible for",
-        [
-          "Direct"
-        ],
-        [
-          "hold a reception",
-          "have, throw, or make a party",
-          "give a course"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a stronghold",
-        [
-          "Stronghold",
-          "Fastness"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "a cell in a jail or prison",
-        [
-          "Cell",
-          "Jail cell",
-          "Prison cell"
-        ],
-        [
-
-        ]
-      ],
-      "2": [
-        "Verb",
-        "have or hold in one's hands or grip",
-        [
-
-        ],
-        [
-          "Hold this bowl for a moment, please",
-          "A crazy idea took hold of him"
-        ]
-      ],
-      "10": [
-        "Verb",
-        "be the physical support of; carry the weight of",
-        [
-
-        ],
-        [
-          "The beam holds up the roof",
-          "He supported me with one hand while I balanced on the beam",
-          "What's holding that mirror?"
-        ]
-      ],
-      "11": [
-        "Verb",
-        "contain or hold; have within",
-        [
-          "Include"
-        ],
-        [
-          "The jar carries wine",
-          "The canteen holds fresh water",
-          "This can contains water"
-        ]
-      ],
-      "13": [
-        "Verb",
-        "remain in a certain state, position, or condition",
-        [
-          "Continue",
-          "Go on",
-          "Proceed",
-          "Go along",
-          "Keep"
-        ],
-        [
-          "The weather held",
-          "They held on the road and kept marching"
-        ]
-      ],
-      "14": [
-        "Verb",
-        "support or hold in a certain manner",
-        [
-
-        ],
-        [
-          "She holds her head high",
-          "He carried himself upright"
-        ]
-      ],
-      "16": [
-        "Verb",
-        "assert or affirm",
-        [
-          "Affirm",
-          "Verify",
-          "Assert",
-          "Avow",
-          "Aver",
-          "Swan",
-          "Swear"
-        ],
-        [
-          "Rousseau's philosophy holds that people are inherently good"
-        ]
-      ],
-      "17": [
-        "Verb",
-        "have as a major characteristic",
-        [
-          "Be"
-        ],
-        [
-          "The novel holds many surprises",
-          "The book holds in store much valuable advise"
-        ]
-      ],
-      "22": [
-        "Verb",
-        "hold the attention of",
-        [
-          "Capture",
-          "Enamour",
-          "Trance",
-          "Catch",
-          "Becharm",
-          "Enamor",
-          "Captivate",
-          "Beguile",
-          "Charm",
-          "Fascinate",
-          "Bewitch",
-          "Entrance",
-          "Enchant"
-        ],
-        [
-          "The soprano held the audience",
-          "This story held our interest",
-          "She can hold an audience spellbound"
-        ]
-      ],
-      "23": [
-        "Verb",
-        "remain committed to",
-        [
-          "Think",
-          "Believe",
-          "Consider",
-          "Conceive"
-        ],
-        [
-          "I hold to these ideas"
-        ]
-      ],
-      "26": [
-        "Verb",
-        "stop dealing with",
-        [
-          "Postpone",
-          "Prorogue",
-          "Hold over",
-          "Put over",
-          "Table",
-          "Shelve",
-          "Set back",
-          "Defer",
-          "Remit",
-          "Put off"
-        ],
-        [
-          "hold all calls to the President's office while he is in a meeting"
-        ]
-      ],
-      "28": [
-        "Verb",
-        "keep from departing",
-        [
-          "Prevent",
-          "Keep"
-        ],
-        [
-          "Hold the taxi",
-          "Hold the horse"
-        ]
-      ],
-      "29": [
-        "Verb",
-        "take and maintain control over, often by violent means",
-        [
-          "Control",
-          "Command"
-        ],
-        [
-          "The dissatisfied students held the President's office for almost a week"
-        ]
-      ],
-      "31": [
-        "Verb",
-        "cover as for protection against noise or smell",
-        [
-          "Cover"
-        ],
-        [
-          "She held her ears when the jackhammer started to operate",
-          "hold one's nose"
-        ]
-      ],
-      "33": [
-        "Verb",
-        "aim, point, or direct",
-        [
-          "Aim",
-          "Take",
-          "Train",
-          "Take aim",
-          "Direct"
-        ],
-        [
-          "Hold the fire extinguisher directly on the flames"
-        ]
-      ],
-      "36": [
-        "Verb",
-        "keep from exhaling or expelling",
-        [
-          "Restrain",
-          "Keep",
-          "Keep back",
-          "Hold back"
-        ],
-        [
-          "hold your breath"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "let_go_of",
-      "disagree"
-    ],
-    "SYNONYMS": [
-      "Deem",
-      "Hold in",
-      "Restrain",
-      "Sustain",
-      "Clutch"
-    ]
-  },
   "HOLD-DOWN": {
     "MEANINGS": {
       "1": [
@@ -43404,28 +40884,6 @@
       "Holy place"
     ]
   },
-  "HOLIDAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a day on which work is suspended by law or custom",
-        [
-          "Day"
-        ],
-        [
-          "no mail is delivered on federal holidays",
-          "it's a good thing that New Year's was a holiday because everyone had a hangover"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Holiday",
-      "Vacation"
-    ]
-  },
   "HOLIER-THAN-THOU": {
     "MEANINGS": {
       "1": [
@@ -43633,28 +41091,6 @@
       "Charles hardin holley"
     ]
   },
-  "HOLLYHOCK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various tall plants of the genus Alcea; native to the Middle East but widely naturalized and cultivated for its very large variously colored flowers",
-        [
-          "Mallow"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Althea",
-      "Hollyhock",
-      "Althaea"
-    ]
-  },
   "HOLLYWOOD": {
     "MEANINGS": {
       "1": [
@@ -43848,50 +41284,6 @@
     "SYNONYMS": [
       "Holloware",
       "Hollowware"
-    ]
-  },
-  "HOLMES": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "United States jurist noted for his liberal opinions (1841-1935)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "United States writer of humorous essays (1809-1894)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "English geologist and supporter of the theory of continental drift (1890-1965)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Oliver wendell holmes",
-      "Holmes",
-      "Oliver wendell holmes jr.",
-      "Sherlock holmes",
-      "Arthur holmes"
     ]
   },
   "HOLMIUM": {
@@ -44774,30 +42166,6 @@
       "Homelike"
     ]
   },
-  "HOMELINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an appearance that is not attractive or beautiful",
-        [
-          "Appearance",
-          "Visual aspect"
-        ],
-        [
-          "fine clothes could not conceal the girl's homeliness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Homeliness",
-      "Drabness",
-      "Dowdiness",
-      "Plainness"
-    ]
-  },
   "HOME-LOVING": {
     "MEANINGS": {
       "1": [
@@ -45632,30 +43000,6 @@
     ],
     "SYNONYMS": [
       "Hominoid"
-    ]
-  },
-  "HOMO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
-        [
-          "Hominid"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Human being",
-      "Homophile",
-      "Homosexual",
-      "Homo",
-      "Human"
     ]
   },
   "HOMOCERCAL": {
@@ -46533,33 +43877,6 @@
       "Homozygous"
     ]
   },
-  "HOMUNCULUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a tiny fully formed individual that (according to the discredited theory of preformation) is supposed to be present in the sperm cell",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mannikin",
-      "Manikin",
-      "Homunculus"
-    ]
-  },
   "HONDURAN": {
     "MEANINGS": {
       "1": [
@@ -47323,33 +44640,6 @@
       "Accolade",
       "Laurels",
       "Pureness"
-    ]
-  },
-  "HONORABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "worthy of being honored; entitled to honor and respect",
-        [
-
-        ],
-        [
-          "an honorable man",
-          "led an honorable life",
-          "honorable service to his country"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dishonest",
-      "dishonorable"
-    ],
-    "SYNONYMS": [
-      "Honest",
-      "Respectable",
-      "Honourable",
-      "Good",
-      "Ethical"
     ]
   },
   "HONORABLENESS": {
@@ -49705,31 +46995,6 @@
       "Hornstone"
     ]
   },
-  "HORNY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having horns or hornlike projections",
-        [
-
-        ],
-        [
-          "horny coral",
-          "horny (or horned) frog"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hornlike",
-      "Aroused",
-      "Randy",
-      "Horny",
-      "Corneous"
-    ]
-  },
   "HORNINESS": {
     "MEANINGS": {
       "1": [
@@ -50316,30 +47581,6 @@
       "Horse-drawn"
     ]
   },
-  "HORSEFLY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large swift fly the female of which sucks blood of various animals",
-        [
-          "Gadfly"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Horse tick",
-      "Clegg",
-      "Horse fly",
-      "Horsefly",
-      "Hippobosca equina"
-    ]
-  },
   "HORSEHAIR": {
     "MEANINGS": {
       "1": [
@@ -50471,41 +47712,6 @@
     ],
     "SYNONYMS": [
       "Horsemanship"
-    ]
-  },
-  "HORSEMINT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "tall erect perennial or annual having lanceolate leaves and heads of purple-spotted creamy flowers; many subspecies grown from eastern to southwestern United States and in Mexico",
-        [
-          "Monarda",
-          "Wild bergamot"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a coarse Old World wild water mint having long leaves and spikelike clusters of flowers; naturalized in the eastern United States",
-        [
-          "Mint"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monarda punctata",
-      "Mentha longifolia",
-      "Horsemint",
-      "Lemon mint",
-      "Monarda citriodora"
     ]
   },
   "HORSEPLAY": {
@@ -50737,30 +47943,6 @@
     ],
     "SYNONYMS": [
       "Horse-trade"
-    ]
-  },
-  "HORSEWEED": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "common North American weed with linear leaves and small discoid heads of yellowish flowers; widely naturalized throughout temperate regions; sometimes placed in genus Erigeron",
-        [
-          "Weed"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stoneroot",
-      "Stone-root",
-      "Conyza canadensis",
-      "Horseweed",
-      "Richweed"
     ]
   },
   "HORSEWHIP": {
@@ -51523,31 +48705,6 @@
       "Auberge"
     ]
   },
-  "HOSTELLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a traveler who lodges in hostels",
-        [
-          "Traveler",
-          "Traveller"
-        ],
-        [
-          "a youth hosteller"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hotelman",
-      "Hotelkeeper",
-      "Hosteller",
-      "Hotel manager",
-      "Hotelier"
-    ]
-  },
   "HOSTESS": {
     "MEANINGS": {
       "1": [
@@ -52031,30 +49188,6 @@
       "Hotbox"
     ]
   },
-  "HOTCHPOTCH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a stew (or thick soup) made with meat and vegetables",
-        [
-          "Stew"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gallimaufry",
-      "Farrago",
-      "Ragbag",
-      "Hodgepodge",
-      "Hotchpotch"
-    ]
-  },
   "HOTDOG": {
     "MEANINGS": {
       "1": [
@@ -52201,33 +49334,6 @@
       "Rush along"
     ]
   },
-  "HOTHEADED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by undue haste and lack of thought or deliberation; (`brainish' is archaic)",
-        [
-
-        ],
-        [
-          "a hotheaded decision",
-          "liable to such impulsive acts as hugging strangers",
-          "an impetuous display of spending and gambling",
-          "madcap escapades"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hotheaded",
-      "Tearaway",
-      "Impulsive",
-      "Hot-tempered",
-      "Irascible"
-    ]
-  },
   "HOTNESS": {
     "MEANINGS": {
       "1": [
@@ -52262,30 +49368,6 @@
       "Pepperiness",
       "Hot pants",
       "Hotness"
-    ]
-  },
-  "HOTSPUR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a rash or impetuous person",
-        [
-          "Adventurer",
-          "Venturer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sir henry percy",
-      "Hotspur",
-      "Harry hotspur",
-      "Percy"
     ]
   },
   "HOTTISH": {
@@ -52610,27 +49692,6 @@
     ],
     "SYNONYMS": [
       "Hourglass-shaped"
-    ]
-  },
-  "HOURI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Islam) one of the dark-eyed virgins of perfect beauty believed to live with the blessed in Paradise",
-        [
-          "Mythical being"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nymph",
-      "Houri"
     ]
   },
   "HOURLY": {
@@ -53927,40 +50988,6 @@
       "Ululate"
     ]
   },
-  "HOWLER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a glaring blunder",
-        [
-          "Blunder",
-          "Blooper",
-          "Bloomer",
-          "Bungle",
-          "Pratfall",
-          "Foul-up",
-          "Fuckup",
-          "Flub",
-          "Botch",
-          "Boner",
-          "Boo-boo"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thigh-slapper",
-      "Sidesplitter",
-      "Belly laugh",
-      "Howler monkey",
-      "Scream"
-    ]
-  },
   "HUAMBO": {
     "MEANINGS": {
       "1": [
@@ -55006,30 +52033,6 @@
       "Hula-hoop"
     ]
   },
-  "HULK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a ship that has been wrecked and abandoned",
-        [
-          "Ship"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Whale",
-      "Tower",
-      "Hulk",
-      "Predominate",
-      "Heavyweight"
-    ]
-  },
   "HULKING": {
     "MEANINGS": {
       "1": [
@@ -55235,38 +52238,6 @@
       "Man"
     ]
   },
-  "HUMANE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked or motivated by concern with the alleviation of suffering",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "showing evidence of moral and intellectual advancement",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "inhumane"
-    ],
-    "SYNONYMS": [
-      "Humanistic",
-      "Humanist",
-      "Humane"
-    ]
-  },
   "HUMANELY": {
     "MEANINGS": {
       "1": [
@@ -55307,42 +52278,6 @@
       "Humaneness"
     ]
   },
-  "HUMANISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the doctrine emphasizing a person's capacity for self-realization through reason; rejects religion and the supernatural",
-        [
-          "Doctrine",
-          "Philosophy",
-          "Philosophical system",
-          "School of thought",
-          "Ism"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the cultural movement of the Renaissance; based on classical studies",
-        [
-          "Cultural movement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Secular humanism",
-      "Humanitarianism",
-      "Humanism"
-    ]
-  },
   "HUMANIST": {
     "MEANINGS": {
       "1": [
@@ -55377,30 +52312,6 @@
         [
           "humanistic studies",
           "a humane education"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Humanist",
-      "Humanistic",
-      "Human-centred",
-      "Humanitarian",
-      "Humane"
-    ]
-  },
-  "HUMANISTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or pertaining to Renaissance humanism",
-        [
-
-        ],
-        [
-          "the humanistic revival of learning"
         ]
       ]
     },
@@ -55820,31 +52731,6 @@
       "Humdinger"
     ]
   },
-  "HUMDRUM": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "tediously repetitious or lacking in variety; all work and no play\"",
-        [
-
-        ],
-        [
-          "a humdrum existence",
-          "nothing is so monotonous as the sea"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unglamourous",
-      "Sameness",
-      "Humdrum",
-      "Commonplace",
-      "Monotony"
-    ]
-  },
   "HUME": {
     "MEANINGS": {
       "1": [
@@ -56230,31 +53116,6 @@
       "Hummer"
     ]
   },
-  "HUMMING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of singing with closed lips",
-        [
-          "Singing",
-          "Vocalizing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hum",
-      "Humming",
-      "Thrum",
-      "Seethe",
-      "Buzz"
-    ]
-  },
   "HUMMINGBIRD": {
     "MEANINGS": {
       "1": [
@@ -56507,41 +53368,6 @@
     ],
     "SYNONYMS": [
       "Humorously"
-    ]
-  },
-  "HUMPBACK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person whose back is hunched because of abnormal curvature of the upper spine",
-        [
-          "Cripple"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "large whalebone whale with long flippers noted for arching or humping its back as it dives",
-        [
-          "Baleen whale",
-          "Whalebone whale"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Humpback",
-      "Humpback whale",
-      "Megaptera novaeangliae",
-      "Hunchback",
-      "Kyphosis"
     ]
   },
   "HUMPERDINCK": {
@@ -58203,31 +55029,6 @@
       "Bunco",
       "Con game",
       "Confidence game"
-    ]
-  },
-  "HUSTLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a shrewd or unscrupulous person who knows how to circumvent difficulties",
-        [
-          "Opportunist",
-          "Self-seeker"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Floozy",
-      "Hustler",
-      "Wheeler dealer",
-      "Street girl",
-      "Streetwalker"
     ]
   },
   "HUSTON": {

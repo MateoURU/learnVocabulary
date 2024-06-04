@@ -1,40 +1,4 @@
 {
-  "O": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 15th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the blood group whose red cells carry neither the A nor B antigens",
-        [
-          "Blood group",
-          "Blood type"
-        ],
-        [
-          "people with type O blood are universal donors"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Oxygen",
-      "Atomic number 8",
-      "Group o",
-      "Type o"
-    ]
-  },
   "OAHU": {
     "MEANINGS": {
       "1": [
@@ -432,41 +396,6 @@
       "Oates"
     ]
   },
-  "OATH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a commitment to tell the truth (especially in a court of law); to lie under oath is to become subject to prosecution for perjury",
-        [
-          "Commitment",
-          "Dedication"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a solemn promise, usually invoking a divine witness, regarding your future acts or behavior",
-        [
-          "Promise"
-        ],
-        [
-          "they took an oath of allegiance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Expletive",
-      "Curse word",
-      "Oath",
-      "Swearword",
-      "Curse"
-    ]
-  },
   "OATMEAL": {
     "MEANINGS": {
       "1": [
@@ -852,31 +781,6 @@
       "Obfuscate"
     ]
   },
-  "OBFUSCATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "darkening or obscuring the sight of something",
-        [
-          "Blackening",
-          "Darkening"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Obfuscation",
-      "Befuddlement",
-      "Bewilderment",
-      "Bemusement",
-      "Bafflement"
-    ]
-  },
   "OBIISM": {
     "MEANINGS": {
       "1": [
@@ -1024,40 +928,6 @@
     ],
     "SYNONYMS": [
       "Objectification"
-    ]
-  },
-  "OBJECTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the speech act of objecting",
-        [
-          "Speech act"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(law) a procedure whereby a party to a suit says that a particular line of questioning or a particular witness or a piece of evidence or other matter is improper and should not be continued and asks the court to rule on its impropriety or illegality",
-        [
-          "Procedure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Remonstrance",
-      "Remonstration",
-      "Expostulation",
-      "Objection",
-      "Protest"
     ]
   },
   "OBJECTIONABLE": {
@@ -1345,51 +1215,6 @@
       "Obligated"
     ]
   },
-  "OBLIGATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of being obligated to do or pay something",
-        [
-          "State"
-        ],
-        [
-          "he is under an obligation to finish the job"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a personal relation in which one is indebted for a service or favor",
-        [
-          "Personal relation",
-          "Personal relationship"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a legal agreement specifying a payment or action and the penalty for failure to comply",
-        [
-          "Written agreement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Duty",
-      "Obligation",
-      "Indebtedness",
-      "Debt instrument",
-      "Responsibility"
-    ]
-  },
   "OBLIGATIONAL": {
     "MEANINGS": {
       "1": [
@@ -1461,43 +1286,6 @@
       "Mandatorily",
       "Compulsorily",
       "Obligatorily"
-    ]
-  },
-  "OBLIGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "bind by an obligation; cause to be indebted",
-        [
-          "Relate"
-        ],
-        [
-          "He's held by a contract",
-          "I'll hold you by your promise"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "provide a service or favor for someone",
-        [
-          "Comply",
-          "Follow",
-          "Abide by"
-        ],
-        [
-          "We had to oblige him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disoblige"
-    ],
-    "SYNONYMS": [
-      "Compel",
-      "Obligate",
-      "Hold",
-      "Bind",
-      "Accommodate"
     ]
   },
   "OBLIGER": {
@@ -1590,30 +1378,6 @@
       "Oblique-angled"
     ]
   },
-  "OBLIQUELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "at an oblique angle",
-        [
-
-        ],
-        [
-          "the sun shone aslant into his face"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sideways",
-      "Athwart",
-      "Obliquely",
-      "Aslant",
-      "Sidelong"
-    ]
-  },
   "OBLIQUENESS": {
     "MEANINGS": {
       "1": [
@@ -1655,45 +1419,6 @@
     "SYNONYMS": [
       "Obliterable",
       "Removable"
-    ]
-  },
-  "OBLITERATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "remove completely from recognition or memory",
-        [
-          "Blur",
-          "Dim",
-          "Slur"
-        ],
-        [
-          "efface the memory of the time in the camps"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "do away with completely, without leaving a trace",
-        [
-          "Extinguish",
-          "Eliminate",
-          "Get rid of",
-          "Do away with"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blotted out",
-      "Kill",
-      "Efface",
-      "Obliterated",
-      "Hide"
     ]
   },
   "OBLITERATOR": {
@@ -2175,88 +1900,6 @@
       "Obscurely"
     ]
   },
-  "OBSCURENESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the quality of being unclear or abstruse and hard to understand",
-        [
-          "Incomprehensibility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "clarity"
-    ],
-    "SYNONYMS": [
-      "Humbleness",
-      "Reconditeness",
-      "Obscurity",
-      "Obscureness",
-      "Lowliness"
-    ]
-  },
-  "OBSCURITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an obscure and unimportant standing; not well known",
-        [
-          "Standing"
-        ],
-        [
-          "he worked in obscurity for many years"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the state of being indistinct or indefinite for lack of adequate illumination",
-        [
-          "Semidarkness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "prominence",
-      "clarity"
-    ],
-    "SYNONYMS": [
-      "Obscurity",
-      "Obscureness",
-      "Reconditeness",
-      "Abstruseness"
-    ]
-  },
-  "OBSEQUIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "attentive in an ingratiating or servile manner",
-        [
-
-        ],
-        [
-          "obsequious shop assistants"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Toadyish",
-      "Bootlicking",
-      "Fawning",
-      "Sycophantic",
-      "Obsequious"
-    ]
-  },
   "OBSEQUIOUSLY": {
     "MEANINGS": {
       "1": [
@@ -2437,161 +2080,6 @@
       "Observation tower",
       "Lookout station",
       "Lookout"
-    ]
-  },
-  "OBSERVE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "watch attentively",
-        [
-          "Watch"
-        ],
-        [
-          "Please observe the reaction of these two chemicals"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "behave as expected during of holidays or rites",
-        [
-
-        ],
-        [
-          "Keep the commandments",
-          "celebrate Christmas",
-          "Observe Yom Kippur"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "stick to correctly or closely",
-        [
-
-        ],
-        [
-          "The pianist kept time with the metronome",
-          "keep count",
-          "I cannot keep track of all my employees"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "conform one's action or practice to",
-        [
-
-        ],
-        [
-          "keep appointments",
-          "she never keeps her promises",
-          "We kept to the original conditions of the contract"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disrespect",
-      "break"
-    ],
-    "SYNONYMS": [
-      "Watch over",
-      "Watch",
-      "Respect",
-      "Find",
-      "Mention"
-    ]
-  },
-  "OBSERVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an expert who observes and comments on something",
-        [
-          "Expert"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Observer",
-      "Percipient",
-      "Beholder",
-      "Commentator",
-      "Perceiver"
-    ]
-  },
-  "OBSESS": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be preoccupied with something",
-        [
-          "Worry"
-        ],
-        [
-          "She is obsessing over her weight"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Midwifery",
-      "Ob",
-      "Haunt",
-      "Ob river",
-      "Obsess"
-    ]
-  },
-  "OBSESSED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "influenced or controlled by a powerful force such as a strong emotion",
-        [
-
-        ],
-        [
-          "by love possessed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Taken up",
-      "Haunt",
-      "Haunted",
-      "Preoccupied",
-      "Obsessed"
-    ]
-  },
-  "OBSESSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an unhealthy and compulsive preoccupation with something or someone",
-        [
-          "Preoccupation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Compulsion",
-      "Fixation",
-      "Obsession"
     ]
   },
   "OBSESSIONAL": {
@@ -3449,28 +2937,6 @@
       "Dim"
     ]
   },
-  "OBTUSENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of lacking a sharp edge or point",
-        [
-          "Dullness",
-          "Bluntness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "acuteness"
-    ],
-    "SYNONYMS": [
-      "Dullness",
-      "Obtuseness"
-    ]
-  },
   "OBVERSE": {
     "MEANINGS": {
       "1": [
@@ -4295,44 +3761,6 @@
       "Occupational"
     ]
   },
-  "OCCUPY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "live (in a certain place)",
-        [
-          "Populate",
-          "Dwell",
-          "Live",
-          "Inhabit"
-        ],
-        [
-          "She resides in Princeton",
-          "he occupies two rooms on the top floor"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "occupy the whole of",
-        [
-          "Be"
-        ],
-        [
-          "The liquid fills the container"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Take",
-      "Concern",
-      "Interest",
-      "Engage",
-      "Busy"
-    ]
-  },
   "OCCUPIED": {
     "MEANINGS": {
       "1": [
@@ -4376,92 +3804,6 @@
       "Interest",
       "Engage",
       "Busy"
-    ]
-  },
-  "OCCUPIER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a member of a military force who is residing in a conquered foreign country",
-        [
-          "Serviceman",
-          "Military man",
-          "Man",
-          "Military personnel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonresident"
-    ],
-    "SYNONYMS": [
-      "Occupant",
-      "Resident",
-      "Occupier"
-    ]
-  },
-  "OCCUR": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "come to one's mind; suggest itself",
-        [
-          "Become"
-        ],
-        [
-          "It occurred to me that we should hire another secretary",
-          "A great idea then came to her"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "to be found to exist",
-        [
-          "Appear",
-          "Come along"
-        ],
-        [
-          "sexism occurs in many workplaces",
-          "precious stones occur in a large area in Brazil"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Go on",
-      "Pass off",
-      "Pass",
-      "Come about",
-      "Happen"
-    ]
-  },
-  "OCCURRENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an instance of something occurring",
-        [
-          "Presence"
-        ],
-        [
-          "a disease of frequent occurrence",
-          "the occurrence (or presence) of life on other planets"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Occurrence",
-      "Natural event",
-      "Occurrent",
-      "Happening"
     ]
   },
   "OCCURRENT": {
@@ -5268,67 +4610,6 @@
       "8vo",
       "Eightvo",
       "Octavo"
-    ]
-  },
-  "OCTET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "eight performers or singers who perform together",
-        [
-          "Musical organization",
-          "Musical organisation",
-          "Musical group"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a set of eight similar things considered as a unit",
-        [
-          "Set"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "eight people considered as a unit",
-        [
-          "Gathering",
-          "Assemblage"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a musical composition written for eight performers",
-        [
-          "Musical composition",
-          "Opus",
-          "Composition",
-          "Piece",
-          "Piece of music"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Octette",
-      "8",
-      "Viii",
-      "Octad",
-      "Eighter"
     ]
   },
   "OCTILLION": {
@@ -6649,30 +5930,6 @@
       "Family hypodermatidae"
     ]
   },
-  "OESTRUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "type genus of the Oestridae: sheep botflies",
-        [
-          "Arthropod genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "anestrus"
-    ],
-    "SYNONYMS": [
-      "Rut",
-      "Genus oestrus",
-      "Oestrus",
-      "Estrus",
-      "Heat"
-    ]
-  },
   "OEUVRE": {
     "MEANINGS": {
       "1": [
@@ -6916,43 +6173,6 @@
       "Scandalise",
       "Scandalize",
       "Offend"
-    ]
-  },
-  "OFFENSE": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the team that has the ball (or puck) and is trying to score",
-        [
-          "Team",
-          "Squad"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the action of attacking an enemy",
-        [
-          "Operation",
-          "Military operation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "defense",
-      "defence"
-    ],
-    "SYNONYMS": [
-      "Offence",
-      "Discourtesy",
-      "Offensive",
-      "Offensive activity",
-      "Crime"
     ]
   },
   "OFFENSELESS": {
@@ -7236,31 +6456,6 @@
       "Offeror",
       "Sour",
       "Cancelled"
-    ]
-  },
-  "OFFERING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "money contributed to a religious organization",
-        [
-          "Contribution",
-          "Donation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Declare oneself",
-      "Volunteer",
-      "Extend",
-      "Tender",
-      "Offer up"
     ]
   },
   "OFFERTORY": {
@@ -7679,32 +6874,6 @@
     "SYNONYMS": [
       "Officiate",
       "Function"
-    ]
-  },
-  "OFFICIATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the performance of a religious or ceremonial or public duty",
-        [
-          "Performance",
-          "Execution",
-          "Carrying out",
-          "Carrying into action"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Refereeing",
-      "Umpirage",
-      "Officiating",
-      "Officiation"
     ]
   },
   "OFFICIOUSLY": {
@@ -8172,31 +7341,6 @@
       "Ofo"
     ]
   },
-  "OFTEN": {
-    "MEANINGS": {
-      "3": [
-        "Adverb",
-        "in many cases or instances",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "rarely",
-      "infrequently"
-    ],
-    "SYNONYMS": [
-      "Oft",
-      "Oftentimes",
-      "Frequently",
-      "Ofttimes",
-      "Much"
-    ]
-  },
   "OFTENER": {
     "MEANINGS": {
       "1": [
@@ -8369,30 +7513,6 @@
     ],
     "SYNONYMS": [
       "Ogler"
-    ]
-  },
-  "OGRE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(folklore) a giant who likes to eat human beings",
-        [
-          "Giant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Devil",
-      "Fiend",
-      "Monster",
-      "Demon",
-      "Ogre"
     ]
   },
   "OGRESS": {
@@ -8815,30 +7935,6 @@
     "SYNONYMS": [
       "Ruvettus pretiosus",
       "Oilfish"
-    ]
-  },
-  "OILY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "coated or covered with oil",
-        [
-
-        ],
-        [
-          "oily puddles in the streets"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Oleaginous",
-      "Oily",
-      "Buttery",
-      "Unctuous",
-      "Sebaceous"
     ]
   },
   "OILMAN": {
@@ -9711,33 +8807,6 @@
       "Olde worlde",
       "Quaint",
       "Old-time"
-    ]
-  },
-  "OLD-TIMER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an elderly man",
-        [
-          "Old man",
-          "Greybeard",
-          "Graybeard",
-          "Methuselah"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Old hand",
-      "Old geezer",
-      "Stager",
-      "Veteran",
-      "Old stager"
     ]
   },
   "OLD-WORLD": {
@@ -11379,30 +10448,6 @@
       "On"
     ]
   },
-  "ONAGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Asiatic wild ass",
-        [
-          "Wild ass"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Arbalest",
-      "Mangonel",
-      "Ballista",
-      "Bricole",
-      "Trebuchet"
-    ]
-  },
   "ONAGRACEAE": {
     "MEANINGS": {
       "1": [
@@ -12541,71 +11586,6 @@
       "Onyx"
     ]
   },
-  "ONLY": {
-    "MEANINGS": {
-      "3": [
-        "Adverb",
-        "with nevertheless the final result",
-        [
-
-        ],
-        [
-          "He arrived only to find his wife dead",
-          "We won only to lose again in the next round"
-        ]
-      ],
-      "4": [
-        "Adverb",
-        "in the final outcome",
-        [
-
-        ],
-        [
-          "These news will only make you more upset"
-        ]
-      ],
-      "5": [
-        "Adverb",
-        "except that; only this time she came out better\"",
-        [
-
-        ],
-        [
-          "It was the same story"
-        ]
-      ],
-      "6": [
-        "Adverb",
-        "never except when",
-        [
-
-        ],
-        [
-          "call me only if your cold gets worse"
-        ]
-      ],
-      "7": [
-        "Adverb",
-        "as recently as",
-        [
-
-        ],
-        [
-          "I spoke to him only an hour ago"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Merely",
-      "Solely",
-      "Alone",
-      "Exclusively",
-      "Only if"
-    ]
-  },
   "ON-LINE": {
     "MEANINGS": {
       "1": [
@@ -12957,33 +11937,6 @@
       "Onosmodium"
     ]
   },
-  "ONRUSH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a forceful forward rush or flow",
-        [
-          "Rush",
-          "Spate",
-          "Surge",
-          "Upsurge"
-        ],
-        [
-          "from the bow she stared at the mesmerising onrush of the sea where it split and foamed",
-          "the explosion interrupted the wild onrush of her thoughts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Onrush",
-      "Attack",
-      "Onslaught",
-      "Onset"
-    ]
-  },
   "ONSET": {
     "MEANINGS": {
       "1": [
@@ -13103,27 +12056,6 @@
     ],
     "SYNONYMS": [
       "Onstage"
-    ]
-  },
-  "ONTARIO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a prosperous and industrialized province in central Canada",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ontario",
-      "Lake ontario"
     ]
   },
   "ONTOGENETIC": {
@@ -14036,32 +12968,6 @@
       "Opencast"
     ]
   },
-  "OPENED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "made open or clear",
-        [
-
-        ],
-        [
-          "the newly opened road"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "close",
-      "fold",
-      "closed"
-    ],
-    "SYNONYMS": [
-      "Opened",
-      "Open up",
-      "Spread out",
-      "Unfold",
-      "Give"
-    ]
-  },
   "OPEN-ENDED": {
     "MEANINGS": {
       "1": [
@@ -14134,30 +13040,6 @@
       "Opener",
       "Undoer",
       "Unfastener"
-    ]
-  },
-  "OPENHEARTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "freely communicative; candidly straightforward",
-        [
-
-        ],
-        [
-          "openhearted advice"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Charitable",
-      "Good-hearted",
-      "Benevolent",
-      "Openhearted",
-      "Large-hearted"
     ]
   },
   "OPEN-HEARTH": {
@@ -15841,29 +14723,6 @@
       "Opopanax"
     ]
   },
-  "OPOSSUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "nocturnal arboreal marsupial having a naked prehensile tail found from southern North America to northern South America",
-        [
-          "Marsupial",
-          "Pouched mammal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Possum",
-      "Opossum",
-      "Phalanger"
-    ]
-  },
   "OPPENHEIMER": {
     "MEANINGS": {
       "1": [
@@ -16223,71 +15082,6 @@
     ],
     "SYNONYMS": [
       "Oppositely"
-    ]
-  },
-  "OPPOSITION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the relation between opposed entities",
-        [
-          "Relation"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a contestant that you are matched against",
-        [
-          "Contestant"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a body of people united in opposing something",
-        [
-          "Body"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a direction opposite to another",
-        [
-          "Direction"
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Noun",
-        "the major political party opposed to the party in office and prepared to replace it if elected",
-        [
-          "Party",
-          "Political party"
-        ],
-        [
-          "Her Majesty's loyal opposition"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foeman",
-      "Foe",
-      "Opponent",
-      "Confrontation",
-      "Enemy"
     ]
   },
   "OPPRESS": {
@@ -17082,41 +15876,6 @@
     "SYNONYMS": [
       "Orach",
       "Orache"
-    ]
-  },
-  "ORACLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a prophecy (usually obscure or allegorical) revealed by a priest or priestess; believed to be infallible",
-        [
-          "Prophecy",
-          "Divination"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a shrine where an oracular god is consulted",
-        [
-          "Shrine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Seer",
-      "Prophesier",
-      "Prophet",
-      "Vaticinator",
-      "Oracle"
     ]
   },
   "ORACULAR": {
@@ -18321,30 +17080,6 @@
       "Order"
     ]
   },
-  "ORDAINED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "invested with ministerial or priestly functions",
-        [
-
-        ],
-        [
-          "an ordained priest"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ordinate",
-      "Ordain",
-      "Appointed",
-      "Enact",
-      "Consecrate"
-    ]
-  },
   "ORDAINER": {
     "MEANINGS": {
       "1": [
@@ -18748,29 +17483,6 @@
       "No.",
       "Ordinal number",
       "Ordinal"
-    ]
-  },
-  "ORDINANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a statute enacted by a city government",
-        [
-          "Legislative act",
-          "Statute"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ordination",
-      "Regulation",
-      "Ordinance"
     ]
   },
   "ORDINAND": {
@@ -19622,58 +18334,6 @@
       "Organizationally"
     ]
   },
-  "ORGANIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to be structured or ordered or operating according to some principle or idea",
-        [
-          "Manage",
-          "Deal",
-          "Care",
-          "Handle"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "bring order and organization to",
-        [
-          "Arrange",
-          "Set up"
-        ],
-        [
-          "Can you help me organize my files?"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "arrange by systematic planning and united effort",
-        [
-          "Initiate",
-          "Pioneer"
-        ],
-        [
-          "machinate a plot",
-          "organize a strike",
-          "devise a plan to take over the director's office"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disorganise",
-      "disorganize"
-    ],
-    "SYNONYMS": [
-      "Organise",
-      "Organize",
-      "Machinate",
-      "Devise",
-      "Get up"
-    ]
-  },
   "ORGANIZED": {
     "MEANINGS": {
       "1": [
@@ -20398,66 +19058,6 @@
       "Origen"
     ]
   },
-  "ORIGIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "properties attributable to your ancestry",
-        [
-          "Ancestry",
-          "Lineage",
-          "Derivation",
-          "Filiation"
-        ],
-        [
-          "he comes from good origins"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an event that is a beginning; a first part or stage of subsequent events",
-        [
-          "Beginning"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the point of intersection of coordinate axes; where the values of the coordinates are all zero",
-        [
-          "Intersection"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the source of something's existence or from which it derives or is derived",
-        [
-          "Source"
-        ],
-        [
-          "the rumor had its origin in idle gossip",
-          "vegetable origins",
-          "mineral origin",
-          "origin in sensation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Line of descent",
-      "Pedigree",
-      "Extraction",
-      "Origination",
-      "Lineage"
-    ]
-  },
   "ORIGINAL": {
     "MEANINGS": {
       "2": [
@@ -21139,35 +19739,6 @@
       "Ormolu"
     ]
   },
-  "ORNAMENT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be an ornament to",
-        [
-          "Deck",
-          "Adorn",
-          "Decorate",
-          "Grace",
-          "Embellish",
-          "Beautify"
-        ],
-        [
-          "stars ornamented the Christmas tree"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ornamentation",
-      "Decoration",
-      "Grace",
-      "Beautify",
-      "Decorate"
-    ]
-  },
   "ORNAMENTAL": {
     "MEANINGS": {
       "1": [
@@ -21284,31 +19855,6 @@
     ],
     "SYNONYMS": [
       "Ornately"
-    ]
-  },
-  "ORNATENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an ornate appearance; being elaborately (even excessively) decorated",
-        [
-          "Appearance",
-          "Visual aspect"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ornateness",
-      "Elaborateness",
-      "Grandiosity",
-      "Magniloquence",
-      "Rhetoric"
     ]
   },
   "ORNITHINE": {
@@ -21713,32 +20259,6 @@
     ],
     "SYNONYMS": [
       "Oropharynx"
-    ]
-  },
-  "OROTUND": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of sounds) full and rich",
-        [
-
-        ],
-        [
-          "orotund tones",
-          "the rotund and reverberating phrase",
-          "pear-shaped vowels"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bombastic",
-      "Large",
-      "Orotund",
-      "Rotund",
-      "Turgid"
     ]
   },
   "OROZCO": {
@@ -22294,28 +20814,6 @@
       "Orthodoxy"
     ]
   },
-  "ORTHOEPY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a term formerly used for the part of phonology that dealt with the `correct' pronunciation of words and its relation to `correct' orthography",
-        [
-          "Phonology",
-          "Phonemics"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pronunciation",
-      "Orthoepy"
-    ]
-  },
   "ORTHOEPIST": {
     "MEANINGS": {
       "1": [
@@ -22334,41 +20832,6 @@
     ],
     "SYNONYMS": [
       "Orthoepist"
-    ]
-  },
-  "ORTHOGONAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "statistically unrelated",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "having a set of mutually perpendicular axes; meeting at right angles",
-        [
-
-        ],
-        [
-          "wind and sea may displace the ship's center of gravity along three orthogonal axes",
-          "a rectangular Cartesian coordinate system"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Extraneous",
-      "Impertinent",
-      "Orthogonal",
-      "Rectangular",
-      "Immaterial"
     ]
   },
   "ORTHOGONALITY": {
@@ -22965,30 +21428,6 @@
     "SYNONYMS": [
       "Oscheocele",
       "Oscheocoele"
-    ]
-  },
-  "OSCILLATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "move or swing from side to side regularly",
-        [
-          "Swing",
-          "Sway"
-        ],
-        [
-          "the needle on the meter was oscillating"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vibrate",
-      "Vacillate",
-      "Oscillate",
-      "Hover"
     ]
   },
   "OSCILLATION": {
@@ -23893,29 +22332,6 @@
       "Osteitis"
     ]
   },
-  "OSTENSIBLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "represented or appearing as such; pretended",
-        [
-
-        ],
-        [
-          "His ostensible purpose was charity, his real goal popularity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Seeming",
-      "Ostensible",
-      "Ostensive",
-      "Apparent"
-    ]
-  },
   "OSTENSIVE": {
     "MEANINGS": {
       "1": [
@@ -24688,58 +23104,6 @@
       "Family ostraciidae",
       "Family ostraciontidae",
       "Ostraciidae"
-    ]
-  },
-  "OSTRACISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of excluding someone from society by general consent",
-        [
-          "Ejection",
-          "Exclusion",
-          "Expulsion",
-          "Riddance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Coventry",
-      "Ostracism",
-      "Banishment"
-    ]
-  },
-  "OSTRACIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "avoid speaking to or dealing with",
-        [
-          "Exclude",
-          "Keep out",
-          "Shut out",
-          "Shut"
-        ],
-        [
-          "Ever since I spoke up, my colleagues ostracize me"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shun",
-      "Cast out",
-      "Blackball",
-      "Ostracize",
-      "Ban"
     ]
   },
   "OSTRACODA": {
@@ -26325,44 +24689,6 @@
       "Outbuilding"
     ]
   },
-  "OUTBURST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a sudden intense happening",
-        [
-          "Happening",
-          "Occurrence",
-          "Occurrent",
-          "Natural event"
-        ],
-        [
-          "an outburst of heavy rain",
-          "a burst of lightning"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a sudden violent disturbance",
-        [
-          "Disturbance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blowup",
-      "Ebullition",
-      "Flare-up",
-      "Burst",
-      "Outburst"
-    ]
-  },
   "OUTCAST": {
     "MEANINGS": {
       "1": [
@@ -26518,35 +24844,6 @@
       "Outstrip",
       "Outdistance",
       "Distance"
-    ]
-  },
-  "OUTDO": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "get the better of",
-        [
-          "Beat",
-          "Beat out",
-          "Crush",
-          "Shell",
-          "Trounce",
-          "Vanquish"
-        ],
-        [
-          "the goal was to best the competition"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Surmount",
-      "Outperform",
-      "Outstrip",
-      "Outgo",
-      "Best"
     ]
   },
   "OUTDOOR": {
@@ -26917,31 +25214,6 @@
       "Rig"
     ]
   },
-  "OUTFITTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "equipped with appropriate wearing apparel and accessories",
-        [
-
-        ],
-        [
-          "children properly outfitted for school",
-          "equipt in the...national dress of the Scottish people\"- Sir Walter Scott"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Outfit",
-      "Outfitted",
-      "Fitted out",
-      "Equip",
-      "Fit"
-    ]
-  },
   "OUTFITTER": {
     "MEANINGS": {
       "1": [
@@ -27026,31 +25298,6 @@
       "Scoop",
       "Outdo",
       "Trump"
-    ]
-  },
-  "OUTFLOW": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the process of flowing out",
-        [
-          "Flow"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "inflow",
-      "influx"
-    ],
-    "SYNONYMS": [
-      "Effluence",
-      "Fountain",
-      "Natural spring",
-      "Efflux",
-      "Spring"
     ]
   },
   "OUTFOX": {
@@ -27823,29 +26070,6 @@
       "Outport"
     ]
   },
-  "OUTPOST": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a military post stationed at a distance from the main body of troops",
-        [
-          "Military post",
-          "Post"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Outstation",
-      "Outpost",
-      "Frontier settlement"
-    ]
-  },
   "OUTPUT": {
     "MEANINGS": {
       "2": [
@@ -27903,31 +26127,6 @@
       "Yield"
     ]
   },
-  "OUTRAGE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a wantonly cruel act",
-        [
-          "Atrocity",
-          "Inhumanity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Scandal",
-      "Dishonor",
-      "Shock",
-      "Dishonour",
-      "Outrage"
-    ]
-  },
   "OUTRAGEOUSLY": {
     "MEANINGS": {
       "1": [
@@ -27957,28 +26156,6 @@
     "SYNONYMS": [
       "Outrageously",
       "Atrociously"
-    ]
-  },
-  "OUTRAGEOUSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being outrageous",
-        [
-          "Indecency"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exorbitance",
-      "Enormity",
-      "Outrageousness"
     ]
   },
   "OUTRANGE": {
@@ -28028,30 +26205,6 @@
     ],
     "SYNONYMS": [
       "Outreach"
-    ]
-  },
-  "OUTRIDE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "ride better, faster, or further than",
-        [
-          "Ride",
-          "Sit"
-        ],
-        [
-          "The champion bicyclist outrode all his competitors"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ride out",
-      "Outride",
-      "Last out",
-      "Stay"
     ]
   },
   "OUTRIDER": {
@@ -28446,27 +26599,6 @@
       "Out-of-door"
     ]
   },
-  "OUTSIDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a contestant (human or animal) not considered to have a good chance to win",
-        [
-          "Contestant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Outsider",
-      "Foreigner"
-    ]
-  },
   "OUTSIZE": {
     "MEANINGS": {
       "1": [
@@ -28640,30 +26772,6 @@
     "SYNONYMS": [
       "Outspread",
       "Spread"
-    ]
-  },
-  "OUTSTAY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "surpass in staying power",
-        [
-          "Last out",
-          "Stay",
-          "Ride out",
-          "Outride"
-        ],
-        [
-          "They outstayed their competitors"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overstay",
-      "Outstay"
     ]
   },
   "OUTSTANDING": {
@@ -29416,33 +27524,6 @@
       "All over"
     ]
   },
-  "OVERABUNDANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a quantity that is more than what is appropriate",
-        [
-          "Abundance",
-          "Copiousness",
-          "Teemingness"
-        ],
-        [
-          "four-year-olds have an overabundance of energy",
-          "we received an inundation of email"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overmuchness",
-      "Overabundance",
-      "Surfeit",
-      "Excess",
-      "Superabundance"
-    ]
-  },
   "OVERABUNDANT": {
     "MEANINGS": {
       "1": [
@@ -29751,30 +27832,6 @@
       "Cow"
     ]
   },
-  "OVERBALANCE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to be off balance",
-        [
-          "Account",
-          "Calculate"
-        ],
-        [
-          "It is not desirable to overbalance the budget"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overbalance",
-      "Preponderate",
-      "Outweigh",
-      "Outbalance"
-    ]
-  },
   "OVERBEAR": {
     "MEANINGS": {
       "1": [
@@ -29881,30 +27938,6 @@
       "Overbite"
     ]
   },
-  "OVERBLOWN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "past the stage of full bloom",
-        [
-
-        ],
-        [
-          "overblown roses"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pompous",
-      "Grandiloquent",
-      "Pontifical",
-      "Overblown",
-      "Portentous"
-    ]
-  },
   "OVERBOARD": {
     "MEANINGS": {
       "1": [
@@ -29933,27 +27966,6 @@
     ],
     "SYNONYMS": [
       "Overboard"
-    ]
-  },
-  "OVERBOIL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "boil excessively",
-        [
-          "Boil"
-        ],
-        [
-          "The peas are overboiled"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overboil",
-      "Boil over"
     ]
   },
   "OVERBURDEN": {
@@ -30230,59 +28242,6 @@
       "Obscure"
     ]
   },
-  "OVERCOAT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an additional protective coating (as of paint or varnish)",
-        [
-          "Coating",
-          "Coat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overcoating",
-      "Greatcoat",
-      "Topcoat",
-      "Overcoat"
-    ]
-  },
-  "OVERCOME": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "get on top of; deal with successfully",
-        [
-          "Beat",
-          "Beat out",
-          "Crush",
-          "Shell",
-          "Trounce",
-          "Vanquish"
-        ],
-        [
-          "He overcame his shyness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Surmount",
-      "Overtake",
-      "Get the better of",
-      "Overwhelm",
-      "Overpower"
-    ]
-  },
   "OVERCOMPENSATION": {
     "MEANINGS": {
       "1": [
@@ -30512,30 +28471,6 @@
     "SYNONYMS": [
       "Overdo",
       "Exaggerate"
-    ]
-  },
-  "OVERDONE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "cooked too long but still edible",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overdone",
-      "Exaggerate",
-      "Overdo",
-      "Overstated",
-      "Exaggerated"
     ]
   },
   "OVERDOSE": {
@@ -31351,31 +29286,6 @@
       "Grow over",
       "Overgrow",
       "Overgrown"
-    ]
-  },
-  "OVERGROWTH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a profusion of growth on or over something else",
-        [
-          "Profusion",
-          "Profuseness",
-          "Richness",
-          "Cornucopia"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overgrowth",
-      "Gigantism",
-      "Giantism"
     ]
   },
   "OVERHAND": {
@@ -32625,28 +30535,6 @@
       "Overproduction"
     ]
   },
-  "OVERPROTECT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "protect excessively",
-        [
-          "Protect"
-        ],
-        [
-          "Don't overprotect your son--he is an adult now!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overprotect",
-      "Fuss",
-      "Mother"
-    ]
-  },
   "OVERPROTECTIVE": {
     "MEANINGS": {
       "1": [
@@ -32957,42 +30845,6 @@
       "Reverse"
     ]
   },
-  "OVERRUN": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "seize the position of and defeat",
-        [
-          "Get the better of",
-          "Overcome",
-          "Defeat"
-        ],
-        [
-          "the Crusaders overran much of the Holy Land"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "run beyond or past",
-        [
-          "Overshoot"
-        ],
-        [
-          "The plane overran the runway"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brim over",
-      "Infest",
-      "Well over",
-      "Invade",
-      "Overproduction"
-    ]
-  },
   "OVERSEA": {
     "MEANINGS": {
       "1": [
@@ -33012,28 +30864,6 @@
     "SYNONYMS": [
       "Oversea",
       "Overseas"
-    ]
-  },
-  "OVERSEAS": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a place across an ocean",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overseas",
-      "Oversea",
-      "Abroad"
     ]
   },
   "OVERSEE": {
@@ -33656,30 +31486,6 @@
       "Overextend"
     ]
   },
-  "OVERSTRUNG": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "too tightly strung",
-        [
-
-        ],
-        [
-          "an overstrung archery bow"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overstrung",
-      "Edgy",
-      "Uptight",
-      "Nervy",
-      "Jumpy"
-    ]
-  },
   "OVERSTUFF": {
     "MEANINGS": {
       "1": [
@@ -33827,28 +31633,6 @@
     ],
     "SYNONYMS": [
       "Overtax"
-    ]
-  },
-  "OVER-THE-COUNTER": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of securities) not traded on a stock exchange",
-        [
-
-        ],
-        [
-          "over-the-counter stocks"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "prescription"
-    ],
-    "SYNONYMS": [
-      "Over-the-counter",
-      "Nonprescription",
-      "Otc"
     ]
   },
   "OVERTHROW": {
@@ -34188,31 +31972,6 @@
       "Overvaliant"
     ]
   },
-  "OVERVALUATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "too high a value or price assigned to something",
-        [
-          "Evaluation",
-          "Valuation",
-          "Rating"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overvaluation",
-      "Overestimate",
-      "Overestimation",
-      "Overappraisal"
-    ]
-  },
   "OVERVALUE": {
     "MEANINGS": {
       "1": [
@@ -34254,32 +32013,6 @@
     ],
     "SYNONYMS": [
       "Overview"
-    ]
-  },
-  "OVERWEENING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "presumptuously arrogant",
-        [
-
-        ],
-        [
-          "had a witty but overweening manner",
-          "no idea how overweening he would be\"- S.V.Benet",
-          "getting a little uppity and needed to be slapped down\"- NY Times"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Excessive",
-      "Uppity",
-      "Exuberant",
-      "Overweening",
-      "Extravagant"
     ]
   },
   "OVERWHELM": {
@@ -35341,38 +33074,6 @@
       "Oxcart"
     ]
   },
-  "OXEYE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Eurasian perennial herbs having daisylike flowers with yellow rays and dark centers",
-        [
-          "Wildflower",
-          "Wild flower"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an oval or round dormer window",
-        [
-          "Dormer window"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Heliopsis",
-      "Oxeye"
-    ]
-  },
   "OX-EYED": {
     "MEANINGS": {
       "1": [
@@ -35652,29 +33353,6 @@
       "Oxydendrum"
     ]
   },
-  "OXIDISE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "enter into a combination with oxygen or become converted into an oxide",
-        [
-          "Change"
-        ],
-        [
-          "This metal oxidizes easily"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deoxidise",
-      "deoxidize"
-    ],
-    "SYNONYMS": [
-      "Oxidate",
-      "Oxidise",
-      "Oxidize"
-    ]
-  },
   "OXIDIZABLE": {
     "MEANINGS": {
       "1": [
@@ -35693,32 +33371,6 @@
     ],
     "SYNONYMS": [
       "Oxidizable"
-    ]
-  },
-  "OXIDIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "add oxygen to or combine with oxygen",
-        [
-          "Change",
-          "Alter",
-          "Modify",
-          "Change"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deoxidise",
-      "deoxidize"
-    ],
-    "SYNONYMS": [
-      "Oxidate",
-      "Oxidise",
-      "Oxidize"
     ]
   },
   "OXIDIZED": {

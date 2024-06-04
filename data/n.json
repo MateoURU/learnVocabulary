@@ -1,30 +1,4 @@
 {
-  "N": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "the 14th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Newton",
-      "North",
-      "Northward",
-      "Due north",
-      "Atomic number 7"
-    ]
-  },
   "NAB": {
     "MEANINGS": {
       "1": [
@@ -100,29 +74,6 @@
     ],
     "SYNONYMS": [
       "Nablus"
-    ]
-  },
-  "NABOB": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a wealthy man (especially one who made his fortune in the Orient)",
-        [
-          "Man of means",
-          "Rich man",
-          "Wealthy man"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nawab",
-      "Nabob"
     ]
   },
   "NABOKOV": {
@@ -1064,63 +1015,6 @@
       "Naja"
     ]
   },
-  "NAKED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having no protecting or concealing cover",
-        [
-
-        ],
-        [
-          "naked to mine enemies\"- Shakespeare"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "(of the eye or ear e.g.) without the aid of an optical or acoustical device or instrument",
-        [
-
-        ],
-        [
-          "visible to the naked eye"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "devoid of elaboration or diminution or concealment; bare and pure",
-        [
-
-        ],
-        [
-          "naked ambition",
-          "raw fury",
-          "you may kill someone someday with your raw power"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "lacking any cover",
-        [
-
-        ],
-        [
-          "naked branches of the trees",
-          "lie on the naked rock"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Raw",
-      "Nude",
-      "Bare",
-      "Au naturel",
-      "Defenseless"
-    ]
-  },
   "NAKEDLY": {
     "MEANINGS": {
       "1": [
@@ -1847,40 +1741,6 @@
     ],
     "SYNONYMS": [
       "Nankeen"
-    ]
-  },
-  "NANNA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Norse mythology) wife of Balder",
-        [
-          "Norse deity"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "god of the Moon; counterpart of the Akkadian Sin",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nanna",
-      "Gran",
-      "Grandmother",
-      "Nan",
-      "Granny"
     ]
   },
   "NANNY": {
@@ -2930,42 +2790,6 @@
       "Narrate"
     ]
   },
-  "NARRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of giving an account describing incidents or a course of events",
-        [
-          "Report",
-          "Account"
-        ],
-        [
-          "his narration was hesitant"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(rhetoric) the second section of an oration in which the facts are set forth",
-        [
-          "Section",
-          "Subdivision"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Story",
-      "Narrative",
-      "Recital",
-      "Yarn",
-      "Narration"
-    ]
-  },
   "NARRATIVE": {
     "MEANINGS": {
       "1": [
@@ -3171,40 +2995,6 @@
       "Narrowly"
     ]
   },
-  "NARROW-MINDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking tolerance or flexibility or breadth of view",
-        [
-
-        ],
-        [
-          "a brilliant but narrow-minded judge",
-          "narrow opinions"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "rigidly adhering to a particular sect or its doctrines",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "broad-minded",
-      "unshockable"
-    ],
-    "SYNONYMS": [
-      "Narrow-minded",
-      "Narrow",
-      "Shockable"
-    ]
-  },
   "NARROW-MINDEDLY": {
     "MEANINGS": {
       "1": [
@@ -3383,31 +3173,6 @@
       "Narwhal",
       "Monodon monoceros",
       "Narwhale"
-    ]
-  },
-  "NASAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an elongated rectangular bone that forms the bridge of the nose",
-        [
-          "Bone",
-          "Os"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nasal",
-      "Os nasale",
-      "Rhinal",
-      "Nasal consonant",
-      "Pinched"
     ]
   },
   "NASALIS": {
@@ -3817,30 +3582,6 @@
       "Nastily"
     ]
   },
-  "NASTINESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the quality of being unpleasant",
-        [
-          "Unpleasantness"
-        ],
-        [
-          "I flinched at the nastiness of his wound"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "niceness"
-    ],
-    "SYNONYMS": [
-      "Foulness",
-      "Cattiness",
-      "Spite",
-      "Bitchiness",
-      "Nastiness"
-    ]
-  },
   "NASTURTIUM": {
     "MEANINGS": {
       "1": [
@@ -3983,54 +3724,6 @@
       "Family naticidae"
     ]
   },
-  "NATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the people who live in a nation or country",
-        [
-          "People"
-        ],
-        [
-          "a statement that sums up the nation's mood",
-          "the news was announced to the nation",
-          "the whole country worshipped him"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "United States prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet (1846-1911)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a federation of tribes (especially Native American tribes)",
-        [
-          "Confederation",
-          "Confederacy",
-          "Federation"
-        ],
-        [
-          "the Shawnee nation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Res publica",
-      "Carry nation",
-      "Commonwealth",
-      "Body politic",
-      "Carry amelia moore nation"
-    ]
-  },
   "NATIONAL": {
     "MEANINGS": {
       "1": [
@@ -4111,58 +3804,6 @@
       "Home",
       "Subject",
       "Interior"
-    ]
-  },
-  "NATIONALISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the doctrine that your national culture and interests are superior to any other",
-        [
-          "Doctrine",
-          "Philosophy",
-          "Philosophical system",
-          "School of thought",
-          "Ism"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the aspiration for national independence felt by people under foreign domination",
-        [
-          "Ambition",
-          "Aspiration",
-          "Dream"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the doctrine that nations should act independently (rather than collectively) to attain their goals",
-        [
-          "Doctrine",
-          "Philosophy",
-          "Philosophical system",
-          "School of thought",
-          "Ism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "internationalism",
-      "multiculturalism"
-    ],
-    "SYNONYMS": [
-      "Patriotism",
-      "Nationalism"
     ]
   },
   "NATIONALIST": {
@@ -5008,30 +4649,6 @@
       "Domesticate"
     ]
   },
-  "NATURALIZED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "planted so as to give an effect of wild growth",
-        [
-
-        ],
-        [
-          "drifts of naturalized daffodils"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "denaturalize"
-    ],
-    "SYNONYMS": [
-      "Established",
-      "Naturalize",
-      "Naturalise",
-      "Tame",
-      "Cultivate"
-    ]
-  },
   "NATURALLY": {
     "MEANINGS": {
       "1": [
@@ -5253,54 +4870,6 @@
     ],
     "SYNONYMS": [
       "Naturopathy"
-    ]
-  },
-  "NAUGHT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "complete failure",
-        [
-          "Failure"
-        ],
-        [
-          "all my efforts led to naught"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nada",
-      "Naught",
-      "Goose egg",
-      "Cipher",
-      "Cypher"
-    ]
-  },
-  "NAUGHTY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "badly behaved",
-        [
-
-        ],
-        [
-          "a naughty boy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gamey",
-      "Risque",
-      "Spicy",
-      "Naughty",
-      "Racy"
     ]
   },
   "NAUGHTINESS": {
@@ -5785,58 +5354,6 @@
       "Navigable"
     ]
   },
-  "NAVIGATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance",
-        [
-          "Steer",
-          "Maneuver",
-          "Manoeuver",
-          "Manoeuvre",
-          "Direct",
-          "Point",
-          "Head",
-          "Guide",
-          "Channelize",
-          "Channelise"
-        ],
-        [
-          "Is anyone volunteering to navigate during the trip?",
-          "Who was navigating the ship during the accident?"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "direct carefully and safely",
-        [
-          "Steer",
-          "Maneuver",
-          "Manoeuver",
-          "Manoeuvre",
-          "Direct",
-          "Point",
-          "Head",
-          "Guide",
-          "Channelize",
-          "Channelise"
-        ],
-        [
-          "He navigated his way to the altar"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pilot",
-      "Navigate",
-      "Voyage",
-      "Sail"
-    ]
-  },
   "NAVIGATION": {
     "MEANINGS": {
       "1": [
@@ -5893,38 +5410,6 @@
     ],
     "SYNONYMS": [
       "Navigational"
-    ]
-  },
-  "NAVIGATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the member of an aircrew who is responsible for the aircraft's course",
-        [
-          "Aircrewman"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "in earlier times, a person who explored by ship",
-        [
-          "Explorer",
-          "Adventurer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Navigator",
-      "Sailing master"
     ]
   },
   "NAVRATILOVA": {
@@ -6198,30 +5683,6 @@
       "Capital of chad",
       "Ndjamena",
       "N'djamena"
-    ]
-  },
-  "NEANDERTHAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to or belonging to or resembling Neanderthal man",
-        [
-
-        ],
-        [
-          "Neanderthal skull"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neanderthal",
-      "Oafish",
-      "Loutish",
-      "Neanderthal man",
-      "Neandertal man"
     ]
   },
   "NEAPOLITAN": {
@@ -6725,31 +6186,6 @@
     ],
     "SYNONYMS": [
       "Nebule"
-    ]
-  },
-  "NEBULOUS": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "lacking definition or definite content",
-        [
-
-        ],
-        [
-          "nebulous reasons",
-          "unfixed as were her general notions of what men ought to be\"- Jane Austen"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cloudy",
-      "Unfixed",
-      "Nebular",
-      "Nebulous",
-      "Nebulose"
     ]
   },
   "NEBULOUSLY": {
@@ -7355,79 +6791,6 @@
       "Cell death"
     ]
   },
-  "NECROLOGY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a list of people who died recently",
-        [
-          "List",
-          "Listing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Necrology",
-      "Obit",
-      "Obituary"
-    ]
-  },
-  "NECROMANCER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one who practices divination by conjuring up the dead",
-        [
-          "Diviner"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Thaumaturgist",
-      "Wizard",
-      "Necromancer",
-      "Sorcerer",
-      "Magician"
-    ]
-  },
-  "NECROMANCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "conjuring up the dead, especially for prophesying",
-        [
-          "Divination",
-          "Foretelling",
-          "Soothsaying",
-          "Fortune telling"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sorcery",
-      "Necromancy",
-      "Black magic",
-      "Black art"
-    ]
-  },
   "NECROMANTIC": {
     "MEANINGS": {
       "1": [
@@ -7831,29 +7194,6 @@
       "Needy"
     ]
   },
-  "NEEDINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of needing attention and affection and reassurance to a marked degree",
-        [
-          "Quality"
-        ],
-        [
-          "he recognized her neediness but had no time to respond to it"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neediness",
-      "Deprivation",
-      "Privation",
-      "Want"
-    ]
-  },
   "NEEDLE": {
     "MEANINGS": {
       "2": [
@@ -7977,29 +7317,6 @@
       "Needlefish",
       "Pipefish",
       "Gar"
-    ]
-  },
-  "NEEDLEPOINT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "embroidery consisting of allover embroidered canvas resembling tapestry",
-        [
-          "Embroidery",
-          "Fancywork"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Point lace",
-      "Needlepoint",
-      "Needlepoint embroidery"
     ]
   },
   "NEEDLESSLY": {
@@ -8249,34 +7566,6 @@
     ],
     "SYNONYMS": [
       "Nefertiti"
-    ]
-  },
-  "NEGATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "prove negative; show to be false",
-        [
-          "Prove",
-          "Demonstrate",
-          "Establish",
-          "Show",
-          "Shew"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "affirm"
-    ],
-    "SYNONYMS": [
-      "Neutralise",
-      "Contravene",
-      "Neutralize",
-      "Belie",
-      "Negate"
     ]
   },
   "NEGATION": {
@@ -8585,31 +7874,6 @@
       "Leave out"
     ]
   },
-  "NEGLECTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking a caretaker",
-        [
-
-        ],
-        [
-          "a neglected child",
-          "many casualties were lying unattended"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "attend_to"
-    ],
-    "SYNONYMS": [
-      "Neglect",
-      "Unattended",
-      "Overleap",
-      "Ignore",
-      "Leave out"
-    ]
-  },
   "NEGLECTER": {
     "MEANINGS": {
       "1": [
@@ -8824,30 +8088,6 @@
       "On the table",
       "Transferrable",
       "Negotiable"
-    ]
-  },
-  "NEGOTIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "succeed in passing through, around, or over",
-        [
-          "Pass",
-          "Go through",
-          "Go across"
-        ],
-        [
-          "The hiker negociated the high mountain pass"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Negociate",
-      "Negotiate",
-      "Talk terms"
     ]
   },
   "NEGOTIATION": {
@@ -9174,42 +8414,6 @@
     "SYNONYMS": [
       "Neighbor",
       "Neighbour"
-    ]
-  },
-  "NEIGHBORHOOD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "people living near one another",
-        [
-          "Community"
-        ],
-        [
-          "it is a friendly neighborhood",
-          "my neighborhood voted for Bush"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an area within a city or town that has some distinctive features (especially one forming a community)",
-        [
-          "Area",
-          "Country"
-        ],
-        [
-          "an ethnic neighborhood"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neighborhood",
-      "Neighbourhood",
-      "Vicinity",
-      "Region",
-      "Neck of the woods"
     ]
   },
   "NEIGHBORLY": {
@@ -10462,28 +9666,6 @@
       "Nepalese"
     ]
   },
-  "NEPALI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the official state language of Nepal",
-        [
-          "Indic",
-          "Indo-aryan"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nepali",
-      "Nepalese"
-    ]
-  },
   "NEPENTHACEAE": {
     "MEANINGS": {
       "1": [
@@ -11145,30 +10327,6 @@
       "Neptunium"
     ]
   },
-  "NERD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an intelligent but single-minded expert in a particular technical field or profession",
-        [
-          "Expert"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dweeb",
-      "Swot",
-      "Grind",
-      "Wonk",
-      "Nerd"
-    ]
-  },
   "NEREID": {
     "MEANINGS": {
       "1": [
@@ -11505,60 +10663,6 @@
       "Nerve-wracking"
     ]
   },
-  "NERVES": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "control of your emotions",
-        [
-          "Self-control",
-          "Self-possession",
-          "Possession",
-          "Willpower",
-          "Will power",
-          "Self-command",
-          "Self-will"
-        ],
-        [
-          "this kind of tension is not good for my nerves"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nerves",
-      "Brass",
-      "Steel",
-      "Nervus",
-      "Boldness"
-    ]
-  },
-  "NERVY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "showing or requiring courage and contempt of danger",
-        [
-
-        ],
-        [
-          "the nervy feats of mountaineers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overstrung",
-      "Edgy",
-      "Cheeky",
-      "Uptight",
-      "Nervy"
-    ]
-  },
   "NERVOUS": {
     "MEANINGS": {
       "1": [
@@ -11623,44 +10727,6 @@
     ],
     "SYNONYMS": [
       "Nervously"
-    ]
-  },
-  "NERVOUSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an uneasy psychological state",
-        [
-          "Psychological state",
-          "Psychological condition",
-          "Mental state",
-          "Mental condition"
-        ],
-        [
-          "he suffered an attack of nerves"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a sensitive or highly strung temperament",
-        [
-          "Disposition",
-          "Temperament"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nerves",
-      "Jitteriness",
-      "Restiveness",
-      "Jumpiness",
-      "Nervousness"
     ]
   },
   "NESCIENT": {
@@ -11791,67 +10857,6 @@
         ],
         [
 
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nest",
-      "Snuggle",
-      "Draw close",
-      "Cuddle",
-      "Nuzzle"
-    ]
-  },
-  "NESTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a bird that has built (or is building) a nest",
-        [
-          "Bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Homesteader",
-      "Squatter",
-      "Nester"
-    ]
-  },
-  "NESTLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "lie in a sheltered position",
-        [
-          "Lie"
-        ],
-        [
-          "The little cottage nestles in the forest"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "position comfortably",
-        [
-          "Put",
-          "Set",
-          "Place",
-          "Pose",
-          "Position",
-          "Lay"
-        ],
-        [
-          "The baby nestled her head in her mother's elbow"
         ]
       ]
     },
@@ -12179,30 +11184,6 @@
       "Nederland"
     ]
   },
-  "NETTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "creating nets",
-        [
-          "Weaving"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gauze",
-      "Sack up",
-      "Net",
-      "Nett",
-      "Web"
-    ]
-  },
   "NETTLE": {
     "MEANINGS": {
       "1": [
@@ -12284,29 +11265,6 @@
       "Meshwork",
       "Meshing",
       "Electronic network"
-    ]
-  },
-  "NEURAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to neurons",
-        [
-
-        ],
-        [
-          "neural network"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neuronic",
-      "Neuronal",
-      "Nervous",
-      "Neural"
     ]
   },
   "NEURALGIA": {
@@ -14158,27 +13116,6 @@
       "Nevermore"
     ]
   },
-  "NEVER-NEVER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the remote outback of Australia; unpopulated desert country",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hire-purchase",
-      "Never-never"
-    ]
-  },
   "NEVIS": {
     "MEANINGS": {
       "1": [
@@ -14469,28 +13406,6 @@
       "Freshman",
       "Fledgeling",
       "Newbie"
-    ]
-  },
-  "NEWEL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the central pillar of a circular staircase",
-        [
-          "Column",
-          "Pillar"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Newel post",
-      "Newel"
     ]
   },
   "NEWFANGLED": {
@@ -15328,27 +14243,6 @@
       "Succeeding"
     ]
   },
-  "NEXUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a connected series or group",
-        [
-          "Series"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nexus",
-      "Link"
-    ]
-  },
   "NGULTRUM": {
     "MEANINGS": {
       "1": [
@@ -15930,30 +14824,6 @@
     ],
     "SYNONYMS": [
       "Nicely"
-    ]
-  },
-  "NICENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of nice",
-        [
-          "Pleasantness",
-          "Sweetness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nastiness",
-      "impoliteness"
-    ],
-    "SYNONYMS": [
-      "Politeness",
-      "Niceness",
-      "Subtlety"
     ]
   },
   "NICHE": {
@@ -16547,28 +15417,6 @@
       "Nidulariales"
     ]
   },
-  "NIDUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a nest in which spiders or insects deposit their eggs",
-        [
-          "Nest"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Focal point",
-      "Focus",
-      "Nidus"
-    ]
-  },
   "NIEBUHR": {
     "MEANINGS": {
       "1": [
@@ -17035,32 +15883,6 @@
       "Nightdress",
       "Gown",
       "Night-robe"
-    ]
-  },
-  "NIGHTHAWK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "mainly nocturnal North American goatsucker",
-        [
-          "Goatsucker",
-          "Nightjar",
-          "Caprimulgid"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Night owl",
-      "Nighthawk",
-      "Nightbird",
-      "Mosquito hawk",
-      "Bullbat"
     ]
   },
   "NIGHTINGALE": {
@@ -19992,32 +18814,6 @@
       "Noah"
     ]
   },
-  "NOBBLE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "disable by drugging",
-        [
-          "Disable",
-          "Disenable",
-          "Incapacitate"
-        ],
-        [
-          "nobble the race horses"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pilfer",
-      "Snarf",
-      "Scam",
-      "Mulct",
-      "Pinch"
-    ]
-  },
   "NOBEL": {
     "MEANINGS": {
       "1": [
@@ -20129,77 +18925,6 @@
       "Nobility",
       "Magnanimousness",
       "Grandeur"
-    ]
-  },
-  "NOBLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times",
-        [
-
-        ],
-        [
-          "of noble birth"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "having or showing or indicative of high or elevated character",
-        [
-
-        ],
-        [
-          "a noble spirit",
-          "noble deeds"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "inert especially toward oxygen",
-        [
-
-        ],
-        [
-          "a noble gas such as helium or neon",
-          "noble metals include gold and silver and platinum"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "lowborn",
-      "Lady",
-      "noblewoman",
-      "ignoble"
-    ],
-    "SYNONYMS": [
-      "Noble",
-      "Imposing",
-      "Lord",
-      "Stately",
-      "Nobleman"
-    ]
-  },
-  "NOBLESSE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "members of the nobility (especially of the French nobility)",
-        [
-          "Nobility",
-          "Aristocracy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Noblesse",
-      "Nobility"
     ]
   },
   "NOBLY": {
@@ -20739,27 +19464,6 @@
     ],
     "SYNONYMS": [
       "Nodulose"
-    ]
-  },
-  "NOG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a wooden block built into a masonry wall so that joinery structure can be nailed to it",
-        [
-          "Block"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nog",
-      "Peg"
     ]
   },
   "NOGALES": {
@@ -22657,30 +21361,6 @@
       "Nonconforming"
     ]
   },
-  "NONCONFORMISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the practice of nonconformity",
-        [
-          "Practice",
-          "Pattern"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "conformity",
-      "conformism"
-    ],
-    "SYNONYMS": [
-      "Nonconformity",
-      "Nonconformance",
-      "Nonconformism"
-    ]
-  },
   "NONCONFORMIST": {
     "MEANINGS": {
       "1": [
@@ -23178,28 +21858,6 @@
       "Nonechoic"
     ]
   },
-  "NONEFFERVESCENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not effervescent",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "effervescent",
-      "sparkling"
-    ],
-    "SYNONYMS": [
-      "Noneffervescent",
-      "Still"
-    ]
-  },
   "NONELECTIVE": {
     "MEANINGS": {
       "1": [
@@ -23303,28 +21961,6 @@
       "Nonevent"
     ]
   },
-  "NONEXEMPT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of persons) not exempt from an obligation or liability",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nontaxable",
-      "exempt"
-    ],
-    "SYNONYMS": [
-      "Taxable",
-      "Nonexempt"
-    ]
-  },
   "NONEXISTENCE": {
     "MEANINGS": {
       "1": [
@@ -23408,27 +22044,6 @@
     ],
     "SYNONYMS": [
       "Nonexplosive"
-    ]
-  },
-  "NONEXTANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "no longer existing or inaccessible through loss or destruction",
-        [
-
-        ],
-        [
-          "its nonextant original was written on vellum\"- G.B.Saul"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "extant"
-    ],
-    "SYNONYMS": [
-      "Extinct",
-      "Nonextant"
     ]
   },
   "NONEXTENSILE": {
@@ -24027,31 +22642,6 @@
       "Noninvasive"
     ]
   },
-  "NONIONIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not ionic",
-        [
-
-        ],
-        [
-          "a nonionic substance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ionized",
-      "ionic"
-    ],
-    "SYNONYMS": [
-      "Unionized",
-      "Nonionic",
-      "Nonionized",
-      "Nonpolar",
-      "Unionised"
-    ]
-  },
   "NONIONIZED": {
     "MEANINGS": {
       "1": [
@@ -24626,51 +23216,6 @@
       "Nonoperational"
     ]
   },
-  "NONPAYMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "loss resulting from failure of a debt to be paid",
-        [
-          "Financial loss"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "payment"
-    ],
-    "SYNONYMS": [
-      "Evasion",
-      "Nonpayment",
-      "Default",
-      "Nonremittal"
-    ]
-  },
-  "NONPARALLEL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of e.g. lines or paths) not parallel; converging",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Serial",
-      "Nonparallel",
-      "In series"
-    ]
-  },
   "NONPARAMETRIC": {
     "MEANINGS": {
       "1": [
@@ -24689,41 +23234,6 @@
     ],
     "SYNONYMS": [
       "Nonparametric"
-    ]
-  },
-  "NONPAREIL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "colored beads of sugar used as a topping on e.g. candies and cookies",
-        [
-          "Sweet",
-          "Confection"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a flat disk of chocolate covered with beads of colored sugar",
-        [
-          "Chocolate candy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nonsuch",
-      "Nonpareil",
-      "Unrivaled",
-      "Ideal",
-      "Matchless"
     ]
   },
   "NONPARTICIPANT": {
@@ -25452,29 +23962,6 @@
       "Nonresistance"
     ]
   },
-  "NONRESISTANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "offering no resistance",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Liable",
-      "Nonresistant",
-      "Unresistant",
-      "Nonimmune"
-    ]
-  },
   "NON-RESISTANT": {
     "MEANINGS": {
       "1": [
@@ -26050,31 +24537,6 @@
       "Nonstandard"
     ]
   },
-  "NONSTARTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a horse that fails to run in a race for which it has been entered",
-        [
-          "Racehorse",
-          "Race horse",
-          "Bangtail"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "achiever"
-    ],
-    "SYNONYMS": [
-      "Unsuccessful person",
-      "Loser",
-      "Nonstarter",
-      "Failure"
-    ]
-  },
   "NONSTEROID": {
     "MEANINGS": {
       "1": [
@@ -26518,37 +24980,6 @@
     ],
     "SYNONYMS": [
       "Nonvenomous"
-    ]
-  },
-  "NONVERBAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking verbal skill",
-        [
-
-        ],
-        [
-          "rural students often come from nonverbal backgrounds"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "involving little use of language",
-        [
-
-        ],
-        [
-          "a nonverbal intelligence test"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nonverbal",
-      "Gestural"
     ]
   },
   "NONVERBALLY": {
@@ -28867,29 +27298,6 @@
       "Nostril"
     ]
   },
-  "NOSTRUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "patent medicine whose efficacy is questionable",
-        [
-          "Patent medicine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Catholicon",
-      "Panacea",
-      "Nostrum",
-      "Cure-all"
-    ]
-  },
   "NOT": {
     "MEANINGS": {
       "1": [
@@ -29226,30 +27634,6 @@
     "SYNONYMS": [
       "Notebook computer",
       "Notebook"
-    ]
-  },
-  "NOTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "worthy of notice or attention",
-        [
-
-        ],
-        [
-          "a noted increase in the crime rate"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ignore"
-    ],
-    "SYNONYMS": [
-      "Note",
-      "Take down",
-      "Remark",
-      "Celebrated",
-      "Take note"
     ]
   },
   "NOTEPAD": {
@@ -29632,105 +28016,6 @@
       "Notifiable"
     ]
   },
-  "NOTIFICATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a request for payment",
-        [
-          "Request",
-          "Asking"
-        ],
-        [
-          "the notification stated the grace period and the penalties for defaulting"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Telling",
-      "Apprisal",
-      "Notice",
-      "Notification",
-      "Presentment"
-    ]
-  },
-  "NOTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a general inclusive concept",
-        [
-          "Concept",
-          "Conception",
-          "Construct"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an odd or fanciful or capricious idea",
-        [
-          "Idea",
-          "Thought"
-        ],
-        [
-          "the theatrical notion of disguise is associated with disaster in his stories",
-          "he had a whimsy about flying to the moon",
-          "whimsy can be humorous to someone with time to enjoy it"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(usually plural) small personal articles or clothing or sewing items",
-        [
-          "Article"
-        ],
-        [
-          "buttons and needles are notions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Whim",
-      "Whimsey",
-      "Opinion",
-      "Impression",
-      "Notion"
-    ]
-  },
-  "NOTIONAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not based on fact or investigation",
-        [
-
-        ],
-        [
-          "a notional figure of cost helps in determining production costs",
-          "speculative knowledge"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Imaginary",
-      "Notional",
-      "Speculative",
-      "Ideational",
-      "Fanciful"
-    ]
-  },
   "NOTOCHORD": {
     "MEANINGS": {
       "1": [
@@ -30072,33 +28357,6 @@
       "Nutrify"
     ]
   },
-  "NOURISHMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of nourishing",
-        [
-          "Care",
-          "Attention",
-          "Aid",
-          "Tending"
-        ],
-        [
-          "her nourishment of the orphans saved many lives"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Victuals",
-      "Nutriment",
-      "Alimentation",
-      "Nourishment",
-      "Nutrition"
-    ]
-  },
   "NOUS": {
     "MEANINGS": {
       "1": [
@@ -30335,30 +28593,6 @@
       "Novelise"
     ]
   },
-  "NOVELTY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "originality by virtue of being new and surprising",
-        [
-          "Originality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Knickknack",
-      "Novelty",
-      "Bangle",
-      "Trinket",
-      "Freshness"
-    ]
-  },
   "NOVEMBER": {
     "MEANINGS": {
       "1": [
@@ -30458,30 +28692,6 @@
     ],
     "SYNONYMS": [
       "Novial"
-    ]
-  },
-  "NOVICE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone new to a field or activity",
-        [
-          "Unskilled person"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Initiate",
-      "Tyro",
-      "Novice",
-      "Novitiate",
-      "Beginner"
     ]
   },
   "NOVILLADA": {
@@ -31821,30 +30031,6 @@
       "Nullipara"
     ]
   },
-  "NULLITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "something that is null (especially an enactment that has no legal validity)",
-        [
-          "Act",
-          "Enactment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nothingness",
-      "Nihility",
-      "Nullity",
-      "Void"
-    ]
-  },
   "NUMB": {
     "MEANINGS": {
       "1": [
@@ -32298,53 +30484,6 @@
     ],
     "SYNONYMS": [
       "Numerator"
-    ]
-  },
-  "NUMERIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "measured or expressed in numbers",
-        [
-
-        ],
-        [
-          "numerical value",
-          "the numerical superiority of the enemy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Numeric",
-      "Numeral",
-      "Numerical"
-    ]
-  },
-  "NUMERICAL": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "relating to or having ability to think in or work with numbers",
-        [
-
-        ],
-        [
-          "tests for rating numerical aptitude",
-          "a mathematical whiz"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "verbal"
-    ],
-    "SYNONYMS": [
-      "Mathematical",
-      "Numeral",
-      "Numerical",
-      "Numeric"
     ]
   },
   "NUMERICALLY": {
@@ -33308,27 +31447,6 @@
       "Nutlet"
     ]
   },
-  "NUTLIKE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "resembling a nut in shape and size",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nutty",
-      "Nutlike"
-    ]
-  },
   "NUTMEG": {
     "MEANINGS": {
       "1": [
@@ -33359,30 +31477,6 @@
       "Myristica fragrans",
       "Nutmeg",
       "Nutmeg tree"
-    ]
-  },
-  "NUTRIENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis",
-        [
-          "Substance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alimentary",
-      "Nutrient",
-      "Alimental",
-      "Food",
-      "Nutritious"
     ]
   },
   "NUTRIFY": {
@@ -33599,43 +31693,6 @@
       "Crackers",
       "Kooky",
       "Wacky"
-    ]
-  },
-  "NUZZLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "rub noses",
-        [
-          "Caress",
-          "Fondle"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "dig out with the snout",
-        [
-          "Excavate",
-          "Dig up",
-          "Turn up"
-        ],
-        [
-          "the pig nuzzled the truffle"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nest",
-      "Snuggle",
-      "Nose",
-      "Draw close",
-      "Cuddle"
     ]
   }
 }

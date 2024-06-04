@@ -597,28 +597,6 @@
       "Ulcerate"
     ]
   },
-  "ULCERATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the process of ulcer formation; the process of becoming ulcerated",
-        [
-          "Organic process",
-          "Biological process"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ulcer",
-      "Ulceration"
-    ]
-  },
   "ULCERATIVE": {
     "MEANINGS": {
       "1": [
@@ -926,31 +904,6 @@
     ],
     "SYNONYMS": [
       "Ulster"
-    ]
-  },
-  "ULTERIOR": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "beyond or outside an area of immediate interest; remote",
-        [
-
-        ],
-        [
-          "a suggestion ulterior to the present discussion",
-          "without...any purpose, immediate or ulterior\"- G.B.Shaw"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Posterior",
-      "Subterraneous",
-      "Later",
-      "Subterranean",
-      "Ulterior"
     ]
   },
   "ULTERIORLY": {
@@ -2284,30 +2237,6 @@
       "Unabused"
     ]
   },
-  "UNACCENTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used of vowels or syllables) pronounced with little or no stress",
-        [
-
-        ],
-        [
-          "a syllable that ends in a short vowel is a light syllable",
-          "a weak stress on the second syllable"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tonic"
-    ],
-    "SYNONYMS": [
-      "Atonic",
-      "Unaccented",
-      "Light",
-      "Weak"
-    ]
-  },
   "UNACCEPTABILITY": {
     "MEANINGS": {
       "1": [
@@ -2629,29 +2558,6 @@
       "Unacknowledged"
     ]
   },
-  "UNACQUAINTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having little or no knowledge of",
-        [
-
-        ],
-        [
-          "unacquainted with city ways"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unfamiliar with",
-      "Unacquainted",
-      "Unacquainted with",
-      "Innocent"
-    ]
-  },
   "UNACQUISITIVE": {
     "MEANINGS": {
       "1": [
@@ -2929,27 +2835,6 @@
     ],
     "SYNONYMS": [
       "Unadventurous"
-    ]
-  },
-  "UNADVISED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having received no information",
-        [
-
-        ],
-        [
-          "a defendant unadvised of her legal rights"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "well-advised"
-    ],
-    "SYNONYMS": [
-      "Ill-advised",
-      "Unadvised"
     ]
   },
   "UNADVISEDLY": {
@@ -3866,31 +3751,6 @@
       "Unappealable"
     ]
   },
-  "UNAPPEALING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not able to attract favorable attention",
-        [
-
-        ],
-        [
-          "they have made the place as unappealing as possible",
-          "was forced to talk to his singularly unappealing hostess"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sympathetic",
-      "appealing"
-    ],
-    "SYNONYMS": [
-      "Unappealing",
-      "Unsympathetic",
-      "Unlikeable",
-      "Unlikable"
-    ]
-  },
   "UNAPPEALINGLY": {
     "MEANINGS": {
       "1": [
@@ -3950,30 +3810,6 @@
     "SYNONYMS": [
       "Unappetizing",
       "Unappetising"
-    ]
-  },
-  "UNAPPRECIATED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having value that is not acknowledged",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unsung",
-      "Thankless",
-      "Ungratifying",
-      "Unvalued",
-      "Unappreciated"
     ]
   },
   "UNAPPRECIATIVE": {
@@ -4315,42 +4151,6 @@
       "Unasked"
     ]
   },
-  "UNASSAILABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "impossible to assail",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "without flaws or loopholes",
-        [
-
-        ],
-        [
-          "an ironclad contract",
-          "a watertight alibi",
-          "a bulletproof argument"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Secure",
-      "Strong",
-      "Unassailable",
-      "Untouchable",
-      "Watertight"
-    ]
-  },
   "UNASSERTIVE": {
     "MEANINGS": {
       "1": [
@@ -4431,28 +4231,6 @@
     ],
     "SYNONYMS": [
       "Unassigned"
-    ]
-  },
-  "UNASSISTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking help",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "assisted"
-    ],
-    "SYNONYMS": [
-      "Single-handed",
-      "Unassisted",
-      "Unbacked"
     ]
   },
   "UNASSUMINGLY": {
@@ -4776,39 +4554,6 @@
     ],
     "SYNONYMS": [
       "Unavenged"
-    ]
-  },
-  "UNAVOWED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not affirmed or mentioned or declared",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not openly made known",
-        [
-
-        ],
-        [
-          "a secret marriage",
-          "a secret bride"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Secret",
-      "Unavowed",
-      "Sneaking"
     ]
   },
   "UNAWAKENED": {
@@ -5307,30 +5052,6 @@
       "Unbelief"
     ]
   },
-  "UNBELIEVABLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an unbelievable manner",
-        [
-
-        ],
-        [
-          "he was unbelievably angry"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "credibly",
-      "believably"
-    ],
-    "SYNONYMS": [
-      "Implausibly",
-      "Improbably",
-      "Unbelievably",
-      "Incredibly"
-    ]
-  },
   "UNBELT": {
     "MEANINGS": {
       "1": [
@@ -5372,57 +5093,6 @@
       "Unbelted",
       "Unbelt",
       "Beltless"
-    ]
-  },
-  "UNBEND": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "unfasten, as a sail, from a spar or a stay",
-        [
-          "Unfasten"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "free from flexure",
-        [
-          "Straighten",
-          "Straighten out"
-        ],
-        [
-          "unbend a bow"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "release from mental strain, tension, or formality",
-        [
-          "Relax",
-          "Unstrain",
-          "Unlax",
-          "Loosen up",
-          "Unwind",
-          "Make relaxed"
-        ],
-        [
-          "unbend the mind from absorbing too much information"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tense",
-      "bend"
-    ],
-    "SYNONYMS": [
-      "Loosen up",
-      "Unbend",
-      "Decompress",
-      "Relax",
-      "Unwind"
     ]
   },
   "UNBENEFICED": {
@@ -5469,28 +5139,6 @@
       "Unbend",
       "Decompress",
       "Relax"
-    ]
-  },
-  "UNBIASED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "without bias",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Indifferent",
-      "Unbiased",
-      "Unbiassed"
     ]
   },
   "UNBIGOTED": {
@@ -5927,28 +5575,6 @@
       "Unbound"
     ]
   },
-  "UNBOWED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not forced to bow down to a conqueror",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unbowed",
-      "Straight",
-      "Unbent"
-    ]
-  },
   "UNBOX": {
     "MEANINGS": {
       "1": [
@@ -5968,39 +5594,6 @@
     ],
     "SYNONYMS": [
       "Unbox"
-    ]
-  },
-  "UNBRACE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "remove from tension",
-        [
-          "Relax",
-          "Unbend"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "remove a brace or braces from",
-        [
-          "Weaken"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tie"
-    ],
-    "SYNONYMS": [
-      "Untie",
-      "Unlace",
-      "Unbrace"
     ]
   },
   "UNBRACED": {
@@ -6799,28 +6392,6 @@
       "Incertain"
     ]
   },
-  "UNCERTAINLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "showing lack of certainty",
-        [
-
-        ],
-        [
-          "he paused uncertainly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "steadily"
-    ],
-    "SYNONYMS": [
-      "Unsteadily",
-      "Uncertainly",
-      "Falteringly"
-    ]
-  },
   "UNCERTAINTY": {
     "MEANINGS": {
       "1": [
@@ -7153,27 +6724,6 @@
       "Uncheckable"
     ]
   },
-  "UNCHEERFULNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "not conducive to cheer or good spirits",
-        [
-          "Attribute"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "cheerfulness"
-    ],
-    "SYNONYMS": [
-      "Uncheerfulness",
-      "Cheerlessness"
-    ]
-  },
   "UNCHIVALROUSLY": {
     "MEANINGS": {
       "1": [
@@ -7420,30 +6970,6 @@
       "Uncle"
     ]
   },
-  "UNCLEAN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a physical or moral blemish so as to make impure according to dietary or ceremonial laws",
-        [
-
-        ],
-        [
-          "unclean meat",
-          "and the swine...is unclean to you\"-Leviticus 11:3"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "clean"
-    ],
-    "SYNONYMS": [
-      "Soiled",
-      "Dirty",
-      "Impure",
-      "Unclean"
-    ]
-  },
   "UNCLEANLY": {
     "MEANINGS": {
       "1": [
@@ -7482,32 +7008,6 @@
     ],
     "SYNONYMS": [
       "Uncleanliness"
-    ]
-  },
-  "UNCLEAR": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not clear to the mind",
-        [
-
-        ],
-        [
-          "the law itself was unclear on that point",
-          "the reason for their actions is unclear to this day"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "well-defined",
-      "clear"
-    ],
-    "SYNONYMS": [
-      "Unreadable",
-      "Indecipherable",
-      "Ill-defined",
-      "Undecipherable",
-      "Unclear"
     ]
   },
   "UNCLEARED": {
@@ -7612,27 +7112,6 @@
       "Unclipped"
     ]
   },
-  "UNCLOAK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "remove a cloak from",
-        [
-          "Take off"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unmask",
-      "Uncloak"
-    ]
-  },
   "UNCLOG": {
     "MEANINGS": {
       "1": [
@@ -7735,40 +7214,6 @@
       "Undress",
       "Peel",
       "Uncase"
-    ]
-  },
-  "UNCLOUDED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "not mentally disordered",
-        [
-
-        ],
-        [
-          "an unclouded mind"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "not made opaque or cloudy by sediment",
-        [
-
-        ],
-        [
-          "the wine was unclouded"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Light",
-      "Cloudless",
-      "Clear",
-      "Unclouded",
-      "Clean"
     ]
   },
   "UNCLUTTER": {
@@ -8347,27 +7792,6 @@
       "Uncomplainingly"
     ]
   },
-  "UNCOMPLETED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not caught or not caught within bounds",
-        [
-
-        ],
-        [
-          "an uncompleted pass"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Incomplete",
-      "Uncompleted"
-    ]
-  },
   "UNCOMPLICATED": {
     "MEANINGS": {
       "1": [
@@ -8391,28 +7815,6 @@
       "Elementary",
       "Uncomplicated",
       "Unproblematic"
-    ]
-  },
-  "UNCOMPLIMENTARY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "tending to (or intended to) detract or disparage",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "flattering",
-      "complimentary"
-    ],
-    "SYNONYMS": [
-      "Unflattering",
-      "Uncomplimentary"
     ]
   },
   "UNCOMPOUNDED": {
@@ -8538,28 +7940,6 @@
     ],
     "SYNONYMS": [
       "Unconcealed"
-    ]
-  },
-  "UNCONCERN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a feeling of lack of concern",
-        [
-          "Feeling"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "concern"
-    ],
-    "SYNONYMS": [
-      "Unconcern",
-      "Indifference",
-      "Nonchalance"
     ]
   },
   "UNCONCERNED": {
@@ -10455,63 +9835,6 @@
       "Uncus"
     ]
   },
-  "UNCUT": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "not shaped by cutting or trimming",
-        [
-
-        ],
-        [
-          "an uncut diamond",
-          "rough gemstones"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "(of pages of a book) having adjacent leaves still joined at the fore edge",
-        [
-
-        ],
-        [
-          "a book with its leaves still uncut"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "not cut",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Adjective",
-        "not cut",
-        [
-
-        ],
-        [
-          "glad to get out of the house with my throat uncut\"- Tobias Smollett"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "mown",
-      "cut",
-      "trimmed"
-    ],
-    "SYNONYMS": [
-      "Uncut",
-      "Rough",
-      "Untrimmed",
-      "Unmown",
-      "Full-length"
-    ]
-  },
   "UNDAMAGED": {
     "MEANINGS": {
       "1": [
@@ -10623,30 +9946,6 @@
     ],
     "SYNONYMS": [
       "Undeceive"
-    ]
-  },
-  "UNDECIDED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "not yet having made a commitment",
-        [
-
-        ],
-        [
-          "undecided voters"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Undecided",
-      "On the fence",
-      "Undetermined",
-      "Open",
-      "Unresolved"
     ]
   },
   "UNDECIPHERED": {
@@ -10964,28 +10263,6 @@
       "Unreliableness"
     ]
   },
-  "UNDEPENDABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "liable to be erroneous or misleading",
-        [
-
-        ],
-        [
-          "an undependable generalization"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "reliable",
-      "dependable"
-    ],
-    "SYNONYMS": [
-      "Undependable",
-      "Unreliable"
-    ]
-  },
   "UNDEPICTED": {
     "MEANINGS": {
       "1": [
@@ -11190,28 +10467,6 @@
       "Underact"
     ]
   },
-  "UNDERAGE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "dependent by virtue of youth",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "major"
-    ],
-    "SYNONYMS": [
-      "Nonaged",
-      "Underage",
-      "Minor"
-    ]
-  },
   "UNDERARM": {
     "MEANINGS": {
       "1": [
@@ -11326,30 +10581,6 @@
     ],
     "SYNONYMS": [
       "Underbid"
-    ]
-  },
-  "UNDERBRED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of inferior or mixed breed",
-        [
-
-        ],
-        [
-          "an underbred dog"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rude",
-      "Bounderish",
-      "Yokelish",
-      "Lowbred",
-      "Ill-bred"
     ]
   },
   "UNDERBRUSH": {
@@ -11593,28 +10824,6 @@
 
     ],
     "SYNONYMS": [
-      "Underdevelop"
-    ]
-  },
-  "UNDERDEVELOPED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not yet fully developed",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Developing",
-      "Underdeveloped",
       "Underdevelop"
     ]
   },
@@ -12280,53 +11489,6 @@
       "Underlie"
     ]
   },
-  "UNDERLYING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "located beneath or below",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fundamental",
-      "Inherent",
-      "Underlie",
-      "Rudimentary",
-      "Implicit in"
-    ]
-  },
-  "UNDERLINE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "draw a line or lines underneath to call attention to",
-        [
-          "Mark"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Emphasise",
-      "Emphasize",
-      "Underline",
-      "Underscore"
-    ]
-  },
   "UNDERLIP": {
     "MEANINGS": {
       "1": [
@@ -12561,27 +11723,6 @@
       "Bear out",
       "Support",
       "Corroborate"
-    ]
-  },
-  "UNDERPLAY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "play a card lower than (a held high card)",
-        [
-          "Play"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "overact"
-    ],
-    "SYNONYMS": [
-      "Underplay",
-      "Underact"
     ]
   },
   "UNDERPOPULATED": {
@@ -13812,29 +12953,6 @@
       "Undesiring"
     ]
   },
-  "UNDESTROYABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not capable of being destroyed",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perdurable",
-      "Indestructible",
-      "Undestroyable",
-      "Durable"
-    ]
-  },
   "UNDETECTABLE": {
     "MEANINGS": {
       "1": [
@@ -14276,30 +13394,6 @@
     ],
     "SYNONYMS": [
       "Undiscerning"
-    ]
-  },
-  "UNDISCHARGED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "still capable of exploding or being fired",
-        [
-
-        ],
-        [
-          "undischarged ammunition",
-          "an unexploded bomb"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Undischarged",
-      "Unexploded",
-      "Owing",
-      "Outstanding"
     ]
   },
   "UNDISCIPLINED": {
@@ -15233,28 +14327,6 @@
       "Roll"
     ]
   },
-  "UNDULATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "wavelike motion; a gentle rising and falling in the manner of waves",
-        [
-          "Movement",
-          "Motion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Undulation",
-      "Wave"
-    ]
-  },
   "UNDULATORY": {
     "MEANINGS": {
       "1": [
@@ -15993,29 +15065,6 @@
       "Unentitled"
     ]
   },
-  "UNENVIABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "so undesirable as to be incapable of arousing envy",
-        [
-
-        ],
-        [
-          "unenviable notoriety"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Awkward",
-      "Embarrassing",
-      "Unenviable",
-      "Sticky"
-    ]
-  },
   "UNEQUAL": {
     "MEANINGS": {
       "1": [
@@ -16481,29 +15530,6 @@
       "Unexcited"
     ]
   },
-  "UNEXCITING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not exciting",
-        [
-
-        ],
-        [
-          "an unexciting novel",
-          "lived an unexciting life"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "stimulating",
-      "exciting"
-    ],
-    "SYNONYMS": [
-      "Unstimulating",
-      "Unexciting"
-    ]
-  },
   "UNEXCLUSIVE": {
     "MEANINGS": {
       "1": [
@@ -16859,41 +15885,6 @@
     ],
     "SYNONYMS": [
       "Unfaceted"
-    ]
-  },
-  "UNFAILING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "always able to supply more",
-        [
-
-        ],
-        [
-          "an unfailing source of good stories",
-          "a subject of unfailing interest"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "unceasing",
-        [
-
-        ],
-        [
-          "unfailing loyalty",
-          "unfailing good spirits",
-          "unflagging courtesy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unflagging",
-      "Foolproof",
-      "Unfailing"
     ]
   },
   "UNFAILINGLY": {
@@ -17420,28 +16411,6 @@
       "Unfed"
     ]
   },
-  "UNFEELING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "devoid of feeling or sensation",
-        [
-
-        ],
-        [
-          "unfeeling trees"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unfeeling",
-      "Hardhearted",
-      "Stonyhearted"
-    ]
-  },
   "UNFEELINGLY": {
     "MEANINGS": {
       "1": [
@@ -17876,58 +16845,6 @@
       "Unfocussed"
     ]
   },
-  "UNFOLD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "open to the view",
-        [
-          "Uncover",
-          "Bring out",
-          "Unveil",
-          "Reveal"
-        ],
-        [
-          "A walk through town will unfold many interesting buildings"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "extend or stretch out to a greater or the full length",
-        [
-          "Change shape",
-          "Change form",
-          "Deform"
-        ],
-        [
-          "Unfold the newspaper",
-          "stretch out that piece of cloth",
-          "extend the TV antenna"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "spread out or open from a closed or folded state",
-        [
-          "Undo"
-        ],
-        [
-          "open the map",
-          "spread your arms"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fold"
-    ],
-    "SYNONYMS": [
-      "Blossom out",
-      "Stretch",
-      "Blossom forth",
-      "Extend",
-      "Spread out"
-    ]
-  },
   "UNFOLDING": {
     "MEANINGS": {
       "1": [
@@ -17971,30 +16888,6 @@
     ],
     "SYNONYMS": [
       "Unforbearing"
-    ]
-  },
-  "UNFORCED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not resulting from undue effort; not forced",
-        [
-
-        ],
-        [
-          "a voice with a pleasingly unforced quality",
-          "his playing is facile and unstrained"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unstrained",
-      "Uncoerced",
-      "Willing",
-      "Unforced"
     ]
   },
   "UNFORESEEABLE": {
@@ -18816,29 +17709,6 @@
       "Ungraciousness"
     ]
   },
-  "UNGRADED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not arranged in order hierarchically",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dirt",
-      "Ungraded",
-      "Unordered",
-      "Unranked"
-    ]
-  },
   "UNGRAMMATICAL": {
     "MEANINGS": {
       "1": [
@@ -19378,28 +18248,6 @@
       "Unhappily"
     ]
   },
-  "UNHAPPINESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "state characterized by emotions ranging from mild discontentment to deep grief",
-        [
-          "Emotional state",
-          "Spirit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "happiness"
-    ],
-    "SYNONYMS": [
-      "Sadness",
-      "Unhappiness"
-    ]
-  },
   "UNHARMED": {
     "MEANINGS": {
       "1": [
@@ -19501,32 +18349,6 @@
     ],
     "SYNONYMS": [
       "Unhealed"
-    ]
-  },
-  "UNHEALTHFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "detrimental to good health",
-        [
-
-        ],
-        [
-          "unhealthful air pollution",
-          "unhealthful conditions in old apartments with peeling lead-based paint"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sanitary",
-      "healthful"
-    ],
-    "SYNONYMS": [
-      "Insanitary",
-      "Insalubrious",
-      "Unhealthy",
-      "Unsanitary",
-      "Unhealthful"
     ]
   },
   "UNHEALTHFULNESS": {
@@ -19806,33 +18628,6 @@
     ],
     "SYNONYMS": [
       "Unhygienically"
-    ]
-  },
-  "UNHINGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "remove the hinges from",
-        [
-          "Remove",
-          "Take",
-          "Take away",
-          "Withdraw"
-        ],
-        [
-          "unhinge the door"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unhinge",
-      "Perturb",
-      "Trouble",
-      "Disquiet",
-      "Distract"
     ]
   },
   "UNHITCH": {
@@ -20518,30 +19313,6 @@
       "Uniformly"
     ]
   },
-  "UNYIELDING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "resistant to physical force or pressure",
-        [
-
-        ],
-        [
-          "an unyielding head support"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dogged",
-      "Pertinacious",
-      "Dour",
-      "Persistent",
-      "Tenacious"
-    ]
-  },
   "UNILATERAL": {
     "MEANINGS": {
       "1": [
@@ -20663,51 +19434,6 @@
       "Unthinkably"
     ]
   },
-  "UNIMAGINATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "dealing only with concrete facts",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unimaginative",
-      "Uninspired",
-      "Stereotypical",
-      "Sterile",
-      "Stereotypic"
-    ]
-  },
-  "UNIMAGINATIVELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "without imagination",
-        [
-
-        ],
-        [
-          "the stage sets were designed rather unimaginatively"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "imaginatively"
-    ],
-    "SYNONYMS": [
-      "Prosaically",
-      "Unimaginatively"
-    ]
-  },
   "UNIMODAL": {
     "MEANINGS": {
       "1": [
@@ -20812,29 +19538,6 @@
     ],
     "SYNONYMS": [
       "Unimpeded"
-    ]
-  },
-  "UNIMPORTANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of not being important or worthy of note",
-        [
-          "Value"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "importance"
-    ],
-    "SYNONYMS": [
-      "Humbleness",
-      "Obscureness",
-      "Lowliness",
-      "Unimportance"
     ]
   },
   "UNIMPORTANT": {
@@ -21575,28 +20278,6 @@
       "Unintelligently"
     ]
   },
-  "UNINTELLIGIBILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "incomprehensibility as a consequence of being unintelligible",
-        [
-          "Incomprehensibility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "intelligibility"
-    ],
-    "SYNONYMS": [
-      "Incoherence",
-      "Unintelligibility",
-      "Incoherency"
-    ]
-  },
   "UNINTELLIGIBLE": {
     "MEANINGS": {
       "1": [
@@ -22322,43 +21003,6 @@
       "Unipolar"
     ]
   },
-  "UNIQUE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(followed by `to') applying exclusively to a given category or condition or locality",
-        [
-
-        ],
-        [
-          "a species unique to Australia"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "highly unusual or rare but not the single instance",
-        [
-
-        ],
-        [
-          "spoke with a unique accent",
-          "had unique ability in raising funds",
-          "a frankness unique in literature",
-          "a unique dining experience"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alone",
-      "Unparalleled",
-      "Unique",
-      "Unequalled",
-      "Singular"
-    ]
-  },
   "UNIQUELY": {
     "MEANINGS": {
       "1": [
@@ -22484,67 +21128,6 @@
     ],
     "SYNONYMS": [
       "Unison"
-    ]
-  },
-  "UNIT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an individual or group or structure or other entity regarded as a structural or functional constituent of a whole",
-        [
-          "Part",
-          "Portion",
-          "Component part",
-          "Component",
-          "Constituent"
-        ],
-        [
-          "the reduced the number of units and installations",
-          "the word is a basic linguistic unit"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an organization regarded as part of a larger social group",
-        [
-          "Organization",
-          "Organisation"
-        ],
-        [
-          "the coach said the offensive unit did a good job",
-          "after the battle the soldier had trouble rejoining his unit"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a single undivided whole",
-        [
-          "Whole"
-        ],
-        [
-          "an idea is not a unit that can be moved from one brain to another"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a single undivided natural thing occurring in the composition of something else",
-        [
-          "Thing"
-        ],
-        [
-          "units of nucleic acids"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unit",
-      "Whole",
-      "Unit of measurement",
-      "Social unit",
-      "Building block"
     ]
   },
   "UNITARY": {
@@ -23151,32 +21734,6 @@
       "Unjointed"
     ]
   },
-  "UNJUST": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "violating principles of justice",
-        [
-
-        ],
-        [
-          "unjust punishment",
-          "an unjust judge",
-          "an unjust accusation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "equitable",
-      "fair",
-      "just"
-    ],
-    "SYNONYMS": [
-      "Unjust",
-      "Inequitable",
-      "Unfair"
-    ]
-  },
   "UNJUSTIFIABLY": {
     "MEANINGS": {
       "1": [
@@ -23354,30 +21911,6 @@
       "Unknowable"
     ]
   },
-  "UNKNOWINGNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "unconsciousness resulting from lack of knowledge or attention",
-        [
-          "Unconsciousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unknowingness",
-      "Unknowing",
-      "Nescience",
-      "Ignorantness",
-      "Unawareness"
-    ]
-  },
   "UNKNOWN": {
     "MEANINGS": {
       "1": [
@@ -23547,52 +22080,6 @@
       "Unlaureled"
     ]
   },
-  "UNLAWFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "contrary to or prohibited by or defiant of law",
-        [
-
-        ],
-        [
-          "unlawful measures",
-          "unlawful money",
-          "unlawful hunters"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not morally right or permissible",
-        [
-
-        ],
-        [
-          "unlawful love"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "having no legally established claim",
-        [
-
-        ],
-        [
-          "the wrongful heir to the throne"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "lawful"
-    ],
-    "SYNONYMS": [
-      "Unlawful",
-      "Improper",
-      "Illicit",
-      "Outlawed",
-      "Illegitimate"
-    ]
-  },
   "UNLAWFULLY": {
     "MEANINGS": {
       "1": [
@@ -23707,30 +22194,6 @@
       "Unlearn"
     ]
   },
-  "UNLEARNED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not well learned",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "conditioned"
-    ],
-    "SYNONYMS": [
-      "Unlettered",
-      "Unlearn",
-      "Unconditioned",
-      "Innate",
-      "Unlearned"
-    ]
-  },
   "UNLEASH": {
     "MEANINGS": {
       "1": [
@@ -23828,29 +22291,6 @@
       "Lightless"
     ]
   },
-  "UNLIKABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "difficult or impossible to like",
-        [
-
-        ],
-        [
-          "a disagreeable and unlikable old woman"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sympathetic"
-    ],
-    "SYNONYMS": [
-      "Unappealing",
-      "Unsympathetic",
-      "Unlikeable",
-      "Unlikable"
-    ]
-  },
   "UNLIKE": {
     "MEANINGS": {
       "1": [
@@ -23882,32 +22322,6 @@
       "Different",
       "Dissimilar",
       "Unlike"
-    ]
-  },
-  "UNLIKELY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "has little chance of being the case or coming about",
-        [
-
-        ],
-        [
-          "an unlikely story",
-          "an unlikely candidate for reelection",
-          "a butcher is unlikely to preach vegetarianism"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "likely",
-      "probable"
-    ],
-    "SYNONYMS": [
-      "Unlikely",
-      "Unconvincing",
-      "Improbable",
-      "Unbelievable"
     ]
   },
   "UNLIKELIHOOD": {
@@ -24116,31 +22530,6 @@
       "Unliveried"
     ]
   },
-  "UNLOAD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "take the load off (a container or vehicle)",
-        [
-          "Empty"
-        ],
-        [
-          "unload the truck",
-          "offload the van"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unlade",
-      "Set down",
-      "Unload",
-      "Drop",
-      "Put down"
-    ]
-  },
   "UNLOADED": {
     "MEANINGS": {
       "1": [
@@ -24269,32 +22658,6 @@
     ],
     "SYNONYMS": [
       "Unlock"
-    ]
-  },
-  "UNLOOSE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "loosen the ties of",
-        [
-          "Untie",
-          "Unbrace",
-          "Unlace"
-        ],
-        [
-          "unloose your sneakers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "confine"
-    ],
-    "SYNONYMS": [
-      "Loose",
-      "Unloose",
-      "Free",
-      "Liberate",
-      "Unloosen"
     ]
   },
   "UNLOVABLE": {
@@ -24570,31 +22933,6 @@
       "Unman"
     ]
   },
-  "UNMANAGEABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "hard to control",
-        [
-
-        ],
-        [
-          "a difficult child\", \"an unmanageable situation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "manageable",
-      "wieldy"
-    ],
-    "SYNONYMS": [
-      "Difficult",
-      "Uncontrollable",
-      "Unwieldy",
-      "Unmanageable",
-      "Uncorrectable"
-    ]
-  },
   "UNMANAGEABLY": {
     "MEANINGS": {
       "1": [
@@ -24681,30 +23019,6 @@
       "Unman",
       "Unmanned",
       "Remote-controlled"
-    ]
-  },
-  "UNMANNERED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "without artificiality; natural",
-        [
-
-        ],
-        [
-          "the doctor's quiet unmannered entry"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rude",
-      "Ill-mannered",
-      "Bad-mannered",
-      "Unmannered",
-      "Unmannerly"
     ]
   },
   "UNMARKED": {
@@ -24843,29 +23157,6 @@
       "Unmated"
     ]
   },
-  "UNMEASURED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not composed of measured syllables; not metrical",
-        [
-
-        ],
-        [
-          "unmeasured prose"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "measurable"
-    ],
-    "SYNONYMS": [
-      "Unmeasurable",
-      "Immeasurable",
-      "Unmeasured",
-      "Immensurable"
-    ]
-  },
   "UNMECHANICAL": {
     "MEANINGS": {
       "1": [
@@ -24929,31 +23220,6 @@
       "Unmedicinal",
       "Nonmedicinal",
       "Unmedical"
-    ]
-  },
-  "UNMELODIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking melody",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "melodious",
-      "tuneful"
-    ],
-    "SYNONYMS": [
-      "Tuneless",
-      "Unmelodic",
-      "Unmelodious",
-      "Unmusical",
-      "Untuneful"
     ]
   },
   "UNMELODIOUSLY": {
@@ -25550,27 +23816,6 @@
       "Unmoved"
     ]
   },
-  "UNMOVING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not arousing emotions",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "moving"
-    ],
-    "SYNONYMS": [
-      "Unmoving",
-      "Nonmoving"
-    ]
-  },
   "UNMOWN": {
     "MEANINGS": {
       "1": [
@@ -25945,29 +24190,6 @@
       "Unnotched"
     ]
   },
-  "UNNOTICEABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not noticeable; not drawing attention",
-        [
-
-        ],
-        [
-          "her clothes were simple and unnoticeable\"- J.G.Cozzens"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "obtrusive",
-      "noticeable"
-    ],
-    "SYNONYMS": [
-      "Obscure",
-      "Unobtrusive",
-      "Unnoticeable"
-    ]
-  },
   "UNNOTICEABLENESS": {
     "MEANINGS": {
       "1": [
@@ -26026,28 +24248,6 @@
     ],
     "SYNONYMS": [
       "Unnourished"
-    ]
-  },
-  "UNOBJECTIONABLE": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "not objectionable; it's the means that one can't accept\"",
-        [
-
-        ],
-        [
-          "the ends are unobjectionable"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dirty"
-    ],
-    "SYNONYMS": [
-      "Innocuous",
-      "Unobjectionable",
-      "Clean"
     ]
   },
   "UNOBJECTIVE": {
@@ -26607,28 +24807,6 @@
     ],
     "SYNONYMS": [
       "Unoriginally"
-    ]
-  },
-  "UNORTHODOX": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "breaking with convention or tradition",
-        [
-
-        ],
-        [
-          "an unorthodox lifestyle"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "orthodox"
-    ],
-    "SYNONYMS": [
-      "Unorthodox",
-      "Maverick",
-      "Irregular"
     ]
   },
   "UNORTHODOXY": {
@@ -27394,31 +25572,6 @@
       "Unpersuasiveness"
     ]
   },
-  "UNPICK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "undo (the stitches) of (a piece of sewing)",
-        [
-          "Undo"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "knot",
-      "ravel"
-    ],
-    "SYNONYMS": [
-      "Untangle",
-      "Unscramble",
-      "Unknot",
-      "Unravel",
-      "Unpick"
-    ]
-  },
   "UNPIERCED": {
     "MEANINGS": {
       "1": [
@@ -27950,30 +26103,6 @@
       "Unprecedentedly"
     ]
   },
-  "UNPREDICTABILITY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "lacking predictability",
-        [
-          "Uncertainty",
-          "Uncertainness",
-          "Precariousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "predictability"
-    ],
-    "SYNONYMS": [
-      "Volatility",
-      "Capriciousness",
-      "Unpredictability"
-    ]
-  },
   "UNPREDICTABLE": {
     "MEANINGS": {
       "1": [
@@ -28314,39 +26443,6 @@
     ],
     "SYNONYMS": [
       "Unprintable"
-    ]
-  },
-  "UNPROCESSED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not altered from an original or natural state",
-        [
-
-        ],
-        [
-          "unprocessed commodities"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not treated or prepared by a special process",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "refined",
-      "processed"
-    ],
-    "SYNONYMS": [
-      "Crude",
-      "Unrefined",
-      "Unprocessed"
     ]
   },
   "UNPRODUCTIVE": {
@@ -29556,30 +27652,6 @@
       "Unthoughtful"
     ]
   },
-  "UNREFORMABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "unrepentant and incapable of being reformed",
-        [
-
-        ],
-        [
-          "an unregenerate criminal"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unregenerate",
-      "Unredeemable",
-      "Irreclaimable",
-      "Irredeemable",
-      "Unreformable"
-    ]
-  },
   "UNREFORMED": {
     "MEANINGS": {
       "1": [
@@ -29619,32 +27691,6 @@
     "SYNONYMS": [
       "Unrested",
       "Unrefreshed"
-    ]
-  },
-  "UNREGENERATE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not reformed morally or spiritually",
-        [
-
-        ],
-        [
-          "unregenerate human nature",
-          "unregenerate conservatism"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "regenerate",
-      "docile"
-    ],
-    "SYNONYMS": [
-      "Obstinate",
-      "Unregenerate",
-      "Stubborn",
-      "Unregenerated",
-      "Unreformable"
     ]
   },
   "UNREGISTERED": {
@@ -29827,40 +27873,6 @@
     ],
     "SYNONYMS": [
       "Unreleased"
-    ]
-  },
-  "UNRELIABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not worthy of reliance or trust",
-        [
-
-        ],
-        [
-          "in the early 1950s computers were large and expensive and unreliable",
-          "an undependable assistant"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "lacking a sense of responsibility",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "reliable",
-      "dependable"
-    ],
-    "SYNONYMS": [
-      "Undependable",
-      "Treacherous",
-      "Unreliable"
     ]
   },
   "UNREMEDIED": {
@@ -30189,53 +28201,6 @@
       "Unreservedly"
     ]
   },
-  "UNRESOLVABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not capable of being resolved",
-        [
-
-        ],
-        [
-          "unresolvable confusion"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unresolvable",
-      "Insolvable",
-      "Unsolvable",
-      "Unsoluble"
-    ]
-  },
-  "UNRESOLVED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "characterized by musical dissonance; harmonically unresolved",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "solved"
-    ],
-    "SYNONYMS": [
-      "Undecided",
-      "Dissonant",
-      "Undetermined",
-      "Open",
-      "Unresolved"
-    ]
-  },
   "UNRESPECTABILITY": {
     "MEANINGS": {
       "1": [
@@ -30340,30 +28305,6 @@
     "SYNONYMS": [
       "Deadness",
       "Unresponsiveness"
-    ]
-  },
-  "UNREST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a feeling of restless agitation",
-        [
-          "Agitation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unrest",
-      "Tempestuousness",
-      "Ferment",
-      "Fermentation",
-      "Agitation"
     ]
   },
   "UNRESTRAINED": {
@@ -30761,29 +28702,6 @@
     ],
     "SYNONYMS": [
       "Unrighteousness"
-    ]
-  },
-  "UNRIPE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not fully prepared",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ripe"
-    ],
-    "SYNONYMS": [
-      "Green",
-      "Unripe",
-      "Immature",
-      "Unripened"
     ]
   },
   "UNROMANTIC": {
@@ -32569,30 +30487,6 @@
       "Broad-minded"
     ]
   },
-  "UNSHOD": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not shod",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "shod",
-      "calced"
-    ],
-    "SYNONYMS": [
-      "Discalceate",
-      "Unshoed",
-      "Unshod",
-      "Discalced"
-    ]
-  },
   "UNSHRINKABLE": {
     "MEANINGS": {
       "1": [
@@ -33462,30 +31356,6 @@
     ],
     "SYNONYMS": [
       "Unspaced"
-    ]
-  },
-  "UNSPARING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not forbearing; ruthless",
-        [
-
-        ],
-        [
-          "an unsparing critic"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overgenerous",
-      "Lavish",
-      "Munificent",
-      "Too-generous",
-      "Unstinted"
     ]
   },
   "UNSPECIALIZED": {
@@ -34449,28 +32319,6 @@
       "Unsuppressed"
     ]
   },
-  "UNSURMOUNTABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "incapable of being surmounted or climbed",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "surmountable"
-    ],
-    "SYNONYMS": [
-      "Unsurmountable",
-      "Insurmountable",
-      "Unclimbable"
-    ]
-  },
   "UNSURPASSABLE": {
     "MEANINGS": {
       "1": [
@@ -34649,27 +32497,6 @@
     ],
     "SYNONYMS": [
       "Unsuspectingly"
-    ]
-  },
-  "UNSWEET": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "distasteful",
-        [
-
-        ],
-        [
-          "he found life unsweet"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sec",
-      "Unsweet"
     ]
   },
   "UNSWEETENED": {
@@ -34978,31 +32805,6 @@
     "SYNONYMS": [
       "Louis untermeyer",
       "Untermeyer"
-    ]
-  },
-  "UNTESTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not yet proved or subjected to testing",
-        [
-
-        ],
-        [
-          "an untested drug",
-          "untested theory",
-          "an untried procedure"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unseasoned",
-      "Untested",
-      "Untried",
-      "Young"
     ]
   },
   "UNTETHERED": {
@@ -35906,32 +33708,6 @@
       "Untufted"
     ]
   },
-  "UNTUNE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to be out of tune",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "Don't untune that string!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tune"
-    ],
-    "SYNONYMS": [
-      "Untune",
-      "Discompose",
-      "Discomfit",
-      "Disconcert",
-      "Upset"
-    ]
-  },
   "UNTURNED": {
     "MEANINGS": {
       "1": [
@@ -36033,38 +33809,6 @@
     ],
     "SYNONYMS": [
       "Ununderstood"
-    ]
-  },
-  "UNUSED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not yet put into use",
-        [
-
-        ],
-        [
-          "we bought an unused car for a change"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "infrequently exposed to",
-        [
-
-        ],
-        [
-          "feet unused to shoes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Idle",
-      "Unused",
-      "Fresh"
     ]
   },
   "UNUSUAL": {
@@ -36523,29 +34267,6 @@
       "Unwarrantably"
     ]
   },
-  "UNWASHED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not cleaned with or as if with soap and water",
-        [
-
-        ],
-        [
-          "a sink full of unwashed dishes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Common",
-      "Unwashed",
-      "Plebeian",
-      "Vulgar"
-    ]
-  },
   "UNWAXED": {
     "MEANINGS": {
       "1": [
@@ -36825,27 +34546,6 @@
       "Cumbersomeness"
     ]
   },
-  "UNWILLED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "without deliberate volition",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unintentional",
-      "Unwilled"
-    ]
-  },
   "UNWILLING": {
     "MEANINGS": {
       "1": [
@@ -36996,30 +34696,6 @@
     "SYNONYMS": [
       "Unwise",
       "Inexpedient"
-    ]
-  },
-  "UNWITTING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not aware or knowing",
-        [
-
-        ],
-        [
-          "an unwitting subject in an experiment"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "witting"
-    ],
-    "SYNONYMS": [
-      "Unknowing",
-      "Unwitting",
-      "Unknowledgeable",
-      "Unintentional",
-      "Unplanned"
     ]
   },
   "UNWITTINGLY": {
@@ -37531,32 +35207,6 @@
       "Upanishad"
     ]
   },
-  "UPBEAT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an unaccented beat (especially the last beat of a measure)",
-        [
-          "Rhythm",
-          "Beat",
-          "Musical rhythm"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ill-being"
-    ],
-    "SYNONYMS": [
-      "Upbeat",
-      "Cheerful",
-      "Wellbeing",
-      "Eudaemonia",
-      "Offbeat"
-    ]
-  },
   "UPBOUND": {
     "MEANINGS": {
       "1": [
@@ -38003,33 +35653,6 @@
       "Rising slope"
     ]
   },
-  "UPHEAVAL": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(geology) a rise of land to a higher elevation (as in the process of mountain building)",
-        [
-          "Rise",
-          "Rising",
-          "Ascent",
-          "Ascension"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Uplift",
-      "Hullabaloo",
-      "Excitement",
-      "Sturm und drang",
-      "Upheaval"
-    ]
-  },
   "UPHEAVE": {
     "MEANINGS": {
       "1": [
@@ -38083,43 +35706,6 @@
       "Rising",
       "Acclivitous",
       "Uphill"
-    ]
-  },
-  "UPHOLD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "stand up for; stick up for; of causes, principles, or ideals",
-        [
-          "Defend",
-          "Support",
-          "Fend for"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "support against an opponent",
-        [
-          "Confirm",
-          "Reassert"
-        ],
-        [
-          "The appellate court upheld the verdict"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "discontinue"
-    ],
-    "SYNONYMS": [
-      "Continue",
-      "Carry on",
-      "Bear on",
-      "Maintain",
-      "Uphold"
     ]
   },
   "UPHOLDER": {
@@ -38246,46 +35832,6 @@
     "SYNONYMS": [
       "Upland",
       "Highland"
-    ]
-  },
-  "UPLIFT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "lift up from the earth, as by geologic forces",
-        [
-          "Rise",
-          "Lift",
-          "Arise",
-          "Move up",
-          "Go up",
-          "Come up",
-          "Uprise"
-        ],
-        [
-          "the earth's movement uplifted this part of town"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "lift up or elevate",
-        [
-          "Push up"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "depress"
-    ],
-    "SYNONYMS": [
-      "Elate",
-      "Uplift",
-      "Lift up",
-      "Upheaval",
-      "Pick up"
     ]
   },
   "UPLIFTED": {
@@ -38645,80 +36191,6 @@
       "Erect",
       "Good",
       "Vertical"
-    ]
-  },
-  "UPRIGHTLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an upright position",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dishonorably"
-    ],
-    "SYNONYMS": [
-      "Uprightly",
-      "Honorably"
-    ]
-  },
-  "UPRIGHTNESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "righteousness as a consequence of being honorable and honest",
-        [
-          "Righteousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Verticalness",
-      "Verticality",
-      "Erectness",
-      "Rectitude",
-      "Uprightness"
-    ]
-  },
-  "UPRISE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "ascend as a sound",
-        [
-          "Ascend",
-          "Go up"
-        ],
-        [
-          "The choirs singing uprose and filled the church"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "set",
-      "fall",
-      "go_to_bed",
-      "turn_in",
-      "sit_down"
-    ],
-    "SYNONYMS": [
-      "Resurrect",
-      "Come up",
-      "Bristle",
-      "Ascend",
-      "Get up"
     ]
   },
   "UPRIVER": {
@@ -39131,29 +36603,6 @@
     ],
     "SYNONYMS": [
       "Upstroke"
-    ]
-  },
-  "UPTAKE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a process of taking up or using up or consuming",
-        [
-          "Human process"
-        ],
-        [
-          "they developed paper napkins with a greater uptake of liquids"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Intake",
-      "Consumption",
-      "Ingestion",
-      "Uptake"
     ]
   },
   "UPTICK": {
@@ -39617,27 +37066,6 @@
     "SYNONYMS": [
       "Family uranoscopidae",
       "Uranoscopidae"
-    ]
-  },
-  "URANUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a giant planet with a ring of ice particles; the 7th planet from the sun has a blue-green color and many satellites",
-        [
-
-        ],
-        [
-          "Uranus was discovered by William Herschel in 1781"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ouranos",
-      "Uranus"
     ]
   },
   "URATE": {
@@ -40431,31 +37859,6 @@
       "Urginea"
     ]
   },
-  "URGING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of earnestly supporting or encouraging",
-        [
-          "Advocacy",
-          "Protagonism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Exhort",
-      "Advocate",
-      "Prod",
-      "Inspire",
-      "Urging"
-    ]
-  },
   "URIA": {
     "MEANINGS": {
       "1": [
@@ -40710,29 +38113,6 @@
       "Piss"
     ]
   },
-  "URMIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a city on the western side of Lake Urmia in northwestern Iran",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Orumiyeh",
-      "Daryacheh-ye orumiyeh",
-      "Lake urmia",
-      "Urmia"
-    ]
-  },
   "URN": {
     "MEANINGS": {
       "1": [
@@ -40842,28 +38222,6 @@
     ],
     "SYNONYMS": [
       "Urocele"
-    ]
-  },
-  "UROCHORD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a notochord of a larval tunicate typically confined to the caudal region",
-        [
-          "Notochord"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Urochordate",
-      "Tunicate",
-      "Urochord"
     ]
   },
   "UROCYON": {
@@ -41304,32 +38662,6 @@
       "Uruguayan"
     ]
   },
-  "USAGE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the customary manner in which a language (or a form of a language) is spoken or written",
-        [
-          "Language",
-          "Linguistic communication"
-        ],
-        [
-          "English usage",
-          "a usage borrowed from French"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Employment",
-      "Custom",
-      "Usance",
-      "Use",
-      "Exercise"
-    ]
-  },
   "USANCE": {
     "MEANINGS": {
       "1": [
@@ -41445,30 +38777,6 @@
       "Function",
       "Habit",
       "Utilization"
-    ]
-  },
-  "USEABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of being put to use",
-        [
-
-        ],
-        [
-          "usable byproducts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Usable",
-      "Operational",
-      "Functional",
-      "Useable",
-      "Available"
     ]
   },
   "USED": {
@@ -42033,60 +39341,6 @@
       "Usury"
     ]
   },
-  "USURP": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "take the place of",
-        [
-          "Supplant",
-          "Replace",
-          "Supersede",
-          "Supervene upon",
-          "Supercede"
-        ],
-        [
-          "gloom had usurped mirth at the party after the news of the terrorist act broke"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Seize",
-      "Usurp",
-      "Take over",
-      "Arrogate",
-      "Assume"
-    ]
-  },
-  "USURPATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "wrongfully seizing and holding (an office or powers) by force (especially the seizure of a throne or supreme authority)",
-        [
-          "Capture",
-          "Gaining control",
-          "Seizure"
-        ],
-        [
-          "a succession of generals who ruled by usurpation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Encroachment",
-      "Violation",
-      "Trespass",
-      "Intrusion",
-      "Usurpation"
-    ]
-  },
   "USURPER": {
     "MEANINGS": {
       "1": [
@@ -42441,57 +39695,6 @@
       "Utilizable"
     ]
   },
-  "UTILIZATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of having been made use of",
-        [
-          "State"
-        ],
-        [
-          "the rate of utilization"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Employment",
-      "Use",
-      "Exercise",
-      "Utilization",
-      "Usage"
-    ]
-  },
-  "UTILIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "convert (from an investment trust to a unit trust)",
-        [
-          "Change",
-          "Exchange",
-          "Commute",
-          "Convert"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Utilise",
-      "Use",
-      "Apply",
-      "Employ",
-      "Utilize"
-    ]
-  },
   "UTILIZED": {
     "MEANINGS": {
       "1": [
@@ -42799,44 +40002,6 @@
     "SYNONYMS": [
       "Utrillo",
       "Maurice utrillo"
-    ]
-  },
-  "UTTER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "express audibly; utter sounds (not necessarily words)",
-        [
-
-        ],
-        [
-          "She let out a big heavy sigh",
-          "He uttered strange sounds that nobody could understand"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "put into circulation",
-        [
-          "Circulate",
-          "Pass around",
-          "Pass on",
-          "Distribute"
-        ],
-        [
-          "utter counterfeit currency"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Staring",
-      "Pure",
-      "Perfect",
-      "Everlasting",
-      "Let loose"
     ]
   },
   "UTTERANCE": {

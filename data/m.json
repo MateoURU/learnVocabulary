@@ -1,30 +1,4 @@
 {
-  "M": {
-    "MEANINGS": {
-      "6": [
-        "Noun",
-        "the 13th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Molar concentration",
-      "1000",
-      "K",
-      "Metre",
-      "Meter"
-    ]
-  },
   "MA": {
     "MEANINGS": {
       "1": [
@@ -1067,30 +1041,6 @@
       "Butch"
     ]
   },
-  "MACINTOSH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a waterproof raincoat made of rubberized fabric",
-        [
-          "Raincoat",
-          "Waterproof"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mackintosh",
-      "Mack",
-      "Macintosh",
-      "Mac"
-    ]
-  },
   "MACKENZIE": {
     "MEANINGS": {
       "1": [
@@ -1913,55 +1863,6 @@
       "Macrozamia"
     ]
   },
-  "MACULA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small yellowish central area of the retina that is rich in cones and that mediates clear detailed vision",
-        [
-          "Area",
-          "Region"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Macula lutea",
-      "Macula",
-      "Yellow spot",
-      "Macular area",
-      "Sunspot"
-    ]
-  },
-  "MACULATE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "spotted or blotched",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foul",
-      "Defile",
-      "Tarnish",
-      "Maculate",
-      "Befoul"
-    ]
-  },
   "MACULE": {
     "MEANINGS": {
       "1": [
@@ -2107,30 +2008,6 @@
       "Malagasy republic",
       "Madagascar",
       "Republic of madagascar"
-    ]
-  },
-  "MADAM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a woman who runs a house of prostitution",
-        [
-          "Businesswoman"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lady",
-      "Ma'am",
-      "Gentlewoman",
-      "Dame",
-      "Madam"
     ]
   },
   "MADAME": {
@@ -2448,56 +2325,6 @@
       "Frantically"
     ]
   },
-  "MADNESS": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "unrestrained excitement or enthusiasm",
-        [
-          "Exuberance",
-          "Enthusiasm",
-          "Ebullience"
-        ],
-        [
-          "poetry is a sort of divine madness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foolishness",
-      "Rabies",
-      "Insaneness",
-      "Hydrophobia",
-      "Lunacy"
-    ]
-  },
-  "MADONNA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "United States pop singer and sex symbol during the 1980s (born in 1958)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Madonna louise ciccone",
-      "Mary",
-      "Madonna",
-      "Blessed virgin",
-      "Virgin mary"
-    ]
-  },
   "MADOQUA": {
     "MEANINGS": {
       "1": [
@@ -2517,31 +2344,6 @@
     "SYNONYMS": [
       "Madoqua",
       "Genus madoqua"
-    ]
-  },
-  "MADRAS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a light patterned cotton cloth",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chennai",
-      "Tamil nadu",
-      "Madras"
     ]
   },
   "MADREPORARIA": {
@@ -3820,34 +3622,6 @@
       "Exaggeration"
     ]
   },
-  "MAGNIFICENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being magnificent or splendid or grand",
-        [
-          "Elegance"
-        ],
-        [
-          "for magnificence and personal service there is the Queen's hotel",
-          "his `Hamlet' lacks the brilliance that one expects",
-          "it is the university that gives the scene its stately splendor",
-          "an imaginative mix of old-fashioned grandeur and colorful art",
-          "advertisers capitalize on the grandness and elegance it brings to their products"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grandness",
-      "Splendor",
-      "Brilliance",
-      "Splendour",
-      "Grandeur"
-    ]
-  },
   "MAGNIFICO": {
     "MEANINGS": {
       "1": [
@@ -4570,32 +4344,6 @@
       "May",
       "Crataegus laevigata",
       "English hawthorn"
-    ]
-  },
-  "MAYA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a family of American Indian languages spoken by Maya",
-        [
-          "Amerind",
-          "Amerindian language",
-          "American-indian language",
-          "American indian",
-          "Indian"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mayan",
-      "Maya",
-      "Mayan language"
     ]
   },
   "MAYACA": {
@@ -5674,30 +5422,6 @@
       "Mainspring"
     ]
   },
-  "MAINSTAY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the forestay that braces the mainmast",
-        [
-          "Forestay"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Keystone",
-      "Anchor",
-      "Lynchpin",
-      "Backbone",
-      "Linchpin"
-    ]
-  },
   "MAINSTREAM": {
     "MEANINGS": {
       "1": [
@@ -5718,30 +5442,6 @@
       "Mainstream"
     ]
   },
-  "MAINTAIN": {
-    "MEANINGS": {
-      "8": [
-        "Verb",
-        "state or assert",
-        [
-          "Affirm"
-        ],
-        [
-          "He maintained his innocence"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wield",
-      "Exert",
-      "Observe",
-      "Defend",
-      "Conserve"
-    ]
-  },
   "MAINTAINABLE": {
     "MEANINGS": {
       "1": [
@@ -5760,48 +5460,6 @@
     ],
     "SYNONYMS": [
       "Maintainable"
-    ]
-  },
-  "MAINTENANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "means of maintenance of a family or group",
-        [
-          "Support",
-          "Keep",
-          "Livelihood",
-          "Living",
-          "Bread and butter",
-          "Sustenance"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the unauthorized interference in a legal action by a person having no interest in it (as by helping one party with money or otherwise to continue the action) so as to obstruct justice or promote unnecessary litigation or unsettle the peace of the community",
-        [
-          "Wrongdoing",
-          "Wrongful conduct",
-          "Misconduct",
-          "Actus reus"
-        ],
-        [
-          "unlike champerty, criminal maintenance does not necessarily involve personal profit"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Maintenance",
-      "Sustainment",
-      "Upkeep",
-      "Alimony",
-      "Criminal maintenance"
     ]
   },
   "MAINTENON": {
@@ -7097,33 +6755,6 @@
     "SYNONYMS": [
       "Makeweight",
       "Filler"
-    ]
-  },
-  "MAKING": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(usually plural) the components needed for making or doing something",
-        [
-          "Component",
-          "Constituent",
-          "Element"
-        ],
-        [
-          "the recipe listed all the makings for a chocolate cake"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unmake",
-      "break"
-    ],
-    "SYNONYMS": [
-      "Name",
-      "Urinate",
-      "Ca-ca",
-      "Relieve oneself",
-      "Reach"
     ]
   },
   "MAKO": {
@@ -8507,29 +8138,6 @@
       "Malfeasant"
     ]
   },
-  "MALFORMATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "something abnormal or anomalous",
-        [
-          "Failure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deformity",
-      "Misshapenness",
-      "Malformation",
-      "Miscreation"
-    ]
-  },
   "MALFUNCTION": {
     "MEANINGS": {
       "1": [
@@ -8759,32 +8367,6 @@
     ],
     "SYNONYMS": [
       "Malignantly"
-    ]
-  },
-  "MALIGNITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "quality of being disposed to evil; intense ill will",
-        [
-          "Evil",
-          "Evilness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "benignancy",
-      "benevolence",
-      "benignity"
-    ],
-    "SYNONYMS": [
-      "Malignancy",
-      "Malignity",
-      "Malignance",
-      "Malevolence"
     ]
   },
   "MALIGNLY": {
@@ -10105,30 +9687,6 @@
       "Mam"
     ]
   },
-  "MAMA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a name under which Ninkhursag was worshipped",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mum",
-      "Ma",
-      "Mammy",
-      "Mom",
-      "Mummy"
-    ]
-  },
   "MAMBA": {
     "MEANINGS": {
       "1": [
@@ -10170,30 +9728,6 @@
     ],
     "SYNONYMS": [
       "Mambo"
-    ]
-  },
-  "MAMEY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "globular or ovoid tropical fruit with thick russet leathery rind and juicy yellow or reddish flesh",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mammee apple",
-      "Mammee",
-      "Mamey",
-      "Mammee tree",
-      "Mammea americana"
     ]
   },
   "MAMMAL": {
@@ -10685,33 +10219,6 @@
       "Handcuff"
     ]
   },
-  "MANAGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be in charge of, act on, or dispose of",
-        [
-          "Control",
-          "Command"
-        ],
-        [
-          "I can deal with this crew of workers",
-          "This blender can't handle nuts",
-          "She managed her parents' affairs after they got too old"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fail"
-    ],
-    "SYNONYMS": [
-      "Oversee",
-      "Supervise",
-      "Pull off",
-      "Contend",
-      "Do"
-    ]
-  },
   "MANAGEABILITY": {
     "MEANINGS": {
       "1": [
@@ -10926,30 +10433,6 @@
       "Managua",
       "Nicaraguan capital",
       "Capital of nicaragua"
-    ]
-  },
-  "MANAKIN": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "any of numerous small bright-colored birds of Central America and South America having short bills and elaborate courtship behavior",
-        [
-          "Tyrannid"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Manikin",
-      "Model",
-      "Mannikin",
-      "Manakin",
-      "Mannequin"
     ]
   },
   "MANAMA": {
@@ -11600,30 +11083,6 @@
     "SYNONYMS": [
       "Genus mandragora",
       "Mandragora"
-    ]
-  },
-  "MANDRAKE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a plant of southern Europe and North Africa having purple flowers, yellow fruits and a forked root formerly thought to have magical powers",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Devil's apples",
-      "Mandrake",
-      "Mandrake root",
-      "Mandragora officinarum"
     ]
   },
   "MANDRILL": {
@@ -12445,30 +11904,6 @@
       "Mania"
     ]
   },
-  "MANIAC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who has an obsession with or excessive enthusiasm for something",
-        [
-          "Fancier",
-          "Enthusiast"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lunatic",
-      "Madman",
-      "Maniacal",
-      "Maniac"
-    ]
-  },
   "MANIACAL": {
     "MEANINGS": {
       "1": [
@@ -13085,32 +12520,6 @@
       "Manipulatively"
     ]
   },
-  "MANIPULATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who handles things manually",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Operator",
-      "Manipulator"
-    ]
-  },
   "MANIPUR": {
     "MEANINGS": {
       "1": [
@@ -13150,44 +12559,6 @@
     "SYNONYMS": [
       "Manis",
       "Genus manis"
-    ]
-  },
-  "MANY-SIDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having many aspects",
-        [
-
-        ],
-        [
-          "a many-sided subject",
-          "a multifaceted undertaking",
-          "multifarious interests",
-          "the multifarious noise of a great city",
-          "a miscellaneous crowd"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "full of variety or interest",
-        [
-
-        ],
-        [
-          "a many-sided personality"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unilateral"
-    ],
-    "SYNONYMS": [
-      "Multifarious",
-      "Multilateral",
-      "Many-sided",
-      "Multifaceted",
-      "Miscellaneous"
     ]
   },
   "MANITOBA": {
@@ -13610,31 +12981,6 @@
       "Osmitrol"
     ]
   },
-  "MANOEUVER": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "perform a movement in military or naval tactics in order to secure an advantage in attack or defense",
-        [
-          "Move",
-          "Go"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Steer",
-      "Operate",
-      "Channelise",
-      "Direct",
-      "Manoeuvre"
-    ]
-  },
   "MAN-OF-WAR": {
     "MEANINGS": {
       "1": [
@@ -13803,30 +13149,6 @@
       "Mansart"
     ]
   },
-  "MANSE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the residence of a clergyman (especially a Presbyterian clergyman)",
-        [
-          "Residence"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hall",
-      "Manse",
-      "Mansion house",
-      "Mansion",
-      "Residence"
-    ]
-  },
   "MANSERVANT": {
     "MEANINGS": {
       "1": [
@@ -13878,30 +13200,6 @@
       "Mansfield",
       "Katherine mansfield",
       "Kathleen mansfield beauchamp"
-    ]
-  },
-  "MANSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large and imposing house",
-        [
-          "House"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "House",
-      "Hall",
-      "Manse",
-      "Sign",
-      "Mansion house"
     ]
   },
   "MAN-SIZED": {
@@ -14397,30 +13695,6 @@
       "Mantra"
     ]
   },
-  "MANTRAP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a trap for catching trespassers",
-        [
-          "Trap"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Knockout",
-      "Looker",
-      "Sweetheart",
-      "Lulu",
-      "Beauty"
-    ]
-  },
   "MANTUA": {
     "MEANINGS": {
       "1": [
@@ -14856,29 +14130,6 @@
       "Manzoni"
     ]
   },
-  "MAO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Chinese communist leader (1893-1976)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mao tsetung",
-      "Mao zedong",
-      "Monoamine oxidase",
-      "Mao"
-    ]
-  },
   "MAOISM": {
     "MEANINGS": {
       "1": [
@@ -15107,31 +14358,6 @@
     "SYNONYMS": [
       "Cartography",
       "Mapmaking"
-    ]
-  },
-  "MAPPING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(genetics) the process of locating genes on a chromosome",
-        [
-          "Procedure",
-          "Process"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mathematical function",
-      "Map out",
-      "Map",
-      "Chromosome mapping",
-      "Represent"
     ]
   },
   "MAPUTO": {
@@ -16601,29 +15827,6 @@
       "Tolerance"
     ]
   },
-  "MARGINAL": {
-    "MEANINGS": {
-      "4": [
-        "Adjective",
-        "producing at a rate that barely covers production costs",
-        [
-
-        ],
-        [
-          "marginal industries"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fringy",
-      "Bare",
-      "Borderline",
-      "Marginal"
-    ]
-  },
   "MARGINALIA": {
     "MEANINGS": {
       "1": [
@@ -16738,31 +15941,6 @@
       "Margrave"
     ]
   },
-  "MARGUERITE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "perennial subshrub of the Canary Islands having usually pale yellow daisylike flowers; often included in genus Chrysanthemum",
-        [
-          "Subshrub",
-          "Suffrutex"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Argyranthemum frutescens",
-      "Ox-eyed daisy",
-      "Marguerite",
-      "Moon daisy",
-      "Marguerite daisy"
-    ]
-  },
   "MARY": {
     "MEANINGS": {
       "1": [
@@ -16785,28 +15963,6 @@
       "Blessed virgin",
       "Virgin mary",
       "The virgin"
-    ]
-  },
-  "MARIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "valuable timber tree of Panama",
-        [
-          "Tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Calophyllum longifolium",
-      "Maria",
-      "Mare"
     ]
   },
   "MARIACHI": {
@@ -17313,54 +16469,6 @@
       "Mariticide"
     ]
   },
-  "MARITIME": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "bordering on or living or characteristic of those near the sea",
-        [
-
-        ],
-        [
-          "a maritime province",
-          "maritime farmers",
-          "maritime cultures"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nautical",
-      "Marine",
-      "Maritime"
-    ]
-  },
-  "MARJORAM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "pungent leaves used as seasoning with meats and fowl and in stews and soups and omelets",
-        [
-          "Herb"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pot marjoram",
-      "Marjoram",
-      "Origanum vulgare",
-      "Winter sweet",
-      "Oregano"
-    ]
-  },
   "MARK": {
     "MEANINGS": {
       "1": [
@@ -17691,68 +16799,6 @@
       "Marketable"
     ]
   },
-  "MARKETING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the commercial processes involved in promoting and selling and distributing a product or service",
-        [
-          "Commerce",
-          "Commercialism",
-          "Mercantilism"
-        ],
-        [
-          "most companies have a manager in charge of marketing"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "shopping at a market",
-        [
-          "Shopping"
-        ],
-        [
-          "does the weekly marketing at the supermarket"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Selling",
-      "Market",
-      "Marketing",
-      "Commercialize",
-      "Merchandising"
-    ]
-  },
-  "MARKETPLACE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an area in a town where a public mercantile establishment is set up",
-        [
-          "Mercantile establishment",
-          "Retail store",
-          "Sales outlet",
-          "Outlet"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Marketplace",
-      "Market",
-      "Market place",
-      "Mart"
-    ]
-  },
   "MARKHOR": {
     "MEANINGS": {
       "1": [
@@ -17773,53 +16819,6 @@
       "Markhoor",
       "Markhor",
       "Capra falconeri"
-    ]
-  },
-  "MARKING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a pattern of marks",
-        [
-          "Design",
-          "Pattern",
-          "Figure"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "evaluation of performance by assigning a grade or score",
-        [
-          "Evaluation",
-          "Rating"
-        ],
-        [
-          "what he disliked about teaching was all the grading he had to do"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of making a visible mark on a surface",
-        [
-          "Decoration"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ignore"
-    ],
-    "SYNONYMS": [
-      "Scar",
-      "Distinguish",
-      "Commemorate",
-      "Note",
-      "Notice"
     ]
   },
   "MARKKA": {
@@ -18465,49 +17464,6 @@
       "John marquand",
       "Marquand",
       "John philip marquand"
-    ]
-  },
-  "MARQUEE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "permanent canopy over an entrance of a hotel etc.",
-        [
-          "Canopy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pavilion",
-      "Marquee",
-      "Marquise"
-    ]
-  },
-  "MARQUESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a British peer ranking below a duke and above an earl",
-        [
-          "Peer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Marquis",
-      "Marquess"
     ]
   },
   "MARQUETRY": {
@@ -19783,31 +18739,6 @@
       "Marut"
     ]
   },
-  "MARVEL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "express astonishment or surprise about something",
-        [
-          "Express",
-          "Verbalize",
-          "Verbalise",
-          "Utter",
-          "Give tongue to"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Marvel",
-      "Wonder"
-    ]
-  },
   "MARVELL": {
     "MEANINGS": {
       "1": [
@@ -19827,30 +18758,6 @@
     "SYNONYMS": [
       "Andrew marvell",
       "Marvell"
-    ]
-  },
-  "MARVELOUS": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "being or having the character of a miracle",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wonderful",
-      "Howling",
-      "Wondrous",
-      "Rattling",
-      "Tremendous"
     ]
   },
   "MARX": {
@@ -20130,28 +19037,6 @@
       "Masculine"
     ]
   },
-  "MASCULINITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of behaving in ways considered typical for men",
-        [
-          "Trait"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "femininity",
-      "femaleness"
-    ],
-    "SYNONYMS": [
-      "Masculinity",
-      "Maleness"
-    ]
-  },
   "MASCULINIZATION": {
     "MEANINGS": {
       "1": [
@@ -20336,29 +19221,6 @@
       "Butterfly"
     ]
   },
-  "MASHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a kitchen utensil used for mashing (e.g. potatoes)",
-        [
-          "Kitchen utensil"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Skirt chaser",
-      "Masher",
-      "Wolf",
-      "Woman chaser"
-    ]
-  },
   "MASHHAD": {
     "MEANINGS": {
       "1": [
@@ -20478,59 +19340,6 @@
       "Masquerade",
       "Cloak",
       "Block out"
-    ]
-  },
-  "MASKED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having markings suggestive of a mask",
-        [
-
-        ],
-        [
-          "the masked face of a raccoon"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unmask"
-    ],
-    "SYNONYMS": [
-      "Mask",
-      "Masked",
-      "Cloak",
-      "Block out",
-      "Disguise"
-    ]
-  },
-  "MASKING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the blocking of one sensation resulting from the presence of another sensation",
-        [
-          "Sensation",
-          "Esthesis",
-          "Aesthesis",
-          "Sense experience",
-          "Sense impression",
-          "Sense datum"
-        ],
-        [
-          "he studied auditory masking by pure tones"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unmask"
-    ],
-    "SYNONYMS": [
-      "Covering",
-      "Mask",
-      "Cover",
-      "Masking piece",
-      "Screening"
     ]
   },
   "MASOCHISM": {
@@ -21124,31 +19933,6 @@
       "Massager"
     ]
   },
-  "MASSASAUGA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "pygmy rattlesnake found in moist areas from the Great Lakes to Mexico; feeds on mice and small amphibians",
-        [
-          "Rattlesnake",
-          "Rattler"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sistrurus miliaris",
-      "Massasauga rattler",
-      "Sistrurus catenatus",
-      "Ground rattler",
-      "Massasauga"
-    ]
-  },
   "MASSASOIT": {
     "MEANINGS": {
       "1": [
@@ -21732,30 +20516,6 @@
     ],
     "SYNONYMS": [
       "Masterfully"
-    ]
-  },
-  "MASTERY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of mastering or subordinating someone",
-        [
-          "Domination"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Subordination",
-      "Command",
-      "Supremacy",
-      "Mastery",
-      "Control"
     ]
   },
   "MASTERING": {
@@ -23396,32 +22156,6 @@
       "Parental"
     ]
   },
-  "MATERNALISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "motherly care; behavior characteristic of a mother; the practice of acting as a mother does toward her children",
-        [
-          "Care",
-          "Attention",
-          "Aid",
-          "Tending"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Maternity",
-      "Maternal quality",
-      "Maternalism",
-      "Motherliness"
-    ]
-  },
   "MATERNALISTIC": {
     "MEANINGS": {
       "1": [
@@ -23925,30 +22659,6 @@
     ],
     "SYNONYMS": [
       "Matrilineally"
-    ]
-  },
-  "MATRIMONY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the ceremony or sacrament of marriage",
-        [
-          "Sacrament"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wedlock",
-      "Spousal relationship",
-      "Marriage",
-      "Matrimony",
-      "Union"
     ]
   },
   "MATRIX": {
@@ -24560,41 +23270,6 @@
     ],
     "SYNONYMS": [
       "Maturely"
-    ]
-  },
-  "MATURITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "state of being mature; full development",
-        [
-          "State"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the date on which an obligation must be repaid",
-        [
-          "Date",
-          "Day of the month"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "immaturity"
-    ],
-    "SYNONYMS": [
-      "Adulthood",
-      "Maturity date",
-      "Matureness",
-      "Maturity",
-      "Due date"
     ]
   },
   "MATUTINAL": {
@@ -26751,98 +25426,6 @@
       "Nonmeaningful"
     ]
   },
-  "MEANINGLESSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of having no value or significance",
-        [
-          "Insignificance"
-        ],
-        [
-          "he resented the meaninglessness of the tasks they assigned him"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "meaningfulness"
-    ],
-    "SYNONYMS": [
-      "Bunk",
-      "Hokum",
-      "Nonsense",
-      "Meaninglessness",
-      "Nonsensicality"
-    ]
-  },
-  "MEANLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a despicable, ignoble manner",
-        [
-
-        ],
-        [
-          "this new leader meanly threatens the deepest values of our society"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "poorly or in an inferior manner",
-        [
-
-        ],
-        [
-          "troops meanly equipped"
-        ]
-      ],
-      "4": [
-        "Adverb",
-        "in a miserly manner",
-        [
-
-        ],
-        [
-          "they lived meanly and without ostentation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Humbly",
-      "Meanly",
-      "Scurvily",
-      "Basely",
-      "Nastily"
-    ]
-  },
-  "MEANNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "extreme stinginess",
-        [
-          "Stinginess"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beastliness",
-      "Meanness",
-      "Parsimoniousness",
-      "Tightness",
-      "Niggardliness"
-    ]
-  },
   "MEANS": {
     "MEANINGS": {
       "1": [
@@ -27124,30 +25707,6 @@
       "Beat",
       "Quantify",
       "Bill"
-    ]
-  },
-  "MEASURED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "the rhythmic arrangement of syllables",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mensurate",
-      "Metric",
-      "Mensural",
-      "Quantify",
-      "Evaluate"
     ]
   },
   "MEASUREDLY": {
@@ -28638,29 +27197,6 @@
       "Medicine"
     ]
   },
-  "MEDICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of treating with medicines or remedies",
-        [
-          "Therapy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Medicinal drug",
-      "Medication",
-      "Medicament",
-      "Medicine"
-    ]
-  },
   "MEDICATIVE": {
     "MEANINGS": {
       "1": [
@@ -29120,50 +27656,6 @@
       "Medium-size"
     ]
   },
-  "MEDLAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small deciduous Eurasian tree cultivated for its fruit that resemble crab apples",
-        [
-          "Fruit tree"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a South African globular fruit with brown leathery skin and pithy flesh having a sweet-acid taste",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "crabapple-like fruit used for preserves",
-        [
-          "Edible fruit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wild medlar tree",
-      "Vangueria infausta",
-      "Wild medlar",
-      "Medlar",
-      "Medlar tree"
-    ]
-  },
   "MEDLEY": {
     "MEANINGS": {
       "1": [
@@ -29210,31 +27702,6 @@
     ],
     "SYNONYMS": [
       "Medoc"
-    ]
-  },
-  "MEDULLA": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the inner part of an organ or structure in plant or animal",
-        [
-          "Animal tissue",
-          "Plant tissue"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "cortex"
-    ],
-    "SYNONYMS": [
-      "Myelin",
-      "Bulb",
-      "Medulla oblongata",
-      "Myeline",
-      "Medulla"
     ]
   },
   "MEDULLARY": {
@@ -31555,29 +30022,6 @@
       "Subfamily melinae"
     ]
   },
-  "MELIORATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the linguistic process in which over a period of time a word grows more positive in connotation or more elevated in meaning",
-        [
-          "Drift"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "decline"
-    ],
-    "SYNONYMS": [
-      "Amelioration",
-      "Improvement",
-      "Melioration",
-      "Betterment"
-    ]
-  },
   "MELIORISM": {
     "MEANINGS": {
       "1": [
@@ -31904,52 +30348,6 @@
       "Genus melocactus"
     ]
   },
-  "MELODY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the perception of pleasant arrangements of musical notes",
-        [
-          "Musical perception"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Air",
-      "Line",
-      "Strain",
-      "Melodic phrase",
-      "Melodic line"
-    ]
-  },
-  "MELODIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to melody",
-        [
-
-        ],
-        [
-          "melodic harmony"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unmelodious"
-    ],
-    "SYNONYMS": [
-      "Musical",
-      "Melodic",
-      "Melodious"
-    ]
-  },
   "MELODICALLY": {
     "MEANINGS": {
       "1": [
@@ -31968,30 +30366,6 @@
     ],
     "SYNONYMS": [
       "Melodically"
-    ]
-  },
-  "MELODIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "containing or constituting or characterized by pleasing melody",
-        [
-
-        ],
-        [
-          "the melodious song of a meadowlark"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unmelodious",
-      "tuneless"
-    ],
-    "SYNONYMS": [
-      "Musical",
-      "Tuneful",
-      "Melodic",
-      "Melodious"
     ]
   },
   "MELODIOUSLY": {
@@ -35565,42 +33939,6 @@
       "Merchantability"
     ]
   },
-  "MERCY": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "something for which to be thankful",
-        [
-          "Blessing",
-          "Boon"
-        ],
-        [
-          "it was a mercy we got out alive"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "alleviation of distress; showing great kindness toward the distressed",
-        [
-          "Relief",
-          "Succor",
-          "Succour",
-          "Ministration"
-        ],
-        [
-          "distributing food and clothing to the flood victims was an act of mercy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "mercilessness"
-    ],
-    "SYNONYMS": [
-      "Mercy",
-      "Clemency",
-      "Mercifulness"
-    ]
-  },
   "MERCIFUL": {
     "MEANINGS": {
       "1": [
@@ -35731,31 +34069,6 @@
       "Pitilessly"
     ]
   },
-  "MERCILESSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "inhumaneness evidenced by an unwillingness to be kind or forgiving",
-        [
-          "Inhumaneness",
-          "Inhumanity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "mercifulness"
-    ],
-    "SYNONYMS": [
-      "Pitilessness",
-      "Unmercifulness",
-      "Mercilessness",
-      "Cruelty",
-      "Ruthlessness"
-    ]
-  },
   "MERCOURI": {
     "MEANINGS": {
       "1": [
@@ -35831,50 +34144,6 @@
       "Mercury",
       "Atomic number 80",
       "Quicksilver"
-    ]
-  },
-  "MERCURIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to or under the (astrological) influence of the planet Mercury",
-        [
-
-        ],
-        [
-          "the Mercurial canals"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "relating to or having characteristics (eloquence, shrewdness, swiftness, thievishness) attributed to the god Mercury",
-        [
-
-        ],
-        [
-          "more than Mercurial thievishness"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "relating to or containing or caused by mercury",
-        [
-
-        ],
-        [
-          "mercurial preparations",
-          "mercurial sore mouth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fickle",
-      "Erratic",
-      "Quicksilver",
-      "Mercurial"
     ]
   },
   "MERCURIALIS": {
@@ -37251,27 +35520,6 @@
       "Mesial"
     ]
   },
-  "MESIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having or characterized by moderate or a well-balanced supply of moisture",
-        [
-
-        ],
-        [
-          "mesic habitats"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "xeric"
-    ],
-    "SYNONYMS": [
-      "Mesic",
-      "Mesonic"
-    ]
-  },
   "MESMER": {
     "MEANINGS": {
       "1": [
@@ -38236,29 +36484,6 @@
       "Metabolically"
     ]
   },
-  "METABOLISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the organic processes (in a cell or organism) that are necessary for life",
-        [
-          "Organic process",
-          "Biological process"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Metabolism",
-      "Metamorphosis",
-      "Metabolic process"
-    ]
-  },
   "METABOLITE": {
     "MEANINGS": {
       "1": [
@@ -38930,27 +37155,6 @@
       "Metamorphosis"
     ]
   },
-  "METAMORPHOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "produced by metamorphosis",
-        [
-
-        ],
-        [
-          "most insects are metamorphic as witness the stages as a butterfly develops from a caterpillar"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Metamorphic",
-      "Metamorphous"
-    ]
-  },
   "METAPHASE": {
     "MEANINGS": {
       "1": [
@@ -39511,63 +37715,6 @@
     ],
     "SYNONYMS": [
       "Metencephalon"
-    ]
-  },
-  "METEOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a streak of light in the sky at night that results when a meteoroid hits the earth's atmosphere and air friction causes the meteoroid to melt or vaporize or explode",
-        [
-          "Light",
-          "Visible light",
-          "Visible radiation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shooting star",
-      "Meteor",
-      "Meteoroid"
-    ]
-  },
-  "METEORIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "pertaining to or consisting of meteors or meteoroids",
-        [
-
-        ],
-        [
-          "meteoric shower",
-          "meteoric impacts"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "like a meteor in speed or brilliance or transience",
-        [
-
-        ],
-        [
-          "a meteoric rise to fame"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Meteoric",
-      "Meteorologic",
-      "Meteorological"
     ]
   },
   "METEORITE": {
@@ -40453,34 +38600,6 @@
       "Meticulosity"
     ]
   },
-  "METIER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an occupation for which you are especially well suited",
-        [
-          "Occupation",
-          "Business",
-          "Job",
-          "Line of work",
-          "Line"
-        ],
-        [
-          "in law he found his true metier"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "weak_point"
-    ],
-    "SYNONYMS": [
-      "Metier",
-      "Strength",
-      "Forte",
-      "Long suit",
-      "Speciality"
-    ]
-  },
   "METIS": {
     "MEANINGS": {
       "1": [
@@ -41100,33 +39219,6 @@
       "Meuse-argonne"
     ]
   },
-  "MEW": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "utter a high-pitched cry, as of seagulls",
-        [
-          "Utter",
-          "Emit",
-          "Let out",
-          "Let loose"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Miaow",
-      "Mew gull",
-      "Miaul",
-      "Larus canus",
-      "Mew"
-    ]
-  },
   "MEWS": {
     "MEANINGS": {
       "1": [
@@ -41412,30 +39504,6 @@
       "Mho"
     ]
   },
-  "MI": {
-    "MEANINGS": {
-      "8": [
-        "Noun",
-        "the syllable naming the third (mediant) note of any major scale in solmization",
-        [
-          "Solfa syllable"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Security service",
-      "Stat mi",
-      "Naut mi",
-      "Military intelligence section 6",
-      "Wolverine state"
-    ]
-  },
   "MYA": {
     "MEANINGS": {
       "1": [
@@ -41637,29 +39705,6 @@
       "Miasmic",
       "Miasmal",
       "Mephitic"
-    ]
-  },
-  "MYASTHENIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any muscular weakness",
-        [
-          "Physical condition",
-          "Physiological state",
-          "Physiological condition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Myasthenia",
-      "Myasthenia gravis"
     ]
   },
   "MICA": {
@@ -43053,30 +41098,6 @@
       "Micrometeoritic"
     ]
   },
-  "MICROMETER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "caliper for measuring small distances",
-        [
-          "Caliper",
-          "Calliper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Micrometer gauge",
-      "Micrometer caliper",
-      "Micrometer",
-      "Micron"
-    ]
-  },
   "MICROMETRY": {
     "MEANINGS": {
       "1": [
@@ -44307,27 +42328,6 @@
       "Middlemost"
     ]
   },
-  "MIDDLE-OF-THE-ROAD": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not extreme, especially in political views",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Middle-of-the-road",
-      "Centrist"
-    ]
-  },
   "MIDDLETON": {
     "MEANINGS": {
       "1": [
@@ -45237,30 +43237,6 @@
       "Midwife"
     ]
   },
-  "MIDWIFERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "assisting women at childbirth",
-        [
-          "Delivery",
-          "Obstetrical delivery"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tocology",
-      "Midwifery",
-      "Ob",
-      "Obstetrics"
-    ]
-  },
   "MIDWINTER": {
     "MEANINGS": {
       "1": [
@@ -45892,32 +43868,6 @@
     ],
     "SYNONYMS": [
       "Migrational"
-    ]
-  },
-  "MIGRATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an animal (especially birds and fish) that travels between different habitats at particular times of the year",
-        [
-          "Animal",
-          "Animate being",
-          "Beast",
-          "Brute",
-          "Creature",
-          "Fauna"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Migrator",
-      "Migrant"
     ]
   },
   "MIGRATORY": {
@@ -48266,39 +46216,6 @@
       "John stuart mill"
     ]
   },
-  "MILLSTONE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any load that is difficult to carry",
-        [
-          "Load",
-          "Loading",
-          "Burden"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "one of a pair of heavy flat disk-shaped stones that are rotated against one another to grind the grain",
-        [
-          "Stone"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Albatross",
-      "Millstone"
-    ]
-  },
   "MILLWHEEL": {
     "MEANINGS": {
       "1": [
@@ -48790,27 +46707,6 @@
       "Mimicker"
     ]
   },
-  "MIMICRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the resemblance of an animal species to another species or to natural objects; provides concealment and protection from predators",
-        [
-          "Imitation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Apery",
-      "Mimicry"
-    ]
-  },
   "MIMIDAE": {
     "MEANINGS": {
       "1": [
@@ -48850,40 +46746,6 @@
     ],
     "SYNONYMS": [
       "Mimir"
-    ]
-  },
-  "MIMOSA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various tropical shrubs or trees of the genus Mimosa having usually yellow flowers and compound leaves",
-        [
-          "Shrub",
-          "Bush"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a mixed drink containing champagne and orange juice",
-        [
-          "Mixed drink"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mimosa",
-      "Acacia dealbata",
-      "Silver wattle",
-      "Buck's fizz"
     ]
   },
   "MIMOSACEAE": {
@@ -48926,40 +46788,6 @@
     "SYNONYMS": [
       "Mimus",
       "Genus mimus"
-    ]
-  },
-  "MIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of the forms of Chinese spoken in Fukien province",
-        [
-          "Chinese"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an Egyptian god of procreation",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fukien",
-      "Taiwanese",
-      "Minute",
-      "Min dialect",
-      "Hokkianese"
     ]
   },
   "MYNA": {
@@ -49200,28 +47028,6 @@
     ],
     "SYNONYMS": [
       "Mindanao"
-    ]
-  },
-  "MIND-BLOWING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "intensely affecting the mind or emotions",
-        [
-
-        ],
-        [
-          "spending a week in the jungle was a mind-blowing experience",
-          "a mind-blowing horror story"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mind-bending",
-      "Mind-blowing"
     ]
   },
   "MIND-BOGGLING": {
@@ -49847,30 +47653,6 @@
     ],
     "SYNONYMS": [
       "Minge"
-    ]
-  },
-  "MINGLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "get involved or mixed-up with",
-        [
-
-        ],
-        [
-          "He was about to mingle in an unpleasant affair"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Commix",
-      "Amalgamate",
-      "Mingle",
-      "Jumble",
-      "Mix"
     ]
   },
   "MINGLING": {
@@ -51377,40 +49159,6 @@
       "Heap"
     ]
   },
-  "MINTAGE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fee paid to a mint by the government for minting a coin",
-        [
-          "Fee"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "act or process of minting coins",
-        [
-          "Trade",
-          "Craft"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Metal money",
-      "Coinage",
-      "Mintage",
-      "Specie"
-    ]
-  },
   "MINTY": {
     "MEANINGS": {
       "1": [
@@ -51715,31 +49463,6 @@
     ],
     "SYNONYMS": [
       "Minuteman"
-    ]
-  },
-  "MINUTENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "great precision; painstaking attention to details",
-        [
-          "Exactness",
-          "Exactitude"
-        ],
-        [
-          "he examined the essay with the greatest minuteness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Weeness",
-      "Diminutiveness",
-      "Petiteness",
-      "Minuteness",
-      "Tininess"
     ]
   },
   "MINUTES": {
@@ -53650,28 +51373,6 @@
       "Misanthropy"
     ]
   },
-  "MISANTHROPIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "hating mankind in general",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Misanthropic",
-      "Cynical",
-      "Misanthropical"
-    ]
-  },
   "MISAPPLY": {
     "MEANINGS": {
       "1": [
@@ -53709,31 +51410,6 @@
         ],
         [
 
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Defalcation",
-      "Peculation",
-      "Misapplication",
-      "Misappropriation",
-      "Embezzlement"
-    ]
-  },
-  "MISAPPROPRIATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "wrongful borrowing",
-        [
-          "Borrowing",
-          "Adoption"
-        ],
-        [
-          "his explanation was a misappropriation of sociological theory"
         ]
       ]
     },
@@ -53898,29 +51574,6 @@
       "Miscalculation"
     ]
   },
-  "MISCARRY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "suffer a miscarriage",
-        [
-          "Abort"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "carry_to_term",
-      "succeed"
-    ],
-    "SYNONYMS": [
-      "Fail",
-      "Go wrong",
-      "Miscarry"
-    ]
-  },
   "MISCARRIAGE": {
     "MEANINGS": {
       "1": [
@@ -54037,30 +51690,6 @@
       "Deviltry"
     ]
   },
-  "MISCHIEVOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "deliberately causing harm or damage",
-        [
-
-        ],
-        [
-          "mischievous rumors and falsehoods"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pixilated",
-      "Arch",
-      "Wicked",
-      "Implike",
-      "Mischievous"
-    ]
-  },
   "MISCIBLE": {
     "MEANINGS": {
       "1": [
@@ -54145,28 +51774,6 @@
     },
     "ANTONYMS": [
 
-    ],
-    "SYNONYMS": [
-      "Misconstruction",
-      "Misconstrual"
-    ]
-  },
-  "MISCONSTRUCTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an ungrammatical constituent",
-        [
-          "Constituent",
-          "Grammatical constituent"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "construction"
     ],
     "SYNONYMS": [
       "Misconstruction",
@@ -54358,31 +51965,6 @@
       "Violation",
       "Infringement",
       "Infraction"
-    ]
-  },
-  "MISDIRECT": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "put a wrong address on",
-        [
-          "Address",
-          "Direct"
-        ],
-        [
-          "misdirect the letter"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Debauch",
-      "Lead astray",
-      "Vitiate",
-      "Misdirect",
-      "Misaddress"
     ]
   },
   "MISDIRECTION": {
@@ -54738,35 +52320,6 @@
       "Misgive"
     ]
   },
-  "MISGIVING": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "doubt about someone's honesty",
-        [
-          "Doubt",
-          "Uncertainty",
-          "Incertitude",
-          "Dubiety",
-          "Doubtfulness",
-          "Dubiousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Qualm",
-      "Apprehension",
-      "Distrust",
-      "Suspicion",
-      "Misgiving"
-    ]
-  },
   "MISGOVERN": {
     "MEANINGS": {
       "1": [
@@ -54811,56 +52364,6 @@
     "SYNONYMS": [
       "Misgovernment",
       "Misrule"
-    ]
-  },
-  "MISGUIDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "wrong in e.g. opinion or judgment",
-        [
-
-        ],
-        [
-          "well-meaning but misguided teachers",
-          "a mistaken belief",
-          "mistaken identity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lead astray",
-      "Misdirect",
-      "Ill-conceived",
-      "Mislead",
-      "Misadvise"
-    ]
-  },
-  "MISHAP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an instance of misfortune",
-        [
-          "Misfortune",
-          "Bad luck"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Misadventure",
-      "Mishap",
-      "Bad luck",
-      "Mischance"
     ]
   },
   "MISHNA": {
@@ -56750,33 +54253,6 @@
       "Secret"
     ]
   },
-  "MYSTERIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding",
-        [
-
-        ],
-        [
-          "mysterious symbols",
-          "the mystical style of Blake",
-          "occult lore",
-          "the secret learning of the ancients"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cryptical",
-      "Mystifying",
-      "Cryptic",
-      "Mystic",
-      "Occult"
-    ]
-  },
   "MISTFLOWER": {
     "MEANINGS": {
       "1": [
@@ -56799,29 +54275,6 @@
       "Mist-flower",
       "Conoclinium coelestinum",
       "Eupatorium coelestinum"
-    ]
-  },
-  "MISTY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "wet with mist",
-        [
-
-        ],
-        [
-          "the misty evening"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Misty",
-      "Brumous",
-      "Foggy",
-      "Hazy"
     ]
   },
   "MYSTIC": {
@@ -56968,69 +54421,6 @@
     ],
     "SYNONYMS": [
       "Misty-eyed"
-    ]
-  },
-  "MYSTIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make mysterious",
-        [
-          "Obscure",
-          "Blot out",
-          "Obliterate",
-          "Veil",
-          "Hide"
-        ],
-        [
-          "mystify the story"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "demystify"
-    ],
-    "SYNONYMS": [
-      "Perplex",
-      "Stupefy",
-      "Pose",
-      "Bewilder",
-      "Amaze"
-    ]
-  },
-  "MYSTIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "something designed to mystify or bewilder",
-        [
-          "Artifact",
-          "Artefact"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the activity of obscuring people's understanding, leaving them baffled or bewildered",
-        [
-          "Activity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Obfuscation",
-      "Befuddlement",
-      "Bewilderment",
-      "Bemusement",
-      "Bafflement"
     ]
   },
   "MISTILY": {
@@ -57486,30 +54876,6 @@
       "Genus mitchella"
     ]
   },
-  "MITE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of numerous very small to minute arachnids often infesting animals or plants or stored foods",
-        [
-          "Acarine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Speck",
-      "Hint",
-      "Tinge",
-      "Pinch",
-      "Touch"
-    ]
-  },
   "MITELLA": {
     "MEANINGS": {
       "1": [
@@ -57921,30 +55287,6 @@
     ],
     "SYNONYMS": [
       "Mitigable"
-    ]
-  },
-  "MITIGATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make less severe or harsh",
-        [
-          "Decrease",
-          "Lessen",
-          "Minify"
-        ],
-        [
-          "mitigating circumstances"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Extenuate",
-      "Palliate",
-      "Mitigate"
     ]
   },
   "MITIGATED": {
@@ -58362,51 +55704,6 @@
       "Myxedema"
     ]
   },
-  "MIXER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "club soda or fruit juice used to mix with alcohol",
-        [
-          "Beverage",
-          "Drink",
-          "Drinkable",
-          "Potable"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "electronic equipment that mixes two or more input signals to give a single output signal",
-        [
-          "Electronic equipment"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a kitchen utensil that is used for mixing foods",
-        [
-          "Kitchen utensil"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Social",
-      "Sociable",
-      "Mixer"
-    ]
-  },
   "MYXINE": {
     "MEANINGS": {
       "1": [
@@ -58673,29 +55970,6 @@
       "Variety",
       "Concoction",
       "Admixture"
-    ]
-  },
-  "MIZZEN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fore-and-aft sail set on the mizzenmast",
-        [
-          "Fore-and-aft sail"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mizenmast",
-      "Mizzenmast",
-      "Mizzen",
-      "Mizen"
     ]
   },
   "MIZZENMAST": {
@@ -59384,30 +56658,6 @@
       "Mock-heroic"
     ]
   },
-  "MOCKING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "playfully vexing (especially by ridicule)",
-        [
-
-        ],
-        [
-          "his face wore a somewhat quizzical almost impertinent air\"- Lawrence Durrell"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bemock",
-      "Quizzical",
-      "Mocking",
-      "Mock",
-      "Taunting"
-    ]
-  },
   "MOCKINGBIRD": {
     "MEANINGS": {
       "1": [
@@ -59568,52 +56818,6 @@
       "Sensory system"
     ]
   },
-  "MODE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a particular functioning condition or arrangement",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-          "switched from keyboard to voice mode"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "any of various fixed orders of the various diatonic notes within an octave",
-        [
-          "Diatonic scale"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the most frequent value of a random variable",
-        [
-          "Average",
-          "Norm"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mode",
-      "Way",
-      "Modal value",
-      "Modality",
-      "Manner"
-    ]
-  },
   "MODEL": {
     "MEANINGS": {
       "1": [
@@ -59769,31 +56973,6 @@
       "Modeller"
     ]
   },
-  "MODELING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a preliminary sculpture in wax or clay from which a finished work can be copied",
-        [
-          "Sculpture",
-          "Carving"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mould",
-      "Modelling",
-      "Pose",
-      "Clay sculpture",
-      "Pattern"
-    ]
-  },
   "MODEM": {
     "MEANINGS": {
       "1": [
@@ -59866,31 +57045,6 @@
       "Hold in",
       "Temper",
       "Tame"
-    ]
-  },
-  "MODERATELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with moderation; in a moderate manner",
-        [
-
-        ],
-        [
-          "he drinks moderately"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unreasonably",
-      "immoderately"
-    ],
-    "SYNONYMS": [
-      "Passably",
-      "Pretty",
-      "Reasonably",
-      "Moderately",
-      "Somewhat"
     ]
   },
   "MODERATING": {
@@ -60297,30 +57451,6 @@
       "Modernisation"
     ]
   },
-  "MODERNIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become technologically advanced",
-        [
-          "Change"
-        ],
-        [
-          "Many countries in Asia are now developing at a very fast pace",
-          "Viet Nam is modernizing rapidly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Overhaul",
-      "Develop",
-      "Modernize",
-      "Modernise"
-    ]
-  },
   "MODERNIZED": {
     "MEANINGS": {
       "1": [
@@ -60531,40 +57661,6 @@
     ],
     "SYNONYMS": [
       "Modifiable"
-    ]
-  },
-  "MODIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "slightly modified copy; not an exact copy",
-        [
-          "Copy"
-        ],
-        [
-          "a modification of last year's model"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the grammatical relation that exists when a word qualifies the meaning of the phrase",
-        [
-          "Grammatical relation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Qualifying",
-      "Limiting",
-      "Alteration",
-      "Modification",
-      "Change"
     ]
   },
   "MODIFIED": {
@@ -60823,97 +57919,6 @@
       "Modulated",
       "Tone",
       "Modulate"
-    ]
-  },
-  "MODULATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(electronics) the transmission of a signal by using it to vary a carrier wave; changing the carrier's amplitude or frequency or phase",
-        [
-          "Transmission"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a manner of speaking in which the loudness or pitch or tone of the voice is modified",
-        [
-          "Manner of speaking",
-          "Speech",
-          "Delivery"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the act of modifying or adjusting according to due measure and proportion (as with regard to artistic effect)",
-        [
-          "Revision",
-          "Alteration"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pitch contour",
-      "Transition",
-      "Modulation",
-      "Inflection",
-      "Intonation"
-    ]
-  },
-  "MODULE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "detachable compartment of a spacecraft",
-        [
-          "Compartment"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "computer circuit consisting of an assembly of electronic components (as of computer hardware)",
-        [
-          "Computer circuit"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a self-contained component (unit or item) that is used in combination with other components",
-        [
-          "Component",
-          "Constituent",
-          "Element"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mental faculty",
-      "Faculty",
-      "Module"
     ]
   },
   "MODULUS": {
@@ -61237,30 +58242,6 @@
       "Mediety"
     ]
   },
-  "MOIL": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "moisten or soil",
-        [
-          "Smear"
-        ],
-        [
-          "Her tears moiled the letter"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Labor",
-      "Roil",
-      "Dig",
-      "Toil",
-      "Fag"
-    ]
-  },
   "MOIRAI": {
     "MEANINGS": {
       "1": [
@@ -61392,29 +58373,6 @@
     ],
     "SYNONYMS": [
       "Mojarra"
-    ]
-  },
-  "MOJAVE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a desert area in southern California and western Arizona",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mohave desert",
-      "Mojave desert",
-      "Mohave",
-      "Mojave"
     ]
   },
   "MOJO": {
@@ -61595,92 +58553,6 @@
       "Molasses"
     ]
   },
-  "MOLD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become moldy; spoil due to humidity",
-        [
-          "Change"
-        ],
-        [
-          "The furniture molded in the old house"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "loose soil rich in organic matter",
-        [
-          "Soil",
-          "Dirt"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "fit tightly, follow the contours of",
-        [
-          "Cling",
-          "Cleave",
-          "Adhere",
-          "Stick",
-          "Cohere"
-        ],
-        [
-          "The dress molds her beautiful figure"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a dish or dessert that is formed in or on a mold",
-        [
-          "Dessert",
-          "Sweet",
-          "Afters",
-          "Dish"
-        ],
-        [
-          "a lobster mold",
-          "a gelatin dessert made in a mold"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "a distinctive nature, character, or type",
-        [
-          "Hallmark",
-          "Trademark",
-          "Earmark",
-          "Stylemark"
-        ],
-        [
-          "a leader in the mold of her predecessors"
-        ]
-      ],
-      "8": [
-        "Noun",
-        "sculpture produced by molding",
-        [
-          "Sculpture"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Forge",
-      "Influence",
-      "Mould",
-      "Model",
-      "Clay sculpture"
-    ]
-  },
   "MOLDBOARD": {
     "MEANINGS": {
       "1": [
@@ -61769,52 +58641,6 @@
       "Border",
       "Casting",
       "Mildew"
-    ]
-  },
-  "MOLE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "spicy sauce often containing chocolate",
-        [
-          "Sauce"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a small congenital pigmented spot on the skin",
-        [
-          "Blemish",
-          "Defect",
-          "Mar"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "small velvety-furred burrowing mammal having small eyes and fossorial forefeet",
-        [
-          "Insectivore"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Breakwater",
-      "Seawall",
-      "Groyne",
-      "Mol",
-      "Groin"
     ]
   },
   "MOLECULAR": {
@@ -62196,30 +59022,6 @@
     "SYNONYMS": [
       "Molly",
       "Mollie"
-    ]
-  },
-  "MOLLIFY": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make less rigid or softer",
-        [
-          "Soften"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Season",
-      "Gruntle",
-      "Temper",
-      "Appease",
-      "Lenify"
     ]
   },
   "MOLLIFICATION": {
@@ -62919,37 +59721,6 @@
       "Momus"
     ]
   },
-  "MON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a member of a Buddhist people living in Myanmar and adjacent parts of Thailand",
-        [
-          "Buddhist"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the Mon-Khmer language spoken by the Mon",
-        [
-          "Mon-khmer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monday",
-      "Mon"
-    ]
-  },
   "MONACAN": {
     "MEANINGS": {
       "1": [
@@ -63102,31 +59873,6 @@
     ],
     "SYNONYMS": [
       "Monandrous"
-    ]
-  },
-  "MONARCH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed",
-        [
-          "Danaid",
-          "Danaid butterfly"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Milkweed butterfly",
-      "Monarch butterfly",
-      "Crowned head",
-      "Monarch",
-      "Danaus plexippus"
     ]
   },
   "MONARCHAL": {
@@ -64244,31 +60990,6 @@
       "Monistic"
     ]
   },
-  "MONITION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a summons issued after the filing of a libel or claim directing all parties concerned to show cause why the judgment asked for should not be granted",
-        [
-          "Summons",
-          "Process"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Admonition",
-      "Warning",
-      "Process of monition",
-      "Monition",
-      "Word of advice"
-    ]
-  },
   "MONITOR": {
     "MEANINGS": {
       "3": [
@@ -65345,29 +62066,6 @@
       "Monolith"
     ]
   },
-  "MONOLITHIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by massiveness and rigidity and total uniformity",
-        [
-
-        ],
-        [
-          "a monolithic society",
-          "a monolithic worldwide movement"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monolithic",
-      "Massive",
-      "Monumental"
-    ]
-  },
   "MONOLOGIST": {
     "MEANINGS": {
       "1": [
@@ -65387,45 +62085,6 @@
     ],
     "SYNONYMS": [
       "Monologist"
-    ]
-  },
-  "MONOLOGUE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a long utterance by one person (especially one that prevents others from participating in the conversation)",
-        [
-          "Speech",
-          "Speech communication",
-          "Spoken communication",
-          "Spoken language",
-          "Language",
-          "Voice communication",
-          "Oral communication"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a (usually long) dramatic speech by a single actor",
-        [
-          "Actor's line",
-          "Speech",
-          "Words"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monologue",
-      "Soliloquy"
     ]
   },
   "MONOMANIA": {
@@ -65681,28 +62340,6 @@
       "Monody",
       "Monophonic music",
       "Monophony"
-    ]
-  },
-  "MONOPHONIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "consisting of a single melodic line",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "polyphonic"
-    ],
-    "SYNONYMS": [
-      "Single-channel",
-      "Mono",
-      "Monophonic"
     ]
   },
   "MONOPLANE": {
@@ -66779,52 +63416,6 @@
       "Monstera"
     ]
   },
-  "MONSTRANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Roman Catholic Church) a vessel (usually of gold or silver) in which the consecrated Host is exposed for adoration",
-        [
-          "Vessel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Demonstration",
-      "Ostensorium",
-      "Monstrance"
-    ]
-  },
-  "MONSTROSITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "something hideous or frightful",
-        [
-          "Malformation",
-          "Miscreation"
-        ],
-        [
-          "they regarded the atom bomb as a monstrosity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lusus naturae",
-      "Freak",
-      "Monstrosity",
-      "Monster"
-    ]
-  },
   "MONSTROUS": {
     "MEANINGS": {
       "1": [
@@ -67263,28 +63854,6 @@
       "1st viscount montgomery of alamein"
     ]
   },
-  "MONTH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a time unit of approximately 30 days",
-        [
-          "Time unit",
-          "Unit of time"
-        ],
-        [
-          "he was given a month to pay the bill"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Calendar month",
-      "Month"
-    ]
-  },
   "MONTHLY": {
     "MEANINGS": {
       "1": [
@@ -67449,29 +64018,6 @@
       "Montserrat"
     ]
   },
-  "MONUMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an important site that is marked and preserved as public property",
-        [
-          "Site",
-          "Land site"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Repository",
-      "Memorial",
-      "Monument"
-    ]
-  },
   "MONUMENTAL": {
     "MEANINGS": {
       "1": [
@@ -67601,30 +64147,6 @@
       "Scrounger",
       "Mooch",
       "Cadger"
-    ]
-  },
-  "MOOD": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "verb inflections that express how the action or state is conceived by the speaker",
-        [
-          "Grammatical relation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mode",
-      "Temper",
-      "Climate",
-      "Modality",
-      "Mood"
     ]
   },
   "MOODY": {
@@ -68844,28 +65366,6 @@
       "Morals"
     ]
   },
-  "MORALIZATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of making moral (or more moral)",
-        [
-          "Reform"
-        ],
-        [
-          "for years she worked toward the moralization of English literature"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Moralisation",
-      "Moralization",
-      "Moralizing"
-    ]
-  },
   "MORALIZE": {
     "MEANINGS": {
       "1": [
@@ -69177,30 +65677,6 @@
     "SYNONYMS": [
       "Genus morchella",
       "Morchella"
-    ]
-  },
-  "MORDACIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "biting or given to biting",
-        [
-
-        ],
-        [
-          "they deliberately gave me a skittish and mordacious mount"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nipping",
-      "Pungent",
-      "Barbed",
-      "Biting",
-      "Mordacious"
     ]
   },
   "MORDACIOUSLY": {
@@ -69625,27 +66101,6 @@
       "Morgue"
     ]
   },
-  "MORIBUND": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "being on the point of death; breathing your last",
-        [
-
-        ],
-        [
-          "a moribund patient"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Moribund",
-      "Stagnant"
-    ]
-  },
   "MORION": {
     "MEANINGS": {
       "1": [
@@ -69831,30 +66286,6 @@
       "Al-magrib",
       "Maroc",
       "Morocco"
-    ]
-  },
-  "MORON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a city in Argentina, to the west of Buenos Aires",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Retard",
-      "Changeling",
-      "Moron",
-      "Cretin",
-      "Imbecile"
     ]
   },
   "MORONE": {
@@ -70828,28 +67259,6 @@
       "Mortgager"
     ]
   },
-  "MORTICE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "join by a tenon and mortise",
-        [
-          "Join",
-          "Bring together"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mortise",
-      "Mortice"
-    ]
-  },
   "MORTICIAN": {
     "MEANINGS": {
       "1": [
@@ -70920,32 +67329,6 @@
       "Humiliate",
       "Chagrin",
       "Subdue"
-    ]
-  },
-  "MORTIFICATION": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "(Christianity) the act of mortifying the lusts of the flesh by self-denial and privation (especially by bodily pain or discomfort inflicted on yourself)",
-        [
-          "Self-denial",
-          "Self-discipline",
-          "Self-control"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gangrene",
-      "Sphacelus",
-      "Chagrin",
-      "Necrosis",
-      "Humiliation"
     ]
   },
   "MORTIMER": {
@@ -71608,31 +67991,6 @@
       "Mosul"
     ]
   },
-  "MOT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a compulsory annual test of older motor vehicles for safety and exhaust fumes",
-        [
-          "Test",
-          "Trial",
-          "Run"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mot",
-      "Mot test",
-      "Bon mot",
-      "Ministry of transportation test"
-    ]
-  },
   "MOTACILLA": {
     "MEANINGS": {
       "1": [
@@ -72089,27 +68447,6 @@
       "Motherwort"
     ]
   },
-  "MOTHY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "infested with moths",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Moth-eaten",
-      "Mothy"
-    ]
-  },
   "MOTHPROOF": {
     "MEANINGS": {
       "1": [
@@ -72209,66 +68546,6 @@
       "Movement",
       "Move",
       "Motion"
-    ]
-  },
-  "MOTION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a change of position that does not entail a change of location",
-        [
-          "Change"
-        ],
-        [
-          "the reflex motion of his eyebrows revealed his surprise",
-          "movement is a sign of life",
-          "an impatient move of his hand",
-          "gastrointestinal motility"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a state of change",
-        [
-          "State"
-        ],
-        [
-          "they were in a state of steady motion"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a formal proposal for action made to a deliberative assembly for discussion and vote",
-        [
-          "Proposal"
-        ],
-        [
-          "he made a motion to adjourn",
-          "she called for the question"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the act of changing location from one place to another",
-        [
-          "Change"
-        ],
-        [
-          "police controlled the motion of the crowd",
-          "the movement of people from the farms to the cities",
-          "his move put him directly in my path"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "motionlessness"
-    ],
-    "SYNONYMS": [
-      "Move",
-      "Motility",
-      "Apparent motion",
-      "Motion",
-      "Apparent movement"
     ]
   },
   "MOTIONAL": {
@@ -72523,47 +68800,6 @@
       "Wanton",
       "Motiveless",
       "Unprovoked"
-    ]
-  },
-  "MOTLEY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having sections or patches colored differently and usually brightly",
-        [
-
-        ],
-        [
-          "a jester dressed in motley",
-          "the painted desert",
-          "a particolored dress",
-          "a piebald horse",
-          "pied daisies"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a multicolored woolen fabric woven of mixed threads in 14th to 17th century England",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mixed",
-      "Miscellanea",
-      "Parti-color",
-      "Particolored",
-      "Miscellaneous"
     ]
   },
   "MOTMOT": {
@@ -73212,40 +69448,6 @@
       "Mountaineer"
     ]
   },
-  "MOUNTAINOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "like a mountain in size and impressiveness",
-        [
-
-        ],
-        [
-          "mountainous waves",
-          "a mountainous dark man"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "containing many mountains",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mountainous",
-      "Cragged",
-      "Craggy",
-      "Hilly"
-    ]
-  },
   "MOUNTAINSIDE": {
     "MEANINGS": {
       "1": [
@@ -73383,31 +69585,6 @@
     ],
     "SYNONYMS": [
       "Mountie"
-    ]
-  },
-  "MOUNTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "framework used for support or display",
-        [
-          "Framework"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "wane",
-      "hop_out"
-    ],
-    "SYNONYMS": [
-      "Climbing",
-      "Wax",
-      "Hop on",
-      "Climb on",
-      "Mount"
     ]
   },
   "MOURN": {
@@ -74324,80 +70501,6 @@
       "Impress"
     ]
   },
-  "MOVEMENT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a natural event that involves a change in the position or location of something",
-        [
-          "Happening",
-          "Occurrence",
-          "Occurrent",
-          "Natural event"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a group of people with a common ideology who try together to achieve certain general goals",
-        [
-          "Social group"
-        ],
-        [
-          "he was a charter member of the movement",
-          "politicians have to respect a mass movement",
-          "he led the national liberation front"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a major self-contained part of a symphony or sonata",
-        [
-          "Musical composition",
-          "Opus",
-          "Composition",
-          "Piece",
-          "Piece of music"
-        ],
-        [
-          "the second movement is slow and melodic"
-        ]
-      ],
-      "10": [
-        "Noun",
-        "the driving and regulating parts of a mechanism (as of a watch or clock)",
-        [
-          "Action",
-          "Action mechanism"
-        ],
-        [
-          "it was an expensive watch with a diamond movement"
-        ]
-      ],
-      "11": [
-        "Noun",
-        "the act of changing the location of something",
-        [
-          "Change"
-        ],
-        [
-          "the movement of cargo onto the vessel"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crusade",
-      "Move",
-      "Campaign",
-      "Motility",
-      "Social movement"
-    ]
-  },
   "MOVER": {
     "MEANINGS": {
       "1": [
@@ -74765,32 +70868,6 @@
       "Mister"
     ]
   },
-  "MS": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "a form of address for a woman",
-        [
-          "Title",
-          "Title of respect",
-          "Form of address"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Magnolia state",
-      "Mississippi",
-      "One thousand",
-      "Thou",
-      "Ms."
-    ]
-  },
   "MU": {
     "MEANINGS": {
       "1": [
@@ -75016,31 +71093,6 @@
       "Goop",
       "Sludge",
       "Guck"
-    ]
-  },
-  "MUCKY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "dirty and messy; covered with mud or muck",
-        [
-
-        ],
-        [
-          "muddy boots",
-          "a mucky stable"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sloppy",
-      "Sloughy",
-      "Muddy",
-      "Miry",
-      "Swampy"
     ]
   },
   "MUCKRAKE": {
@@ -75712,52 +71764,6 @@
       "Dampen"
     ]
   },
-  "MUFFLED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "wrapped up especially for protection or secrecy",
-        [
-
-        ],
-        [
-          "children muffled almost to the eyebrows"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Damp",
-      "Stifle",
-      "Smother",
-      "Muffle",
-      "Dampen"
-    ]
-  },
-  "MUFFLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a scarf worn around the neck",
-        [
-          "Scarf"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Silencer",
-      "Muffler",
-      "Damper"
-    ]
-  },
   "MUFTI": {
     "MEANINGS": {
       "1": [
@@ -76230,31 +72236,6 @@
     ],
     "SYNONYMS": [
       "Mulch"
-    ]
-  },
-  "MULCT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "impose a fine on",
-        [
-          "Levy",
-          "Impose"
-        ],
-        [
-          "he was fined for littering"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Rook",
-      "Nobble",
-      "Scam",
-      "Fine",
-      "Mulct"
     ]
   },
   "MULE": {
@@ -77187,43 +73168,6 @@
       "Multiplicand"
     ]
   },
-  "MULTIPLICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a multiplicative increase",
-        [
-          "Increase",
-          "Increment",
-          "Growth"
-        ],
-        [
-          "repeated copying leads to a multiplication of errors",
-          "this multiplication of cells is a natural correlate of growth"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an arithmetic operation that is the inverse of division; the product of two numbers is computed",
-        [
-          "Arithmetic operation"
-        ],
-        [
-          "the multiplication of four by three gives twelve",
-          "four times three equals twelve"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Multiplication",
-      "Generation",
-      "Times",
-      "Propagation"
-    ]
-  },
   "MULTIPLICATIVE": {
     "MEANINGS": {
       "1": [
@@ -77497,43 +73441,6 @@
       "Multistoried",
       "Multistorey",
       "Multistory"
-    ]
-  },
-  "MULTITUDE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large gathering of people",
-        [
-          "Gathering",
-          "Assemblage"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the common people generally",
-        [
-          "Group",
-          "Grouping"
-        ],
-        [
-          "separate the warriors from the mass",
-          "power to the people"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mass",
-      "Plurality",
-      "Masses",
-      "Hoi polloi",
-      "Pack"
     ]
   },
   "MULTITUDINOUSNESS": {
@@ -77814,31 +73721,6 @@
       "Flummery"
     ]
   },
-  "MUMMY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a body embalmed and dried and wrapped for burial (as in ancient Egypt)",
-        [
-          "Body",
-          "Dead body"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mum",
-      "Ma",
-      "Mammy",
-      "Mom",
-      "Mummy"
-    ]
-  },
   "MUMMICHOG": {
     "MEANINGS": {
       "1": [
@@ -78099,42 +73981,6 @@
     ],
     "SYNONYMS": [
       "Munda"
-    ]
-  },
-  "MUNDANE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "concerned with the world or worldly matters",
-        [
-
-        ],
-        [
-          "mundane affairs",
-          "he developed an immense terrestrial practicality"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "belonging to this earth or world; not ideal or heavenly; yet a mundane wonder of unimagined kind\"",
-        [
-
-        ],
-        [
-          "not a fairy palace",
-          "so terrene a being as himself"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Everyday",
-      "Quotidian",
-      "Mundane",
-      "Routine",
-      "Terrene"
     ]
   },
   "MUNDANELY": {
@@ -78870,31 +74716,6 @@
       "Fogginess",
       "Murk",
       "Fog"
-    ]
-  },
-  "MURKY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "dark or gloomy",
-        [
-
-        ],
-        [
-          "a murky dungeon",
-          "murky rooms lit by smoke-blackened lamps"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cloudy",
-      "Turbid",
-      "Muddy",
-      "Murky",
-      "Mirky"
     ]
   },
   "MURKILY": {
@@ -80627,29 +76448,6 @@
       "Muskiness"
     ]
   },
-  "MUSKMELON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the fruit of a muskmelon vine; any of several sweet melons related to cucumbers",
-        [
-          "Melon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Muskmelon",
-      "Sweet melon vine",
-      "Cucumis melo",
-      "Sweet melon"
-    ]
-  },
   "MUSKOGEE": {
     "MEANINGS": {
       "1": [
@@ -81496,44 +77294,6 @@
       "Mutate"
     ]
   },
-  "MUTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism",
-        [
-          "Change",
-          "Alteration",
-          "Modification"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a change or alteration in form or qualities",
-        [
-          "Change",
-          "Alteration",
-          "Modification"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mutant",
-      "Genetic mutation",
-      "Variation",
-      "Sport",
-      "Mutation"
-    ]
-  },
   "MUTATIONAL": {
     "MEANINGS": {
       "1": [
@@ -81655,28 +77415,6 @@
       "Silently",
       "Taciturnly",
       "Wordlessly"
-    ]
-  },
-  "MUTENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a refusal to speak when expected",
-        [
-          "Uncommunicativeness"
-        ],
-        [
-          "his silence about my contribution was surprising"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mutism",
-      "Muteness",
-      "Silence"
     ]
   },
   "MUTILATE": {

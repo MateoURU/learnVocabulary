@@ -1,30 +1,4 @@
 {
-  "I": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the 9th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unity",
-      "Iodin",
-      "Iodine",
-      "Ace",
-      "Single"
-    ]
-  },
   "IAGO": {
     "MEANINGS": {
       "1": [
@@ -469,30 +443,6 @@
       "Iceberg",
       "Berg",
       "Iceberg lettuce"
-    ]
-  },
-  "ICEBOAT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a sailing vessel with runners and a cross-shaped frame; suitable for traveling over ice",
-        [
-          "Vessel",
-          "Watercraft"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ice yacht",
-      "Iceboat",
-      "Scooter",
-      "Icebreaker"
     ]
   },
   "ICEBOUND": {
@@ -1030,40 +980,6 @@
       "Ichthyosis"
     ]
   },
-  "ICY": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "covered with or containing or consisting of ice",
-        [
-
-        ],
-        [
-          "icy northern waters"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "shiny and slick as with a thin coating of ice",
-        [
-
-        ],
-        [
-          "roads and trees glazed with an icy film"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frigid",
-      "Polar",
-      "Glacial",
-      "Icy",
-      "Frozen"
-    ]
-  },
   "ICICLE": {
     "MEANINGS": {
       "1": [
@@ -1103,32 +1019,6 @@
     ],
     "SYNONYMS": [
       "Icily"
-    ]
-  },
-  "ICING": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(ice hockey) the act of shooting the puck from within your own defensive area the length of the rink beyond the opponent's goal",
-        [
-          "Maneuver",
-          "Manoeuvre",
-          "Play"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frost",
-      "Icing",
-      "Ice",
-      "Icing the puck",
-      "Frosting"
     ]
   },
   "ICKY": {
@@ -1467,28 +1357,6 @@
       "Icterogenic"
     ]
   },
-  "ICTERUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "type genus of the Icteridae",
-        [
-          "Bird genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Genus icterus",
-      "Icterus",
-      "Jaundice"
-    ]
-  },
   "ICTONYX": {
     "MEANINGS": {
       "1": [
@@ -1508,41 +1376,6 @@
     "SYNONYMS": [
       "Genus ictonyx",
       "Ictonyx"
-    ]
-  },
-  "ID": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a card or badge used to identify the bearer",
-        [
-          "Badge",
-          "Positive identification"
-        ],
-        [
-          "you had to show your ID in order to get in"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(psychoanalysis) primitive instincts and energies underlying all psychic activity",
-        [
-          "Instinct",
-          "Inherent aptitude"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gem state",
-      "I.d.",
-      "Id",
-      "Idaho"
     ]
   },
   "IDAHO": {
@@ -2129,52 +1962,6 @@
       "Identifiably"
     ]
   },
-  "IDENTIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "evidence of identity; something that identifies a person or thing",
-        [
-          "Evidence"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the condition of having the identity (of a person or object) established",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-          "the thief's identification was followed quickly by his arrest",
-          "identification of the gun was an important clue"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the attribution to yourself (consciously or unconsciously) of the characteristics of another person (or group of persons)",
-        [
-          "Identity",
-          "Personal identity",
-          "Individuality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Designation",
-      "Identification",
-      "Recognition"
-    ]
-  },
   "IDENTIFIED": {
     "MEANINGS": {
       "1": [
@@ -2380,29 +2167,6 @@
     ],
     "SYNONYMS": [
       "Ideographically"
-    ]
-  },
-  "IDEOLOGY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "imaginary or visionary theorization",
-        [
-          "Theorization",
-          "Theorisation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ideology",
-      "Political orientation",
-      "Political theory"
     ]
   },
   "IDEOLOGICAL": {
@@ -2687,32 +2451,6 @@
     ],
     "SYNONYMS": [
       "Idiolect"
-    ]
-  },
-  "IDIOM": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "an expression whose meanings cannot be inferred from the meanings of the words that make it up",
-        [
-          "Saying",
-          "Expression",
-          "Locution"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Phrasal idiom",
-      "Idiomatic expression",
-      "Phrase",
-      "Idiom",
-      "Artistic style"
     ]
   },
   "IDIOMATIC": {
@@ -3234,28 +2972,6 @@
     ],
     "SYNONYMS": [
       "Idolatrously"
-    ]
-  },
-  "IDOLIZATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of worshiping blindly and to excess",
-        [
-          "Worship"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Idolization",
-      "Idolisation",
-      "Adoration"
     ]
   },
   "IDOLIZE": {
@@ -4259,29 +3975,6 @@
       "Genus iliamna"
     ]
   },
-  "ILIUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the upper and widest of the three bones making up the hipbone",
-        [
-          "Bone",
-          "Os"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ilium",
-      "Ilion",
-      "Troy"
-    ]
-  },
   "ILL": {
     "MEANINGS": {
       "1": [
@@ -4400,38 +4093,6 @@
     ],
     "SYNONYMS": [
       "Illampu"
-    ]
-  },
-  "ILLATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "resembling or dependent on or arrived at by inference",
-        [
-
-        ],
-        [
-          "an illative conclusion",
-          "inferential reasoning"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "expressing or preceding an inference",
-        [
-
-        ],
-        [
-          "`therefore' is an illative word"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Inferential",
-      "Illative"
     ]
   },
   "ILL-BEING": {
@@ -4688,28 +4349,6 @@
       "Illegibly",
       "Unreadably",
       "Undecipherably"
-    ]
-  },
-  "ILLEGITIMACY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "unlawfulness by virtue of not being authorized by or in accordance with law",
-        [
-          "Unlawfulness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "legitimacy"
-    ],
-    "SYNONYMS": [
-      "Bar sinister",
-      "Bastardy",
-      "Illegitimacy"
     ]
   },
   "ILLEGITIMATE": {
@@ -5462,35 +5101,6 @@
       "Illuminant"
     ]
   },
-  "ILLUMINATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "add embellishments and paintings to (medieval manuscripts)",
-        [
-          "Decorate",
-          "Adorn",
-          "Grace",
-          "Ornament",
-          "Embellish",
-          "Beautify"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Illuminate",
-      "Sort out",
-      "Crystalize",
-      "Crystalise",
-      "Elucidate"
-    ]
-  },
   "ILLUMINATED": {
     "MEANINGS": {
       "1": [
@@ -5516,30 +5126,6 @@
       "Crystallise",
       "Crystalize",
       "Shed light on"
-    ]
-  },
-  "ILLUMINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the degree of visibility of your environment",
-        [
-          "State"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Elucidation",
-      "Illuminance",
-      "Light",
-      "Illumination",
-      "Clarification"
     ]
   },
   "ILLUSION": {
@@ -5619,46 +5205,6 @@
       "Illusory"
     ]
   },
-  "ILLUSTRATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "depict with an illustration",
-        [
-          "Picture",
-          "Depict",
-          "Render",
-          "Show"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "supply with illustrations",
-        [
-          "Decorate",
-          "Adorn",
-          "Grace",
-          "Ornament",
-          "Embellish",
-          "Beautify"
-        ],
-        [
-          "illustrate a book with drawings"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Instance",
-      "Illustrate",
-      "Exemplify"
-    ]
-  },
   "ILLUSTRATION": {
     "MEANINGS": {
       "1": [
@@ -5715,30 +5261,6 @@
     ],
     "SYNONYMS": [
       "Illustrator"
-    ]
-  },
-  "ILLUSTRIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having or conferring glory",
-        [
-
-        ],
-        [
-          "an illustrious achievement"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Far-famed",
-      "Celebrated",
-      "Famed",
-      "Renowned",
-      "Illustrious"
     ]
   },
   "ILLUSTRIOUSLY": {
@@ -5935,31 +5457,6 @@
       "Think"
     ]
   },
-  "IMAGING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(medicine) obtaining pictures of the interior of the body",
-        [
-          "Pictorial representation",
-          "Picturing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Imaging",
-      "Imagination",
-      "Visualise",
-      "Picture",
-      "Image"
-    ]
-  },
   "IMAGISM": {
     "MEANINGS": {
       "1": [
@@ -6138,33 +5635,6 @@
       "Stupidity"
     ]
   },
-  "IMBIBE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "receive into the mind and retain",
-        [
-          "Absorb",
-          "Assimilate",
-          "Ingest",
-          "Take in"
-        ],
-        [
-          "Imbibe ethical principles"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Assimilate",
-      "Imbibe",
-      "Suck",
-      "Draw",
-      "Suck up"
-    ]
-  },
   "IMBIBITION": {
     "MEANINGS": {
       "1": [
@@ -6294,37 +5764,6 @@
     "SYNONYMS": [
       "Drench",
       "Imbrue"
-    ]
-  },
-  "IMBUE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "suffuse with color",
-        [
-          "Color",
-          "Colorize",
-          "Colorise",
-          "Colourise",
-          "Colourize",
-          "Colour",
-          "Color in",
-          "Colour in"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Permeate",
-      "Riddle",
-      "Soak",
-      "Diffuse",
-      "Penetrate"
     ]
   },
   "IMIDAZOLE": {
@@ -7067,31 +6506,6 @@
       "Swallow"
     ]
   },
-  "IMMERSION": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a form of baptism in which part or all of a person's body is submerged",
-        [
-          "Baptism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "emersion",
-      "egress"
-    ],
-    "SYNONYMS": [
-      "Absorption",
-      "Submersion",
-      "Immersion",
-      "Concentration",
-      "Submerging"
-    ]
-  },
   "IMMIGRANT": {
     "MEANINGS": {
       "1": [
@@ -7273,28 +6687,6 @@
       "Immobile",
       "Firm",
       "Fast"
-    ]
-  },
-  "IMMOBILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of not moving",
-        [
-          "Quality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "mobility"
-    ],
-    "SYNONYMS": [
-      "Stationariness",
-      "Fixedness",
-      "Immobility"
     ]
   },
   "IMMOBILIZATION": {
@@ -7693,32 +7085,6 @@
       "Immortality"
     ]
   },
-  "IMMORTALIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make famous forever",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "This melody immortalized its composer"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Immortalize",
-      "Memorialize",
-      "Eternise",
-      "Eternize",
-      "Eternalise"
-    ]
-  },
   "IMMORTELLE": {
     "MEANINGS": {
       "1": [
@@ -7877,41 +7243,6 @@
     "SYNONYMS": [
       "Immune",
       "Resistant"
-    ]
-  },
-  "IMMUNITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(medicine) the condition in which an organism can resist disease",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the quality of being unaffected by something",
-        [
-          "Invulnerability"
-        ],
-        [
-          "immunity to criticism"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "susceptibility"
-    ],
-    "SYNONYMS": [
-      "Immunity",
-      "Exemption",
-      "Resistance",
-      "Unsusceptibility",
-      "Granting immunity"
     ]
   },
   "IMMUNIZATION": {
@@ -8430,41 +7761,6 @@
       "Immutable"
     ]
   },
-  "IMP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one who is playfully mischievous",
-        [
-          "Child",
-          "Kid",
-          "Youngster",
-          "Minor",
-          "Shaver",
-          "Nipper",
-          "Small fry",
-          "Tiddler",
-          "Tike",
-          "Tyke",
-          "Fry",
-          "Nestling"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monkey",
-      "Hob",
-      "Gremlin",
-      "Rascal",
-      "Elf"
-    ]
-  },
   "IMPACT": {
     "MEANINGS": {
       "1": [
@@ -8645,33 +7941,6 @@
       "Impairer"
     ]
   },
-  "IMPAIRMENT": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "damage that results in a reduction of strength or quality",
-        [
-          "Damage",
-          "Harm",
-          "Hurt",
-          "Scathe"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deadening",
-      "Stultification",
-      "Handicap",
-      "Damage",
-      "Disablement"
-    ]
-  },
   "IMPALA": {
     "MEANINGS": {
       "1": [
@@ -8693,30 +7962,6 @@
       "Aepyceros melampus"
     ]
   },
-  "IMPALE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "kill by piercing with a spear or sharp pole",
-        [
-          "Kill"
-        ],
-        [
-          "the enemies were impaled and left to die"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stake",
-      "Empale",
-      "Transfix",
-      "Impale",
-      "Spike"
-    ]
-  },
   "IMPALEMENT": {
     "MEANINGS": {
       "1": [
@@ -8736,41 +7981,6 @@
     ],
     "SYNONYMS": [
       "Impalement"
-    ]
-  },
-  "IMPALPABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "imperceptible to the senses or the mind",
-        [
-
-        ],
-        [
-          "an impalpable cloud",
-          "impalpable shadows",
-          "impalpable distinctions",
-          "as impalpable as a dream"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not perceptible to the touch",
-        [
-
-        ],
-        [
-          "an impalpable pulse"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "tangible",
-      "palpable"
-    ],
-    "SYNONYMS": [
-      "Intangible",
-      "Impalpable"
     ]
   },
   "IMPART": {
@@ -8966,39 +8176,6 @@
       "Impasto"
     ]
   },
-  "IMPATIENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a restless desire for change and excitement",
-        [
-          "Fidget",
-          "Fidgetiness",
-          "Restlessness"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a dislike of anything that causes delay",
-        [
-          "Ill nature"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "patience"
-    ],
-    "SYNONYMS": [
-      "Restlessness",
-      "Impatience"
-    ]
-  },
   "IMPATIENT": {
     "MEANINGS": {
       "1": [
@@ -9132,49 +8309,6 @@
       "Impeachment"
     ]
   },
-  "IMPECCABILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being exempt from sin or incapable of sinning",
-        [
-          "Righteousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Impeccability",
-      "Faultlessness"
-    ]
-  },
-  "IMPECCABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not capable of sin",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Immaculate",
-      "Faultless",
-      "Impeccable"
-    ]
-  },
   "IMPECCABLY": {
     "MEANINGS": {
       "1": [
@@ -9288,30 +8422,6 @@
       "Obturate",
       "Block",
       "Hinder"
-    ]
-  },
-  "IMPEDIMENTA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the baggage and equipment carried by an army",
-        [
-          "Baggage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Impedimenta",
-      "Obstructer",
-      "Obstruction",
-      "Obstructor",
-      "Impediment"
     ]
   },
   "IMPEL": {
@@ -10133,32 +9243,6 @@
       "Abiding"
     ]
   },
-  "IMPERIUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "supreme authority; absolute dominion",
-        [
-          "Authority",
-          "Authorization",
-          "Authorisation",
-          "Potency",
-          "Dominance",
-          "Say-so"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Imperium",
-      "Empire"
-    ]
-  },
   "IMPERMANENCE": {
     "MEANINGS": {
       "1": [
@@ -10428,33 +9512,6 @@
       "Personate"
     ]
   },
-  "IMPERSONATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "imitating the mannerisms of another person",
-        [
-          "Acting",
-          "Playing",
-          "Playacting",
-          "Performing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Imitation",
-      "Caricature",
-      "Impersonation",
-      "Imposture",
-      "Personation"
-    ]
-  },
   "IMPERSONATOR": {
     "MEANINGS": {
       "1": [
@@ -10479,31 +9536,6 @@
     "SYNONYMS": [
       "Imitator",
       "Impersonator"
-    ]
-  },
-  "IMPERTINENCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "inappropriate playfulness",
-        [
-          "Playfulness",
-          "Fun"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perkiness",
-      "Crust",
-      "Pertness",
-      "Freshness",
-      "Gall"
     ]
   },
   "IMPERTINENT": {
@@ -10639,30 +9671,6 @@
     ],
     "SYNONYMS": [
       "Impetigo"
-    ]
-  },
-  "IMPETUOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by violent force",
-        [
-
-        ],
-        [
-          "impetuous heaving waves"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hotheaded",
-      "Tearaway",
-      "Impulsive",
-      "Madcap",
-      "Impetuous"
     ]
   },
   "IMPETUOUSLY": {
@@ -11087,32 +10095,6 @@
       "Subservient"
     ]
   },
-  "IMPLEMENTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of implementing (providing a practical means for accomplishing something); carrying into effect",
-        [
-          "Act",
-          "Deed",
-          "Human action",
-          "Human activity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Carrying out",
-      "Implementation",
-      "Effectuation",
-      "Execution"
-    ]
-  },
   "IMPLY": {
     "MEANINGS": {
       "1": [
@@ -11208,51 +10190,6 @@
       "Concerned",
       "Implicate",
       "Implicated"
-    ]
-  },
-  "IMPLICATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an accusation that brings into intimate and usually incriminating connection",
-        [
-          "Accusation",
-          "Accusal"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false",
-        [
-          "Logical relation"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a relation implicated by virtue of involvement or close connection (especially an incriminating involvement)",
-        [
-          "Involvement"
-        ],
-        [
-          "he was suspected of implication in several robberies"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Implication",
-      "Import",
-      "Logical implication",
-      "Conditional relation",
-      "Significance"
     ]
   },
   "IMPLICATIONAL": {
@@ -12027,31 +10964,6 @@
     "SYNONYMS": [
       "Impersonation",
       "Imposture"
-    ]
-  },
-  "IMPOTENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an inability (usually of the male animal) to copulate",
-        [
-          "Sterility",
-          "Infertility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "power",
-      "potence",
-      "potency"
-    ],
-    "SYNONYMS": [
-      "Impotence",
-      "Powerlessness",
-      "Impotency"
     ]
   },
   "IMPOTENT": {
@@ -13750,32 +12662,6 @@
       "Impuissant"
     ]
   },
-  "IMPULSE": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "the act of applying force suddenly",
-        [
-          "Drive",
-          "Thrust",
-          "Driving force"
-        ],
-        [
-          "the impulse knocked him over"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Whim",
-      "Nerve impulse",
-      "Impulsion",
-      "Impulse",
-      "Impetus"
-    ]
-  },
   "IMPULSIVE": {
     "MEANINGS": {
       "1": [
@@ -14254,32 +13140,6 @@
       "Inaction"
     ]
   },
-  "INACTIVATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make inactive",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "they deactivated the file"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "mobilize",
-      "activate"
-    ],
-    "SYNONYMS": [
-      "Deactivate",
-      "Demobilise",
-      "Inactivate",
-      "Demobilize"
-    ]
-  },
   "INACTIVATION": {
     "MEANINGS": {
       "1": [
@@ -14392,83 +13252,6 @@
       "Still",
       "Passive",
       "Nonoperational"
-    ]
-  },
-  "INACTIVENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a disposition to remain inactive or inert",
-        [
-          "Trait"
-        ],
-        [
-          "he had to overcome his inertia and get back to work"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "action",
-      "activeness",
-      "activity"
-    ],
-    "SYNONYMS": [
-      "Inertia",
-      "Inactivity",
-      "Inactiveness",
-      "Inaction"
-    ]
-  },
-  "INACTIVITY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "being inactive; being less active",
-        [
-          "Act",
-          "Deed",
-          "Human action",
-          "Human activity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "action",
-      "activeness",
-      "activity"
-    ],
-    "SYNONYMS": [
-      "Inertia",
-      "Inactivity",
-      "Inactiveness",
-      "Inaction"
-    ]
-  },
-  "INADEQUACY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "unsatisfactoriness by virtue of being inadequate",
-        [
-          "Unsatisfactoriness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sufficiency",
-      "adequacy"
-    ],
-    "SYNONYMS": [
-      "Insufficiency",
-      "Inadequacy",
-      "Inadequateness",
-      "Deficiency"
     ]
   },
   "INADEQUATE": {
@@ -15127,28 +13910,6 @@
     "SYNONYMS": [
       "Unarticulate",
       "Inarticulate"
-    ]
-  },
-  "INARTICULATELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an inarticulate manner",
-        [
-
-        ],
-        [
-          "he talked inarticulately about the accident that had just taken his wife's life"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "articulately",
-      "eloquently"
-    ],
-    "SYNONYMS": [
-      "Inarticulately",
-      "Ineloquently"
     ]
   },
   "INARTISTIC": {
@@ -16042,42 +14803,6 @@
       "Corporate"
     ]
   },
-  "INCARNATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Christianity) the Christian doctrine of the union of God and man in the person of Jesus Christ",
-        [
-          "Religious doctrine",
-          "Church doctrine",
-          "Gospel",
-          "Creed"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "time passed in a particular bodily form",
-        [
-          "Time"
-        ],
-        [
-          "he believes that his life will be better in his next incarnation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Avatar",
-      "Incarnation",
-      "Embodiment",
-      "Personification"
-    ]
-  },
   "INCAUTION": {
     "MEANINGS": {
       "1": [
@@ -16516,30 +15241,6 @@
       "Incident"
     ]
   },
-  "INCIDENTALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "of a minor or subordinate nature",
-        [
-
-        ],
-        [
-          "these magnificent achievements were only incidentally influenced by Oriental models"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Apropos",
-      "By the way",
-      "By the bye",
-      "Incidentally",
-      "Accidentally"
-    ]
-  },
   "INCINERATE": {
     "MEANINGS": {
       "1": [
@@ -16749,30 +15450,6 @@
       "Section"
     ]
   },
-  "INCISIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "suitable for cutting or piercing",
-        [
-
-        ],
-        [
-          "incisive teeth"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sharp",
-      "Incisive",
-      "Penetrative",
-      "Knifelike",
-      "Acute"
-    ]
-  },
   "INCISIVELY": {
     "MEANINGS": {
       "1": [
@@ -16859,79 +15536,6 @@
     "SYNONYMS": [
       "Incisure",
       "Incisura"
-    ]
-  },
-  "INCITATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an act of urging on or spurring on or rousing to action or instigating",
-        [
-          "Arousal",
-          "Rousing"
-        ],
-        [
-          "the incitement of mutiny"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Provocation",
-      "Incitement",
-      "Incitation"
-    ]
-  },
-  "INCITE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "provoke or stir up",
-        [
-          "Provoke",
-          "Stimulate"
-        ],
-        [
-          "incite a riot",
-          "set off great unrest among the people"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Move",
-      "Propel",
-      "Prod",
-      "Set off",
-      "Stir up"
-    ]
-  },
-  "INCITEMENT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "something that incites or provokes; a means of arousing or stirring to action",
-        [
-          "Psychic energy",
-          "Mental energy"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Provocation",
-      "Incitement",
-      "Incitation",
-      "Exhortation"
     ]
   },
   "INCIVILITY": {
@@ -17052,57 +15656,6 @@
       "Lean",
       "List",
       "Inclination"
-    ]
-  },
-  "INCLINE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "bend or turn (one's ear) towards a speaker in order to listen well",
-        [
-          "Listen",
-          "Hear",
-          "Take heed"
-        ],
-        [
-          "He inclined his ear to the wise old man"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "lower or bend (the head or upper body), as in a nod or bow",
-        [
-          "Lower",
-          "Take down",
-          "Let down",
-          "Get down",
-          "Bring down"
-        ],
-        [
-          "She inclined her head to the student"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "feel favorably disposed or willing",
-        [
-          "Feel",
-          "Experience"
-        ],
-        [
-          "She inclines to the view that people should be allowed to expres their religious beliefs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "indispose"
-    ],
-    "SYNONYMS": [
-      "Slope",
-      "Ramp",
-      "Run",
-      "Side",
-      "Lean"
     ]
   },
   "INCLINED": {
@@ -18026,29 +16579,6 @@
       "Incomprehensibility"
     ]
   },
-  "INCOMPREHENSIBLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "difficult to understand",
-        [
-
-        ],
-        [
-          "the most incomprehensible thing about the universe is that it is comprehensible\"- A. Einstein"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "comprehensible",
-      "explicable"
-    ],
-    "SYNONYMS": [
-      "Inexplicable",
-      "Incomprehensible",
-      "Uncomprehensible"
-    ]
-  },
   "INCOMPREHENSION": {
     "MEANINGS": {
       "1": [
@@ -18394,27 +16924,6 @@
       "Inconsequent"
     ]
   },
-  "INCONSEQUENTIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not following logically as a consequence",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Inconsequential",
-      "Inconsequent"
-    ]
-  },
   "INCONSEQUENTIALLY": {
     "MEANINGS": {
       "1": [
@@ -18532,29 +17041,6 @@
       "Thoughtlessness",
       "Inconsideration",
       "Inconsiderateness"
-    ]
-  },
-  "INCONSISTENCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being inconsistent and lacking a harmonious uniformity among things or parts",
-        [
-          "Nonuniformity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "consistency"
-    ],
-    "SYNONYMS": [
-      "Mutual exclusiveness",
-      "Incompatibility",
-      "Inconsistency",
-      "Repugnance"
     ]
   },
   "INCONSISTENT": {
@@ -18692,31 +17178,6 @@
     ],
     "SYNONYMS": [
       "Inconspicuousness"
-    ]
-  },
-  "INCONSTANCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being changeable and variable",
-        [
-          "Changeableness",
-          "Changeability"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "constancy"
-    ],
-    "SYNONYMS": [
-      "Falseness",
-      "Inconstancy",
-      "Faithlessness",
-      "Fickleness",
-      "Changefulness"
     ]
   },
   "INCONSTANT": {
@@ -19094,30 +17555,6 @@
       "Unified"
     ]
   },
-  "INCORPORATED": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "introduced into as a part of the whole",
-        [
-
-        ],
-        [
-          "the ideas incorporated in his revised manuscript"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disintegrate"
-    ],
-    "SYNONYMS": [
-      "Integrate",
-      "Comprise",
-      "Merged",
-      "Contain",
-      "Unified"
-    ]
-  },
   "INCORPORATION": {
     "MEANINGS": {
       "1": [
@@ -19228,31 +17665,6 @@
       "Faulty",
       "Wrong",
       "Incorrect"
-    ]
-  },
-  "INCORRECTLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an inaccurate manner",
-        [
-
-        ],
-        [
-          "he decided to reveal the details only after other sources had reported them incorrectly",
-          "she guessed wrong"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "correctly",
-      "right"
-    ],
-    "SYNONYMS": [
-      "Wrong",
-      "Falsely",
-      "Incorrectly",
-      "Wrongly"
     ]
   },
   "INCORRECTNESS": {
@@ -19971,47 +18383,6 @@
       "Inculpative"
     ]
   },
-  "INCUMBENCY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a duty that is incumbent upon you",
-        [
-          "Duty",
-          "Responsibility",
-          "Obligation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the office of an incumbent",
-        [
-          "Position",
-          "Post",
-          "Berth",
-          "Office",
-          "Spot",
-          "Billet",
-          "Place",
-          "Situation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Term of office",
-      "Tenure",
-      "Incumbency"
-    ]
-  },
   "INCUMBENT": {
     "MEANINGS": {
       "1": [
@@ -20326,29 +18697,6 @@
     "SYNONYMS": [
       "Incurvate",
       "Incurved"
-    ]
-  },
-  "INCURVATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the action of creating a curved shape",
-        [
-          "Bending"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Concave shape",
-      "Incurvature",
-      "Concavity",
-      "Incurvation"
     ]
   },
   "INCUS": {
@@ -20677,30 +19025,6 @@
     ],
     "SYNONYMS": [
       "Indecisively"
-    ]
-  },
-  "INDECISIVENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of irresolution; a lack of firmness of character or purpose",
-        [
-          "Irresoluteness",
-          "Irresolution"
-        ],
-        [
-          "the king's incurable indecisiveness caused turmoil in his court"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "decision",
-      "decisiveness"
-    ],
-    "SYNONYMS": [
-      "Indecision",
-      "Indecisiveness",
-      "Irresolution"
     ]
   },
   "INDECOROUS": {
@@ -21217,31 +19541,6 @@
       "Repair",
       "Indemnify",
       "Compensate"
-    ]
-  },
-  "INDEMNIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an act of compensation for actual loss or damage or for trouble and annoyance",
-        [
-          "Recompense",
-          "Compensation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Restitution",
-      "Amends",
-      "Damages",
-      "Indemnity",
-      "Redress"
     ]
   },
   "INDEMNITY": {
@@ -22093,52 +20392,6 @@
       "Indo-aryan"
     ]
   },
-  "INDICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "indicate a place, direction, person, or thing; either spatially or figuratively",
-        [
-          "Inform"
-        ],
-        [
-          "I showed the customer the glove section",
-          "He pointed to the empty parking space",
-          "he indicated his opponents"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "to state or express briefly",
-        [
-          "Inform"
-        ],
-        [
-          "indicated his wishes in a letter"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "suggest the necessity of an intervention; in medicine",
-        [
-          "Inform"
-        ],
-        [
-          "Tetracycline is indicated in such cases"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "contraindicate"
-    ],
-    "SYNONYMS": [
-      "Betoken",
-      "Bespeak",
-      "Signal",
-      "Indicate",
-      "Show"
-    ]
-  },
   "INDICATION": {
     "MEANINGS": {
       "1": [
@@ -22227,54 +20480,6 @@
       "Declarative mood",
       "Indicative mood",
       "Declarative"
-    ]
-  },
-  "INDICATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a signal for attracting attention",
-        [
-          "Signal",
-          "Signaling",
-          "Sign"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a device for showing the operating condition of some system",
-        [
-          "Device"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(chemistry) a substance that changes color to indicate the presence of some ion or substance; can be used to indicate the completion of a chemical reaction or (in medicine) to test for a particular reaction",
-        [
-          "Coloring material",
-          "Colouring material",
-          "Color",
-          "Colour"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Index number",
-      "Indicant",
-      "Index",
-      "Indicator"
     ]
   },
   "INDICATORIDAE": {
@@ -22428,90 +20633,6 @@
       "Impassiveness",
       "Stolidity",
       "Nonchalance"
-    ]
-  },
-  "INDIFFERENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "showing no care or concern in attitude or action",
-        [
-
-        ],
-        [
-          "indifferent to the sufferings of others",
-          "indifferent to her plea"
-        ]
-      ],
-      "5": [
-        "Adjective",
-        "fairly poor to not very good",
-        [
-
-        ],
-        [
-          "has an indifferent singing voice",
-          "has indifferent qualifications for the job"
-        ]
-      ],
-      "7": [
-        "Adjective",
-        "marked by no especial liking or dislike or preference for one thing over another",
-        [
-
-        ],
-        [
-          "indifferent about which book you would give them",
-          "was indifferent to their acceptance or rejection of her invitation"
-        ]
-      ],
-      "8": [
-        "Adjective",
-        "characterized by a lack of partiality",
-        [
-
-        ],
-        [
-          "a properly indifferent jury",
-          "an unbiasgoted account of her family problems"
-        ]
-      ],
-      "9": [
-        "Adjective",
-        "being neither good nor bad",
-        [
-
-        ],
-        [
-          "an indifferent performance",
-          "a gifted painter but an indifferent actor",
-          "her work at the office is passable",
-          "a so-so golfer",
-          "feeling only so-so",
-          "prepared a tolerable dinner",
-          "a tolerable working knowledge of French"
-        ]
-      ],
-      "10": [
-        "Adjective",
-        "neither too great nor too little",
-        [
-
-        ],
-        [
-          "a couple of indifferent hills to climb"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deaf",
-      "Unbiassed",
-      "So-so",
-      "Inert",
-      "Unbiased"
     ]
   },
   "INDIFFERENTLY": {
@@ -23287,50 +21408,6 @@
       "Unquestionableness"
     ]
   },
-  "INDISPUTABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "impossible to doubt or dispute",
-        [
-
-        ],
-        [
-          "indisputable (or sure) proof"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Undisputable",
-      "Indisputable",
-      "Sure",
-      "Incontestable"
-    ]
-  },
-  "INDISSOLUBLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "used of decisions and contracts",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "soluble"
-    ],
-    "SYNONYMS": [
-      "Insoluble",
-      "Indissoluble"
-    ]
-  },
   "INDISTINCT": {
     "MEANINGS": {
       "1": [
@@ -23377,30 +21454,6 @@
       "Fuzziness",
       "Indistinctness",
       "Softness"
-    ]
-  },
-  "INDISTINGUISHABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not capable of being distinguished or differentiated",
-        [
-
-        ],
-        [
-          "the two specimens are actually different from each other but the differences are almost indistinguishable",
-          "the twins were indistinguishable",
-          "a colorless person quite indistinguishable from the colorless mass of humanity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "distinguishable"
-    ],
-    "SYNONYMS": [
-      "Identical",
-      "Indistinguishable",
-      "Undistinguishable"
     ]
   },
   "INDIUM": {
@@ -23486,43 +21539,6 @@
       "Individual"
     ]
   },
-  "INDIVIDUALISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a belief in the importance of the individual and the virtue of self-reliance and personal independence",
-        [
-          "Belief"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the doctrine that government should not interfere in commercial affairs",
-        [
-          "Doctrine",
-          "Philosophy",
-          "Philosophical system",
-          "School of thought",
-          "Ism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "commonality"
-    ],
-    "SYNONYMS": [
-      "Individualism",
-      "Individuation",
-      "Individuality",
-      "Laissez faire"
-    ]
-  },
   "INDIVIDUALIST": {
     "MEANINGS": {
       "1": [
@@ -23541,28 +21557,6 @@
     ],
     "SYNONYMS": [
       "Individualistic",
-      "Individualist"
-    ]
-  },
-  "INDIVIDUALISTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "with minimally restricted freedom in commerce",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Individualistic",
-      "Laissez-faire",
       "Individualist"
     ]
   },
@@ -23937,31 +21931,6 @@
       "Laziness"
     ]
   },
-  "INDOLENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of tumors, e.g.) slow to heal or develop and usually painless",
-        [
-
-        ],
-        [
-          "an indolent ulcer",
-          "leprosy is an indolent infectious disease"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Indolent",
-      "Lazy",
-      "Work-shy",
-      "Slothful",
-      "Otiose"
-    ]
-  },
   "INDOLENTLY": {
     "MEANINGS": {
       "1": [
@@ -24318,30 +22287,6 @@
       "Induct"
     ]
   },
-  "INDUCEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "act of bringing about a desired result",
-        [
-          "Causing",
-          "Causation"
-        ],
-        [
-          "inducement of sleep"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disincentive"
-    ],
-    "SYNONYMS": [
-      "Inducing",
-      "Incentive",
-      "Inducement",
-      "Motivator"
-    ]
-  },
   "INDUCER": {
     "MEANINGS": {
       "1": [
@@ -24433,45 +22378,6 @@
       "Inductee",
       "Conscript",
       "Draftee"
-    ]
-  },
-  "INDUCTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an electrical phenomenon whereby an electromotive force (EMF) is generated in a closed circuit by a change in the flow of current",
-        [
-          "Electrical phenomenon"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the act of bringing about something (especially at an early time)",
-        [
-          "Introduction",
-          "Debut",
-          "First appearance",
-          "Launching",
-          "Unveiling",
-          "Entry"
-        ],
-        [
-          "the induction of an anesthetic state"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Induction",
-      "Generalisation",
-      "Elicitation",
-      "Inductance",
-      "Initiation"
     ]
   },
   "INDUCTIVE": {
@@ -25156,30 +23062,6 @@
       "Uneatable"
     ]
   },
-  "INEFFABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "too sacred to be uttered",
-        [
-
-        ],
-        [
-          "the ineffable name of the Deity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ineffable",
-      "Indefinable",
-      "Unutterable",
-      "Unspeakable",
-      "Indescribable"
-    ]
-  },
   "INEFFABLY": {
     "MEANINGS": {
       "1": [
@@ -25662,31 +23544,6 @@
       "Ineluctable"
     ]
   },
-  "INEPT": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "revealing lack of perceptiveness or judgment or finesse",
-        [
-
-        ],
-        [
-          "an inept remark",
-          "it was tactless to bring up those disagreeable"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cumbersome",
-      "Ill-chosen",
-      "Clumsy",
-      "Feckless",
-      "Inapt"
-    ]
-  },
   "INEPTLY": {
     "MEANINGS": {
       "1": [
@@ -25889,28 +23746,6 @@
       "Soggy",
       "Indifferent",
       "Sluggish"
-    ]
-  },
-  "INERTIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(physics) the tendency of a body to maintain its state of rest or uniform motion unless acted upon by an external force",
-        [
-          "Mechanical phenomenon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "activeness"
-    ],
-    "SYNONYMS": [
-      "Inertia",
-      "Inactivity",
-      "Inactiveness"
     ]
   },
   "INERTIAL": {
@@ -26765,37 +24600,6 @@
     ],
     "SYNONYMS": [
       "Infanticide"
-    ]
-  },
-  "INFANTILE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or relating to infants or infancy",
-        [
-
-        ],
-        [
-          "infantile paralysis"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "being or befitting or characteristic of an infant",
-        [
-
-        ],
-        [
-          "infantile games"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Infantile",
-      "Childish"
     ]
   },
   "INFANTILISM": {
@@ -27813,29 +25617,6 @@
       "Infinite"
     ]
   },
-  "INFINITELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "continuing forever without end",
-        [
-
-        ],
-        [
-          "there are infinitely many possibilities"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "finitely"
-    ],
-    "SYNONYMS": [
-      "Infinitely",
-      "Immeasurably",
-      "Boundlessly",
-      "Endlessly"
-    ]
-  },
   "INFINITENESS": {
     "MEANINGS": {
       "1": [
@@ -27945,30 +25726,6 @@
       "Limitlessness",
       "Boundlessness",
       "Unboundedness"
-    ]
-  },
-  "INFIRM": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking firmness of will or character or purpose; give me the daggers\" - Shakespeare",
-        [
-
-        ],
-        [
-          "infirm of purpose"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Infirm",
-      "Weakly",
-      "Sapless",
-      "Debile",
-      "Rickety"
     ]
   },
   "INFIRMITY": {
@@ -28592,59 +26349,6 @@
       "Inflict"
     ]
   },
-  "INFLICTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an act causing pain or damage",
-        [
-          "Wrongdoing",
-          "Wrongful conduct",
-          "Misconduct",
-          "Actus reus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Botheration",
-      "Pain in the neck",
-      "Pain",
-      "Annoyance",
-      "Infliction"
-    ]
-  },
-  "INFLORESCENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the flowering part of a plant or arrangement of flowers on a stalk",
-        [
-          "Flower",
-          "Bloom",
-          "Blossom"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Florescence",
-      "Blossoming",
-      "Anthesis",
-      "Efflorescence",
-      "Inflorescence"
-    ]
-  },
   "INFLOW": {
     "MEANINGS": {
       "1": [
@@ -29074,32 +26778,6 @@
       "Informational"
     ]
   },
-  "INFORMATIVE": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "providing or conveying information",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "uninformative",
-      "uninstructive",
-      "unenlightening"
-    ],
-    "SYNONYMS": [
-      "Enlightening",
-      "Illuminating",
-      "Instructive",
-      "Informatory",
-      "Informative"
-    ]
-  },
   "INFORMATIVELY": {
     "MEANINGS": {
       "1": [
@@ -29466,42 +27144,6 @@
       "Infuscate"
     ]
   },
-  "INFUSE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "undergo the process of infusion",
-        [
-          "Steep",
-          "Infuse"
-        ],
-        [
-          "the mint tea is infusing"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "introduce into the body through a vein, for therapeutic purposes",
-        [
-          "Inject",
-          "Shoot"
-        ],
-        [
-          "Some physiologists infuses sugar solutions into the veins of animals"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Infuse",
-      "Instill",
-      "Steep",
-      "Inculcate",
-      "Impregnate"
-    ]
-  },
   "INFUSION": {
     "MEANINGS": {
       "1": [
@@ -29720,31 +27362,6 @@
       "Ingenue"
     ]
   },
-  "INGENUITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property of being ingenious",
-        [
-          "Superiority",
-          "High quality"
-        ],
-        [
-          "a plot of great ingenuity",
-          "the cleverness of its design"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cleverness",
-      "Inventiveness",
-      "Ingenuity",
-      "Ingeniousness"
-    ]
-  },
   "INGENUOUS": {
     "MEANINGS": {
       "1": [
@@ -29765,34 +27382,6 @@
       "Artless",
       "Innocent",
       "Ingenuous"
-    ]
-  },
-  "INGENUOUSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "openly straightforward or frank",
-        [
-          "Candor",
-          "Candour",
-          "Candidness",
-          "Frankness",
-          "Directness",
-          "Forthrightness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disingenuousness"
-    ],
-    "SYNONYMS": [
-      "Naturalness",
-      "Ingenuousness",
-      "Innocence",
-      "Artlessness"
     ]
   },
   "INGESTA": {
@@ -29819,30 +27408,6 @@
     ],
     "SYNONYMS": [
       "Ingesta"
-    ]
-  },
-  "INGLORIOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not bringing honor and glory",
-        [
-
-        ],
-        [
-          "some mute inglorious Milton here may rest"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "glorious"
-    ],
-    "SYNONYMS": [
-      "Shameful",
-      "Inglorious",
-      "Black",
-      "Disgraceful",
-      "Opprobrious"
     ]
   },
   "INGOT": {
@@ -30174,29 +27739,6 @@
     ],
     "SYNONYMS": [
       "Inguinal"
-    ]
-  },
-  "INHABIT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be present in",
-        [
-          "Be"
-        ],
-        [
-          "sweet memories inhabit this house"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Live",
-      "Populate",
-      "Inhabit",
-      "Dwell"
     ]
   },
   "INHABITANCY": {
@@ -30625,59 +28167,6 @@
       "Inherit"
     ]
   },
-  "INHIBIT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "limit the range or extent of",
-        [
-          "Restrict",
-          "Restrain",
-          "Trammel",
-          "Limit",
-          "Bound",
-          "Confine",
-          "Throttle"
-        ],
-        [
-          "Contact between the young was inhibited by strict social customs"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "limit, block, or decrease the action or function of",
-        [
-          "Impede",
-          "Hinder"
-        ],
-        [
-          "inhibit the action of the enzyme",
-          "inhibit the rate of a chemical reaction"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "control and refrain from showing; of emotions, desires, impulses, or behavior",
-        [
-          "Suppress",
-          "Repress"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Suppress",
-      "Inhibit",
-      "Subdue",
-      "Conquer",
-      "Curb"
-    ]
-  },
   "INHIBITED": {
     "MEANINGS": {
       "1": [
@@ -30934,30 +28423,6 @@
       "Inhospitality"
     ]
   },
-  "INHUMAN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "belonging to or resembling something nonhuman",
-        [
-
-        ],
-        [
-          "something dark and inhuman in form",
-          "a babel of inhuman noises"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Insensate",
-      "Cold-blooded",
-      "Cold",
-      "Inhuman"
-    ]
-  },
   "INHUMANE": {
     "MEANINGS": {
       "1": [
@@ -31212,44 +28677,6 @@
     "SYNONYMS": [
       "Initially",
       "Ab initio"
-    ]
-  },
-  "INITIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "take the lead or initiative in; participate in the development of",
-        [
-          "Cause",
-          "Do",
-          "Make"
-        ],
-        [
-          "This South African surgeon pioneered heart transplants"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "accept people into an exclusive society or group, usually with some rite",
-        [
-          "Admit",
-          "Let in",
-          "Include"
-        ],
-        [
-          "African men are initiated when they reach puberty"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "uninitiate"
-    ],
-    "SYNONYMS": [
-      "Initiate",
-      "Tyro",
-      "Novice",
-      "Start",
-      "Lead up"
     ]
   },
   "INITIATION": {
@@ -31888,27 +29315,6 @@
       "Intimation"
     ]
   },
-  "INKSTAND": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a tray or stand for writing implements and containers for ink",
-        [
-          "Tray"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Inkstand",
-      "Inkwell"
-    ]
-  },
   "INKWELL": {
     "MEANINGS": {
       "1": [
@@ -32256,29 +29662,6 @@
       "Innervate"
     ]
   },
-  "INNERVATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the distribution of nerve fibers to an organ or body region",
-        [
-          "Distribution",
-          "Dispersion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Innervation",
-      "Excitation",
-      "Irritation"
-    ]
-  },
   "INNING": {
     "MEANINGS": {
       "1": [
@@ -32323,31 +29706,6 @@
       "Inning",
       "Innings",
       "Frame"
-    ]
-  },
-  "INNOCENCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a state or condition of being innocent of a specific crime or offense",
-        [
-          "Condition",
-          "Status"
-        ],
-        [
-          "the trial established his innocence"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "guilt"
-    ],
-    "SYNONYMS": [
-      "Whiteness",
-      "Innocence",
-      "Artlessness",
-      "Sinlessness",
-      "Pureness"
     ]
   },
   "INNOCENCY": {
@@ -32502,32 +29860,6 @@
       "Innocuous",
       "Unobjectionable",
       "Innocent"
-    ]
-  },
-  "INNOVATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "being or producing something like nothing done or experienced or created before",
-        [
-
-        ],
-        [
-          "stylistically innovative works",
-          "innovative members of the artistic community",
-          "a mind so innovational, so original"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Modern",
-      "Groundbreaking",
-      "Innovational",
-      "Innovative",
-      "Advanced"
     ]
   },
   "INNOVATIVENESS": {
@@ -33649,56 +30981,6 @@
       "Unsatiable"
     ]
   },
-  "INSCRIBE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "draw within a figure so as to touch in as many places as possible",
-        [
-          "Trace",
-          "Draw",
-          "Line",
-          "Describe",
-          "Delineate"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "write, engrave, or print as a lasting record",
-        [
-          "Record",
-          "Enter",
-          "Put down"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Verb",
-        "address, (a work of literature) in a style less formal than a dedication",
-        [
-          "Dedicate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Enter",
-      "Scratch",
-      "Cipher",
-      "Engrave",
-      "Enroll"
-    ]
-  },
   "INSCRIBED": {
     "MEANINGS": {
       "1": [
@@ -34553,29 +31835,6 @@
       "Stick in"
     ]
   },
-  "INSERTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of putting one thing into another",
-        [
-          "Movement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Intromission",
-      "Interpolation",
-      "Introduction",
-      "Insertion"
-    ]
-  },
   "INSESSORES": {
     "MEANINGS": {
       "1": [
@@ -34834,53 +32093,6 @@
     ],
     "SYNONYMS": [
       "Insidiousness"
-    ]
-  },
-  "INSIGHT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a feeling of understanding",
-        [
-          "Sensibility"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the clear (and often sudden) understanding of a complex situation",
-        [
-          "Understanding",
-          "Apprehension",
-          "Discernment",
-          "Savvy"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "grasping the inner nature of things intuitively",
-        [
-          "Intuition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Perceptivity",
-      "Sixth sense",
-      "Brainstorm",
-      "Penetration",
-      "Perceptiveness"
     ]
   },
   "INSIGHTFUL": {
@@ -35156,31 +32368,6 @@
       "Insinuation"
     ]
   },
-  "INSIPID": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking interest or significance or impact",
-        [
-
-        ],
-        [
-          "an insipid personality",
-          "jejune novel"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flat",
-      "Flavourless",
-      "Jejune",
-      "Bland",
-      "Vapid"
-    ]
-  },
   "INSIPIDLY": {
     "MEANINGS": {
       "1": [
@@ -35339,30 +32526,6 @@
       "In so far"
     ]
   },
-  "INSOLATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "incident solar radiation",
-        [
-          "Solar radiation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Siriasis",
-      "Thermic fever",
-      "Insolation",
-      "Sunstroke",
-      "Heliotherapy"
-    ]
-  },
   "INSOLE": {
     "MEANINGS": {
       "1": [
@@ -35384,33 +32547,6 @@
       "Insole"
     ]
   },
-  "INSOLENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an offensive disrespectful impudent act",
-        [
-          "Discourtesy",
-          "Offense",
-          "Offence",
-          "Offensive activity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crust",
-      "Freshness",
-      "Gall",
-      "Cheekiness",
-      "Insolence"
-    ]
-  },
   "INSOLENTLY": {
     "MEANINGS": {
       "1": [
@@ -35429,28 +32565,6 @@
     ],
     "SYNONYMS": [
       "Insolently"
-    ]
-  },
-  "INSOLUBILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being insoluble and difficult to dissolve in liquid",
-        [
-          "Quality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "solubility",
-      "solvability"
-    ],
-    "SYNONYMS": [
-      "Insolubility",
-      "Unsolvability"
     ]
   },
   "INSOLUBLE": {
@@ -36130,30 +33244,6 @@
       "Installation"
     ]
   },
-  "INSTANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "in or of the present month",
-        [
-
-        ],
-        [
-          "your letter of the 10th inst"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wink",
-      "New york minute",
-      "Insistent",
-      "Second",
-      "Trice"
-    ]
-  },
   "INSTANTANEOUS": {
     "MEANINGS": {
       "1": [
@@ -36675,68 +33765,6 @@
       "Instroke"
     ]
   },
-  "INSTRUCT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "give instructions or directions for some task",
-        [
-          "Order",
-          "Tell",
-          "Enjoin",
-          "Say"
-        ],
-        [
-          "She instructed the students to work on their pronunciation"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "make aware of",
-        [
-          "Inform"
-        ],
-        [
-          "Have the students been apprised of the tuition hike?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Teach",
-      "Learn",
-      "Instruct",
-      "Apprize",
-      "Apprise"
-    ]
-  },
-  "INSTRUCTION": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "(computer science) a line of code written as part of a computer program",
-        [
-          "Code",
-          "Computer code"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Didactics",
-      "Pedagogy",
-      "Command",
-      "Program line",
-      "Teaching"
-    ]
-  },
   "INSTRUCTIONAL": {
     "MEANINGS": {
       "1": [
@@ -36961,40 +33989,6 @@
     "SYNONYMS": [
       "Instrumentation",
       "Instrumentality"
-    ]
-  },
-  "INSTRUMENTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of providing or using the instruments needed for some implementation",
-        [
-          "Implementation",
-          "Effectuation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the instruments called for in a musical score or arrangement for a band or orchestra",
-        [
-          "Musical arrangement",
-          "Arrangement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Instrumentation",
-      "Instrumentality",
-      "Orchestration"
     ]
   },
   "INSUBORDINATE": {
@@ -37454,33 +34448,6 @@
       "Insulin"
     ]
   },
-  "INSULT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a deliberately offensive act or something producing the effect of deliberate disrespect",
-        [
-          "Discourtesy",
-          "Offense",
-          "Offence",
-          "Offensive activity"
-        ],
-        [
-          "turning his back on me was a deliberate insult"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Insult",
-      "Contumely",
-      "Vilification",
-      "Abuse",
-      "Affront"
-    ]
-  },
   "INSULTINGLY": {
     "MEANINGS": {
       "1": [
@@ -37617,30 +34584,6 @@
       "Indemnity",
       "Insurance policy",
       "Policy"
-    ]
-  },
-  "INSURE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "take out insurance for",
-        [
-          "Protect"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Assure",
-      "Guarantee",
-      "Ensure",
-      "Ascertain",
-      "Cover"
     ]
   },
   "INSURED": {
@@ -37780,39 +34723,6 @@
       "Insurrectionism"
     ]
   },
-  "INTACT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of a woman) having the hymen unbroken",
-        [
-
-        ],
-        [
-          "she was intact, virginal"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "undamaged in any way",
-        [
-
-        ],
-        [
-          "the vase remained intact despit rough handling"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Inviolate",
-      "Entire",
-      "Integral",
-      "Intact"
-    ]
-  },
   "INTACTNESS": {
     "MEANINGS": {
       "1": [
@@ -37833,54 +34743,6 @@
     ],
     "SYNONYMS": [
       "Intactness"
-    ]
-  },
-  "INTAGLIO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo)",
-        [
-          "Glyptic art",
-          "Glyptography"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Diaglyph",
-      "Intaglio printing",
-      "Intaglio",
-      "Gravure"
-    ]
-  },
-  "INTAKE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an opening through which fluid is admitted to a tube or container",
-        [
-          "Opening"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Intake",
-      "Inlet",
-      "Aspiration",
-      "Breathing in",
-      "Consumption"
     ]
   },
   "INTANGIBILITY": {
@@ -38100,55 +34962,6 @@
       "Integrate",
       "Desegregate",
       "Incorporate",
-      "Mix"
-    ]
-  },
-  "INTEGRATED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "formed into a whole or introduced into another entity",
-        [
-
-        ],
-        [
-          "a more closely integrated economic and political system\"- Dwight D.Eisenhower",
-          "an integrated Europe"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "not segregated; designated as available to all races or groups",
-        [
-
-        ],
-        [
-          "integrated schools"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "resembling a living organism in organization or development",
-        [
-
-        ],
-        [
-          "society as an integrated whole"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "segregated",
-      "segregate",
-      "disintegrate",
-      "nonintegrated",
-      "differentiate"
-    ],
-    "SYNONYMS": [
-      "Integrate",
-      "Structured",
-      "Merged",
-      "Unified",
       "Mix"
     ]
   },
@@ -38562,30 +35375,6 @@
       "Intelligibility"
     ]
   },
-  "INTELLIGIBLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "well articulated or enunciated, and loud enough to be heard distinctly",
-        [
-
-        ],
-        [
-          "intelligible pronunciation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unintelligible"
-    ],
-    "SYNONYMS": [
-      "Intelligible",
-      "Apprehensible",
-      "Perceivable",
-      "Graspable",
-      "Understandable"
-    ]
-  },
   "INTELLIGIBLY": {
     "MEANINGS": {
       "1": [
@@ -38825,55 +35614,6 @@
     ],
     "SYNONYMS": [
       "Intensely"
-    ]
-  },
-  "INTENSIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make more intense, stronger, or more marked",
-        [
-          "Increase"
-        ],
-        [
-          "The efforts were intensified\", \"Her rudeness intensified his dislike for her",
-          "Pot smokers claim it heightens their awareness",
-          "This event only deepened my convictions"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "become more intense",
-        [
-          "Increase"
-        ],
-        [
-          "The debate intensified",
-          "His dislike for raw fish only deepened in Japan"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "de-escalate"
-    ],
-    "SYNONYMS": [
-      "Deepen",
-      "Escalate",
-      "Heighten",
-      "Step up",
-      "Compound"
     ]
   },
   "INTENSIFICATION": {
@@ -39124,69 +35864,6 @@
     ],
     "SYNONYMS": [
       "Intensively"
-    ]
-  },
-  "INTENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the intended meaning of a communication",
-        [
-          "Meaning",
-          "Significance",
-          "Signification",
-          "Import"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Engrossed",
-      "Wrapped",
-      "Purport",
-      "Intent",
-      "Aim"
-    ]
-  },
-  "INTENTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(usually plural) the goal with respect to a marriage proposal",
-        [
-          "Goal",
-          "End"
-        ],
-        [
-          "his intentions are entirely honorable"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an act of intending; a volition that you intend to carry out",
-        [
-          "Volition",
-          "Willing"
-        ],
-        [
-          "my intention changed once I saw her"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Intent",
-      "Aim",
-      "Design",
-      "Purpose",
-      "Intention"
     ]
   },
   "INTENTIONAL": {
@@ -39793,31 +36470,6 @@
       "Intercommunion"
     ]
   },
-  "INTERCONNECT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to be interconnected or interwoven",
-        [
-          "Connect",
-          "Link",
-          "Tie",
-          "Link up"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Complect",
-      "Interlink",
-      "Interconnect"
-    ]
-  },
   "INTERCONNECTED": {
     "MEANINGS": {
       "1": [
@@ -40365,32 +37017,6 @@
       "Step in"
     ]
   },
-  "INTERFERENCE": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "(American football) blocking a player's path with your body",
-        [
-          "Blocking",
-          "Block"
-        ],
-        [
-          "he ran interference for the quarterback"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonintervention",
-      "noninterference"
-    ],
-    "SYNONYMS": [
-      "Hinderance",
-      "Incumbrance",
-      "Hindrance",
-      "Noise",
-      "Disturbance"
-    ]
-  },
   "INTERFERING": {
     "MEANINGS": {
       "1": [
@@ -40576,33 +37202,6 @@
       "Interpose",
       "Inject",
       "Interject"
-    ]
-  },
-  "INTERJECTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the action of interjecting or interposing an action or remark that interrupts",
-        [
-          "Break",
-          "Interruption",
-          "Disruption",
-          "Gap"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ejaculation",
-      "Interjection",
-      "Interpolation",
-      "Interpellation",
-      "Interposition"
     ]
   },
   "INTERLACING": {
@@ -42094,35 +38693,6 @@
       "Step in"
     ]
   },
-  "INTERPOSITION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act or fact of interposing one thing between or among others",
-        [
-          "Placement",
-          "Location",
-          "Locating",
-          "Position",
-          "Positioning",
-          "Emplacement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Interjection",
-      "Interpolation",
-      "Interpellation",
-      "Intervention",
-      "Interposition"
-    ]
-  },
   "INTERPRET": {
     "MEANINGS": {
       "1": [
@@ -42389,33 +38959,6 @@
       "Interregnum"
     ]
   },
-  "INTERRELATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "place into a mutual relationship",
-        [
-          "Associate",
-          "Tie in",
-          "Relate",
-          "Link",
-          "Colligate",
-          "Link up",
-          "Connect"
-        ],
-        [
-          "I cannot interrelate these two events"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Interrelate",
-      "Relate"
-    ]
-  },
   "INTERRELATION": {
     "MEANINGS": {
       "1": [
@@ -42472,41 +39015,6 @@
     "SYNONYMS": [
       "Question",
       "Interrogate"
-    ]
-  },
-  "INTERROGATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a transmission that will trigger an answering transmission from a transponder",
-        [
-          "Transmission"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "formal systematic questioning",
-        [
-          "Questioning",
-          "Inquiring"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "answer"
-    ],
-    "SYNONYMS": [
-      "Interrogation",
-      "Interrogative",
-      "Interrogative sentence",
-      "Inquiry",
-      "Query"
     ]
   },
   "INTERROGATIVE": {
@@ -42675,34 +39183,6 @@
     ],
     "SYNONYMS": [
       "Interrupter"
-    ]
-  },
-  "INTERRUPTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "some abrupt occurrence that interrupts an ongoing activity",
-        [
-          "Happening",
-          "Occurrence",
-          "Occurrent",
-          "Natural event"
-        ],
-        [
-          "the telephone is an annoying interruption",
-          "there was a break in the action when a player was hurt"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Interruption",
-      "Break",
-      "Intermission",
-      "Disruption",
-      "Pause"
     ]
   },
   "INTERSCHOLASTIC": {
@@ -43137,49 +39617,6 @@
       "Enlace",
       "Entwine",
       "Tat"
-    ]
-  },
-  "INTERVAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a set containing all points (or all real numbers) between two given endpoints",
-        [
-          "Set"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the distance between things",
-        [
-          "Distance"
-        ],
-        [
-          "fragile items require separation and cushioning"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the difference in pitch between two notes",
-        [
-          "Musical notation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Interval",
-      "Musical interval",
-      "Separation",
-      "Time interval"
     ]
   },
   "INTERVENE": {
@@ -43692,43 +40129,6 @@
       "Intimidate"
     ]
   },
-  "INTIMIDATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the feeling of discouragement in the face of someone's superior fame or wealth or status etc.",
-        [
-          "Discouragement",
-          "Disheartenment",
-          "Dismay"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the feeling of being intimidated; being made to feel afraid or timid",
-        [
-          "Fear",
-          "Fearfulness",
-          "Fright"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deterrence",
-      "Bullying",
-      "Determent",
-      "Intimidation"
-    ]
-  },
   "INTOLERABLE": {
     "MEANINGS": {
       "1": [
@@ -43949,40 +40349,6 @@
       "Intoxicant"
     ]
   },
-  "INTOXICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make drunk (with alcoholic drinks)",
-        [
-          "Affect"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "have an intoxicating effect on, of a drug",
-        [
-          "Poison"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "depress"
-    ],
-    "SYNONYMS": [
-      "Elate",
-      "Uplift",
-      "Soak",
-      "Lift up",
-      "Pick up"
-    ]
-  },
   "INTOXICATED": {
     "MEANINGS": {
       "1": [
@@ -44018,31 +40384,6 @@
       "Soak",
       "Drunk",
       "Intoxicated"
-    ]
-  },
-  "INTOXICATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "excitement and elation beyond the bounds of sobriety",
-        [
-          "Exhilaration",
-          "Excitement"
-        ],
-        [
-          "the intoxication of wealth and power"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "soberness"
-    ],
-    "SYNONYMS": [
-      "Insobriety",
-      "Toxic condition",
-      "Drunkenness",
-      "Tipsiness",
-      "Poisoning"
     ]
   },
   "INTRACELLULAR": {
@@ -44683,30 +41024,6 @@
       "Scheme"
     ]
   },
-  "INTRIGUING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of arousing interest or curiosity",
-        [
-
-        ],
-        [
-          "our team came up with some most intriguing finds"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Intrigue",
-      "Connive",
-      "Intriguing",
-      "Challenging",
-      "Fascinate"
-    ]
-  },
   "INTRINSIC": {
     "MEANINGS": {
       "1": [
@@ -44759,29 +41076,6 @@
       "Intrinsically",
       "In and of itself",
       "Per se"
-    ]
-  },
-  "INTRO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a brief introductory passage to a piece of popular music",
-        [
-          "Passage",
-          "Musical passage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Intro",
-      "Introduction",
-      "Presentation"
     ]
   },
   "INTRODUCE": {
@@ -45172,30 +41466,6 @@
       "Introspectiveness"
     ]
   },
-  "INTROVERSION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(psychology) an introverted disposition; concern with one's own thoughts and feelings",
-        [
-          "Unsociability",
-          "Unsociableness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ambiversion"
-    ],
-    "SYNONYMS": [
-      "Introversion",
-      "Invagination",
-      "Infolding",
-      "Intussusception"
-    ]
-  },
   "INTROVERSIVE": {
     "MEANINGS": {
       "1": [
@@ -45356,56 +41626,6 @@
       "Nose",
       "Poke",
       "Intruding"
-    ]
-  },
-  "INTRUSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "entrance by force or without permission or welcome",
-        [
-          "Entrance",
-          "Entering",
-          "Entry",
-          "Ingress",
-          "Incoming"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the forcing of molten rock into fissures or between strata of an earlier rock formation",
-        [
-          "Geological process",
-          "Geologic process"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "rock produced by an intrusive process",
-        [
-          "Rock",
-          "Stone"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Encroachment",
-      "Violation",
-      "Invasion",
-      "Trespass",
-      "Intrusion"
     ]
   },
   "INTRUSIVE": {
@@ -45685,34 +41905,6 @@
       "Intussuscept"
     ]
   },
-  "INTUSSUSCEPTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(biology) growth in the surface area of a cell by the deposit of new particles between existing particles in the cell wall",
-        [
-          "Growth",
-          "Growing",
-          "Maturation",
-          "Development",
-          "Ontogeny",
-          "Ontogenesis"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Introversion",
-      "Invagination",
-      "Infolding",
-      "Intussusception"
-    ]
-  },
   "INULA": {
     "MEANINGS": {
       "1": [
@@ -45753,30 +41945,6 @@
     ],
     "SYNONYMS": [
       "Inulin"
-    ]
-  },
-  "INUNDATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "fill or cover completely, usually with water",
-        [
-          "Flood"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Deluge",
-      "Submerge",
-      "Swamp",
-      "Inundate",
-      "Flood"
     ]
   },
   "INURE": {
@@ -46222,34 +42390,6 @@
       "Invar"
     ]
   },
-  "INVARIABILITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being resistant to variation",
-        [
-          "Changelessness",
-          "Unchangeability",
-          "Unchangeableness",
-          "Unchangingness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "variability",
-      "variableness",
-      "unevenness"
-    ],
-    "SYNONYMS": [
-      "Evenness",
-      "Invariance",
-      "Invariability",
-      "Invariableness"
-    ]
-  },
   "INVARIABLE": {
     "MEANINGS": {
       "1": [
@@ -46272,30 +42412,6 @@
       "Constant",
       "Constant quantity",
       "Invariable"
-    ]
-  },
-  "INVARIANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the nature of a quantity or property or function that remains unchanged when a given transformation is applied to it",
-        [
-          "Constancy",
-          "Stability"
-        ],
-        [
-          "the invariance of the configuration under translation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "variability",
-      "variableness"
-    ],
-    "SYNONYMS": [
-      "Invariance",
-      "Invariability",
-      "Invariableness"
     ]
   },
   "INVARIANT": {
@@ -46982,52 +43098,6 @@
       "Enquire"
     ]
   },
-  "INVESTIGATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the work of inquiring into something thoroughly and systematically",
-        [
-          "Work"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Investigation",
-      "Investigating",
-      "Probe"
-    ]
-  },
-  "INVESTIGATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who investigates",
-        [
-          "Expert"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Researcher",
-      "Detective",
-      "Research worker",
-      "Police detective",
-      "Tec"
-    ]
-  },
   "INVESTING": {
     "MEANINGS": {
       "1": [
@@ -47050,74 +43120,6 @@
       "Clothe",
       "Induct",
       "Commit"
-    ]
-  },
-  "INVESTMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "money that is invested with an expectation of profit",
-        [
-          "Assets"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result",
-        [
-          "Committedness",
-          "Commitment"
-        ],
-        [
-          "this job calls for the investment of some hard thinking",
-          "he made an emotional investment in the work"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "outer layer or covering of an organ or part or organism",
-        [
-          "Skin",
-          "Tegument",
-          "Cutis"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the act of putting on robes or vestments",
-        [
-          "Dressing",
-          "Grooming"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank",
-        [
-          "Promotion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Investing",
-      "Investment",
-      "Investment funds",
-      "Investiture"
     ]
   },
   "INVESTOR": {
@@ -47227,35 +43229,6 @@
     ],
     "SYNONYMS": [
       "Invigilator"
-    ]
-  },
-  "INVIGORATE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "impart vigor, strength, or vitality to",
-        [
-          "Stimulate",
-          "Arouse",
-          "Brace",
-          "Energize",
-          "Energise",
-          "Perk up"
-        ],
-        [
-          "Exercise is invigorating"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deaden"
-    ],
-    "SYNONYMS": [
-      "Enliven",
-      "Exalt",
-      "Animate",
-      "Liven up",
-      "Liven"
     ]
   },
   "INVIGORATING": {
@@ -47690,37 +43663,6 @@
       "Bill"
     ]
   },
-  "INVOKE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cite as an authority; resort to",
-        [
-          "Mention",
-          "Advert",
-          "Bring up",
-          "Cite",
-          "Name",
-          "Refer"
-        ],
-        [
-          "He invoked the law that would save him",
-          "I appealed to the law of 1900",
-          "She invoked an ancient law"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Conjure",
-      "Put forward",
-      "Appeal",
-      "Stir",
-      "Call forth"
-    ]
-  },
   "INVOLUCRATE": {
     "MEANINGS": {
       "1": [
@@ -48038,35 +43980,6 @@
       "Take"
     ]
   },
-  "INVOLVEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a connection of inclusion or containment",
-        [
-          "Connection",
-          "Connexion",
-          "Connectedness"
-        ],
-        [
-          "he escaped involvement in the accident",
-          "there was additional involvement of the liver and spleen"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "non-engagement",
-      "nonparticipation",
-      "non-involvement"
-    ],
-    "SYNONYMS": [
-      "Interest",
-      "Engagement",
-      "Affaire",
-      "Intimacy",
-      "Affair"
-    ]
-  },
   "INVULNERABILITY": {
     "MEANINGS": {
       "1": [
@@ -48160,53 +44073,6 @@
     "SYNONYMS": [
       "Inwardly",
       "Inside"
-    ]
-  },
-  "INWARDNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "preoccupation especially with one's attitudes and ethical or ideological values",
-        [
-          "Cognitive state",
-          "State of mind"
-        ],
-        [
-          "the sensitiveness of James's characters, their seeming inwardness",
-          "inwardness is what an Englishman quite simply has, painlessly, as a birthright"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the quality or state of being inward or internal",
-        [
-          "Position",
-          "Spatial relation"
-        ],
-        [
-          "the inwardness of the body's organs"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "preoccupation with what concerns human inner nature (especially ethical or ideological values)",
-        [
-          "Introversion"
-        ],
-        [
-          "Socrates' inwardness, integrity, and inquisitiveness\"- H.R.Finch"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "outwardness"
-    ],
-    "SYNONYMS": [
-      "Substance",
-      "Gist",
-      "Essence",
-      "Heart and soul",
-      "Pith"
     ]
   },
   "INWEAVE": {
@@ -48795,32 +44661,6 @@
       "Iontotherapy"
     ]
   },
-  "IOTA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 9th letter of the Greek alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tittle",
-      "Smidgin",
-      "Shred",
-      "Iota",
-      "Smidgen"
-    ]
-  },
   "IOU": {
     "MEANINGS": {
       "1": [
@@ -49406,32 +45246,6 @@
       "Iridesce"
     ]
   },
-  "IRIDESCENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a play of lustrous rainbow colors",
-        [
-
-        ],
-        [
-          "an iridescent oil slick",
-          "nacreous (or pearlescent) clouds looking like mother-of-pearl",
-          "a milky opalescent (or opaline) luster"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shot",
-      "Opalescent",
-      "Changeable",
-      "Iridescent",
-      "Nacreous"
-    ]
-  },
   "IRIDIC": {
     "MEANINGS": {
       "1": [
@@ -49862,67 +45676,6 @@
       "Iron-gray"
     ]
   },
-  "IRONY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "incongruity between what might be expected and what actually occurs",
-        [
-          "Incongruity",
-          "Incongruousness"
-        ],
-        [
-          "the irony of Ireland's copying the nation she most hated"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a trope that involves incongruity between what is expected and what occurs",
-        [
-          "Trope",
-          "Figure of speech",
-          "Figure",
-          "Image"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sarcasm",
-      "Caustic remark",
-      "Irony",
-      "Satire"
-    ]
-  },
-  "IRONIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by often poignant difference or incongruity between what is expected and what actually is",
-        [
-
-        ],
-        [
-          "madness, an ironic fate for such a clear thinker",
-          "it was ironical that the well-planned scheme failed so completely"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ironic",
-      "Dry",
-      "Wry",
-      "Ironical"
-    ]
-  },
   "IRONICALLY": {
     "MEANINGS": {
       "1": [
@@ -50149,30 +45902,6 @@
       "Ironweed"
     ]
   },
-  "IRONWOOD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "exceptionally tough or hard wood of any of a number of ironwood trees",
-        [
-          "Wood"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mesua ferrea",
-      "Iron tree",
-      "Ironwood tree",
-      "Ironwood",
-      "Ostrya virginiana"
-    ]
-  },
   "IRONWORK": {
     "MEANINGS": {
       "1": [
@@ -50285,40 +46014,6 @@
       "Iroquoian language",
       "Iroquoian",
       "Iroquois"
-    ]
-  },
-  "IRRADIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cast rays of light upon",
-        [
-          "Lighten",
-          "Lighten up"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "expose to radiation",
-        [
-          "Process",
-          "Treat"
-        ],
-        [
-          "irradiate food"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Irradiate",
-      "Ray",
-      "Enlighten"
     ]
   },
   "IRRADIATION": {
@@ -50518,29 +46213,6 @@
     "SYNONYMS": [
       "Irreconcilable",
       "Unreconcilable"
-    ]
-  },
-  "IRREDEEMABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of paper money) not convertible into coin at the pleasure of the holder",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Unreformable",
-      "Irreclaimable",
-      "Unredeemable",
-      "Irredeemable"
     ]
   },
   "IRREDENTA": {
@@ -50750,42 +46422,6 @@
       "Guerilla",
       "Insurgent",
       "Temporary"
-    ]
-  },
-  "IRREGULARITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "not characterized by a fixed principle or rate; at irregular intervals",
-        [
-          "Quality"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an irregular asymmetry in shape; an irregular spatial pattern",
-        [
-          "Asymmetry",
-          "Dissymmetry",
-          "Imbalance"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "regularity"
-    ],
-    "SYNONYMS": [
-      "Irregularity",
-      "Constipation",
-      "Unregularity",
-      "Geometrical irregularity",
-      "Abnormality"
     ]
   },
   "IRREGULARLY": {
@@ -51595,28 +47231,6 @@
       "Irrevocably"
     ]
   },
-  "IRRIGATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting",
-        [
-          "Treat",
-          "Care for"
-        ],
-        [
-          "irrigate the wound"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Water",
-      "Irrigate"
-    ]
-  },
   "IRRIGATION": {
     "MEANINGS": {
       "1": [
@@ -51676,53 +47290,6 @@
       "Irritability"
     ]
   },
-  "IRRITABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "abnormally sensitive to a stimulus",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Irritable",
-      "Peckish",
-      "Petulant",
-      "Excitable",
-      "Testy"
-    ]
-  },
-  "IRRITABLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an irritable manner",
-        [
-
-        ],
-        [
-          "she had become irritably exact"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pettishly",
-      "Testily",
-      "Irritably",
-      "Petulantly"
-    ]
-  },
   "IRRITANT": {
     "MEANINGS": {
       "1": [
@@ -51748,78 +47315,6 @@
     "SYNONYMS": [
       "Thorn",
       "Irritant"
-    ]
-  },
-  "IRRITATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "excite to an abnormal condition, or chafe or inflame",
-        [
-          "Worsen",
-          "Aggravate",
-          "Exacerbate",
-          "Exasperate"
-        ],
-        [
-          "Aspirin irritates my stomach"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "excite to some characteristic action or condition, such as motion, contraction, or nervous impulse, by the application of a stimulus",
-        [
-          "Stimulate",
-          "Excite"
-        ],
-        [
-          "irritate the glands of a leaf"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "soothe"
-    ],
-    "SYNONYMS": [
-      "Rag",
-      "Chafe",
-      "Get to",
-      "Rile",
-      "Annoy"
-    ]
-  },
-  "IRRITATING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(used of physical stimuli) serving to stimulate or excite",
-        [
-
-        ],
-        [
-          "an irritative agent"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "causing physical discomfort; they can be very painful\"",
-        [
-
-        ],
-        [
-          "bites of black flies are more than irritating"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "soothe"
-    ],
-    "SYNONYMS": [
-      "Pestiferous",
-      "Irritate",
-      "Teasing",
-      "Annoying",
-      "Nettlesome"
     ]
   },
   "IRRITATINGLY": {
@@ -52349,30 +47844,6 @@
       "Isi",
       "Isis",
       "Inter-services intelligence"
-    ]
-  },
-  "ISLAY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an island of western Scotland at the southern end of the Inner Hebrides",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prunus ilicifolia",
-      "Evergreen cherry",
-      "Holly-leaved cherry",
-      "Holly-leaf cherry",
-      "Islay"
     ]
   },
   "ISLAM": {
@@ -54524,77 +49995,6 @@
       "Italicise"
     ]
   },
-  "ITCH": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "cause to perceive an itch",
-        [
-
-        ],
-        [
-          "his skin itched"
-        ]
-      ],
-      "2": [
-        "Verb",
-        "have or perceive an itch",
-        [
-          "Ache",
-          "Smart",
-          "Hurt"
-        ],
-        [
-          "I'm itching--the air is so dry!"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "have a strong desire or urge to do something",
-        [
-          "Desire",
-          "Want"
-        ],
-        [
-          "She is itching to start the project",
-          "He is spoiling for a fight"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Scratch",
-      "Rub",
-      "Itching",
-      "Scabies",
-      "Spoil"
-    ]
-  },
-  "ITCHY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing an irritating cutaneous sensation; being affect with an itch",
-        [
-
-        ],
-        [
-          "he had an itchy toe from the mosquito bite"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Antsy",
-      "Fidgety",
-      "Fretful",
-      "Itchy"
-    ]
-  },
   "ITEM": {
     "MEANINGS": {
       "1": [
@@ -54628,55 +50028,6 @@
       "Item",
       "Detail",
       "Token"
-    ]
-  },
-  "ITEMIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "place on a list of items",
-        [
-          "Number",
-          "List"
-        ],
-        [
-          "itemize one's tax deductions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Itemize",
-      "Itemise",
-      "Recite",
-      "Enumerate"
-    ]
-  },
-  "ITERATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "run or be performed again",
-        [
-          "Recur",
-          "Repeat"
-        ],
-        [
-          "the function iterates"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Restate",
-      "Reiterate",
-      "Repeat",
-      "Ingeminate",
-      "Retell"
     ]
   },
   "ITERATION": {

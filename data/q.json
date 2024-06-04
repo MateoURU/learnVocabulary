@@ -249,40 +249,6 @@
       "Quack-quack"
     ]
   },
-  "QUAD": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(printing) a block of type without a raised letter; used for spacing between words or sentences",
-        [
-          "Type"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a rectangular area surrounded on all sides by buildings",
-        [
-          "Area"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Musculus quadriceps femoris",
-      "Space",
-      "Quadruplet",
-      "Quadrangle",
-      "Quadriceps"
-    ]
-  },
   "QUADRAGESIMA": {
     "MEANINGS": {
       "1": [
@@ -889,31 +855,6 @@
       "Quadruple"
     ]
   },
-  "QUADRUPLET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one of four children born at the same time from the same pregnancy",
-        [
-          "Sibling",
-          "Sib"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quaternion",
-      "Foursome",
-      "Quartette",
-      "4",
-      "Four"
-    ]
-  },
   "QUADRUPLICATE": {
     "MEANINGS": {
       "1": [
@@ -1052,30 +993,6 @@
       "1": [
         "Noun",
         "Atlantic coast round clams with hard shells; large clams usually used for chowders or other clam dishes",
-        [
-          "Clam"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Venus mercenaria",
-      "Quahog",
-      "Quahaug",
-      "Round clam",
-      "Mercenaria mercenaria"
-    ]
-  },
-  "QUAHOG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an edible American clam; the heavy shells were used as money by some American Indians",
         [
           "Clam"
         ],
@@ -1246,28 +1163,6 @@
     ],
     "SYNONYMS": [
       "Quaintness"
-    ]
-  },
-  "QUAKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one who quakes and trembles with (or as with) fear",
-        [
-          "Coward"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quaker",
-      "Friend",
-      "Trembler"
     ]
   },
   "QUAKERISM": {
@@ -1890,40 +1785,6 @@
     ],
     "SYNONYMS": [
       "Quantitatively"
-    ]
-  },
-  "QUANTITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an adequate or large amount",
-        [
-          "Amount"
-        ],
-        [
-          "he had a quantity of ammunition"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable",
-        [
-          "Concept",
-          "Conception",
-          "Construct"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Measure",
-      "Quantity",
-      "Amount"
     ]
   },
   "QUANTIZATION": {
@@ -2730,68 +2591,6 @@
       "Quarterstaff"
     ]
   },
-  "QUARTET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "four performers or singers who perform together",
-        [
-          "Musical organization",
-          "Musical organisation",
-          "Musical group"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a set of four similar things considered as a unit",
-        [
-          "Set"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "four people considered as a unit",
-        [
-          "Gathering",
-          "Assemblage"
-        ],
-        [
-          "he joined a barbershop quartet",
-          "the foursome teed off before 9 a.m."
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a musical composition for four performers",
-        [
-          "Musical composition",
-          "Opus",
-          "Composition",
-          "Piece",
-          "Piece of music"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quaternion",
-      "Foursome",
-      "Quartette",
-      "4",
-      "Four"
-    ]
-  },
   "QUARTILE": {
     "MEANINGS": {
       "1": [
@@ -2833,30 +2632,6 @@
     "SYNONYMS": [
       "4to",
       "Quarto"
-    ]
-  },
-  "QUARTZ": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a hard glossy mineral consisting of silicon dioxide in crystal form; present in most rocks (especially sandstone and granite); yellow sand is quartz with iron oxide impurities",
-        [
-          "Mineral"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lechatelierite",
-      "Vitreous silica",
-      "Quartz glass",
-      "Quartz",
-      "Crystal"
     ]
   },
   "QUARTZITE": {
@@ -3518,35 +3293,6 @@
       "Queensland"
     ]
   },
-  "QUEER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "put in a dangerous, disadvantageous, or difficult position",
-        [
-          "Affect",
-          "Impact",
-          "Bear upon",
-          "Bear on",
-          "Touch on",
-          "Touch"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pouf",
-      "Homophile",
-      "Endanger",
-      "Expose",
-      "Peculiar"
-    ]
-  },
   "QUEERLY": {
     "MEANINGS": {
       "1": [
@@ -3579,34 +3325,6 @@
       "Strangely",
       "Oddly",
       "Queerly"
-    ]
-  },
-  "QUELL": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "overcome or allay",
-        [
-          "Meet",
-          "Satisfy",
-          "Fill",
-          "Fulfill",
-          "Fulfil"
-        ],
-        [
-          "quell my hunger"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Squelch",
-      "Appease",
-      "Quell",
-      "Quench",
-      "Stay"
     ]
   },
   "QUELLED": {
@@ -4393,41 +4111,6 @@
       "Quick-change"
     ]
   },
-  "QUICKEN": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "give life or energy to",
-        [
-          "Stimulate",
-          "Excite"
-        ],
-        [
-          "The cold water invigorated him"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "show signs of life",
-        [
-          "Move"
-        ],
-        [
-          "the fetus quickened"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "decelerate"
-    ],
-    "SYNONYMS": [
-      "Animate",
-      "Speed",
-      "Quicken",
-      "Invigorate",
-      "Recreate"
-    ]
-  },
   "QUICKENER": {
     "MEANINGS": {
       "1": [
@@ -4633,30 +4316,6 @@
       "Quickset"
     ]
   },
-  "QUICK-SIGHTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "keenly perceptive or alert",
-        [
-
-        ],
-        [
-          "quick-sighted into the faults of the time\"- Leonard Bacon"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sharp-sighted",
-      "Sharp-eyed",
-      "Lynx-eyed",
-      "Hawk-eyed",
-      "Keen-sighted"
-    ]
-  },
   "QUICKSTEP": {
     "MEANINGS": {
       "1": [
@@ -4709,70 +4368,6 @@
     ],
     "SYNONYMS": [
       "Quick-witted"
-    ]
-  },
-  "QUIDDITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the essence that makes something the kind of thing it is and makes it different from any other",
-        [
-          "Kernel",
-          "Substance",
-          "Core",
-          "Center",
-          "Centre",
-          "Essence",
-          "Gist",
-          "Heart",
-          "Heart and soul",
-          "Inwardness",
-          "Marrow",
-          "Meat",
-          "Nub",
-          "Pith",
-          "Sum",
-          "Nitty-gritty"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Haecceity",
-      "Cavil",
-      "Quiddity",
-      "Quibble"
-    ]
-  },
-  "QUIESCENCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "quiet and inactive restfulness",
-        [
-          "Rest",
-          "Ease",
-          "Repose",
-          "Relaxation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quiescency",
-      "Quiescence",
-      "Dormancy",
-      "Sleeping"
     ]
   },
   "QUIESCENT": {
@@ -4952,44 +4547,6 @@
     ],
     "SYNONYMS": [
       "Quietist"
-    ]
-  },
-  "QUIETLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with little or no sound",
-        [
-
-        ],
-        [
-          "the class was listening quietly and intently",
-          "she was crying quietly"
-        ]
-      ],
-      "3": [
-        "Adverb",
-        "with little or no activity or no agitation (`quiet' is a nonstandard variant for `quietly')",
-        [
-
-        ],
-        [
-          "her hands rested quietly in her lap",
-          "the rock star was quietly led out the back door",
-          "sit here as quiet as you can"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unquietly",
-      "noisily",
-      "loudly"
-    ],
-    "SYNONYMS": [
-      "Quietly",
-      "Restfully",
-      "Softly",
-      "Quiet"
     ]
   },
   "QUIETNESS": {
@@ -5678,31 +5235,6 @@
       "Quintuple"
     ]
   },
-  "QUINTUPLET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one of five children born at the same time from the same pregnancy",
-        [
-          "Sibling",
-          "Sib"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cinque",
-      "Quintuplet",
-      "Quint",
-      "Quintet",
-      "Pentad"
-    ]
-  },
   "QUINTUPLING": {
     "MEANINGS": {
       "1": [
@@ -5743,27 +5275,6 @@
     ],
     "SYNONYMS": [
       "Quipu"
-    ]
-  },
-  "QUIRA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several tropical American trees some yielding economically important timber",
-        [
-          "Tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quira",
-      "Panama redwood"
     ]
   },
   "QUIRE": {
@@ -6355,77 +5866,6 @@
     ],
     "SYNONYMS": [
       "Quotability"
-    ]
-  },
-  "QUOTABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "suitable for or worthy of quotation",
-        [
-
-        ],
-        [
-          "a quotable slogan",
-          "his remarks are not quotable in mixed company"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unrepeatable",
-      "unquotable"
-    ],
-    "SYNONYMS": [
-      "Quotable",
-      "Repeatable"
-    ]
-  },
-  "QUOTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a passage or expression that is quoted or cited",
-        [
-          "Excerpt",
-          "Excerption",
-          "Extract",
-          "Selection"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a statement of the current market price of a security or commodity",
-        [
-          "Statement"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the practice of quoting from books or plays etc.",
-        [
-          "Practice",
-          "Pattern"
-        ],
-        [
-          "since he lacks originality he must rely on quotation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quotation",
-      "Mention",
-      "Reference",
-      "Acknowledgment",
-      "Citation"
     ]
   },
   "QUOTE": {

@@ -1,41 +1,4 @@
 {
-  "A": {
-    "MEANINGS": {
-      "6": [
-        "Noun",
-        "the 1st letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the blood group whose red cells carry the A antigen",
-        [
-          "Blood group",
-          "Blood type"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ampere",
-      "Type a",
-      "Antiophthalmic factor",
-      "Angstrom",
-      "Adenine"
-    ]
-  },
   "AA": {
     "MEANINGS": {
       "1": [
@@ -243,41 +206,6 @@
       "Aaron"
     ]
   },
-  "AB": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August)",
-        [
-          "Jewish calendar month"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the blood group whose red cells carry both the A and B antigens",
-        [
-          "Blood group",
-          "Blood type"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Group ab",
-      "Abdominal",
-      "Type ab",
-      "Ab",
-      "Abdominal muscle"
-    ]
-  },
   "ABA": {
     "MEANINGS": {
       "1": [
@@ -310,30 +238,6 @@
     ],
     "SYNONYMS": [
       "Aba"
-    ]
-  },
-  "ABACA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Philippine banana tree having leafstalks that yield Manila hemp used for rope and paper etc",
-        [
-          "Banana",
-          "Banana tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Manila hemp",
-      "Abaca",
-      "Musa textilis",
-      "Manilla hemp"
     ]
   },
   "ABACINATE": {
@@ -788,59 +692,6 @@
       "Abatable"
     ]
   },
-  "ABATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become less in amount or intensity",
-        [
-          "Decrease",
-          "Diminish",
-          "Lessen",
-          "Fall"
-        ],
-        [
-          "The storm abated",
-          "The rain let up after a few hours"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Slack off",
-      "Slack",
-      "Abate",
-      "Die away",
-      "Slake"
-    ]
-  },
-  "ABATEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of abating",
-        [
-          "Moderation",
-          "Mitigation"
-        ],
-        [
-          "laws enforcing noise abatement"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abatement",
-      "Suspension",
-      "Reprieve",
-      "Hiatus",
-      "Respite"
-    ]
-  },
   "ABATOR": {
     "MEANINGS": {
       "1": [
@@ -1076,30 +927,6 @@
     "SYNONYMS": [
       "Abbot",
       "Archimandrite"
-    ]
-  },
-  "ABBREVIATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "shorten",
-        [
-          "Reduce"
-        ],
-        [
-          "Abbreviate `New York' and write `NY'"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "expand"
-    ],
-    "SYNONYMS": [
-      "Shorten",
-      "Foreshorten",
-      "Reduce",
-      "Cut",
-      "Abbreviate"
     ]
   },
   "ABBREVIATED": {
@@ -1421,31 +1248,6 @@
       "Nervus abducens"
     ]
   },
-  "ABDUCT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "pull away from the body",
-        [
-          "Pull",
-          "Draw",
-          "Force"
-        ],
-        [
-          "this muscle abducts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "adduct"
-    ],
-    "SYNONYMS": [
-      "Kidnap",
-      "Snatch",
-      "Abduct",
-      "Nobble"
-    ]
-  },
   "ABDUCTION": {
     "MEANINGS": {
       "1": [
@@ -1478,31 +1280,6 @@
     ],
     "SYNONYMS": [
       "Abduction"
-    ]
-  },
-  "ABDUCTOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a muscle that draws a body part away from the median line",
-        [
-          "Skeletal muscle",
-          "Striated muscle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Kidnapper",
-      "Abductor muscle",
-      "Snatcher",
-      "Abductor",
-      "Kidnaper"
     ]
   },
   "ABEAM": {
@@ -1934,44 +1711,6 @@
       "Aberrate"
     ]
   },
-  "ABERRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a disorder in one's mental state",
-        [
-          "Mental disorder",
-          "Mental disturbance",
-          "Disturbance",
-          "Psychological disorder",
-          "Folie"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an optical phenomenon resulting from the failure of a lens or mirror to produce a good image",
-        [
-          "Optical phenomenon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aberrancy",
-      "Deviance",
-      "Distortion",
-      "Optical aberration",
-      "Aberration"
-    ]
-  },
   "ABET": {
     "MEANINGS": {
       "1": [
@@ -2174,32 +1913,6 @@
     ],
     "SYNONYMS": [
       "Abhorrer"
-    ]
-  },
-  "ABIDANCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of abiding (enduring without yielding)",
-        [
-          "Continuance",
-          "Continuation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonconformity",
-      "noncompliance"
-    ],
-    "SYNONYMS": [
-      "Conformation",
-      "Residence",
-      "Residency",
-      "Conformity",
-      "Abidance"
     ]
   },
   "ABIDING": {
@@ -2761,29 +2474,6 @@
       "Abkhaz"
     ]
   },
-  "ABKHAZIAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a Circassian language spoken by the Abkhaz",
-        [
-          "Circassian"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abkhazian",
-      "Abkhas",
-      "Abkhaz",
-      "Abkhasian"
-    ]
-  },
   "ABLACTATION": {
     "MEANINGS": {
       "1": [
@@ -3200,38 +2890,6 @@
     "SYNONYMS": [
       "Abenaki",
       "Abnaki"
-    ]
-  },
-  "ABNEGATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "surrender (power or a position)",
-        [
-          "Surrender",
-          "Give up"
-        ],
-        [
-          "The King abnegated his power to the ministers"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "deny or renounce",
-        [
-          "Deny"
-        ],
-        [
-          "They abnegated their gods"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abnegate",
-      "Deny"
     ]
   },
   "ABNEGATION": {
@@ -3842,33 +3500,6 @@
       "Primaeval"
     ]
   },
-  "ABORIGINE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a dark-skinned member of a race of people living in Australia when Europeans arrived",
-        [
-          "Australian",
-          "Aussie",
-          "Ethnic group",
-          "Ethnos"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Native",
-      "Indigene",
-      "Australian aborigine",
-      "Aboriginal",
-      "Abo"
-    ]
-  },
   "ABORT": {
     "MEANINGS": {
       "1": [
@@ -3930,29 +3561,6 @@
     ],
     "SYNONYMS": [
       "Abort"
-    ]
-  },
-  "ABORTICIDE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of destroying a fetus",
-        [
-          "Induced abortion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abortion-inducing drug",
-      "Abortifacient",
-      "Feticide",
-      "Aborticide"
     ]
   },
   "ABORTIFACIENT": {
@@ -4601,28 +4209,6 @@
       "Abrasive material",
       "Abrasive",
       "Scratchy"
-    ]
-  },
-  "ABRASIVENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being sharply disagreeable",
-        [
-          "Disagreeableness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Abrasiveness",
-      "Harshness",
-      "Scratchiness"
     ]
   },
   "ABREACT": {
@@ -5579,31 +5165,6 @@
       "Perfectly"
     ]
   },
-  "ABSOLUTENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being absolute",
-        [
-          "Changelessness",
-          "Unchangeability",
-          "Unchangeableness",
-          "Unchangingness"
-        ],
-        [
-          "the absoluteness of the pope's decree could not be challenged"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Starkness",
-      "Utterness",
-      "Absoluteness"
-    ]
-  },
   "ABSOLUTION": {
     "MEANINGS": {
       "1": [
@@ -5713,29 +5274,6 @@
     "SYNONYMS": [
       "Absolutist",
       "Absolutistic"
-    ]
-  },
-  "ABSOLVE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "let off the hook",
-        [
-          "Forgive"
-        ],
-        [
-          "I absolve you from this responsibility"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "blame"
-    ],
-    "SYNONYMS": [
-      "Free",
-      "Absolve",
-      "Justify",
-      "Shrive"
     ]
   },
   "ABSOLVED": {
@@ -5934,30 +5472,6 @@
     ],
     "SYNONYMS": [
       "Absorbable"
-    ]
-  },
-  "ABSORBED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "retained without reflection",
-        [
-
-        ],
-        [
-          "the absorbed light intensity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "emit"
-    ],
-    "SYNONYMS": [
-      "Engage",
-      "Engrossed",
-      "Imbibe",
-      "Wrapped",
-      "Steep"
     ]
   },
   "ABSORBEFACIENT": {
@@ -6934,60 +6448,6 @@
       "Extravagantly",
       "Abundantly",
       "Copiously"
-    ]
-  },
-  "ABUSE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a rude expression intended to offend or hurt",
-        [
-          "Disrespect",
-          "Discourtesy"
-        ],
-        [
-          "when a student made a stupid mistake he spared them no abuse",
-          "they yelled insults at the visiting team"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "use foul or abusive language towards",
-        [
-          "Attack",
-          "Round",
-          "Assail",
-          "Lash out",
-          "Snipe",
-          "Assault"
-        ],
-        [
-          "The actress abused the policeman who gave her a parking ticket",
-          "The angry mother shouted at the teacher"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "use wrongly or improperly or excessively",
-        [
-          "Use",
-          "Expend"
-        ],
-        [
-          "Her husband often abuses alcohol",
-          "while she was pregnant, she abused drugs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shout",
-      "Ill-usage",
-      "Mistreat",
-      "Insult",
-      "Contumely"
     ]
   },
   "ABUSED": {
@@ -8186,33 +7646,6 @@
       "Acaulescent"
     ]
   },
-  "ACCEDE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "take on duties or office",
-        [
-          "Succeed",
-          "Come after",
-          "Follow",
-          "Take office"
-        ],
-        [
-          "accede to the throne"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dissent"
-    ],
-    "SYNONYMS": [
-      "Assent",
-      "Enter",
-      "Acquiesce",
-      "Give in",
-      "Accede"
-    ]
-  },
   "ACCELERANDO": {
     "MEANINGS": {
       "1": [
@@ -8758,65 +8191,6 @@
       "Acceptably",
       "Tolerably",
       "So-so"
-    ]
-  },
-  "ACCEPTANCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the state of being acceptable and accepted",
-        [
-          "Situation",
-          "State of affairs"
-        ],
-        [
-          "torn jeans received no acceptance at the country club"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(contract law) words signifying consent to the terms of an offer (thereby creating a contract)",
-        [
-          "Assent",
-          "Acquiescence"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "banking: a time draft drawn on and accepted by a bank",
-        [
-          "Draft",
-          "Bill of exchange",
-          "Order of payment"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the act of taking something that is offered",
-        [
-          "Acquisition"
-        ],
-        [
-          "her acceptance of the gift encouraged him",
-          "he anticipated their acceptance of his offer"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "rejection"
-    ],
-    "SYNONYMS": [
-      "Sufferance",
-      "Adoption",
-      "Toleration",
-      "Acceptation",
-      "Espousal"
     ]
   },
   "ACCEPTATION": {
@@ -9498,56 +8872,6 @@
       "Uphill"
     ]
   },
-  "ACCOMMODATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "provide with something desired or needed",
-        [
-          "Provide",
-          "Supply",
-          "Ply",
-          "Cater"
-        ],
-        [
-          "Can you accommodate me with a rental car?"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "have room for; hold without crowding",
-        [
-
-        ],
-        [
-          "This hotel can accommodate 250 guests",
-          "The theater admits 300 people",
-          "The auditorium can't hold more than 500 people"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "make (one thing) compatible with (another)",
-        [
-          "Harmonize",
-          "Harmonise"
-        ],
-        [
-          "The scientists had to accommodate the new results with the existing theories"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disoblige"
-    ],
-    "SYNONYMS": [
-      "Reconcile",
-      "Lodge",
-      "Fit",
-      "Adapt",
-      "Conciliate"
-    ]
-  },
   "ACCOMMODATING": {
     "MEANINGS": {
       "1": [
@@ -9584,74 +8908,6 @@
       "Adapt"
     ]
   },
-  "ACCOMMODATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a settlement of differences",
-        [
-          "Settlement"
-        ],
-        [
-          "they reached an accommodation with Japan"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "in the theories of Jean Piaget: the modification of internal representations in order to accommodate a changing knowledge of reality",
-        [
-          "Developmental learning"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "living quarters provided for public convenience",
-        [
-          "Living quarters",
-          "Quarters"
-        ],
-        [
-          "overnight accommodations are available"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the act of providing something (lodging or seat or food) to meet a need",
-        [
-          "Aid",
-          "Assist",
-          "Assistance",
-          "Help"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "(physiology) the automatic adjustment in focal length of the natural lens of the eye",
-        [
-          "Alteration",
-          "Modification",
-          "Adjustment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Accommodation",
-      "Fitting",
-      "Adjustment"
-    ]
-  },
   "ACCOMMODATIONAL": {
     "MEANINGS": {
       "1": [
@@ -9670,66 +8926,6 @@
     ],
     "SYNONYMS": [
       "Accommodational"
-    ]
-  },
-  "ACCOMMODATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "willing to adjust to differences in order to obtain agreement",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "tending to reconcile or accommodate; bringing into harmony",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unaccommodating"
-    ],
-    "SYNONYMS": [
-      "Accommodating",
-      "Accommodative",
-      "Cooperative",
-      "Reconciling"
-    ]
-  },
-  "ACCOMPANY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "go or travel along with",
-        [
-          "Travel",
-          "Go",
-          "Move",
-          "Locomote"
-        ],
-        [
-          "The nurse accompanied the old lady everywhere"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Accompany",
-      "Company",
-      "Play along",
-      "Attach to",
-      "Come with"
     ]
   },
   "ACCOMPANIED": {
@@ -9946,64 +9142,6 @@
       "Skill"
     ]
   },
-  "ACCORD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "allow to have",
-        [
-          "Give"
-        ],
-        [
-          "grant a privilege"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "sympathetic compatibility",
-        [
-          "Compatibility"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disagreement"
-    ],
-    "SYNONYMS": [
-      "Pact",
-      "Agreement",
-      "Consort",
-      "Fit in",
-      "Accordance"
-    ]
-  },
-  "ACCORDANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of granting rights",
-        [
-          "Giving",
-          "Gift"
-        ],
-        [
-          "the accordance to Canada of rights of access"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Accord",
-      "Conformity",
-      "Accordance of rights",
-      "Accordance"
-    ]
-  },
   "ACCORDANT": {
     "MEANINGS": {
       "1": [
@@ -10072,27 +9210,6 @@
       "Accord",
       "Agree",
       "According"
-    ]
-  },
-  "ACCORDINGLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in accordance with",
-        [
-
-        ],
-        [
-          "she acted accordingly"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Accordingly",
-      "Consequently"
     ]
   },
   "ACCORDION": {
@@ -10805,42 +9922,6 @@
       "Acculturate"
     ]
   },
-  "ACCULTURATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "all the knowledge and values shared by a society",
-        [
-          "Content",
-          "Cognitive content",
-          "Mental object"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the process of assimilating new ideas into an existing cognitive structure",
-        [
-          "Education"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Acculturation",
-      "Enculturation",
-      "Socialization",
-      "Culture",
-      "Socialisation"
-    ]
-  },
   "ACCULTURATIONAL": {
     "MEANINGS": {
       "1": [
@@ -10884,72 +9965,6 @@
       "Accumbent"
     ]
   },
-  "ACCUMULATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "collect or gather",
-        [
-          "Increase"
-        ],
-        [
-          "Journals are accumulating in my office",
-          "The work keeps piling up"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gather",
-      "Accumulate",
-      "Compile",
-      "Pile up",
-      "Cumulate"
-    ]
-  },
-  "ACCUMULATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act of accumulating",
-        [
-          "Increase",
-          "Step-up"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(finance) profits that are not paid out as dividends but are added to the capital base of the corporation",
-        [
-          "Net income",
-          "Net",
-          "Net profit",
-          "Lucre",
-          "Profit",
-          "Profits",
-          "Earnings"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Accruement",
-      "Aggregation",
-      "Assemblage",
-      "Accumulation",
-      "Accrual"
-    ]
-  },
   "ACCUMULATIVE": {
     "MEANINGS": {
       "1": [
@@ -10980,30 +9995,6 @@
     "SYNONYMS": [
       "Accumulative",
       "Cumulative"
-    ]
-  },
-  "ACCUMULATOR": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(computer science) a register that has a built-in adder that adds an input number to the contents of the register",
-        [
-          "Register"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Accumulator",
-      "Storage battery",
-      "Accumulator register",
-      "Collector",
-      "Gatherer"
     ]
   },
   "ACCURACY": {
@@ -11620,30 +10611,6 @@
       "Acerb"
     ]
   },
-  "ACERBATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make sour or bitter",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Acerbate",
-      "Embitter",
-      "Envenom"
-    ]
-  },
   "ACERBITY": {
     "MEANINGS": {
       "1": [
@@ -11679,30 +10646,6 @@
       "Bitterness",
       "Acerbity",
       "Thorniness"
-    ]
-  },
-  "ACEROLA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "acid red or yellow cherry-like fruit of a tropical American shrub very rich in vitamin C",
-        [
-          "Berry"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Barbados cherry",
-      "West indian cherry",
-      "Surinam cherry",
-      "Malpighia glabra",
-      "Acerola"
     ]
   },
   "ACERVATE": {
@@ -13292,31 +12235,6 @@
       "Acid"
     ]
   },
-  "ACIDIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "turn acidic",
-        [
-          "Change state",
-          "Turn"
-        ],
-        [
-          "the solution acetified"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "alkalize",
-      "sweeten"
-    ],
-    "SYNONYMS": [
-      "Acidulate",
-      "Sour",
-      "Acetify",
-      "Acidify"
-    ]
-  },
   "ACIDIFICATION": {
     "MEANINGS": {
       "1": [
@@ -13378,42 +12296,6 @@
     ],
     "SYNONYMS": [
       "Acidimetric"
-    ]
-  },
-  "ACIDITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the taste experience when something acidic is taken into the mouth",
-        [
-          "Sour",
-          "Sourness",
-          "Tartness"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "pH values below 7",
-        [
-          "Ph",
-          "Ph scale"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "alkalinity"
-    ],
-    "SYNONYMS": [
-      "Sour",
-      "Sourness",
-      "Acidulousness",
-      "Acidity"
     ]
   },
   "ACIDOPHIL": {
@@ -13696,66 +12578,6 @@
       "Ackee"
     ]
   },
-  "ACKNOWLEDGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "report the receipt of",
-        [
-          "Communicate",
-          "Pass on",
-          "Pass",
-          "Pass along",
-          "Put across"
-        ],
-        [
-          "The program committee acknowledged the submission of the authors of the paper"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "express obligation, thanks, or gratitude for",
-        [
-          "Thank",
-          "Give thanks"
-        ],
-        [
-          "We must acknowledge the kindness she showed towards us"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "accept as legally binding and valid",
-        [
-          "Accept"
-        ],
-        [
-          "acknowledge the deed"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "accept (someone) to be what is claimed or accept his power and authority",
-        [
-          "Accept"
-        ],
-        [
-          "The Crown Prince was acknowledged as the true heir to the throne",
-          "We do not recognize your gods"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "deny"
-    ],
-    "SYNONYMS": [
-      "Notice",
-      "Know",
-      "Acknowledge",
-      "Recognize",
-      "Admit"
-    ]
-  },
   "ACKNOWLEDGEABLE": {
     "MEANINGS": {
       "1": [
@@ -13811,34 +12633,6 @@
       "Acknowledge",
       "Recognize",
       "Admit"
-    ]
-  },
-  "ACKNOWLEDGMENT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a statement acknowledging something or someone",
-        [
-          "Message",
-          "Content",
-          "Subject matter",
-          "Substance"
-        ],
-        [
-          "she must have seen him but she gave no sign of acknowledgment",
-          "the preface contained an acknowledgment of those who had helped her"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Quotation",
-      "Recognition",
-      "Acknowledgement",
-      "Mention",
-      "Reference"
     ]
   },
   "ACME": {
@@ -14217,30 +13011,6 @@
       "Acoustic"
     ]
   },
-  "ACQUAINT": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "inform",
-        [
-          "Inform"
-        ],
-        [
-          "Please acquaint your colleagues of your plans to move"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Familiarize",
-      "Present",
-      "Introduce",
-      "Familiarise",
-      "Acquaint"
-    ]
-  },
   "ACQUAINTANCE": {
     "MEANINGS": {
       "1": [
@@ -14376,43 +13146,6 @@
     ],
     "SYNONYMS": [
       "Acquirable"
-    ]
-  },
-  "ACQUIRE": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "locate (a moving entity) by means of a tracking system such as radar",
-        [
-          "Situate",
-          "Locate"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "win something through one's efforts",
-        [
-          "Get",
-          "Acquire"
-        ],
-        [
-          "I acquired a passing knowledge of Chinese",
-          "Gain an understanding of international finance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "lose"
-    ],
-    "SYNONYMS": [
-      "Acquire",
-      "Take",
-      "Larn",
-      "Produce",
-      "Grow"
     ]
   },
   "ACQUIRED": {
@@ -14853,54 +13586,6 @@
     "SYNONYMS": [
       "Acridness",
       "Acridity"
-    ]
-  },
-  "ACRYLIC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a glassy thermoplastic; can be cast and molded or used in coatings and adhesives",
-        [
-          "Synthetic resin"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "used especially by artists",
-        [
-          "Paint",
-          "Pigment"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a synthetic fabric",
-        [
-          "Fabric",
-          "Cloth",
-          "Material",
-          "Textile"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Acrylic resin",
-      "Acrylate resin",
-      "Acrylic paint",
-      "Acrylic",
-      "Acrylic fiber"
     ]
   },
   "ACRIMONIOUS": {
@@ -15616,28 +14301,6 @@
       "Panoptic",
       "Encompassing",
       "All-encompassing"
-    ]
-  },
-  "ACROSTIC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "verse in which certain letters such as the first in each line form a word or message",
-        [
-          "Literary composition",
-          "Literary work"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Word square",
-      "Acrostic"
     ]
   },
   "ACROSTICHUM": {
@@ -16538,68 +15201,6 @@
       "Actium"
     ]
   },
-  "ACTIVATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make active or more active",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "activate an old file"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "make more adsorptive",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "activate a metal"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "aerate (sewage) so as to favor the growth of organisms that decompose organic matter",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "make (substances) radioactive",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "inactivate"
-    ],
-    "SYNONYMS": [
-      "Spark",
-      "Aerate",
-      "Activate",
-      "Trigger off",
-      "Set off"
-    ]
-  },
   "ACTIVATED": {
     "MEANINGS": {
       "1": [
@@ -16924,30 +15525,6 @@
       "Actively"
     ]
   },
-  "ACTIVENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of being active; moving or acting rapidly and energetically",
-        [
-          "Trait"
-        ],
-        [
-          "the level of activity declines with age"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "inactivity",
-      "inaction",
-      "inactiveness"
-    ],
-    "SYNONYMS": [
-      "Action",
-      "Activeness",
-      "Activity"
-    ]
-  },
   "ACTIVISM": {
     "MEANINGS": {
       "1": [
@@ -17206,30 +15783,6 @@
     ],
     "SYNONYMS": [
       "Actuality"
-    ]
-  },
-  "ACTUALIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "represent or describe realistically",
-        [
-          "Represent"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Actualize",
-      "Realize",
-      "Actualise",
-      "Realise",
-      "Substantiate"
     ]
   },
   "ACTUALLY": {
@@ -17842,28 +16395,6 @@
       "Adagio"
     ]
   },
-  "ADALIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "genus of ladybugs",
-        [
-          "Arthropod genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Antalya",
-      "Adalia",
-      "Genus adalia"
-    ]
-  },
   "ADAM": {
     "MEANINGS": {
       "1": [
@@ -18310,29 +16841,6 @@
       "Adapt",
       "Accommodate",
       "Adjust"
-    ]
-  },
-  "ADAPTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible",
-        [
-          "Device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adapter",
-      "Transcriber",
-      "Arranger",
-      "Adaptor"
     ]
   },
   "ADAPTIVE": {
@@ -20127,30 +18635,6 @@
       "Adynamia"
     ]
   },
-  "ADYNAMIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking strength or vigor",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dynamic"
-    ],
-    "SYNONYMS": [
-      "Enervated",
-      "Debilitated",
-      "Asthenic",
-      "Undynamic",
-      "Adynamic"
-    ]
-  },
   "ADIPOSE": {
     "MEANINGS": {
       "1": [
@@ -20426,30 +18910,6 @@
       "Adjectively"
     ]
   },
-  "ADJOIN": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "attach or add",
-        [
-          "Add"
-        ],
-        [
-          "I adjoin a copy of your my lawyer's letter"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Butt",
-      "Adjoin",
-      "Meet",
-      "Butt on",
-      "Contact"
-    ]
-  },
   "ADJOURN": {
     "MEANINGS": {
       "1": [
@@ -20713,32 +19173,6 @@
     ],
     "SYNONYMS": [
       "Adjuratory"
-    ]
-  },
-  "ADJURE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "command solemnly",
-        [
-          "Charge",
-          "Saddle",
-          "Burden"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Press",
-      "Conjure",
-      "Entreat",
-      "Adjure",
-      "Bid"
     ]
   },
   "ADJUST": {
@@ -21603,45 +20037,6 @@
       "Look up to"
     ]
   },
-  "ADMIRER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who admires; someone who esteems or respects or approves",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "someone who admires a young woman",
-        [
-          "Lover"
-        ],
-        [
-          "she had many admirers"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adorer",
-      "Protagonist",
-      "Supporter",
-      "Admirer",
-      "Booster"
-    ]
-  },
   "ADMIRINGLY": {
     "MEANINGS": {
       "1": [
@@ -21936,33 +20331,6 @@
       "Mix",
       "Commixture",
       "Mixture"
-    ]
-  },
-  "ADMONISH": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "take to task",
-        [
-          "Knock",
-          "Criticize",
-          "Criticise",
-          "Pick apart"
-        ],
-        [
-          "He admonished the child for his bad behavior"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Warn",
-      "Discourage",
-      "Monish",
-      "Admonish",
-      "Caution"
     ]
   },
   "ADMONISHER": {
@@ -22626,41 +20994,6 @@
       "Endearingly"
     ]
   },
-  "ADORATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of admiring strongly",
-        [
-          "Admiration",
-          "Appreciation"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the worship given to God alone",
-        [
-          "Worship"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Idolisation",
-      "Adoration",
-      "Idolization",
-      "Latria",
-      "Worship"
-    ]
-  },
   "ADORE": {
     "MEANINGS": {
       "1": [
@@ -22981,30 +21314,6 @@
     ],
     "SYNONYMS": [
       "Adrenosterone"
-    ]
-  },
-  "ADRIAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "English physiologist who conducted research into the function of neurons; 1st baron of Cambridge (1889-1997)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Edgar douglas adrian",
-      "Hadrian",
-      "Adrian",
-      "Publius aelius hadrianus",
-      "Baron adrian"
     ]
   },
   "ADRIATIC": {
@@ -23476,28 +21785,6 @@
       "Adulteration"
     ]
   },
-  "ADULTERATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a changer who lessens the purity or effectiveness of a substance",
-        [
-          "Changer",
-          "Modifier"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adulterator",
-      "Adulterant"
-    ]
-  },
   "ADULTERER": {
     "MEANINGS": {
       "1": [
@@ -23679,28 +21966,6 @@
     "SYNONYMS": [
       "Maturity",
       "Adulthood"
-    ]
-  },
-  "ADUMBRATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a sketchy or imperfect or faint representation",
-        [
-          "Representation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adumbration",
-      "Foreshadowing",
-      "Prefiguration"
     ]
   },
   "ADUMBRATIVE": {
@@ -23971,31 +22236,6 @@
       "Kick upstairs",
       "Encourage",
       "Innovative"
-    ]
-  },
-  "ADVANCEMENT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "gradual improvement or growth or development",
-        [
-          "Development"
-        ],
-        [
-          "advancement of knowledge",
-          "great progress in the arts"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "retreat"
-    ],
-    "SYNONYMS": [
-      "Advance",
-      "Forward motion",
-      "Procession",
-      "Promotion",
-      "Progress"
     ]
   },
   "ADVANCER": {
@@ -24836,32 +23076,6 @@
       "Advertiser"
     ]
   },
-  "ADVERTISING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the business of drawing public attention to goods and services",
-        [
-          "Commercial enterprise",
-          "Business enterprise",
-          "Business"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Advertizement",
-      "Push",
-      "Promote",
-      "Advertisement",
-      "Advertize"
-    ]
-  },
   "ADVICE": {
     "MEANINGS": {
       "1": [
@@ -24924,54 +23138,6 @@
     ],
     "SYNONYMS": [
       "Advisable"
-    ]
-  },
-  "ADVISE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "inform (somebody) of something",
-        [
-          "Inform"
-        ],
-        [
-          "I advised him that the rent was due"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Advise",
-      "Send word",
-      "Rede",
-      "Give notice",
-      "Notify"
-    ]
-  },
-  "ADVISED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having received information",
-        [
-
-        ],
-        [
-          "be kept advised"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ill-advised"
-    ],
-    "SYNONYMS": [
-      "Advise",
-      "Send word",
-      "Rede",
-      "Advised",
-      "Give notice"
     ]
   },
   "ADVISEE": {
@@ -26899,69 +25065,6 @@
       "Affably"
     ]
   },
-  "AFFAIR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a usually secretive or illicit sexual relationship",
-        [
-          "Sexual relationship"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a vaguely specified social event",
-        [
-          "Social event"
-        ],
-        [
-          "the party was quite an affair",
-          "an occasion arranged to honor the president",
-          "a seemingly endless round of social functions"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Affaire",
-      "Intimacy",
-      "Social function",
-      "Matter",
-      "Social occasion"
-    ]
-  },
-  "AFFAIRS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "transactions of professional or public interest",
-        [
-          "Transaction",
-          "Dealing",
-          "Dealings"
-        ],
-        [
-          "news of current affairs",
-          "great affairs of state"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Affairs",
-      "Affaire",
-      "Intimacy",
-      "Social function",
-      "Matter"
-    ]
-  },
   "AFFECT": {
     "MEANINGS": {
       "1": [
@@ -27238,31 +25341,6 @@
       "Affectionate",
       "Warm",
       "Lovesome"
-    ]
-  },
-  "AFFECTIONATENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a quality proceeding from feelings of affection or love",
-        [
-          "Emotionality",
-          "Emotionalism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Warmness",
-      "Philia",
-      "Lovingness",
-      "Fondness",
-      "Affectionateness"
     ]
   },
   "AFFENPINSCHER": {
@@ -27610,40 +25688,6 @@
       "Chemical attraction"
     ]
   },
-  "AFFIRM": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "to declare or affirm solemnly and formally as true",
-        [
-          "Declare"
-        ],
-        [
-          "Before God I swear I am innocent"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "say yes to",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "negate"
-    ],
-    "SYNONYMS": [
-      "Aver",
-      "Confirm",
-      "Support",
-      "Avow",
-      "Corroborate"
-    ]
-  },
   "AFFIRMABLE": {
     "MEANINGS": {
       "1": [
@@ -27663,53 +25707,6 @@
     "SYNONYMS": [
       "Assertable",
       "Affirmable"
-    ]
-  },
-  "AFFIRMATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of affirming or asserting or stating something",
-        [
-          "Speech act"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(religion) a solemn declaration that serves the same purpose as an oath (if an oath is objectionable to the person on religious or ethical grounds)",
-        [
-          "Commitment",
-          "Dedication"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a judgment by a higher court that the judgment of a lower court was correct and should stand",
-        [
-          "Judgment",
-          "Judgement",
-          "Judicial decision"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "reversal"
-    ],
-    "SYNONYMS": [
-      "Affirmation",
-      "Avowal",
-      "Assertion",
-      "Statement",
-      "Avouchment"
     ]
   },
   "AFFIRMATIVE": {
@@ -28574,44 +26571,6 @@
       "Aflatoxin"
     ]
   },
-  "AFLOAT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "borne on the water; floating",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "covered with water",
-        [
-
-        ],
-        [
-          "the main deck was afloat (or awash)",
-          "the monsoon left the whole place awash",
-          "a flooded bathroom",
-          "inundated farmlands",
-          "an overflowing tub"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "aground"
-    ],
-    "SYNONYMS": [
-      "Aimless",
-      "Awash",
-      "Inundated",
-      "Planless",
-      "Overflowing"
-    ]
-  },
   "AFLUTTER": {
     "MEANINGS": {
       "1": [
@@ -29464,31 +27423,6 @@
     ],
     "SYNONYMS": [
       "Aftertaste"
-    ]
-  },
-  "AFTERTHOUGHT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an addition that was not included in the original plan",
-        [
-          "Addition",
-          "Add-on",
-          "Improver"
-        ],
-        [
-          "the garage was an afterthought"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Afterthought",
-      "Reconsideration",
-      "Rethink",
-      "Second thought"
     ]
   },
   "AFTERWORLD": {
@@ -30689,30 +28623,6 @@
       "Agerasia"
     ]
   },
-  "AGERATUM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any plant of the genus Ageratum having opposite leaves and small heads of blue or white flowers",
-        [
-          "Flower"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mistflower",
-      "Ageratum",
-      "Mist-flower",
-      "Conoclinium coelestinum",
-      "Eupatorium coelestinum"
-    ]
-  },
   "AGGLOMERATE": {
     "MEANINGS": {
       "1": [
@@ -31339,30 +29249,6 @@
       "Aggression",
       "Pugnacity",
       "Belligerence"
-    ]
-  },
-  "AGGRESSOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a confident assertive person who acts as instigator",
-        [
-          "Instigator",
-          "Initiator"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aggressor",
-      "Assailant",
-      "Attacker",
-      "Assaulter"
     ]
   },
   "AGGRIEVE": {
@@ -32312,47 +30198,6 @@
       "Excruciation"
     ]
   },
-  "AGONIST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone involved in a contest or battle (as in an agon)",
-        [
-          "Contestant"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a muscle that contracts while another relaxes",
-        [
-          "Antagonistic muscle"
-        ],
-        [
-          "when bending the elbow the biceps are the agonist"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(biochemistry) a drug that can combine with a receptor on a cell to produce a physiological reaction",
-        [
-          "Drug"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "antagonist"
-    ],
-    "SYNONYMS": [
-      "Protagonist",
-      "Agonist"
-    ]
-  },
   "AGONISTIC": {
     "MEANINGS": {
       "1": [
@@ -33087,33 +30932,6 @@
       "Agrarian",
       "Agricultural",
       "Farming"
-    ]
-  },
-  "AGRICULTURE": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the class of people engaged in growing food",
-        [
-          "Class",
-          "Stratum",
-          "Social class",
-          "Socio-economic class"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Factory farm",
-      "Agribusiness",
-      "Usda",
-      "Farming",
-      "Agriculture"
     ]
   },
   "AGRICULTURIST": {
@@ -34039,32 +31857,6 @@
       "Assistance"
     ]
   },
-  "AIDE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who acts as assistant",
-        [
-          "Assistant",
-          "Helper",
-          "Help",
-          "Supporter"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aide",
-      "Adjutant",
-      "Auxiliary",
-      "Aide-de-camp"
-    ]
-  },
   "AIDE-MEMOIRE": {
     "MEANINGS": {
       "1": [
@@ -34482,32 +32274,6 @@
       "Target",
       "Place",
       "Take"
-    ]
-  },
-  "AIMLESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "continually changing especially as from one abode or occupation to another",
-        [
-
-        ],
-        [
-          "a drifting double-dealer",
-          "the floating population",
-          "vagrant hippies of the sixties"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aimless",
-      "Vagabond",
-      "Planless",
-      "Rudderless",
-      "Vagrant"
     ]
   },
   "AIMLESSLY": {
@@ -35247,41 +33013,6 @@
       "Airhead"
     ]
   },
-  "AIRY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not practical or realizable; speculative",
-        [
-
-        ],
-        [
-          "airy theories about socioeconomic improvement",
-          "visionary schemes for getting rich"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "having little or no perceptible weight; so light as to resemble air",
-        [
-
-        ],
-        [
-          "airy gauze curtains"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aired",
-      "Impractical",
-      "Aerial",
-      "Laputan",
-      "Aery"
-    ]
-  },
   "AIRINESS": {
     "MEANINGS": {
       "1": [
@@ -35329,36 +33060,6 @@
       "Airiness",
       "Buoyancy",
       "Delicacy"
-    ]
-  },
-  "AIRING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a short excursion (a walk or ride) in the open air",
-        [
-          "Excursion",
-          "Jaunt",
-          "Outing",
-          "Junket",
-          "Pleasure trip",
-          "Expedition",
-          "Sashay"
-        ],
-        [
-          "he took the dogs for an airing"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aerate",
-      "Air",
-      "Ventilate",
-      "Airing",
-      "Vent"
     ]
   },
   "AIR-INTAKE": {
@@ -37900,28 +35601,6 @@
       "Alces"
     ]
   },
-  "ALCHEMY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a pseudoscientific forerunner of chemistry in medieval times",
-        [
-          "Pseudoscience"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chemistry",
-      "Interpersonal chemistry",
-      "Alchemy"
-    ]
-  },
   "ALCHEMIC": {
     "MEANINGS": {
       "1": [
@@ -38914,40 +36593,6 @@
       "Alertly"
     ]
   },
-  "ALERTNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a state of readiness to respond",
-        [
-          "Arousal"
-        ],
-        [
-          "alerting was indicated by the desynchronization of the EEG"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "lively attentiveness",
-        [
-          "Attentiveness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alertness",
-      "On the qui vive",
-      "Alerting",
-      "Sharp-sightedness",
-      "Watchfulness"
-    ]
-  },
   "ALETRIS": {
     "MEANINGS": {
       "1": [
@@ -39396,41 +37041,6 @@
     ],
     "SYNONYMS": [
       "Algal"
-    ]
-  },
-  "ALGARROBA": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "mesquite pod used in tanning and dyeing",
-        [
-          "Bean"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "mesquite of Gulf Coast and Caribbean Islands from Mexico to Venezuela",
-        [
-          "Mesquite",
-          "Mesquit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prosopis juliiflora",
-      "Algarrobilla",
-      "Locust bean",
-      "Carob bean",
-      "Carob"
     ]
   },
   "ALGEBRA": {
@@ -40246,32 +37856,6 @@
       "Alienage"
     ]
   },
-  "ALIENATE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make withdrawn or isolated or emotionally dissociated",
-        [
-          "Affect",
-          "Impress",
-          "Move",
-          "Strike"
-        ],
-        [
-          "the boring work alienated his employees"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Disaffect",
-      "Alienate",
-      "Estrange",
-      "Alien"
-    ]
-  },
   "ALIENATED": {
     "MEANINGS": {
       "1": [
@@ -40652,43 +38236,6 @@
       "Coordinate",
       "Line up",
       "Aligning"
-    ]
-  },
-  "ALIGNMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the spatial property possessed by an arrangement or position of things in a straight line or in parallel lines",
-        [
-          "Placement",
-          "Arrangement"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of adjusting or aligning the parts of a device in relation to each other",
-        [
-          "Adjustment",
-          "Registration",
-          "Readjustment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonalignment"
-    ],
-    "SYNONYMS": [
-      "Alignment",
-      "Alliance",
-      "Coalition",
-      "Alinement",
-      "Conjunction"
     ]
   },
   "ALIYAH": {
@@ -41173,27 +38720,6 @@
     "SYNONYMS": [
       "Alkalescent",
       "Alcalescent"
-    ]
-  },
-  "ALKALI": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mixture of soluble salts found in arid soils and some bodies of water; detrimental to agriculture",
-        [
-          "Salt"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alkali",
-      "Base"
     ]
   },
   "ALKALIMETRY": {
@@ -41928,31 +39454,6 @@
       "Allegheny river"
     ]
   },
-  "ALLEGIANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the loyalty that citizens owe to their country (or subjects to their sovereign)",
-        [
-          "Loyalty",
-          "Trueness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Commitment",
-      "Fealty",
-      "Loyalty",
-      "Dedication",
-      "Allegiance"
-    ]
-  },
   "ALLEGIANT": {
     "MEANINGS": {
       "1": [
@@ -41971,31 +39472,6 @@
     ],
     "SYNONYMS": [
       "Allegiant"
-    ]
-  },
-  "ALLEGORY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "an expressive style that uses fictional characters and events to describe some subject by suggestive resemblances; an extended metaphor",
-        [
-          "Expressive style",
-          "Style"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Allegory",
-      "Fable",
-      "Emblem",
-      "Apologue",
-      "Parable"
     ]
   },
   "ALLEGORICAL": {
@@ -43247,31 +40723,6 @@
       "Allocate"
     ]
   },
-  "ALLOCATION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(computer science) the assignment of particular areas of a magnetic disk to particular data or instructions",
-        [
-          "Assignment",
-          "Assigning"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Allocation",
-      "Parceling",
-      "Assignation",
-      "Parcelling",
-      "Apportioning"
-    ]
-  },
   "ALLOCATOR": {
     "MEANINGS": {
       "1": [
@@ -44015,88 +41466,6 @@
     ],
     "SYNONYMS": [
       "Allover"
-    ]
-  },
-  "ALLOW": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "let have",
-        [
-          "Give"
-        ],
-        [
-          "grant permission",
-          "Mandela was allowed few visitors in prison"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "give or assign a resource to a particular person or cause",
-        [
-          "Assign",
-          "Allot",
-          "Portion"
-        ],
-        [
-          "I will earmark this money for your research",
-          "She sets aside time for meditation every day"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "allow or plan for a certain possibility; concede the truth or validity of something",
-        [
-          "Calculate",
-          "Estimate",
-          "Reckon",
-          "Count on",
-          "Figure",
-          "Forecast"
-        ],
-        [
-          "I allow for this possibility",
-          "The seamstress planned for 5% shrinkage after the first wash"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "grant as a discount or in exchange",
-        [
-          "Discount"
-        ],
-        [
-          "The camera store owner allowed me $50 on my old camera"
-        ]
-      ],
-      "10": [
-        "Verb",
-        "allow the presence of or allow (an activity) without opposing or prohibiting",
-        [
-          "Permit",
-          "Allow",
-          "Let",
-          "Countenance"
-        ],
-        [
-          "We don't allow dogs here",
-          "Children are not permitted beyond this point",
-          "We cannot tolerate smoking in the hospital"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "forbid",
-      "prevent",
-      "disallow",
-      "deny"
-    ],
-    "SYNONYMS": [
-      "Allow for",
-      "Let",
-      "Tolerate",
-      "Appropriate",
-      "Allow"
     ]
   },
   "ALLOWABLE": {
@@ -45174,31 +42543,6 @@
       "Upstage"
     ]
   },
-  "ALOOFNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a disposition to be distant and unsympathetic in manner",
-        [
-          "Unsociability",
-          "Unsociableness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Remoteness",
-      "Distance",
-      "Standoffishness",
-      "Aloofness",
-      "Withdrawnness"
-    ]
-  },
   "ALOPECIA": {
     "MEANINGS": {
       "1": [
@@ -46155,48 +43499,6 @@
       "Altazimuth"
     ]
   },
-  "ALTER": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "make an alteration to",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "This dress needs to be altered"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "remove the ovaries of",
-        [
-          "Sterilize",
-          "Sterilise",
-          "Desex",
-          "Unsex",
-          "Desexualize",
-          "Desexualise",
-          "Fix"
-        ],
-        [
-          "Is your cat spayed?"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Neuter",
-      "Modify",
-      "Spay",
-      "Vary",
-      "Alter"
-    ]
-  },
   "ALTERABILITY": {
     "MEANINGS": {
       "1": [
@@ -46247,30 +43549,6 @@
     ],
     "SYNONYMS": [
       "Alterable"
-    ]
-  },
-  "ALTERATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of making something different (as e.g. the size of a garment)",
-        [
-          "Change"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Revision",
-      "Alteration",
-      "Modification",
-      "Change",
-      "Adjustment"
     ]
   },
   "ALTERED": {
@@ -46460,40 +43738,6 @@
     ],
     "SYNONYMS": [
       "Alternation"
-    ]
-  },
-  "ALTERNATIVE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "necessitating a choice between mutually exclusive possibilities",
-        [
-
-        ],
-        [
-          "alternative possibilities were neutrality or war"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "pertaining to unconventional choices",
-        [
-
-        ],
-        [
-          "an alternative life style"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Substitute",
-      "Alternate",
-      "Option",
-      "Alternative",
-      "Choice"
     ]
   },
   "ALTERNATIVELY": {
@@ -46750,30 +43994,6 @@
     "SYNONYMS": [
       "Altocumulus cloud",
       "Altocumulus"
-    ]
-  },
-  "ALTOGETHER": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "with everything included or counted",
-        [
-
-        ],
-        [
-          "altogether he earns close to a million dollars"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "partly"
-    ],
-    "SYNONYMS": [
-      "All told",
-      "Raw",
-      "Whole",
-      "Altogether",
-      "All in all"
     ]
   },
   "ALTOONA": {
@@ -48478,31 +45698,6 @@
       "Amberjack"
     ]
   },
-  "AMBIANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the atmosphere of an environment",
-        [
-          "Environment",
-          "Environs",
-          "Surroundings",
-          "Surround"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ambience",
-      "Ambiance",
-      "Atmosphere"
-    ]
-  },
   "AMBIDEXTERITY": {
     "MEANINGS": {
       "1": [
@@ -48615,40 +45810,6 @@
     "SYNONYMS": [
       "Ambiguity",
       "Equivocalness"
-    ]
-  },
-  "AMBIGUOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having more than one possible meaning",
-        [
-
-        ],
-        [
-          "ambiguous words",
-          "frustrated by ambiguous instructions, the parents were unable to assemble the toy"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "having no intrinsic or objective meaning; not organized in conventional patterns",
-        [
-
-        ],
-        [
-          "an ambiguous situation with no frame of reference",
-          "ambiguous inkblots"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unequivocal",
-      "unambiguous"
-    ],
-    "SYNONYMS": [
-      "Ambiguous",
-      "Equivocal"
     ]
   },
   "AMBIGUOUSLY": {
@@ -49014,46 +46175,6 @@
       "Saint ambrose",
       "St. ambrose",
       "Ambrose"
-    ]
-  },
-  "AMBROSIA": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "fruit dessert made of oranges and bananas with shredded coconut",
-        [
-          "Dessert",
-          "Sweet",
-          "Afters"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(classical mythology) the food and drink of the gods; mortals who ate it became immortal",
-        [
-          "Dainty",
-          "Delicacy",
-          "Goody",
-          "Kickshaw",
-          "Treat"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bitterweed",
-      "Ragweed",
-      "Nectar",
-      "Beebread",
-      "Ambrosia"
     ]
   },
   "AMBROSIACEAE": {
@@ -49938,30 +47059,6 @@
     ],
     "SYNONYMS": [
       "Amerciable"
-    ]
-  },
-  "AMERICA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "North America and South America and Central America",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "U.s.",
-      "America",
-      "United states",
-      "The states",
-      "United states of america"
     ]
   },
   "AMERICAN": {
@@ -51339,28 +48436,6 @@
     "SYNONYMS": [
       "Family ammodytidae",
       "Ammodytidae"
-    ]
-  },
-  "AMMONIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a pungent gas compounded of nitrogen and hydrogen (NH3)",
-        [
-          "Binary compound"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ammonium hydroxide",
-      "Ammonia water",
-      "Ammonia"
     ]
   },
   "AMMONIAC": {
@@ -52836,27 +49911,6 @@
       "Nonsense verse"
     ]
   },
-  "AMPHIMIXIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "union of sperm and egg in sexual reproduction",
-        [
-          "Union"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Amphimixis",
-      "Sexual reproduction"
-    ]
-  },
   "AMPHINEURA": {
     "MEANINGS": {
       "1": [
@@ -53383,33 +50437,6 @@
       "Amply",
       "Richly",
       "Fully"
-    ]
-  },
-  "AMPLIFY": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "increase the volume of",
-        [
-          "Intensify",
-          "Compound",
-          "Heighten",
-          "Deepen"
-        ],
-        [
-          "amplify sound"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "understate"
-    ],
-    "SYNONYMS": [
-      "Exaggerate",
-      "Overdraw",
-      "Magnify",
-      "Expand",
-      "Hyperbolize"
     ]
   },
   "AMPLIFICATION": {
@@ -55634,27 +52661,6 @@
       "Anamorphic"
     ]
   },
-  "ANAMORPHISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "metamorphism that occurs deep under the earth's surface; changes simple minerals into complex minerals",
-        [
-          "Metamorphism"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "katamorphism"
-    ],
-    "SYNONYMS": [
-      "Anamorphism",
-      "Anamorphosis"
-    ]
-  },
   "ANAMORPHOSIS": {
     "MEANINGS": {
       "1": [
@@ -57008,31 +54014,6 @@
     ],
     "SYNONYMS": [
       "Ancestress"
-    ]
-  },
-  "ANCESTRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "inherited properties shared with others of your bloodline",
-        [
-          "Inheritance",
-          "Hereditary pattern"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Line of descent",
-      "Blood line",
-      "Stock",
-      "Bloodline",
-      "Line"
     ]
   },
   "ANCHOR": {
@@ -59273,27 +56254,6 @@
       "Angelology"
     ]
   },
-  "ANGELUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a prayer said 3 times a day by Roman Catholics in memory of the Annunciation",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Angelus bell",
-      "Angelus"
-    ]
-  },
   "ANGER": {
     "MEANINGS": {
       "1": [
@@ -60551,56 +57511,6 @@
       "Angolese"
     ]
   },
-  "ANGORA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a domestic breed of goat raised for its long silky hair which is the true mohair",
-        [
-          "Domestic goat",
-          "Capra hircus"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "domestic breed of rabbit with long white silky hair",
-        [
-          "Rabbit",
-          "Coney",
-          "Cony"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a long-haired breed of cat similar to the Persian cat",
-        [
-          "Domestic cat",
-          "House cat",
-          "Felis domesticus",
-          "Felis catus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Angora goat",
-      "Angora rabbit",
-      "Capital of turkey",
-      "Ankara",
-      "Turkish capital"
-    ]
-  },
   "ANGRY": {
     "MEANINGS": {
       "1": [
@@ -60938,31 +57848,6 @@
     "SYNONYMS": [
       "Angular",
       "Angulate"
-    ]
-  },
-  "ANGULARITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the property possessed by a shape that has angles",
-        [
-          "Shape",
-          "Form",
-          "Configuration",
-          "Contour",
-          "Conformation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "roundness"
-    ],
-    "SYNONYMS": [
-      "Angularity",
-      "Angular shape"
     ]
   },
   "ANGULATE": {
@@ -61355,32 +58240,6 @@
     ],
     "SYNONYMS": [
       "Anima"
-    ]
-  },
-  "ANIMADVERT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "express blame or censure or make a harshly critical remark",
-        [
-          "Reprimand",
-          "Censure",
-          "Criminate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Opine",
-      "Animadvert",
-      "Speak out",
-      "Speak up",
-      "Sound off"
     ]
   },
   "ANIMAL": {
@@ -61840,52 +58699,6 @@
     ],
     "SYNONYMS": [
       "Animatistic"
-    ]
-  },
-  "ANIMATOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the technician who produces animated cartoons",
-        [
-          "Technician"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Energizer",
-      "Energiser",
-      "Vitalizer",
-      "Animator",
-      "Vitaliser"
-    ]
-  },
-  "ANIME": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various resins or oleoresins",
-        [
-          "Natural resin"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Zanzibar copal",
-      "Gum anime",
-      "Anime"
     ]
   },
   "ANIMISM": {
@@ -62814,28 +59627,6 @@
       "Capital of maryland"
     ]
   },
-  "ANNAPURNA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mountain in the Himalayas in Nepal (26,500 feet high)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Parvati",
-      "Anapurna",
-      "Annapurna"
-    ]
-  },
   "ANNE": {
     "MEANINGS": {
       "1": [
@@ -63084,32 +59875,6 @@
       "Eliminate"
     ]
   },
-  "ANNIHILATING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "making light of",
-        [
-
-        ],
-        [
-          "afire with annihilating invective",
-          "a devastating portrait of human folly",
-          "to compliments inflated I've a withering reply\"- W.S.Gilbert"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Withering",
-      "Annihilative",
-      "Extinguish",
-      "Carry off",
-      "Annihilating"
-    ]
-  },
   "ANNIHILATION": {
     "MEANINGS": {
       "1": [
@@ -63238,54 +60003,6 @@
       "Get to",
       "Rile",
       "Annoy"
-    ]
-  },
-  "ANNOYANCE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "anger produced by some annoying irritation",
-        [
-          "Anger",
-          "Choler",
-          "Ire"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "something or someone that causes trouble; a source of unhappiness",
-        [
-          "Negative stimulus"
-        ],
-        [
-          "washing dishes was a nuisance before we got a dish washer",
-          "a bit of a bother",
-          "he's not a friend, he's an infliction"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the act of troubling or annoying someone",
-        [
-          "Mistreatment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Botheration",
-      "Chafe",
-      "Pain in the neck",
-      "Pain",
-      "Irritation"
     ]
   },
   "ANNOYED": {
@@ -63451,30 +60168,6 @@
       "Gloss",
       "Annotate",
       "Footnote"
-    ]
-  },
-  "ANNOTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of adding notes",
-        [
-          "Expansion",
-          "Expanding upon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Note",
-      "Annotation",
-      "Annotating",
-      "Notation"
     ]
   },
   "ANNOTATOR": {
@@ -63818,56 +60511,6 @@
       "Annulet",
       "Bandlet",
       "Roundel"
-    ]
-  },
-  "ANNULMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) a formal termination (of a relationship or a judicial proceeding etc)",
-        [
-          "Dissolution",
-          "Breakup"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Repeal",
-      "Revocation",
-      "Annulment",
-      "Invalidation",
-      "Abrogation"
-    ]
-  },
-  "ANNULUS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar",
-        [
-          "Plant part",
-          "Plant structure"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ring",
-      "Anchor ring",
-      "Halo",
-      "Annulus",
-      "Skirt"
     ]
   },
   "ANNUM": {
@@ -64384,30 +61027,6 @@
       "Anomalously"
     ]
   },
-  "ANOMIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "type genus of the family Anomiidae: saddle oysters",
-        [
-          "Mollusk genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Anomic aphasia",
-      "Amnestic aphasia",
-      "Anomia",
-      "Nominal aphasia",
-      "Genus anomia"
-    ]
-  },
   "ANOMIE": {
     "MEANINGS": {
       "1": [
@@ -64710,28 +61329,6 @@
     ],
     "SYNONYMS": [
       "Anorectal"
-    ]
-  },
-  "ANORECTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing loss of appetite",
-        [
-
-        ],
-        [
-          "an anorectic (or anorexigenic) drug"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Anorectic",
-      "Anorexigenic",
-      "Anorexic"
     ]
   },
   "ANOREXIA": {
@@ -65434,89 +62031,6 @@
       "Gastric antacid"
     ]
   },
-  "ANTAGONISM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the relation between opposing principles or forces or factors",
-        [
-          "Opposition",
-          "Oppositeness"
-        ],
-        [
-          "the inherent antagonism of capitalism and socialism"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an actively expressed feeling of dislike and hostility",
-        [
-          "Dislike",
-          "Hostility",
-          "Enmity",
-          "Ill will"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(biochemistry) interference in or inhibition of the physiological action of a chemical substance by another having a similar structure",
-        [
-          "Hindrance",
-          "Hinderance",
-          "Interference"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Enmity",
-      "Antagonism",
-      "Hostility"
-    ]
-  },
-  "ANTAGONIST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a muscle that relaxes while another contracts",
-        [
-          "Antagonistic muscle"
-        ],
-        [
-          "when bending the elbow the triceps are the antagonist"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a drug that neutralizes or counteracts the effects of another drug",
-        [
-          "Drug"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "agonist",
-      "synergist"
-    ],
-    "SYNONYMS": [
-      "Opposer",
-      "Opponent",
-      "Resister",
-      "Adversary",
-      "Antagonist"
-    ]
-  },
   "ANTAGONISTIC": {
     "MEANINGS": {
       "1": [
@@ -65819,30 +62333,6 @@
     ],
     "SYNONYMS": [
       "Ante"
-    ]
-  },
-  "ANTEATER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several tropical American mammals of the family Myrmecophagidae which lack teeth and feed on ants and termites",
-        [
-          "Edentate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spiny anteater",
-      "Banded anteater",
-      "Echidna",
-      "Pangolin",
-      "Aardvark"
     ]
   },
   "ANTEBELLUM": {
@@ -66772,30 +63262,6 @@
     "SYNONYMS": [
       "Anthologise",
       "Anthologize"
-    ]
-  },
-  "ANTHONY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "United States suffragist (1820-1906)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Antonius",
-      "Antony",
-      "Mark antony",
-      "Mark anthony",
-      "Anthony"
     ]
   },
   "ANTHONOMUS": {
@@ -67935,72 +64401,6 @@
       "Anticipator",
       "Anticipant",
       "Expectant"
-    ]
-  },
-  "ANTICIPATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "act in advance of; deal with ahead of time",
-        [
-          "Act",
-          "Move"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "realize beforehand",
-        [
-          "Know"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "be excited or anxious about",
-        [
-          "Expect",
-          "Look",
-          "Await",
-          "Wait"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Verb",
-        "be a forerunner of or occur earlier than",
-        [
-          "Happen",
-          "Hap",
-          "Go on",
-          "Pass off",
-          "Occur",
-          "Pass",
-          "Fall out",
-          "Come about",
-          "Take place"
-        ],
-        [
-          "This composition anticipates Impressionism"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prognosticate",
-      "Look to",
-      "Forestall",
-      "Predict",
-      "Anticipate"
     ]
   },
   "ANTICIPATED": {
@@ -70148,30 +66548,6 @@
       "Anti-semitism"
     ]
   },
-  "ANTISEPSIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the process of inhibiting the growth and multiplication of microorganisms",
-        [
-          "Organic process",
-          "Biological process"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sterility",
-      "Antisepsis",
-      "Sterileness",
-      "Asepsis"
-    ]
-  },
   "ANTISEPTIC": {
     "MEANINGS": {
       "1": [
@@ -71312,28 +67688,6 @@
       "Uneasily"
     ]
   },
-  "ANXIOUSNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a feeling of mild anxiety about possible developments",
-        [
-          "Anxiety"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Anxiousness",
-      "Disquiet",
-      "Anxiety"
-    ]
-  },
   "ANZAC": {
     "MEANINGS": {
       "1": [
@@ -71876,31 +68230,6 @@
       "Apatite"
     ]
   },
-  "APC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a drug combination found in some over-the-counter headache remedies (aspirin and phenacetin and caffeine)",
-        [
-          "Medicine",
-          "Medication",
-          "Medicament",
-          "Medicinal drug"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Apc",
-      "Armored personnel carrier",
-      "Armoured personnel carrier"
-    ]
-  },
   "APE": {
     "MEANINGS": {
       "1": [
@@ -71943,28 +68272,6 @@
     ],
     "SYNONYMS": [
       "Apeldoorn"
-    ]
-  },
-  "APE-MAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person assumed to have been raised by apes",
-        [
-          "Wild man",
-          "Feral man"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Missing link",
-      "Ape-man"
     ]
   },
   "APENNINES": {
@@ -72181,30 +68488,6 @@
     "SYNONYMS": [
       "Apetalous",
       "Petalless"
-    ]
-  },
-  "APEX": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the point on the celestial sphere toward which the sun and solar system appear to be moving relative to the fixed stars",
-        [
-          "Celestial point"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "antapex"
-    ],
-    "SYNONYMS": [
-      "Vertex",
-      "Apex of the sun's way",
-      "Apex",
-      "Solar apex",
-      "Peak"
     ]
   },
   "APHAERESIS": {
@@ -72427,28 +68710,6 @@
       "Aphelion"
     ]
   },
-  "APHERESIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion",
-        [
-          "Dialysis"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pheresis",
-      "Apheresis",
-      "Aphaeresis"
-    ]
-  },
   "APHESIS": {
     "MEANINGS": {
       "1": [
@@ -72659,29 +68920,6 @@
     ],
     "SYNONYMS": [
       "Aphorist"
-    ]
-  },
-  "APHORISTIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "terse and witty and like a maxim",
-        [
-
-        ],
-        [
-          "much given to apothegmatic instruction"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Axiomatic",
-      "Apothegmatic",
-      "Epigrammatic",
-      "Aphoristic"
     ]
   },
   "APHORIZE": {
@@ -75454,90 +71692,6 @@
       "Appealingly"
     ]
   },
-  "APPEAR": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "come into sight or view",
-        [
-
-        ],
-        [
-          "He suddenly appeared at the wedding",
-          "A new star appeared on the horizon"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "be issued or published",
-        [
-          "Happen",
-          "Materialize",
-          "Materialise"
-        ],
-        [
-          "Did your latest book appear yet?",
-          "The new Woody Allen film hasn't come out yet"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "seem to be true, probable, or apparent",
-        [
-          "Be"
-        ],
-        [
-          "It seems that he is very gifted",
-          "It appears that the weather in California is very bad"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "come into being or existence, or appear on the scene",
-        [
-
-        ],
-        [
-          "Then the computer came along and changed our lives",
-          "Homo sapiens appeared millions of years ago"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "appear as a character on stage or appear in a play, etc.",
-        [
-          "Perform",
-          "Execute",
-          "Do"
-        ],
-        [
-          "Gielgud appears briefly in this movie",
-          "She appeared in `Hamlet' on the London stage"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "present oneself formally, as before a (judicial) authority",
-        [
-
-        ],
-        [
-          "He had to appear in court last month",
-          "She appeared on several charges of theft"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disappear"
-    ],
-    "SYNONYMS": [
-      "Come along",
-      "Appear",
-      "Come out",
-      "Seem",
-      "Look"
-    ]
-  },
   "APPEARANCE": {
     "MEANINGS": {
       "1": [
@@ -75850,31 +72004,6 @@
       "Supply",
       "Hang on",
       "Add"
-    ]
-  },
-  "APPENDAGE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a part that is joined to something larger",
-        [
-          "Part",
-          "Portion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Process",
-      "Extremity",
-      "Appendage",
-      "Outgrowth",
-      "Member"
     ]
   },
   "APPENDAGED": {
@@ -76518,81 +72647,6 @@
       "Applewood"
     ]
   },
-  "APPLY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be pertinent or relevant or applicable",
-        [
-          "Refer",
-          "Pertain",
-          "Relate",
-          "Concern",
-          "Come to",
-          "Bear on",
-          "Touch",
-          "Touch on",
-          "Have-to doe with"
-        ],
-        [
-          "The same laws apply to you!",
-          "This theory holds for all irrational numbers",
-          "The same rules go for everyone"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "ask (for something)",
-        [
-          "Request",
-          "Bespeak",
-          "Call for",
-          "Quest"
-        ],
-        [
-          "He applied for a leave of absence",
-          "She applied for college",
-          "apply for a job"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "refer (a word or name) to a person or thing",
-        [
-          "Denote",
-          "Refer"
-        ],
-        [
-          "He applied this racial slur to me!"
-        ]
-      ],
-      "10": [
-        "Verb",
-        "apply oneself to",
-        [
-          "Give",
-          "Dedicate",
-          "Consecrate",
-          "Commit",
-          "Devote"
-        ],
-        [
-          "Please apply yourself to your homework"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "exempt",
-      "defy"
-    ],
-    "SYNONYMS": [
-      "Enforce",
-      "Lend oneself",
-      "Utilise",
-      "Go for",
-      "Use"
-    ]
-  },
   "APPLIANCE": {
     "MEANINGS": {
       "1": [
@@ -76937,50 +72991,6 @@
       "Constitute",
       "Appoint",
       "Charge"
-    ]
-  },
-  "APPOINTED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "selected for a job",
-        [
-
-        ],
-        [
-          "the one appointed for guard duty"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "fixed or established especially by order or command",
-        [
-
-        ],
-        [
-          "at the time appointed (or the appointed time\")"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "provided with furnishing and accessories (especially of a tasteful kind)",
-        [
-
-        ],
-        [
-          "a house that is beautifully appointed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "elective"
-    ],
-    "SYNONYMS": [
-      "Appointive",
-      "Name",
-      "Nominate",
-      "Appointed",
-      "Constitute"
     ]
   },
   "APPOINTEE": {
@@ -77623,58 +73633,6 @@
       "Appreciator"
     ]
   },
-  "APPREHEND": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "anticipate with dread or anxiety",
-        [
-          "Anticipate",
-          "Look for",
-          "Look to"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dig",
-      "Savvy",
-      "Grok",
-      "Comprehend",
-      "Collar"
-    ]
-  },
-  "APPREHENDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who seizes or arrests (especially a person who seizes or arrests in the name of justice)",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Apprehender",
-      "Knower"
-    ]
-  },
   "APPREHENSIBLE": {
     "MEANINGS": {
       "1": [
@@ -78028,38 +73986,6 @@
       "Approachability"
     ]
   },
-  "APPROACHABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "easy to meet or converse or do business with",
-        [
-
-        ],
-        [
-          "a friendly approachable person"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "easily approached",
-        [
-
-        ],
-        [
-          "a site approachable from a branch of the Niger"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unapproachable"
-    ],
-    "SYNONYMS": [
-      "Accessible",
-      "Approachable",
-      "Reachable"
-    ]
-  },
   "APPROACHING": {
     "MEANINGS": {
       "1": [
@@ -78345,53 +74271,6 @@
       "Appropriator"
     ]
   },
-  "APPROVAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a feeling of liking something or someone good",
-        [
-          "Liking"
-        ],
-        [
-          "although she fussed at them, she secretly viewed all her children with approval"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "acceptance as satisfactory",
-        [
-          "Acceptance"
-        ],
-        [
-          "he bought it on approval"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a message expressing a favorable opinion",
-        [
-          "Message",
-          "Content",
-          "Subject matter",
-          "Substance"
-        ],
-        [
-          "words of approval seldom passed his lips"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disapproval"
-    ],
-    "SYNONYMS": [
-      "Commendation",
-      "Approving",
-      "Favourable reception",
-      "Blessing",
-      "Favorable reception"
-    ]
-  },
   "APPROVE": {
     "MEANINGS": {
       "1": [
@@ -78599,52 +74478,6 @@
       "Some",
       "More or less",
       "Just about"
-    ]
-  },
-  "APPROXIMATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of coming near to identity (especially close in quantity)",
-        [
-          "Similarity"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an imprecise or incomplete account",
-        [
-          "Version"
-        ],
-        [
-          "newspapers gave only an approximation of the actual events"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the act of bringing near or bringing together especially the cut edges of tissue",
-        [
-          "Joining",
-          "Connection",
-          "Connexion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Estimate",
-      "Idea",
-      "Estimation",
-      "Approximation",
-      "Bringing close together"
     ]
   },
   "APRACTIC": {
@@ -79200,30 +75033,6 @@
       "Aqua",
       "Turquoise",
       "Aquamarine"
-    ]
-  },
-  "AQUANAUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a skilled worker who can live in underwater installations and participate in scientific research",
-        [
-          "Skilled worker",
-          "Trained worker",
-          "Skilled workman"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aquanaut",
-      "Skin-diver",
-      "Oceanaut"
     ]
   },
   "AQUAPHOBIA": {
@@ -80908,41 +76717,6 @@
       "Arboreous"
     ]
   },
-  "ARBOREAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "inhabiting or frequenting trees",
-        [
-
-        ],
-        [
-          "arboreal apes"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "resembling a tree in form and branching structure",
-        [
-
-        ],
-        [
-          "arborescent coral found off the coast of Bermuda",
-          "dendriform sponges"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nonarboreal"
-    ],
-    "SYNONYMS": [
-      "Dendroidal",
-      "Arborary",
-      "Arborescent",
-      "Treelike",
-      "Dendriform"
-    ]
-  },
   "ARBORETUM": {
     "MEANINGS": {
       "1": [
@@ -81118,31 +76892,6 @@
     ],
     "SYNONYMS": [
       "Arbutus"
-    ]
-  },
-  "ARC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a continuous portion of a circle",
-        [
-          "Curve",
-          "Curved shape"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spark",
-      "Arch",
-      "Electric discharge",
-      "Curve",
-      "Arc"
     ]
   },
   "ARCA": {
@@ -81491,31 +77240,6 @@
     "SYNONYMS": [
       "Subclass archaeornithes",
       "Archaeornithes"
-    ]
-  },
-  "ARCHAIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "little evolved from or characteristic of an earlier ancestral type",
-        [
-
-        ],
-        [
-          "archaic forms of life",
-          "primitive mammals",
-          "the okapi is a short-necked primitive cousin of the giraffe"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Archaic",
-      "Primitive",
-      "Antiquated",
-      "Antediluvian"
     ]
   },
   "ARCHAISM": {
@@ -82249,28 +77973,6 @@
     "SYNONYMS": [
       "Archepiscopal",
       "Archiepiscopal"
-    ]
-  },
-  "ARCHIL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various lecanoras that yield the dye archil",
-        [
-          "Lecanora"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Archil",
-      "Cudbear",
-      "Orchil"
     ]
   },
   "ARCHILOCHUS": {
@@ -83422,44 +79124,6 @@
       "Areca"
     ]
   },
-  "ARENA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the central area of an ancient Roman amphitheater where contests and spectacles were held; especially an area that was strewn with sand",
-        [
-          "Area",
-          "Country"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a playing field where sports events take place",
-        [
-          "Playing field",
-          "Athletic field",
-          "Playing area",
-          "Field"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bowl",
-      "Area",
-      "Field",
-      "Arena",
-      "Sphere"
-    ]
-  },
   "ARENACEOUS": {
     "MEANINGS": {
       "1": [
@@ -84053,39 +79717,6 @@
       "Argil"
     ]
   },
-  "ARGYLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a design consisting of a pattern of varicolored diamonds on a solid background (originally for knitted articles); patterned after the tartan of a clan in western Scotland",
-        [
-          "Design",
-          "Pattern",
-          "Figure"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a sock knitted or woven with an argyle design (usually used in the plural)",
-        [
-          "Sock"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Argyll",
-      "Argyle"
-    ]
-  },
   "ARGYLL": {
     "MEANINGS": {
       "1": [
@@ -84591,32 +80222,6 @@
       "Contestation"
     ]
   },
-  "ARGUMENTATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning",
-        [
-          "Reasoning",
-          "Logical thinking",
-          "Abstract thought"
-        ],
-        [
-          "I can't follow your line of reasoning"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Argument",
-      "Logical argument",
-      "Line",
-      "Argumentation",
-      "Line of reasoning"
-    ]
-  },
   "ARGUMENTATIVE": {
     "MEANINGS": {
       "1": [
@@ -84946,32 +80551,6 @@
       "Desiccate"
     ]
   },
-  "ARIDITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a deficiency of moisture (especially when resulting from a permanent absence of rainfall)",
-        [
-          "Dryness",
-          "Waterlessness",
-          "Xerotes"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fruitfulness"
-    ],
-    "SYNONYMS": [
-      "Fruitlessness",
-      "Barrenness",
-      "Aridity",
-      "Thirstiness",
-      "Aridness"
-    ]
-  },
   "ARIES": {
     "MEANINGS": {
       "1": [
@@ -85218,61 +80797,6 @@
     "SYNONYMS": [
       "Genus arisaema",
       "Arisaema"
-    ]
-  },
-  "ARISE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "originate or come into being",
-        [
-          "Become"
-        ],
-        [
-          "a question arose"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "rise to one's feet",
-        [
-          "Change posture"
-        ],
-        [
-          "The audience got up and applauded"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "result or issue",
-        [
-          "Happen",
-          "Hap",
-          "Go on",
-          "Pass off",
-          "Occur",
-          "Pass",
-          "Fall out",
-          "Come about",
-          "Take place"
-        ],
-        [
-          "A slight unpleasantness arose from this discussion"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sit_down",
-      "turn_in",
-      "go_to_bed",
-      "fall"
-    ],
-    "SYNONYMS": [
-      "Come up",
-      "Bob up",
-      "Get up",
-      "Arise",
-      "Originate"
     ]
   },
   "ARISTA": {
@@ -86437,28 +81961,6 @@
       "Armiger"
     ]
   },
-  "ARMILLA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(archeology) a bracelet worn around the wrist or arm",
-        [
-          "Bracelet",
-          "Bangle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Armillary sphere",
-      "Armilla"
-    ]
-  },
   "ARMILLARY": {
     "MEANINGS": {
       "1": [
@@ -87232,34 +82734,6 @@
       "Araceous"
     ]
   },
-  "AROMA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a distinctive odor that is pleasant",
-        [
-          "Smell",
-          "Odor",
-          "Odour",
-          "Olfactory sensation",
-          "Olfactory perception"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Odor",
-      "Odour",
-      "Scent",
-      "Olfactory property",
-      "Fragrance"
-    ]
-  },
   "AROMATIC": {
     "MEANINGS": {
       "1": [
@@ -87289,63 +82763,6 @@
     "SYNONYMS": [
       "Aromatic",
       "Redolent"
-    ]
-  },
-  "AROUND": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "by a circular or circuitous route",
-        [
-
-        ],
-        [
-          "He came all the way around the base",
-          "the road goes around the pond"
-        ]
-      ],
-      "4": [
-        "Adverb",
-        "in a circle or circular motion",
-        [
-
-        ],
-        [
-          "The wheels are spinning around"
-        ]
-      ],
-      "7": [
-        "Adverb",
-        "to a particular destination either specified or understood",
-        [
-
-        ],
-        [
-          "she came around to see me",
-          "I invited them around for supper"
-        ]
-      ],
-      "9": [
-        "Adverb",
-        "in circumference",
-        [
-
-        ],
-        [
-          "the trunk is ten feet around",
-          "the pond is two miles around"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Approximately",
-      "Close to",
-      "Some",
-      "More or less",
-      "Just about"
     ]
   },
   "AROUND-THE-CLOCK": {
@@ -87896,78 +83313,6 @@
       "Arrange"
     ]
   },
-  "ARRANGEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an orderly grouping (of things or persons) considered as a unit; the result of arranging",
-        [
-          "Group",
-          "Grouping"
-        ],
-        [
-          "a flower arrangement"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an organized structure for arranging or classifying",
-        [
-          "Structure"
-        ],
-        [
-          "he changed the arrangement of the topics",
-          "the facts were familiar but it was in the organization of them that he was original",
-          "he tried to understand their system of classification"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "the act of arranging and adapting a piece of music",
-        [
-          "Composing",
-          "Composition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Agreement",
-      "Arranging",
-      "Arrangement",
-      "Musical arrangement",
-      "System"
-    ]
-  },
-  "ARRANGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a musician who adapts a composition for particular voices or instruments or for another style of performance",
-        [
-          "Musician"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adapter",
-      "Arranger",
-      "Organiser",
-      "Organizer",
-      "Transcriber"
-    ]
-  },
   "ARRANT": {
     "MEANINGS": {
       "1": [
@@ -88033,36 +83378,6 @@
     ],
     "SYNONYMS": [
       "Arrears"
-    ]
-  },
-  "ARREST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of inactivity following an interruption",
-        [
-          "Inaction",
-          "Inactivity",
-          "Inactiveness"
-        ],
-        [
-          "the negotiations were in arrest",
-          "held them in check",
-          "during the halt he got some lunch",
-          "the momentary stay enabled him to escape the blow",
-          "he spent the entire stop in his seat"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cop",
-      "Apprehend",
-      "Pinch",
-      "Hold back",
-      "Catch"
     ]
   },
   "ARRESTER": {
@@ -88375,32 +83690,6 @@
       "Arrogantly"
     ]
   },
-  "ARROGATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make undue claims to having",
-        [
-          "Claim",
-          "Lay claim",
-          "Arrogate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "forfeit"
-    ],
-    "SYNONYMS": [
-      "Seize",
-      "Usurp",
-      "Claim",
-      "Take over",
-      "Arrogate"
-    ]
-  },
   "ARROGATOR": {
     "MEANINGS": {
       "1": [
@@ -88572,30 +83861,6 @@
     "SYNONYMS": [
       "Arrowworm",
       "Chaetognath"
-    ]
-  },
-  "ARSE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "vulgar slang for anus",
-        [
-          "Anus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Posterior",
-      "Buttocks",
-      "Bunghole",
-      "Keister",
-      "Behind"
     ]
   },
   "ARSENAL": {
@@ -89307,29 +84572,6 @@
       "Artesian"
     ]
   },
-  "ARTFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked by skill in achieving a desired end especially with cunning or craft",
-        [
-
-        ],
-        [
-          "the artful dodger",
-          "an artful choice of metaphors"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "artless",
-      "ingenuous"
-    ],
-    "SYNONYMS": [
-      "Artful",
-      "Disingenuous"
-    ]
-  },
   "ARTFULLY": {
     "MEANINGS": {
       "1": [
@@ -89964,28 +85206,6 @@
       "Pronounce"
     ]
   },
-  "ARTICULATELY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an articulate manner",
-        [
-
-        ],
-        [
-          "he argued articulately for his plan"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "ineloquently",
-      "inarticulately"
-    ],
-    "SYNONYMS": [
-      "Articulately",
-      "Eloquently"
-    ]
-  },
   "ARTICULATION": {
     "MEANINGS": {
       "1": [
@@ -90434,51 +85654,6 @@
     ],
     "SYNONYMS": [
       "Artistically"
-    ]
-  },
-  "ARTLESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "simple and natural; without cunning or deceit",
-        [
-
-        ],
-        [
-          "an artless manner",
-          "artless elegance"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "showing lack of art",
-        [
-
-        ],
-        [
-          "an artless translation"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "(of persons) lacking art or knowledge",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disingenuous",
-      "artful"
-    ],
-    "SYNONYMS": [
-      "Artless",
-      "Uncultured",
-      "Uncultivated",
-      "Ingenuous"
     ]
   },
   "ARTLESSLY": {
@@ -91396,38 +86571,6 @@
       "Rising",
       "Ascending",
       "Upgrade"
-    ]
-  },
-  "ASCERTAIN": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "learn or discover with certainty",
-        [
-          "Learn",
-          "Hear",
-          "Get word",
-          "Get wind",
-          "Pick up",
-          "Find out",
-          "Get a line",
-          "Discover",
-          "See"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Assure",
-      "Ensure",
-      "Ascertain",
-      "Watch",
-      "See"
     ]
   },
   "ASCERTAINABLE": {
@@ -94277,45 +89420,6 @@
       "Asplenium"
     ]
   },
-  "ASS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a pompous fool",
-        [
-          "Fool",
-          "Sap",
-          "Saphead",
-          "Muggins",
-          "Tomfool"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "hardy and sure-footed animal smaller and with longer ears than the horse",
-        [
-          "Equine",
-          "Equid"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Posterior",
-      "Buttocks",
-      "As",
-      "Keister",
-      "Behind"
-    ]
-  },
   "ASSAY": {
     "MEANINGS": {
       "1": [
@@ -94612,30 +89716,6 @@
     "SYNONYMS": [
       "Assassinate",
       "Assassinated"
-    ]
-  },
-  "ASSASSINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "murder of a public figure by surprise attack",
-        [
-          "Murder",
-          "Slaying",
-          "Execution"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Character assassination",
-      "Blackwash",
-      "Assassination"
     ]
   },
   "ASSAULT": {
@@ -95139,45 +90219,6 @@
       "Assertiveness"
     ]
   },
-  "ASSESS": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "charge (a person or a property) with a payment, such as a tax or a fine",
-        [
-          "Charge",
-          "Bill"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "estimate the value of (property) for taxation",
-        [
-          "Estimate",
-          "Gauge",
-          "Approximate",
-          "Guess",
-          "Judge"
-        ],
-        [
-          "Our house hasn't been assessed in years"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Posterior",
-      "Value",
-      "Buttocks",
-      "Keister",
-      "Behind"
-    ]
-  },
   "ASSESSABLE": {
     "MEANINGS": {
       "1": [
@@ -95231,41 +90272,6 @@
     ],
     "SYNONYMS": [
       "Assessee"
-    ]
-  },
-  "ASSESSMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an amount determined as payable",
-        [
-          "Charge"
-        ],
-        [
-          "the assessment for repairs outraged the club's membership"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the market value set on assets",
-        [
-          "Monetary value",
-          "Price",
-          "Cost"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Judgement",
-      "Assessment",
-      "Judgment",
-      "Appraisal"
     ]
   },
   "ASSET": {
@@ -95453,76 +90459,6 @@
     ],
     "SYNONYMS": [
       "Assiduously"
-    ]
-  },
-  "ASSIGN": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "give out",
-        [
-          "Distribute",
-          "Administer",
-          "Mete out",
-          "Deal",
-          "Parcel out",
-          "Lot",
-          "Dispense",
-          "Shell out",
-          "Deal out",
-          "Dish out",
-          "Allot",
-          "Dole out"
-        ],
-        [
-          "We were assigned new uniforms"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "select something or someone for a specific purpose",
-        [
-          "Choose",
-          "Take",
-          "Select",
-          "Pick out"
-        ],
-        [
-          "The teacher assigned him to lead his classmates in the exercise"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "transfer one's right to",
-        [
-          "Transfer"
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Verb",
-        "decide as to where something belongs in a scheme",
-        [
-          "Evaluate",
-          "Pass judgment",
-          "Judge"
-        ],
-        [
-          "The biologist assigned the mushroom to the proper class"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Set apart",
-      "Impute",
-      "Portion",
-      "Ascribe",
-      "Delegate"
     ]
   },
   "ASSIGNABLE": {
@@ -95720,64 +90656,6 @@
       "Assimilable"
     ]
   },
-  "ASSIMILATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become similar to one's environment",
-        [
-          "Adjust",
-          "Conform",
-          "Adapt"
-        ],
-        [
-          "Immigrants often want to assimilate quickly"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "make similar",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "This country assimilates immigrants very quickly"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "take (gas, light or heat) into a solution",
-        [
-          "Absorb"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Verb",
-        "become similar in sound",
-        [
-          "Change"
-        ],
-        [
-          "The nasal assimilates to the following consonant"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dissimilate"
-    ],
-    "SYNONYMS": [
-      "Imbibe",
-      "Ingest",
-      "Take in",
-      "Absorb",
-      "Assimilate"
-    ]
-  },
   "ASSIMILATING": {
     "MEANINGS": {
       "1": [
@@ -95948,30 +90826,6 @@
     ],
     "SYNONYMS": [
       "Assyriology"
-    ]
-  },
-  "ASSIST": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "act as an assistant in a subordinate or supportive function",
-        [
-          "Work"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Help",
-      "Attend",
-      "Assistance",
-      "Assist",
-      "Attend to"
     ]
   },
   "ASSISTANT": {
@@ -96655,77 +91509,6 @@
       "Simulate"
     ]
   },
-  "ASSUMPTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a hypothesis that is taken for granted",
-        [
-          "Hypothesis",
-          "Possibility",
-          "Theory"
-        ],
-        [
-          "any society is built upon certain assumptions"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of taking possession of or power over something",
-        [
-          "Acquisition"
-        ],
-        [
-          "his assumption of office coincided with the trouble in Cuba",
-          "the Nazi assumption of power in 1934",
-          "he acquired all the company's assets for ten million dollars and the assumption of the company's debts"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "celebration in the Roman Catholic Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Dormition in the Eastern Orthodox Church",
-        [
-          "Holy day of obligation"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "(Christianity) the taking up of the body and soul of the Virgin Mary when her earthly life had ended",
-        [
-          "Miracle"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the act of assuming or taking for granted",
-        [
-          "Act",
-          "Deed",
-          "Human action",
-          "Human activity"
-        ],
-        [
-          "your assumption that I would agree was unwarranted"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Laying claim",
-      "Assumption",
-      "Presumption",
-      "Supposal",
-      "Supposition"
-    ]
-  },
   "ASSUMPTIVE": {
     "MEANINGS": {
       "1": [
@@ -96839,46 +91622,6 @@
       "Confidence",
       "Sureness",
       "Self-assurance"
-    ]
-  },
-  "ASSURE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "inform positively and with certainty and confidence",
-        [
-          "Affirm",
-          "Verify",
-          "Assert",
-          "Avow",
-          "Aver",
-          "Swan",
-          "Swear"
-        ],
-        [
-          "I tell you that man is a crook!"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "assure somebody of the truth of something with the intention of giving the listener confidence",
-        [
-          "Persuade"
-        ],
-        [
-          "I assured him that traveling to Cambodia was safe"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "worry"
-    ],
-    "SYNONYMS": [
-      "Assure",
-      "Reassure",
-      "Guarantee",
-      "Ensure",
-      "Ascertain"
     ]
   },
   "ASSURED": {
@@ -97473,29 +92216,6 @@
       "Astheny"
     ]
   },
-  "ASTHENIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a slender physique",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Enervated",
-      "Debilitated",
-      "Asthenic",
-      "Adynamic"
-    ]
-  },
   "ASTHENOSPHERE": {
     "MEANINGS": {
       "1": [
@@ -97717,34 +92437,6 @@
     "SYNONYMS": [
       "Astomatous",
       "Mouthless"
-    ]
-  },
-  "ASTONISHING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "so surprisingly impressive as to stun or overwhelm",
-        [
-
-        ],
-        [
-          "such an enormous response was astonishing",
-          "an astounding achievement",
-          "the amount of money required was staggering",
-          "suffered a staggering defeat",
-          "the figure inside the boucle dress was stupefying"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stupefying",
-      "Amazing",
-      "Amaze",
-      "Astonishing",
-      "Astound"
     ]
   },
   "ASTONISHMENT": {
@@ -98662,31 +93354,6 @@
       "Shrewdly"
     ]
   },
-  "ASTUTENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the intellectual ability to penetrate deeply into ideas",
-        [
-          "Wisdom",
-          "Sapience"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Astuteness",
-      "Depth",
-      "Profundity",
-      "Deepness",
-      "Perspicacity"
-    ]
-  },
   "ASUNCION": {
     "MEANINGS": {
       "1": [
@@ -98789,28 +93456,6 @@
       "Assouan",
       "Aswan",
       "Assuan"
-    ]
-  },
-  "AT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "100 at equal 1 kip in Laos",
-        [
-          "Laotian monetary unit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Astatine",
-      "Atomic number 85",
-      "At"
     ]
   },
   "ATAKAPA": {
@@ -99425,30 +94070,6 @@
       "Atheneum"
     ]
   },
-  "ATHENE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a genus of Strigidae",
-        [
-          "Bird genus"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Athena",
-      "Pallas",
-      "Pallas athene",
-      "Athene",
-      "Genus athene"
-    ]
-  },
   "ATHENIAN": {
     "MEANINGS": {
       "1": [
@@ -99804,29 +94425,6 @@
     "SYNONYMS": [
       "Strenuosity",
       "Athleticism"
-    ]
-  },
-  "ATHLETICS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "participation in sports events as an extracurricular activity",
-        [
-          "Extracurricular activity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sport",
-      "Athletic contest",
-      "Athletic competition",
-      "Athletics"
     ]
   },
   "ATHOS": {
@@ -101214,52 +95812,6 @@
       "Attache"
     ]
   },
-  "ATTACHED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "used of buildings joined by common sidewalls",
-        [
-
-        ],
-        [
-          "a block of attached houses"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "associated in an exclusive sexual relationship",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "fond and affectionate",
-        [
-
-        ],
-        [
-          "she was very attached to her father"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unattached",
-      "detached",
-      "detach"
-    ],
-    "SYNONYMS": [
-      "Seize",
-      "Confiscate",
-      "Connected",
-      "Sequester",
-      "Attached"
-    ]
-  },
   "ATTACHMENT": {
     "MEANINGS": {
       "1": [
@@ -101592,30 +96144,6 @@
       "Acquisition"
     ]
   },
-  "ATTAINT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "condemn by attainder",
-        [
-          "Condemn"
-        ],
-        [
-          "the man was attainted"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "honor"
-    ],
-    "SYNONYMS": [
-      "Dishonor",
-      "Attaint",
-      "Disgrace",
-      "Dishonour",
-      "Shame"
-    ]
-  },
   "ATTALEA": {
     "MEANINGS": {
       "1": [
@@ -101876,31 +96404,6 @@
       "Meeter",
       "Accompaniment",
       "Accompanying"
-    ]
-  },
-  "ATTENDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a caretaker or other watcher",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "miss",
-      "unaccompanied"
-    ],
-    "SYNONYMS": [
-      "Give ear",
-      "Attend",
-      "Tended to",
-      "See",
-      "Accompanied"
     ]
   },
   "ATTENTION": {
@@ -102819,51 +97322,6 @@
       "Attractive"
     ]
   },
-  "ATTRACTIVENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "sexual allure",
-        [
-          "Beauty"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unattractiveness"
-    ],
-    "SYNONYMS": [
-      "Attractiveness",
-      "Attraction"
-    ]
-  },
-  "ATTRACTOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system",
-        [
-          "Point"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Attractor",
-      "Attracter",
-      "Magnet",
-      "Draw",
-      "Attractive feature"
-    ]
-  },
   "ATTRIBUTABLE": {
     "MEANINGS": {
       "1": [
@@ -102883,31 +97341,6 @@
     ],
     "SYNONYMS": [
       "Attributable"
-    ]
-  },
-  "ATTRIBUTE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an abstraction belonging to or characteristic of an entity",
-        [
-          "Abstraction",
-          "Abstract entity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dimension",
-      "Impute",
-      "Property",
-      "Ascribe",
-      "Assign"
     ]
   },
   "ATTRIBUTION": {
@@ -103008,57 +97441,6 @@
     ],
     "SYNONYMS": [
       "Attrited"
-    ]
-  },
-  "ATTRITION": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "sorrow for sin arising from fear of damnation",
-        [
-          "Sorrow",
-          "Regret",
-          "Rue",
-          "Ruefulness"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a wearing down to weaken or destroy",
-        [
-          "Decrease",
-          "Lessening",
-          "Drop-off"
-        ],
-        [
-          "a war of attrition"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the act of rubbing together; wearing something down by friction",
-        [
-          "Friction",
-          "Detrition",
-          "Rubbing"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grinding",
-      "Contriteness",
-      "Detrition",
-      "Corrasion",
-      "Abrasion"
     ]
   },
   "ATTRITIONAL": {
@@ -103620,30 +98002,6 @@
       "Sonometer"
     ]
   },
-  "AUDIOMETRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "measuring sensitivity of hearing",
-        [
-          "Measurement",
-          "Measuring",
-          "Measure",
-          "Mensuration"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Audiometry",
-      "Audiology"
-    ]
-  },
   "AUDIOMETRIC": {
     "MEANINGS": {
       "1": [
@@ -103800,43 +98158,6 @@
       "Audition"
     ]
   },
-  "AUDITOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a student who attends a course but does not take it for credit",
-        [
-          "Student",
-          "Pupil",
-          "Educatee"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a qualified accountant who inspects the accounting records and practices of a business or other organization",
-        [
-          "Accountant",
-          "Comptroller",
-          "Controller"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Auditor",
-      "Listener",
-      "Hearer",
-      "Attender"
-    ]
-  },
   "AUDITORY": {
     "MEANINGS": {
       "1": [
@@ -103959,30 +98280,6 @@
     ],
     "SYNONYMS": [
       "Augend"
-    ]
-  },
-  "AUGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "hand tool for boring holes",
-        [
-          "Drill"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Wimble",
-      "Plumber's snake",
-      "Gimlet",
-      "Auger",
-      "Screw auger"
     ]
   },
   "AUGITE": {
@@ -104714,39 +99011,6 @@
       "Auricula"
     ]
   },
-  "AURICULAR": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to or perceived by or shaped like the organ of hearing; I must hear what I read\"- George Santayana",
-        [
-
-        ],
-        [
-          "my apprehension of words is auricular",
-          "an auricular confession",
-          "an auricular appendage"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "pertaining to an auricle of the heart",
-        [
-
-        ],
-        [
-          "auricular fibrillation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Otic",
-      "Auricular"
-    ]
-  },
   "AURICULARE": {
     "MEANINGS": {
       "1": [
@@ -104955,65 +99219,6 @@
       "Auriga"
     ]
   },
-  "AUROCHS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "large recently extinct long-horned European wild ox; considered one of the ancestors of domestic cattle",
-        [
-          "Ox",
-          "Wild ox"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bos primigenius",
-      "Wisent",
-      "Bison bonasus",
-      "Urus",
-      "Aurochs"
-    ]
-  },
-  "AURORA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force",
-        [
-          "Atmospheric phenomenon"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(Roman mythology) goddess of the dawn; counterpart of Greek Eos",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "sunset"
-    ],
-    "SYNONYMS": [
-      "Dawning",
-      "Aurora",
-      "Dayspring",
-      "Morning",
-      "Cockcrow"
-    ]
-  },
   "AURORAL": {
     "MEANINGS": {
       "1": [
@@ -105148,37 +99353,6 @@
     ],
     "SYNONYMS": [
       "Auscultatory"
-    ]
-  },
-  "AUSPICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "commence in a manner calculated to bring good luck",
-        [
-          "Get down",
-          "Begin",
-          "Get",
-          "Start out",
-          "Start",
-          "Set about",
-          "Set out",
-          "Commence"
-        ],
-        [
-          "They auspicated the trip with a bottle of champagne"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prognosticate",
-      "Betoken",
-      "Bode",
-      "Foreshadow",
-      "Predict"
     ]
   },
   "AUSPICE": {
@@ -106317,31 +100491,6 @@
       "Office"
     ]
   },
-  "AUTHORIZATION": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the act of conferring legality or sanction or formal warrant",
-        [
-          "Management",
-          "Direction"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Potency",
-      "Dominance",
-      "Authority",
-      "Sanction",
-      "Say-so"
-    ]
-  },
   "AUTHORIZE": {
     "MEANINGS": {
       "1": [
@@ -106413,38 +100562,6 @@
     "SYNONYMS": [
       "Authorizer",
       "Authoriser"
-    ]
-  },
-  "AUTHORSHIP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of initiating a new idea or theory or writing",
-        [
-          "Initiation",
-          "Founding",
-          "Foundation",
-          "Institution",
-          "Origination",
-          "Creation",
-          "Innovation",
-          "Introduction",
-          "Instauration"
-        ],
-        [
-          "the authorship of the theory is disputed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Penning",
-      "Composition",
-      "Authorship",
-      "Paternity",
-      "Writing"
     ]
   },
   "AUTISM": {
@@ -106806,28 +100923,6 @@
       "High-and-mighty",
       "Dictatorial",
       "Dominating"
-    ]
-  },
-  "AUTOCRATICALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in an autocratic manner",
-        [
-
-        ],
-        [
-          "the Czars ruled Russia autocratically"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Autocratically",
-      "Magisterially",
-      "Dictatorially"
     ]
   },
   "AUTO-DA-FE": {
@@ -107813,51 +101908,6 @@
       "Autophytic plant"
     ]
   },
-  "AUTOPILOT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a navigational device that automatically keeps ships or planes or spacecraft on a steady course",
-        [
-          "Device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Autopilot",
-      "Robot pilot",
-      "Automatic pilot"
-    ]
-  },
-  "AUTOPLASTY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "surgical repair by using tissue from another part of the patient's own body",
-        [
-          "Plastic surgery",
-          "Reconstructive surgery",
-          "Anaplasty"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Autograft",
-      "Autoplasty"
-    ]
-  },
   "AUTOPLASTIC": {
     "MEANINGS": {
       "1": [
@@ -108787,28 +102837,6 @@
       "Avascular"
     ]
   },
-  "AVATAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the manifestation of a Hindu deity (especially Vishnu) in human or superhuman or animal form",
-        [
-          "Hindu deity"
-        ],
-        [
-          "the Buddha is considered an avatar of the god Vishnu"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Avatar",
-      "Incarnation",
-      "Embodiment"
-    ]
-  },
   "AVELLAN": {
     "MEANINGS": {
       "1": [
@@ -109093,32 +103121,6 @@
       "Ibn-roshd"
     ]
   },
-  "AVERSION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of turning yourself (or your gaze) away",
-        [
-          "Avoidance",
-          "Turning away",
-          "Shunning",
-          "Dodging"
-        ],
-        [
-          "averting her gaze meant that she was angry"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Distaste",
-      "Antipathy",
-      "Averting",
-      "Aversion"
-    ]
-  },
   "AVERSIVE": {
     "MEANINGS": {
       "1": [
@@ -109137,30 +103139,6 @@
     ],
     "SYNONYMS": [
       "Aversive"
-    ]
-  },
-  "AVERT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "turn away or aside",
-        [
-          "Turn"
-        ],
-        [
-          "They averted their eyes when the King entered"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Head off",
-      "Avert",
-      "Forfend",
-      "Deflect",
-      "Avoid"
     ]
   },
   "AVERTING": {
@@ -109984,31 +103962,6 @@
       "River avon"
     ]
   },
-  "AVOW": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "admit openly and bluntly; make no bones about",
-        [
-          "Admit",
-          "Acknowledge"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "disavow"
-    ],
-    "SYNONYMS": [
-      "Aver",
-      "Affirm",
-      "Swan",
-      "Avouch",
-      "Assert"
-    ]
-  },
   "AVOWAL": {
     "MEANINGS": {
       "1": [
@@ -110704,39 +104657,6 @@
       "Awless",
       "Aweless",
       "Disrespectful"
-    ]
-  },
-  "AWFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing fear or dread or terror",
-        [
-
-        ],
-        [
-          "the awful war",
-          "an awful risk",
-          "dire news",
-          "a career or vengeance so direful that London was shocked",
-          "the dread presence of the headmaster",
-          "polio is no longer the dreaded disease it once was",
-          "a dreadful storm",
-          "a fearful howling",
-          "horrendous explosions shook the city",
-          "a terrible curse"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "nice"
-    ],
-    "SYNONYMS": [
-      "Amazing",
-      "Tremendous",
-      "Dire",
-      "Frightfully",
-      "Awful"
     ]
   },
   "AWFULNESS": {
@@ -111440,27 +105360,6 @@
     ],
     "SYNONYMS": [
       "Axiological"
-    ]
-  },
-  "AXIOM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident",
-        [
-          "Proposition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Maxim",
-      "Axiom"
     ]
   },
   "AXIOMATIC": {

@@ -1,30 +1,4 @@
 {
-  "V": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "the 22nd letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cinque",
-      "Volt",
-      "Quint",
-      "Quintet",
-      "Quintuplet"
-    ]
-  },
   "VAC": {
     "MEANINGS": {
       "1": [
@@ -257,29 +231,6 @@
       "Vaccaria"
     ]
   },
-  "VACCINATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the scar left following inoculation with a vaccine",
-        [
-          "Scar",
-          "Cicatrix",
-          "Cicatrice"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vaccination",
-      "Inoculation"
-    ]
-  },
   "VACCINE": {
     "MEANINGS": {
       "1": [
@@ -453,30 +404,6 @@
       "Vacuolization",
       "Vacuolation",
       "Vacuolisation"
-    ]
-  },
-  "VACUOUS": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "devoid of matter",
-        [
-
-        ],
-        [
-          "a vacuous space"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Inane",
-      "Blank",
-      "Mindless",
-      "Fatuous",
-      "Asinine"
     ]
   },
   "VACUOUSLY": {
@@ -1732,30 +1659,6 @@
       "Substantiation"
     ]
   },
-  "VALIDITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of having legal force or effectiveness",
-        [
-          "Legality"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cogency",
-      "Rigour",
-      "Lustiness",
-      "Robustness",
-      "Hardiness"
-    ]
-  },
   "VALIDLY": {
     "MEANINGS": {
       "1": [
@@ -1995,30 +1898,6 @@
     "SYNONYMS": [
       "Valuable",
       "Worthful"
-    ]
-  },
-  "VALUATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "assessed price",
-        [
-          "Price",
-          "Terms",
-          "Damage"
-        ],
-        [
-          "the valuation of this property is much too high"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Valuation",
-      "Rating",
-      "Evaluation"
     ]
   },
   "VALUE": {
@@ -2541,56 +2420,6 @@
       "Vampirism"
     ]
   },
-  "VAN": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(Great Britain) a closed railroad car that carries baggage or freight",
-        [
-          "Car",
-          "Railcar",
-          "Railway car",
-          "Railroad car"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a camper equipped with living quarters",
-        [
-          "Camper",
-          "Camping bus",
-          "Motor home"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "a truck with an enclosed cargo space",
-        [
-          "Truck",
-          "Motortruck"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "New wave",
-      "Van",
-      "Caravan",
-      "Vanguard",
-      "Avant-garde"
-    ]
-  },
   "VANADATE": {
     "MEANINGS": {
       "1": [
@@ -2896,40 +2725,6 @@
       "Vandyke"
     ]
   },
-  "VANE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a fin attached to the tail of an arrow, bomb or missile in order to stabilize or guide it",
-        [
-          "Fin"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the flattened weblike part of a feather consisting of a series of barbs on either side of the shaft",
-        [
-          "Blade"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Weather vane",
-      "Wind vane",
-      "Web",
-      "Vane",
-      "Weathervane"
-    ]
-  },
   "VANELLUS": {
     "MEANINGS": {
       "1": [
@@ -3121,62 +2916,6 @@
       "Vanir"
     ]
   },
-  "VANISH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become invisible or unnoticeable",
-        [
-          "End",
-          "Stop",
-          "Finish",
-          "Terminate",
-          "Cease"
-        ],
-        [
-          "The effect vanished when day broke"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "cease to exist",
-        [
-          "End",
-          "Stop",
-          "Finish",
-          "Terminate",
-          "Cease"
-        ],
-        [
-          "An entire civilization vanished"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "decrease rapidly and disappear",
-        [
-          "Decrease",
-          "Diminish",
-          "Lessen",
-          "Fall"
-        ],
-        [
-          "the money vanished in las Vegas",
-          "all my stock assets have vaporized"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "appear"
-    ],
-    "SYNONYMS": [
-      "Fly",
-      "Fell",
-      "Disappear",
-      "Vaporize",
-      "Go away"
-    ]
-  },
   "VANISHED": {
     "MEANINGS": {
       "1": [
@@ -3281,31 +3020,6 @@
       "Vanishingly"
     ]
   },
-  "VANITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being valueless or futile",
-        [
-          "Worthlessness",
-          "Ineptitude"
-        ],
-        [
-          "he rejected the vanities of the world"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "humility"
-    ],
-    "SYNONYMS": [
-      "Dresser",
-      "Amour propre",
-      "Dressing table",
-      "Conceitedness",
-      "Emptiness"
-    ]
-  },
   "VANTAGE": {
     "MEANINGS": {
       "1": [
@@ -3371,32 +3085,6 @@
       "Vanzetti"
     ]
   },
-  "VAPID": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "lacking significance or liveliness or spirit or zest",
-        [
-
-        ],
-        [
-          "a vapid conversation",
-          "a vapid smile",
-          "a bunch of vapid schoolgirls"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Flat",
-      "Flavourless",
-      "Bland",
-      "Vapid",
-      "Savourless"
-    ]
-  },
   "VAPIDLY": {
     "MEANINGS": {
       "1": [
@@ -3439,30 +3127,6 @@
       "Vaporisation",
       "Evaporation",
       "Vapor"
-    ]
-  },
-  "VAPORIFIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "resembling or characteristic of vapor",
-        [
-
-        ],
-        [
-          "vaporous clouds"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vaporous",
-      "Vapourous",
-      "Volatilisable",
-      "Vapourisable",
-      "Vaporific"
     ]
   },
   "VAPORIZATION": {
@@ -3658,41 +3322,6 @@
       "Vargas"
     ]
   },
-  "VARY": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "be subject to change in accordance with a variable",
-        [
-          "Differ"
-        ],
-        [
-          "Prices vary",
-          "His moods vary depending on the weather"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "make something more diverse and varied",
-        [
-          "Diversify"
-        ],
-        [
-          "Vary the menu"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "conform"
-    ],
-    "SYNONYMS": [
-      "Variegate",
-      "Vary",
-      "Alter",
-      "Diverge",
-      "Change"
-    ]
-  },
   "VARIABILITY": {
     "MEANINGS": {
       "1": [
@@ -3793,41 +3422,6 @@
     ],
     "SYNONYMS": [
       "Variably"
-    ]
-  },
-  "VARIANCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the second moment around the mean; the expected value of the square of the deviations of a random variable from its mean value",
-        [
-          "Moment"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "an official dispensation to act contrary to a rule or regulation (typically a building regulation)",
-        [
-          "Dispensation"
-        ],
-        [
-          "a zoning variance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "invariability",
-      "invariableness"
-    ],
-    "SYNONYMS": [
-      "Variance",
-      "Variant",
-      "Division",
-      "Disagreement",
-      "Divergence"
     ]
   },
   "VARIANT": {
@@ -4219,43 +3813,6 @@
       "Varietal"
     ]
   },
-  "VARIETY": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics",
-        [
-          "Taxonomic group",
-          "Taxonomic category",
-          "Taxon"
-        ],
-        [
-          "varieties are frequently recognized in botany"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a difference that is usually pleasant",
-        [
-          "Difference"
-        ],
-        [
-          "he goes to France for variety",
-          "it is a refreshing change to meet a woman mechanic"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Multifariousness",
-      "Miscellanea",
-      "Miscellany",
-      "Variety",
-      "Variety show"
-    ]
-  },
   "VARIFORM": {
     "MEANINGS": {
       "1": [
@@ -4430,33 +3987,6 @@
     ],
     "SYNONYMS": [
       "Varix"
-    ]
-  },
-  "VARMINT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any usually predatory wild animal considered undesirable; e.g., coyote",
-        [
-          "Animal",
-          "Animate being",
-          "Beast",
-          "Brute",
-          "Creature",
-          "Fauna"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Varmint",
-      "Varment",
-      "Vermin"
     ]
   },
   "VARNA": {
@@ -5147,28 +4677,6 @@
       "Vatican"
     ]
   },
-  "VATICINATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "foretell through or as if through the power of prophecy",
-        [
-          "Prophesy",
-          "Vaticinate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Prophesy",
-      "Vaticinate"
-    ]
-  },
   "VAUDEVILLE": {
     "MEANINGS": {
       "1": [
@@ -5650,32 +5158,6 @@
       "Vedist"
     ]
   },
-  "VEER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "shift to a clockwise direction",
-        [
-          "Switch",
-          "Change over",
-          "Shift"
-        ],
-        [
-          "the wind veered"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "back"
-    ],
-    "SYNONYMS": [
-      "Slew",
-      "Curve",
-      "Sheer",
-      "Cut",
-      "Trend"
-    ]
-  },
   "VEERY": {
     "MEANINGS": {
       "1": [
@@ -6054,32 +5536,6 @@
       "Furiousness",
       "Vehemence",
       "Fierceness"
-    ]
-  },
-  "VEHEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by great force or energy",
-        [
-
-        ],
-        [
-          "vehement deluges of rain",
-          "vehement clapping",
-          "a vehement defense"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Fierce",
-      "Tearing",
-      "Violent",
-      "Vehement",
-      "Trigger-happy"
     ]
   },
   "VEHEMENTLY": {
@@ -6681,30 +6137,6 @@
       "Velveteen"
     ]
   },
-  "VELVETLEAF": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "tall annual herb or subshrub of tropical Asia having velvety leaves and yellow flowers and yielding a strong fiber; naturalized in southeastern Europe and United States",
-        [
-          "Mallow"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Velvetweed",
-      "Indian mallow",
-      "China jute",
-      "Lavatera arborea",
-      "Velvet-leaf"
-    ]
-  },
   "VENALITY": {
     "MEANINGS": {
       "1": [
@@ -6823,27 +6255,6 @@
     "SYNONYMS": [
       "Veneering",
       "Facing",
-      "Veneer"
-    ]
-  },
-  "VENEERING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of applying veneer",
-        [
-          "Lamination"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Veneering",
       "Veneer"
     ]
   },
@@ -7414,52 +6825,6 @@
       "Stomach",
       "Belly",
       "Venter"
-    ]
-  },
-  "VENTILATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "expose to the circulation of fresh air so as to retard spoilage",
-        [
-          "Expose"
-        ],
-        [
-          "Wheat should be well ventilated"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "circulate through and freshen",
-        [
-          "Circulate"
-        ],
-        [
-          "The gust of air ventilated the room"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "furnish with an opening to allow air to circulate or gas to escape",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "The architect did not think about ventilating the storage space"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Air",
-      "Ventilate",
-      "Vent",
-      "Air out",
-      "Give vent"
     ]
   },
   "VENTILATED": {
@@ -8886,29 +8251,6 @@
       "Falsifiable"
     ]
   },
-  "VERIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(law) an affidavit attached to a statement confirming the truth of that statement",
-        [
-          "Affidavit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Check",
-      "Confirmation",
-      "Verification",
-      "Substantiation"
-    ]
-  },
   "VERIFIED": {
     "MEANINGS": {
       "1": [
@@ -8995,29 +8337,6 @@
     ],
     "SYNONYMS": [
       "Verisimilitude"
-    ]
-  },
-  "VERITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an enduring or necessary ethical or religious or aesthetic truth",
-        [
-          "Truth"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "falsity"
-    ],
-    "SYNONYMS": [
-      "Trueness",
-      "Verity",
-      "Truth",
-      "The true"
     ]
   },
   "VERLAINE": {
@@ -9152,28 +8471,6 @@
       "Vermiculated",
       "Vermiculate",
       "Wormy"
-    ]
-  },
-  "VERMICULATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a decoration consisting of wormlike carvings",
-        [
-          "Carving",
-          "Embellishment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "anastalsis"
-    ],
-    "SYNONYMS": [
-      "Peristalsis",
-      "Vermiculation"
     ]
   },
   "VERMICULITE": {
@@ -9402,52 +8699,6 @@
     ],
     "SYNONYMS": [
       "Vermouth"
-    ]
-  },
-  "VERNACULAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the everyday speech of the people (as distinguished from literary language)",
-        [
-          "Non-standard speech"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vernacular",
-      "Argot",
-      "Common",
-      "Jargon",
-      "Lingo"
-    ]
-  },
-  "VERNAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of or characteristic of or occurring in spring",
-        [
-
-        ],
-        [
-          "the vernal equinox"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "summery"
-    ],
-    "SYNONYMS": [
-      "Youthful",
-      "Vernal",
-      "Young"
     ]
   },
   "VERNATION": {
@@ -10564,30 +9815,6 @@
       "Vespasian"
     ]
   },
-  "VESPER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a late afternoon or evening worship service",
-        [
-          "Service",
-          "Religious service",
-          "Divine service"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vesper",
-      "Hesperus",
-      "Evening star"
-    ]
-  },
   "VESPERS": {
     "MEANINGS": {
       "1": [
@@ -10952,32 +10179,6 @@
     ],
     "SYNONYMS": [
       "Vestibular"
-    ]
-  },
-  "VESTIBULE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various bodily cavities leading to another cavity (as of the ear or vagina)",
-        [
-          "Cavity",
-          "Bodily cavity",
-          "Cavum"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Entrance hall",
-      "Vestibule",
-      "Hall",
-      "Foyer",
-      "Anteroom"
     ]
   },
   "VESTIGIAL": {
@@ -11452,31 +10653,6 @@
       "Veto"
     ]
   },
-  "VEX": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "subject to prolonged examination, discussion, or deliberation",
-        [
-          "Debate",
-          "Deliberate"
-        ],
-        [
-          "vex the subject of the death penalty"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "reassure"
-    ],
-    "SYNONYMS": [
-      "Disturb",
-      "Amaze",
-      "Beat",
-      "Puzzle",
-      "Irritate"
-    ]
-  },
   "VEXATIOUSLY": {
     "MEANINGS": {
       "1": [
@@ -11495,31 +10671,6 @@
     ],
     "SYNONYMS": [
       "Vexatiously"
-    ]
-  },
-  "VEXED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing difficulty in finding an answer or solution; much disputed",
-        [
-
-        ],
-        [
-          "the vexed issue of priorities",
-          "we live in vexed and troubled times"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "reassure"
-    ],
-    "SYNONYMS": [
-      "Disturb",
-      "Amaze",
-      "Beat",
-      "Puzzle",
-      "Irritate"
     ]
   },
   "VIABILITY": {
@@ -11550,31 +10701,6 @@
     ],
     "SYNONYMS": [
       "Viability"
-    ]
-  },
-  "VIABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of life or normal growth and development",
-        [
-
-        ],
-        [
-          "viable seeds",
-          "a viable fetus"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Workable",
-      "Feasible",
-      "Practicable",
-      "Executable",
-      "Viable"
     ]
   },
   "VIADUCT": {
@@ -12132,28 +11258,6 @@
     ],
     "SYNONYMS": [
       "Vicariously"
-    ]
-  },
-  "VICE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a specific form of evildoing",
-        [
-          "Transgression",
-          "Evildoing"
-        ],
-        [
-          "vice offends the moral standards of the community"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vice",
-      "Frailty"
     ]
   },
   "VICEGERENT": {
@@ -13501,84 +12605,6 @@
       "Annamese"
     ]
   },
-  "VIEW": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "look at carefully; study mentally",
-        [
-          "Analyze",
-          "Analyse",
-          "Study",
-          "Examine",
-          "Canvass",
-          "Canvas"
-        ],
-        [
-          "view a problem"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of looking or seeing or observing",
-        [
-          "Look",
-          "Looking",
-          "Looking at"
-        ],
-        [
-          "he tried to get a better view of it",
-          "his survey of the battlefield was limited"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the range of the eye",
-        [
-          "Range",
-          "Reach"
-        ],
-        [
-          "they were soon out of view"
-        ]
-      ],
-      "7": [
-        "Noun",
-        "purpose; the phrase `with a view to' means `with the intention of' or `for the purpose of'",
-        [
-          "Purpose",
-          "Intent",
-          "Intention",
-          "Aim",
-          "Design"
-        ],
-        [
-          "he took the computer with a view to pawning it"
-        ]
-      ],
-      "10": [
-        "Noun",
-        "outward appearance",
-        [
-          "Appearance",
-          "Visual aspect"
-        ],
-        [
-          "they look the same in outward view"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Watch",
-      "See",
-      "Sight",
-      "Survey",
-      "Prospect"
-    ]
-  },
   "VIEWABLE": {
     "MEANINGS": {
       "1": [
@@ -13597,30 +12623,6 @@
     ],
     "SYNONYMS": [
       "Viewable"
-    ]
-  },
-  "VIEWER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an optical device for viewing photographic transparencies",
-        [
-          "Optical device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Witness",
-      "Viewer",
-      "Looker",
-      "Spectator",
-      "Watcher"
     ]
   },
   "VIEWLESS": {
@@ -13756,66 +12758,6 @@
     "SYNONYMS": [
       "Watchfully",
       "Vigilantly"
-    ]
-  },
-  "VIGNETTE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a photograph whose edges shade off gradually",
-        [
-          "Photograph",
-          "Photo",
-          "Exposure",
-          "Picture",
-          "Pic"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a small illustrative sketch (as sometimes placed at the beginning of chapters in books)",
-        [
-          "Sketch",
-          "Study"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sketch",
-      "Vignette"
-    ]
-  },
-  "VIGOR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "active strength of body or mind",
-        [
-          "Strength"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Muscularity",
-      "Energy",
-      "Heartiness",
-      "Vigour",
-      "Zip"
     ]
   },
   "VIGOROUS": {
@@ -14329,27 +13271,6 @@
       "Vilnius"
     ]
   },
-  "VINACEOUS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "of the color of wine",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vinaceous",
-      "Vinous"
-    ]
-  },
   "VINBLASTINE": {
     "MEANINGS": {
       "1": [
@@ -14434,43 +13355,6 @@
     "SYNONYMS": [
       "Oncovin",
       "Vincristine"
-    ]
-  },
-  "VINDICATE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "maintain, uphold, or defend",
-        [
-          "Maintain",
-          "Defend"
-        ],
-        [
-          "vindicate the rights of the citizens"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "clear of accusation, blame, suspicion, or doubt with supporting proof",
-        [
-          "Acquit",
-          "Assoil",
-          "Clear",
-          "Discharge",
-          "Exonerate",
-          "Exculpate"
-        ],
-        [
-          "You must vindicate yourself and fight this libel"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vindicate",
-      "Justify"
     ]
   },
   "VINDICATION": {
@@ -14569,29 +13453,6 @@
     "SYNONYMS": [
       "Acetum",
       "Vinegar"
-    ]
-  },
-  "VINEGARY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a sour disposition; ill-tempered",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vinegarish",
-      "Acetous",
-      "Vinegary",
-      "Acetose"
     ]
   },
   "VINEGARINESS": {
@@ -15056,33 +13917,6 @@
       "Ravish",
       "Dishonour",
       "Break"
-    ]
-  },
-  "VIOLATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an act that disregards an agreement or a right",
-        [
-          "Wrongdoing",
-          "Wrongful conduct",
-          "Misconduct",
-          "Actus reus"
-        ],
-        [
-          "he claimed a violation of his rights under the Fifth Amendment"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Misdemeanour",
-      "Irreverence",
-      "Misdemeanor",
-      "Encroachment",
-      "Violation"
     ]
   },
   "VIOLATOR": {
@@ -16250,30 +15084,6 @@
       "Virtuosity"
     ]
   },
-  "VIRTUOSO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a musician who is a consummate master of technique and artistry",
-        [
-          "Musician"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Star",
-      "Masterful",
-      "Sensation",
-      "Wiz",
-      "Ace"
-    ]
-  },
   "VIRTUOUS": {
     "MEANINGS": {
       "1": [
@@ -16329,30 +15139,6 @@
     "SYNONYMS": [
       "Virulency",
       "Virulence"
-    ]
-  },
-  "VIRULENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "infectious; having the ability to cause disease",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "avirulent"
-    ],
-    "SYNONYMS": [
-      "Virulent",
-      "Acerbic",
-      "Caustic",
-      "Acerb",
-      "Acrid"
     ]
   },
   "VIRULENTLY": {
@@ -16851,29 +15637,6 @@
       "Viscountess"
     ]
   },
-  "VISCOUNTY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the domain controlled by a viscount or viscountess",
-        [
-          "Domain",
-          "Demesne",
-          "Land"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Viscountcy",
-      "Viscounty"
-    ]
-  },
   "VISCUM": {
     "MEANINGS": {
       "1": [
@@ -17273,43 +16036,6 @@
       "Chat"
     ]
   },
-  "VISITATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any disaster or catastrophe",
-        [
-          "Calamity",
-          "Catastrophe",
-          "Disaster",
-          "Tragedy",
-          "Cataclysm"
-        ],
-        [
-          "a visitation of the plague"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an official visit for inspection or supervision",
-        [
-          "Visit"
-        ],
-        [
-          "the commissioner made visitations to all the precinct stations",
-          "the recent visitation of the bishop to his diocese"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Trial",
-      "Tribulation",
-      "Visitation"
-    ]
-  },
   "VISITING": {
     "MEANINGS": {
       "1": [
@@ -17561,45 +16287,6 @@
       "Vitaceae"
     ]
   },
-  "VITAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "performing an essential function in the living body",
-        [
-
-        ],
-        [
-          "vital organs",
-          "blood and other vital fluids",
-          "the loss of vital heat in shock",
-          "a vital spot",
-          "life-giving love and praise"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "manifesting or characteristic of life",
-        [
-
-        ],
-        [
-          "a vital, living organism",
-          "vital signs"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Full of life",
-      "Vital",
-      "Life-sustaining",
-      "Critical",
-      "Lively"
-    ]
-  },
   "VITALISM": {
     "MEANINGS": {
       "1": [
@@ -17746,30 +16433,6 @@
     ],
     "SYNONYMS": [
       "Vitally"
-    ]
-  },
-  "VITALNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of being essential to maintain life",
-        [
-          "Essentiality",
-          "Essentialness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "dispensableness",
-      "dispensability"
-    ],
-    "SYNONYMS": [
-      "Indispensableness",
-      "Indispensability",
-      "Vitalness"
     ]
   },
   "VITAMIN": {
@@ -18344,30 +17007,6 @@
       "Viverrine mammal"
     ]
   },
-  "VIVID": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having the clarity and freshness of immediate experience",
-        [
-
-        ],
-        [
-          "a vivid recollection"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lifelike",
-      "Brilliant",
-      "Pictorial",
-      "Vivid",
-      "Intense"
-    ]
-  },
   "VIVIDLY": {
     "MEANINGS": {
       "1": [
@@ -18386,58 +17025,6 @@
     ],
     "SYNONYMS": [
       "Vividly"
-    ]
-  },
-  "VIVIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make more striking or animated",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "his remarks always vivify an otherwise dull story"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Animate",
-      "Repair",
-      "Recreate",
-      "Quicken",
-      "Revivify"
-    ]
-  },
-  "VIVIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the activity of giving vitality and vigour to something",
-        [
-          "Energizing",
-          "Activating",
-          "Activation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spiritedness",
-      "Brio",
-      "Animation",
-      "Vivification",
-      "Invigoration"
     ]
   },
   "VIVIPAROUS": {
@@ -18832,60 +17419,6 @@
     ],
     "SYNONYMS": [
       "Vocalic"
-    ]
-  },
-  "VOCALIZE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "sing (each note a scale or in a melody) with the same vowel",
-        [
-          "Sing"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "pronounce as a vowel",
-        [
-          "Pronounce",
-          "Articulate",
-          "Enounce",
-          "Sound out",
-          "Enunciate",
-          "Say"
-        ],
-        [
-          "between two consonants, this liquid is vowelized"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "utter speech sounds",
-        [
-          "Talk",
-          "Speak",
-          "Utter",
-          "Mouth",
-          "Verbalize",
-          "Verbalise"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "devoice"
-    ],
-    "SYNONYMS": [
-      "Sound",
-      "Vocalise",
-      "Vowelize",
-      "Phonate",
-      "Enunciate"
     ]
   },
   "VOCALLY": {
@@ -19318,32 +17851,6 @@
       "Vocalize"
     ]
   },
-  "VOICELESSNESS": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "having no voice in the management or control of affairs",
-        [
-          "Powerlessness",
-          "Impotence",
-          "Impotency"
-        ],
-        [
-          "the voicelessness of those who live in situations of hopelessness"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aphonia",
-      "Voicelessness",
-      "Whispering",
-      "Susurration",
-      "Whisper"
-    ]
-  },
   "VOICEPRINT": {
     "MEANINGS": {
       "1": [
@@ -19426,60 +17933,6 @@
       "Voicing",
       "Vocalize",
       "Voice"
-    ]
-  },
-  "VOID": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "containing nothing",
-        [
-
-        ],
-        [
-          "the earth was without form, and void"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "validate"
-    ],
-    "SYNONYMS": [
-      "Vacancy",
-      "Evacuate",
-      "Avoid",
-      "Nullity",
-      "Emptiness"
-    ]
-  },
-  "VOIDER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a piece of chain mail covering a place unprotected by armor plate",
-        [
-          "Chain mail",
-          "Ring mail",
-          "Mail",
-          "Chain armor",
-          "Chain armour",
-          "Ring armor",
-          "Ring armour"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gusset",
-      "Voider",
-      "Defecator",
-      "Invalidator",
-      "Laundry basket"
     ]
   },
   "VOYEUR": {
@@ -19843,28 +18296,6 @@
     ],
     "SYNONYMS": [
       "Volcanism"
-    ]
-  },
-  "VOLCANO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mountain formed by volcanic material",
-        [
-          "Mountain",
-          "Mount"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Vent",
-      "Volcano"
     ]
   },
   "VOLCANOLOGY": {
@@ -21614,32 +20045,6 @@
       "Vulgarian"
     ]
   },
-  "VULGARISE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "debase and make vulgar",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "The Press has vulgarized Love and Marriage"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Popularize",
-      "Popularise",
-      "Generalize",
-      "Generalise",
-      "Vulgarize"
-    ]
-  },
   "VULGARIZATION": {
     "MEANINGS": {
       "1": [
@@ -21662,32 +20067,6 @@
       "Vulgarisation",
       "Popularisation",
       "Popularization"
-    ]
-  },
-  "VULGARIZE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "act in a vulgar manner",
-        [
-          "Act",
-          "Behave",
-          "Do"
-        ],
-        [
-          "The drunkard tends to vulgarize"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Popularize",
-      "Popularise",
-      "Generalize",
-      "Generalise",
-      "Vulgarize"
     ]
   },
   "VULGARIZER": {

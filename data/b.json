@@ -1,41 +1,4 @@
 {
-  "B": {
-    "MEANINGS": {
-      "6": [
-        "Noun",
-        "the 2nd letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "the blood group whose red cells carry the B antigen",
-        [
-          "Blood group",
-          "Blood type"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bel",
-      "Vitamin b complex",
-      "B complex",
-      "Atomic number 5",
-      "Barn"
-    ]
-  },
   "BAA": {
     "MEANINGS": {
       "1": [
@@ -264,52 +227,6 @@
       "Blither",
       "Guggle",
       "Blather"
-    ]
-  },
-  "BABBLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various insectivorous Old World birds with a loud incessant song; in some classifications considered members of the family Muscicapidae",
-        [
-          "Oscine",
-          "Oscine bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Magpie",
-      "Babbler",
-      "Spouter",
-      "Cackler",
-      "Chatterbox"
-    ]
-  },
-  "BABEL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a confusion of voices and other sounds",
-        [
-          "Confusion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Babel",
-      "Tower of babel"
     ]
   },
   "BABELIKE": {
@@ -830,42 +747,6 @@
       "Orgiastic",
       "Bacchanalian",
       "Bacchic"
-    ]
-  },
-  "BACCHANT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a drunken reveller; a devotee of Bacchus",
-        [
-          "Fan",
-          "Buff",
-          "Devotee",
-          "Lover"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(classical mythology) a priest or votary of Bacchus",
-        [
-          "Votary"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Drunken reveller",
-      "Bacchant",
-      "Drunken reveler",
-      "Bacchanal"
     ]
   },
   "BACCHANTE": {
@@ -1446,44 +1327,6 @@
       "Backboard"
     ]
   },
-  "BACKBONE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "fortitude and determination",
-        [
-          "Fortitude"
-        ],
-        [
-          "he didn't have the guts to try it"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the part of a network that connects other networks together",
-        [
-          "Connection",
-          "Connexion",
-          "Connector",
-          "Connecter",
-          "Connective"
-        ],
-        [
-          "the backbone is the part of a communication network that carries the heaviest traffic"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Keystone",
-      "Gumption",
-      "Rachis",
-      "Anchor",
-      "Guts"
-    ]
-  },
   "BACKCROSS": {
     "MEANINGS": {
       "1": [
@@ -1884,28 +1727,6 @@
       "Left-slanting"
     ]
   },
-  "BACKHANDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "roundabout or ambiguous",
-        [
-
-        ],
-        [
-          "attacks from that source amounted to a backhanded compliment to his integrity",
-          "a backhanded and dishonest way of reaching his goal"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "forehand"
-    ],
-    "SYNONYMS": [
-      "Backhand",
-      "Backhanded"
-    ]
-  },
   "BACKHANDER": {
     "MEANINGS": {
       "1": [
@@ -2013,30 +1834,6 @@
       "Financial support",
       "Second",
       "Gage"
-    ]
-  },
-  "BACKLASH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an adverse reaction to some political or social occurrence",
-        [
-          "Reaction"
-        ],
-        [
-          "there was a backlash of intolerance"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Backfire",
-      "Rebound",
-      "Recoil",
-      "Repercussion",
-      "Backlash"
     ]
   },
   "BACKLESS": {
@@ -2704,31 +2501,6 @@
     "SYNONYMS": [
       "Backswimmer",
       "Notonecta undulata"
-    ]
-  },
-  "BACKSWORD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a sword with only one cutting edge",
-        [
-          "Sword",
-          "Blade",
-          "Brand",
-          "Steel"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Backsword",
-      "Singlestick",
-      "Fencing stick"
     ]
   },
   "BACK-TO-BACK": {
@@ -3713,30 +3485,6 @@
       "Badge"
     ]
   },
-  "BADGER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "persuade through constant efforts",
-        [
-          "Persuade"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tease",
-      "Bug",
-      "Pester",
-      "Beleaguer",
-      "Badger"
-    ]
-  },
   "BADGERING": {
     "MEANINGS": {
       "1": [
@@ -3969,32 +3717,6 @@
       "Traduce",
       "Badmouth",
       "Drag through the mud"
-    ]
-  },
-  "BADNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "used of the degree of something undesirable e.g. pain or weather",
-        [
-          "Intensity",
-          "Intensiveness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "good",
-      "goodness"
-    ],
-    "SYNONYMS": [
-      "Severity",
-      "Badness",
-      "Severeness",
-      "Naughtiness",
-      "Mischievousness"
     ]
   },
   "BAEDEKER": {
@@ -4361,28 +4083,6 @@
       "Baggageman"
     ]
   },
-  "BAGGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a machine for putting objects or substances into bags",
-        [
-          "Machine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bagger",
-      "Boxer",
-      "Packer"
-    ]
-  },
   "BAGGY": {
     "MEANINGS": {
       "1": [
@@ -4426,30 +4126,6 @@
       "Bagdad",
       "Baghdad",
       "Capital of iraq"
-    ]
-  },
-  "BAGMAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a racketeer assigned to collect or distribute payoff money",
-        [
-          "Racketeer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Travelling salesman",
-      "Bagman",
-      "Roadman",
-      "Commercial traveller",
-      "Commercial traveler"
     ]
   },
   "BAGPIPE": {
@@ -5453,30 +5129,6 @@
     ],
     "SYNONYMS": [
       "Bake",
-      "Broil"
-    ]
-  },
-  "BAKED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(bread and pastries) cooked by dry heat (as in an oven)",
-        [
-
-        ],
-        [
-          "baked goods"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sunbaked",
-      "Scorched",
-      "Adust",
-      "Parched",
       "Broil"
     ]
   },
@@ -9538,30 +9190,6 @@
       "Bangla desh"
     ]
   },
-  "BANGLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "cheap showy jewelry or ornament on clothing",
-        [
-          "Adornment"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Novelty",
-      "Bangle",
-      "Trinket",
-      "Fallal",
-      "Gewgaw"
-    ]
-  },
   "BANGOR": {
     "MEANINGS": {
       "1": [
@@ -11272,30 +10900,6 @@
       "Peasant"
     ]
   },
-  "BARBARIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "unrestrained and crudely rich",
-        [
-
-        ],
-        [
-          "barbaric use of color or ornament"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Savage",
-      "Uncivilized",
-      "Barbarian",
-      "Uncivilised",
-      "Barbaric"
-    ]
-  },
   "BARBARIZATION": {
     "MEANINGS": {
       "1": [
@@ -11349,29 +10953,6 @@
     "SYNONYMS": [
       "Barbarize",
       "Barbarise"
-    ]
-  },
-  "BARBAROSSA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Barbary pirate (died in 1546)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Khayr ad-din",
-      "Frederick barbarossa",
-      "Frederick i",
-      "Barbarossa"
     ]
   },
   "BARBAROUS": {
@@ -12348,42 +11929,6 @@
       "Scarcely"
     ]
   },
-  "BARENESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the state of being unclothed and exposed (especially of a part of the body)",
-        [
-          "Nakedness",
-          "Nudity",
-          "Nudeness"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "an extreme lack of furnishings or ornamentation",
-        [
-          "Plainness"
-        ],
-        [
-          "I was struck by the starkness of my father's room"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Starkness",
-      "Nakedness",
-      "Bareness",
-      "Bleakness",
-      "Desolation"
-    ]
-  },
   "BARGAIN": {
     "MEANINGS": {
       "1": [
@@ -12418,31 +11963,6 @@
       "Deal",
       "Buy",
       "Dicker"
-    ]
-  },
-  "BARGAINER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "negotiator of the terms of a transaction",
-        [
-          "Negotiator",
-          "Negotiant",
-          "Treater"
-        ],
-        [
-          "he is a hard bargainer"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Monger",
-      "Dealer",
-      "Trader",
-      "Bargainer"
     ]
   },
   "BARGAINING": {
@@ -12619,31 +12139,6 @@
       "Bar absolute",
       "Microbar",
       "Barye"
-    ]
-  },
-  "BARILLA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Algerian plant formerly burned to obtain calcium carbonate",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Salsola soda",
-      "Salsola kali",
-      "Glasswort",
-      "Kelpwort",
-      "Saltwort"
     ]
   },
   "BARYON": {
@@ -13902,77 +13397,6 @@
       "Barrator"
     ]
   },
-  "BARRATRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the crime of a judge whose judgment is influenced by bribery",
-        [
-          "Bribery",
-          "Graft"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(maritime law) a fraudulent breach of duty by the master of a ship that injures the owner of the ship or its cargo; includes every breach of trust such as stealing or sinking or deserting the ship or embezzling the cargo",
-        [
-          "Fraud"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the offense of vexatiously persisting in inciting lawsuits and quarrels",
-        [
-          "Crime",
-          "Offense",
-          "Criminal offense",
-          "Criminal offence",
-          "Offence",
-          "Law-breaking"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Barratry",
-      "Simony"
-    ]
-  },
-  "BARRED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marked with stripes or bands",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "unbar"
-    ],
-    "SYNONYMS": [
-      "Exclude",
-      "Block off",
-      "Relegate",
-      "Barricaded",
-      "Barricade"
-    ]
-  },
   "BARREL": {
     "MEANINGS": {
       "1": [
@@ -14966,39 +14390,6 @@
       "Baruch"
     ]
   },
-  "BASAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "serving as or forming a base",
-        [
-
-        ],
-        [
-          "the painter applied a base coat followed by two finishing coats"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "of primary importance",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "cauline"
-    ],
-    "SYNONYMS": [
-      "Basal",
-      "Radical",
-      "Primary",
-      "Base"
-    ]
-  },
   "BASALT": {
     "MEANINGS": {
       "1": [
@@ -15515,30 +14906,6 @@
     ],
     "SYNONYMS": [
       "Basenji"
-    ]
-  },
-  "BASH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an uproarious party",
-        [
-          "Party"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bang",
-      "Bonk",
-      "Whop",
-      "Bash",
-      "Brawl"
     ]
   },
   "BASHFUL": {
@@ -16232,46 +15599,6 @@
       "Basipetal"
     ]
   },
-  "BASIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the fundamental assumptions from which something is begun or developed or calculated or explained",
-        [
-          "Assumption",
-          "Supposition",
-          "Supposal"
-        ],
-        [
-          "the whole argument rested on a basis of conjecture"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the most important or necessary part of something",
-        [
-          "Part",
-          "Portion",
-          "Component part",
-          "Component",
-          "Constituent"
-        ],
-        [
-          "the basis of this drink is orange juice"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Footing",
-      "Fundament",
-      "Foundation",
-      "Groundwork",
-      "Cornerstone"
-    ]
-  },
   "BASISCOPIC": {
     "MEANINGS": {
       "1": [
@@ -16290,30 +15617,6 @@
     ],
     "SYNONYMS": [
       "Basiscopic"
-    ]
-  },
-  "BASK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "be exposed",
-        [
-          "Lie"
-        ],
-        [
-          "The seals were basking in the sun"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bask",
-      "Savour",
-      "Savor",
-      "Relish",
-      "Enjoy"
     ]
   },
   "BASKET": {
@@ -16960,42 +16263,6 @@
       "Bast"
     ]
   },
-  "BASTARD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the illegitimate offspring of unmarried parents",
-        [
-          "Offspring",
-          "Progeny",
-          "Issue"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "derogatory term for a variation that is not genuine; something irregular or inferior or of dubious origin",
-        [
-          "Variation"
-        ],
-        [
-          "the architecture was a kind of bastard suggesting Gothic but not true Gothic"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cocksucker",
-      "Prick",
-      "Illegitimate",
-      "Love child",
-      "By-blow"
-    ]
-  },
   "BASTARDY": {
     "MEANINGS": {
       "1": [
@@ -17300,31 +16567,6 @@
     "SYNONYMS": [
       "Falanga",
       "Bastinado"
-    ]
-  },
-  "BASTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "moistening a roast as it is cooking",
-        [
-          "Moistening",
-          "Dampening"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tack",
-      "Basting stitch",
-      "Clobber",
-      "Batter",
-      "Baste"
     ]
   },
   "BASTION": {
@@ -17780,33 +17022,6 @@
     "SYNONYMS": [
       "Bathe",
       "Bath"
-    ]
-  },
-  "BATHER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a person who takes a bath",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Swimmer",
-      "Bather",
-      "Natator"
     ]
   },
   "BATHETIC": {
@@ -18765,29 +17980,6 @@
       "Battle-ax"
     ]
   },
-  "BATTLEDORE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an ancient racket game",
-        [
-          "Badminton"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Badminton racket",
-      "Battledore and shuttlecock",
-      "Battledore",
-      "Badminton racquet"
-    ]
-  },
   "BATTLEFIELD": {
     "MEANINGS": {
       "1": [
@@ -19333,31 +18525,6 @@
       "Yawp",
       "Bellow",
       "Bawl"
-    ]
-  },
-  "BAWLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a loud weeper",
-        [
-          "Weeper",
-          "Crier"
-        ],
-        [
-          "their new baby is a real bawler"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Yeller",
-      "Screecher",
-      "Shouter",
-      "Roarer",
-      "Bawler"
     ]
   },
   "BAZAAR": {
@@ -20703,41 +19870,6 @@
       "Sufferable"
     ]
   },
-  "BEARBERRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "deciduous shrub of southeastern and central United States",
-        [
-          "Holly"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "chiefly evergreen subshrubs of northern to Arctic areas",
-        [
-          "Shrub",
-          "Bush"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bearberry",
-      "Rhamnus purshianus",
-      "Chittamwood",
-      "Chittimwood",
-      "Winterberry"
-    ]
-  },
   "BEARD": {
     "MEANINGS": {
       "1": [
@@ -20862,31 +19994,6 @@
       "Smooth-faced",
       "Whiskerless",
       "Beardless"
-    ]
-  },
-  "BEARER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a messenger who bears or presents",
-        [
-          "Messenger",
-          "Courier"
-        ],
-        [
-          "a bearer of good tidings"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Holder",
-      "Carrier",
-      "Pallbearer",
-      "Toter",
-      "Bearer"
     ]
   },
   "BEARING": {
@@ -21018,33 +20125,6 @@
       "Bearskin",
       "Busby",
       "Shako"
-    ]
-  },
-  "BEAST": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a cruelly rapacious person",
-        [
-          "Attacker",
-          "Aggressor",
-          "Assailant",
-          "Assaulter"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Savage",
-      "Brute",
-      "Wildcat",
-      "Fauna",
-      "Animal"
     ]
   },
   "BEASTLY": {
@@ -21423,46 +20503,6 @@
       "Beater"
     ]
   },
-  "BEATIFY": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make blessedly happy",
-        [
-          "Elate",
-          "Lift up",
-          "Uplift",
-          "Pick up",
-          "Intoxicate"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "declare (a dead person) to be blessed; the first step of achieving sainthood",
-        [
-          "Declare",
-          "Adjudge",
-          "Hold"
-        ],
-        [
-          "On Sunday, the martyr will be beatified by the Vatican"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beatify",
-      "Exalt",
-      "Thrill",
-      "Exhilarate",
-      "Tickle pink"
-    ]
-  },
   "BEATIFIC": {
     "MEANINGS": {
       "1": [
@@ -21485,38 +20525,6 @@
       "Beatific",
       "Sainted",
       "Angelical"
-    ]
-  },
-  "BEATIFICATION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the action of rendering supremely blessed and extremely happy",
-        [
-          "Action"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "(Roman Catholic Church) an act of the Pope who declares that a deceased person lived a holy life and is worthy of public veneration; a first step toward canonization",
-        [
-          "Sanctification"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beatitude",
-      "Blessedness",
-      "Beatification"
     ]
   },
   "BEATIFIED": {
@@ -21578,30 +20586,6 @@
       "Amaze",
       "Whacking",
       "Beat"
-    ]
-  },
-  "BEATITUDE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "one of the eight sayings of Jesus at the beginning of the Sermon on the Mount; in Latin each saying begins with `beatus' (blessed)",
-        [
-          "Saying",
-          "Expression",
-          "Locution"
-        ],
-        [
-          "her favorite Beatitude is `Blessed are the meek for they shall inherit the earth'"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beatitude",
-      "Blessedness",
-      "Beatification"
     ]
   },
   "BEATLES": {
@@ -22559,33 +21543,6 @@
       "Bed clothing"
     ]
   },
-  "BEDDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having a bed or beds as specified",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "bedless",
-      "unstratified",
-      "turn_out",
-      "get_up"
-    ],
-    "SYNONYMS": [
-      "Make love",
-      "Have sex",
-      "Have it off",
-      "Get it on",
-      "Hit the hay"
-    ]
-  },
   "BEDDER": {
     "MEANINGS": {
       "1": [
@@ -22804,36 +21761,6 @@
     "SYNONYMS": [
       "Bedizen",
       "Dizen"
-    ]
-  },
-  "BEDLAM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "pejorative terms for an insane asylum",
-        [
-          "Mental hospital",
-          "Psychiatric hospital",
-          "Mental institution",
-          "Institution",
-          "Mental home",
-          "Insane asylum",
-          "Asylum"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crazy house",
-      "Topsy-turvydom",
-      "Snake pit",
-      "Nut house",
-      "Funny house"
     ]
   },
   "BEDLAMITE": {
@@ -23529,50 +22456,6 @@
       "Beefsteak"
     ]
   },
-  "BEEFWOOD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several heavy hard reddish chiefly tropical woods of the families Casuarinaceae and Proteaceae; some used for cabinetwork",
-        [
-          "Wood"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "any of several Australian trees of the genus Casuarina yielding heavy hard red wood used in cabinetwork",
-        [
-          "Casuarina"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "tree yielding hard heavy reddish wood",
-        [
-          "Silk oak"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beefwood",
-      "Balata",
-      "Scrub beefwood",
-      "Bully tree",
-      "Manilkara bidentata"
-    ]
-  },
   "BEEHIVE": {
     "MEANINGS": {
       "1": [
@@ -24194,32 +23077,6 @@
       "Befriend"
     ]
   },
-  "BEFUDDLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "make stupid with alcohol",
-        [
-          "Intoxicate",
-          "Soak",
-          "Inebriate"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bedevil",
-      "Confuse",
-      "Fox",
-      "Befuddle",
-      "Confound"
-    ]
-  },
   "BEG": {
     "MEANINGS": {
       "1": [
@@ -24803,28 +23660,6 @@
       "Dirty"
     ]
   },
-  "BEGRUDGE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "wish ill or allow unwillingly",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "wish"
-    ],
-    "SYNONYMS": [
-      "Resent",
-      "Envy",
-      "Begrudge"
-    ]
-  },
   "BEGUILED": {
     "MEANINGS": {
       "1": [
@@ -24845,54 +23680,6 @@
       "Becharm",
       "Captivate",
       "Enthralled",
-      "Entrance",
-      "Charm"
-    ]
-  },
-  "BEGUILEMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an entertainment that provokes pleased interest and distracts you from worries and vexations",
-        [
-          "Entertainment",
-          "Amusement"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Animal magnetism",
-      "Distraction",
-      "Bewitchery",
-      "Beguilement"
-    ]
-  },
-  "BEGUILING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "misleading by means of pleasant or alluring methods",
-        [
-
-        ],
-        [
-          "taken in by beguiling tales of overnight fortunes"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Becharm",
-      "Captivate",
-      "Alluring",
       "Entrance",
       "Charm"
     ]
@@ -24995,47 +23782,6 @@
     ],
     "SYNONYMS": [
       "Behalf"
-    ]
-  },
-  "BEHAVE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "behave in a certain manner",
-        [
-          "Act",
-          "Move",
-          "Hold",
-          "Carry",
-          "Bear"
-        ],
-        [
-          "She carried herself well",
-          "he bore himself with dignity",
-          "They conducted themselves well during these difficult times"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "behave well or properly",
-        [
-          "Act",
-          "Move"
-        ],
-        [
-          "The children must learn to behave"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "misbehave"
-    ],
-    "SYNONYMS": [
-      "Behave",
-      "Acquit",
-      "Act",
-      "Conduct",
-      "Carry"
     ]
   },
   "BEHAVIOR": {
@@ -25661,29 +24407,6 @@
       "Belabor"
     ]
   },
-  "BELABOUR": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "beat soundly",
-        [
-          "Beat",
-          "Beat up",
-          "Work over"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Belabour",
-      "Belabor"
-    ]
-  },
   "BELAY": {
     "MEANINGS": {
       "1": [
@@ -25827,30 +24550,6 @@
       "Burping"
     ]
   },
-  "BELDAM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a woman of advanced age",
-        [
-          "Old woman"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hag",
-      "Beldame",
-      "Crone",
-      "Witch",
-      "Beldam"
-    ]
-  },
   "BELEM": {
     "MEANINGS": {
       "1": [
@@ -25976,27 +24675,6 @@
     "SYNONYMS": [
       "Belfast",
       "Capital of northern ireland"
-    ]
-  },
-  "BELFRY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a room (often at the top of a tower) where bells are hung",
-        [
-          "Room"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Belfry",
-      "Campanile"
     ]
   },
   "BELGIAN": {
@@ -26895,30 +25573,6 @@
       "Belligerence"
     ]
   },
-  "BELLIGERENT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "engaged in war",
-        [
-
-        ],
-        [
-          "belligerent (or warring) nations"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Warring",
-      "Militant",
-      "Scrapper",
-      "Fighter",
-      "Combatant"
-    ]
-  },
   "BELLIGERENTLY": {
     "MEANINGS": {
       "1": [
@@ -27626,31 +26280,6 @@
       "Beluga"
     ]
   },
-  "BELVEDERE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a gazebo sited to command a fine view",
-        [
-          "Gazebo",
-          "Summerhouse"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Burning bush",
-      "Kochia scoparia",
-      "Fire-bush",
-      "Fire bush",
-      "Belvedere"
-    ]
-  },
   "BEMIDJI": {
     "MEANINGS": {
       "1": [
@@ -28148,29 +26777,6 @@
     ],
     "SYNONYMS": [
       "Benedictine"
-    ]
-  },
-  "BENEDICTION": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a ceremonial prayer invoking divine protection",
-        [
-          "Prayer",
-          "Petition",
-          "Orison"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Benediction",
-      "Blessing"
     ]
   },
   "BENEDICTORY": {
@@ -28904,28 +27510,6 @@
       "Benignant"
     ]
   },
-  "BENIGNANT": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "characterized by kindness and warm courtesy especially of a king to his subjects",
-        [
-
-        ],
-        [
-          "our benignant king"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "malign"
-    ],
-    "SYNONYMS": [
-      "Benign",
-      "Gracious",
-      "Benignant"
-    ]
-  },
   "BENIGNITY": {
     "MEANINGS": {
       "1": [
@@ -29013,30 +27597,6 @@
     ],
     "SYNONYMS": [
       "Benison"
-    ]
-  },
-  "BENJAMIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Old Testament) the youngest and best-loved son of Jacob and Rachel and one of the twelve forebears of the tribes of Israel",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Benjamin",
-      "Benzoin",
-      "Gum benzoin",
-      "Asa dulcis",
-      "Gum benjamin"
     ]
   },
   "BENNET": {
@@ -29133,30 +27693,6 @@
     "SYNONYMS": [
       "Bennettitales",
       "Order bennettitales"
-    ]
-  },
-  "BENNY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "United States comedian known for his timeing and delivery and self-effacing humor (1894-1974)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sesame",
-      "Benjamin kubelsky",
-      "Benne",
-      "Sesamum indicum",
-      "Benny"
     ]
   },
   "BENNINGTON": {
@@ -29948,28 +28484,6 @@
     ],
     "SYNONYMS": [
       "Beret"
-    ]
-  },
-  "BERG": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Austrian composer in Schoenberg's twelve-tone music system (1885-1935)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Alban berg",
-      "Iceberg",
-      "Berg"
     ]
   },
   "BERGAMOT": {
@@ -30977,33 +29491,6 @@
       "Beseechingly"
     ]
   },
-  "BESET": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "assail or attack on all sides: \"The zebra was beset by leopards\"",
-        [
-          "Assail",
-          "Assault",
-          "Set on",
-          "Attack"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hassle",
-      "Plague",
-      "Incrust",
-      "Chivvy",
-      "Set upon"
-    ]
-  },
   "BESIDES": {
     "MEANINGS": {
       "1": [
@@ -31211,31 +29698,6 @@
       "Pissed"
     ]
   },
-  "BESPANGLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "dot or sprinkle with sparkling or glittering objects",
-        [
-          "Scatter",
-          "Sprinkle",
-          "Dot",
-          "Dust",
-          "Disperse"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Spangle",
-      "Bespangle"
-    ]
-  },
   "BESPEAK": {
     "MEANINGS": {
       "1": [
@@ -31295,30 +29757,6 @@
         ],
         [
 
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Betoken",
-      "Bespeak",
-      "Tailored",
-      "Signal",
-      "Call for"
-    ]
-  },
-  "BESPOKEN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "pledged to be married",
-        [
-
-        ],
-        [
-          "the engaged couple"
         ]
       ]
     },
@@ -31625,30 +30063,6 @@
     ],
     "SYNONYMS": [
       "Best-known"
-    ]
-  },
-  "BESTOW": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "give as a gift",
-        [
-          "Give"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Contribute",
-      "Bring",
-      "Impart",
-      "Add",
-      "Bestow"
     ]
   },
   "BESTOWAL": {
@@ -32139,31 +30553,6 @@
       "Cheat"
     ]
   },
-  "BETRAYAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the quality of aiding an enemy",
-        [
-          "Treason",
-          "Subversiveness",
-          "Traitorousness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Treason",
-      "Betrayal",
-      "Perfidy",
-      "Treachery"
-    ]
-  },
   "BETROTH": {
     "MEANINGS": {
       "1": [
@@ -32350,31 +30739,6 @@
     ],
     "SYNONYMS": [
       "Better-known"
-    ]
-  },
-  "BETTERMENT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an improvement that adds to the value of a property or facility",
-        [
-          "Improvement",
-          "Melioration"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Advance",
-      "Melioration",
-      "Betterment",
-      "Amelioration",
-      "Improvement"
     ]
   },
   "BETTONG": {
@@ -32735,34 +31099,6 @@
     "SYNONYMS": [
       "Whisker",
       "Bewhisker"
-    ]
-  },
-  "BEWILDER": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cause to be confused emotionally",
-        [
-          "Upset",
-          "Discompose",
-          "Untune",
-          "Disconcert",
-          "Discomfit"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Amaze",
-      "Beat",
-      "Puzzle",
-      "Gravel",
-      "Dumbfound"
     ]
   },
   "BEWILDEREDLY": {
@@ -34393,65 +32729,6 @@
       "Bicuspid"
     ]
   },
-  "BID": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an attempt to get something",
-        [
-          "Attempt",
-          "Effort",
-          "Endeavor",
-          "Endeavour",
-          "Try"
-        ],
-        [
-          "they made a futile play for power",
-          "he made a bid to gain attention"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "ask for or request earnestly",
-        [
-          "Plead"
-        ],
-        [
-          "The prophet bid all people to become good persons"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "make a demand, as for a card or a suit or a show of hands",
-        [
-          "Play"
-        ],
-        [
-          "He called his trump"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "make a serious effort to attain something",
-        [
-          "Seek"
-        ],
-        [
-          "His campaign bid for the attention of the poor population"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tender",
-      "Dictation",
-      "Press",
-      "Conjure",
-      "Command"
-    ]
-  },
   "BIDDER": {
     "MEANINGS": {
       "1": [
@@ -34482,30 +32759,6 @@
     ],
     "SYNONYMS": [
       "Bidder"
-    ]
-  },
-  "BIDDING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a request to be present",
-        [
-          "Invitation"
-        ],
-        [
-          "they came at his bidding"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tender",
-      "Dictation",
-      "Press",
-      "Conjure",
-      "Command"
     ]
   },
   "BIDE": {
@@ -36345,27 +34598,6 @@
       "Bilgy"
     ]
   },
-  "BILIARY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to the bile ducts or the gallbladder",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bilious",
-      "Biliary"
-    ]
-  },
   "BILIMBI": {
     "MEANINGS": {
       "1": [
@@ -36780,82 +35012,6 @@
       "Billed",
       "Placard",
       "Bill"
-    ]
-  },
-  "BILLET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "lodging for military personnel (especially in a private home)",
-        [
-          "Housing",
-          "Lodging",
-          "Living accommodations"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Note",
-      "Line",
-      "Spot",
-      "Situation",
-      "Office"
-    ]
-  },
-  "BILLFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "giant warm-water game fish having a prolonged and rounded toothless upper jaw",
-        [
-          "Scombroid",
-          "Scombroid fish"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Billfish",
-      "Scomberesox saurus",
-      "Garpike",
-      "Lepisosteus osseus",
-      "Needlefish"
-    ]
-  },
-  "BILLY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "male goat",
-        [
-          "Goat",
-          "Caprine animal"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "He-goat",
-      "Truncheon",
-      "Billy",
-      "Baton",
-      "Billy club"
     ]
   },
   "BILLIARD": {
@@ -37283,27 +35439,6 @@
     ],
     "SYNONYMS": [
       "Bimester"
-    ]
-  },
-  "BIMESTRIAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "two months long; lasting two months",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bimonthly",
-      "Bimestrial"
     ]
   },
   "BIMETAL": {
@@ -38414,30 +36549,6 @@
     ],
     "SYNONYMS": [
       "Biofeedback"
-    ]
-  },
-  "BIOGENESIS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the production of living organisms from other living organisms",
-        [
-          "Generation",
-          "Multiplication",
-          "Propagation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Biogeny",
-      "Biogenesis",
-      "Biosynthesis"
     ]
   },
   "BIOGENETIC": {
@@ -40714,31 +38825,6 @@
       "Epicene"
     ]
   },
-  "BISEXUALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "sexual activity with both men and women",
-        [
-          "Sexual activity",
-          "Sexual practice",
-          "Sex",
-          "Sex activity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bisexuality",
-      "Hermaphroditism",
-      "Androgyny"
-    ]
-  },
   "BISHOP": {
     "MEANINGS": {
       "1": [
@@ -41109,74 +39195,6 @@
       "Bistroic"
     ]
   },
-  "BIT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small fragment of something broken off from the whole",
-        [
-          "Fragment"
-        ],
-        [
-          "a bit of rock caught him in the eye"
-        ]
-      ],
-      "5": [
-        "Noun",
-        "piece of metal held in horse's mouth by reins and used to control the horse while riding",
-        [
-          "Stable gear",
-          "Saddlery",
-          "Tack"
-        ],
-        [
-          "the horse was not accustomed to a bit"
-        ]
-      ],
-      "6": [
-        "Noun",
-        "a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states",
-        [
-          "Unit of measurement",
-          "Unit"
-        ],
-        [
-          "there are 8 bits in a byte"
-        ]
-      ],
-      "10": [
-        "Noun",
-        "the part of a key that enters a lock and lifts the tumblers",
-        [
-          "Part",
-          "Portion"
-        ],
-        [
-
-        ]
-      ],
-      "11": [
-        "Noun",
-        "the cutting part of a drill; usually pointed and threaded and is replaceable in a brace or bitstock or drill press",
-        [
-          "Cutting implement"
-        ],
-        [
-          "he looked around for the right size bit"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chip",
-      "Piece",
-      "Prick",
-      "Scrap",
-      "Routine"
-    ]
-  },
   "BITARTRATE": {
     "MEANINGS": {
       "1": [
@@ -41472,31 +39490,6 @@
       "Bithynia"
     ]
   },
-  "BITING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "causing a sharply painful or stinging sensation; used especially of cold",
-        [
-
-        ],
-        [
-          "bitter cold",
-          "a biting wind"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Nipping",
-      "Bitter",
-      "Prick",
-      "Bite",
-      "Sting"
-    ]
-  },
   "BITIS": {
     "MEANINGS": {
       "1": [
@@ -41703,40 +39696,6 @@
     ],
     "SYNONYMS": [
       "Bittern"
-    ]
-  },
-  "BITTERNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a rough and bitter manner",
-        [
-          "Disagreeableness"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "the property of having a harsh unpleasant taste",
-        [
-          "Taste property"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tartness",
-      "Rancor",
-      "Acrimony",
-      "Rancour",
-      "Bitterness"
     ]
   },
   "BITTERNUT": {
@@ -42560,30 +40519,6 @@
       "Blackberry"
     ]
   },
-  "BLACKBIRD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "common black European thrush",
-        [
-          "Thrush"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ouzel",
-      "Merl",
-      "Ousel",
-      "European blackbird",
-      "New world blackbird"
-    ]
-  },
   "BLACKBOARD": {
     "MEANINGS": {
       "1": [
@@ -42649,31 +40584,6 @@
       "Dendroica fusca",
       "Blackburn",
       "Blackburnian warbler"
-    ]
-  },
-  "BLACKCAP": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "small brownish-grey warbler with a black crown",
-        [
-          "Old world warbler",
-          "True warbler"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blackcap raspberry",
-      "Laughing gull",
-      "Blackcap",
-      "Pewit",
-      "Pewit gull"
     ]
   },
   "BLACK-COATED": {
@@ -42813,30 +40723,6 @@
     ],
     "SYNONYMS": [
       "Blackface"
-    ]
-  },
-  "BLACKFISH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "female salmon that has recently spawned",
-        [
-          "Salmon"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Globicephala melaena",
-      "Black whale",
-      "Tautoga onitis",
-      "Blackfish",
-      "Common blackfish"
     ]
   },
   "BLACKFLY": {
@@ -42982,41 +40868,6 @@
     ],
     "SYNONYMS": [
       "Blackish"
-    ]
-  },
-  "BLACKJACK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a piece of metal covered by leather with a flexible handle; used for hitting people",
-        [
-          "Bludgeon"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a gambling game using cards; the object is to hold cards having a higher count than those dealt to the banker up to but not exceeding 21",
-        [
-          "Card game",
-          "Cards"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blackjack oak",
-      "Twenty-one",
-      "Jolly roger",
-      "Blackmail",
-      "Cosh"
     ]
   },
   "BLACKLEAD": {
@@ -43284,30 +41135,6 @@
       "Blacksmith"
     ]
   },
-  "BLACKSNAKE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "blackish racer of the eastern United States that grows to six feet",
-        [
-          "Racer"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mountain blacksnake",
-      "Black racer",
-      "Elaphe obsoleta",
-      "Coluber constrictor",
-      "Blacksnake"
-    ]
-  },
   "BLACKTHORN": {
     "MEANINGS": {
       "1": [
@@ -43527,51 +41354,6 @@
     "SYNONYMS": [
       "Bladderlike",
       "Bladdery"
-    ]
-  },
-  "BLADDERPOD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "annual or perennial herbs with inflated seed pods; some placed in genus Lesquerella",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "any of several plants of the genus Physaria having racemose yellow flowers and inflated pods",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "any of several hairy North American herbs having yellow racemose flowers and inflated pods",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Lobelia inflata",
-      "Indian tobacco",
-      "Bladderpod"
     ]
   },
   "BLADDERWORT": {
@@ -44051,29 +41833,6 @@
     ],
     "SYNONYMS": [
       "Blanc"
-    ]
-  },
-  "BLANCH": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "cook (vegetables) briefly",
-        [
-          "Cook"
-        ],
-        [
-          "Parboil the beans before freezing them"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pale",
-      "Blench",
-      "Parboil",
-      "Blanch"
     ]
   },
   "BLANCMANGE": {
@@ -44592,31 +42351,6 @@
       "Bored",
       "Blase",
       "Worldly"
-    ]
-  },
-  "BLASPHEME": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "speak of in an irreverent or impious manner",
-        [
-          "Talk of",
-          "Talk about"
-        ],
-        [
-          "blaspheme God"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Curse",
-      "Blaspheme",
-      "Cuss",
-      "Imprecate",
-      "Swear"
     ]
   },
   "BLASPHEMER": {
@@ -45800,30 +43534,6 @@
       "Bleachers"
     ]
   },
-  "BLEAK": {
-    "MEANINGS": {
-      "3": [
-        "Adjective",
-        "unpleasantly cold and damp",
-        [
-
-        ],
-        [
-          "bleak winds of the North Atlantic"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Raw",
-      "Desolate",
-      "Black",
-      "Bare",
-      "Barren"
-    ]
-  },
   "BLEAKLY": {
     "MEANINGS": {
       "1": [
@@ -45986,56 +43696,6 @@
     "SYNONYMS": [
       "Genus blechnum",
       "Blechnum"
-    ]
-  },
-  "BLEED": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "draw blood",
-        [
-          "Treat",
-          "Care for"
-        ],
-        [
-          "In the old days, doctors routinely bled patients as part of the treatment"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "get or extort (money or other possessions) from someone",
-        [
-          "Extort",
-          "Squeeze",
-          "Rack",
-          "Gouge",
-          "Wring"
-        ],
-        [
-          "They bled me dry--I have nothing left!"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "drain of liquid or steam",
-        [
-          "Empty"
-        ],
-        [
-          "bleed the radiators",
-          "the mechanic bled the engine"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Shed blood",
-      "Run",
-      "Hemorrhage",
-      "Leech",
-      "Bleed"
     ]
   },
   "BLEEDING": {
@@ -46875,30 +44535,6 @@
       "Blighty"
     ]
   },
-  "BLIMP": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a small nonrigid airship used for observation or as a barrage balloon",
-        [
-          "Airship",
-          "Dirigible"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sausage",
-      "Colonel blimp",
-      "Blimp",
-      "Sausage balloon"
-    ]
-  },
   "BLIMPISH": {
     "MEANINGS": {
       "1": [
@@ -47408,44 +45044,6 @@
       "Scald",
       "Bulla",
       "Blister"
-    ]
-  },
-  "BLISTERING": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "hot enough to raise (or as if to raise) blisters",
-        [
-
-        ],
-        [
-          "blistering sun"
-        ]
-      ],
-      "3": [
-        "Adjective",
-        "very fast; capable of quick response and great speed",
-        [
-
-        ],
-        [
-          "a hot sports car",
-          "a blistering pace",
-          "got off to a hot start",
-          "in hot pursuit",
-          "a red-hot line drive"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hot",
-      "Bitter",
-      "Sulphurous",
-      "Acid",
-      "Virulent"
     ]
   },
   "BLITHE": {
@@ -47970,44 +45568,6 @@
       "Blockading",
       "Block up",
       "Stop"
-    ]
-  },
-  "BLOCKAGE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an obstruction in a pipe or tube",
-        [
-          "Obstruction",
-          "Obstructor",
-          "Obstructer",
-          "Impediment",
-          "Impedimenta"
-        ],
-        [
-          "we had to call a plumber to clear out the blockage in the drainpipe"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "the act of blocking",
-        [
-          "Obstruction"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Stoppage",
-      "Closure",
-      "Occlusion",
-      "Stop",
-      "Obstruction"
     ]
   },
   "BLOCKBUSTER": {
@@ -49276,30 +46836,6 @@
       "Bloomsbury"
     ]
   },
-  "BLOSSOM": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "develop or come to a promising stage",
-        [
-          "Develop"
-        ],
-        [
-          "Youth blossomed into maturity"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blossom out",
-      "Blossom forth",
-      "Heyday",
-      "Peak",
-      "Prime"
-    ]
-  },
   "BLOSSOMING": {
     "MEANINGS": {
       "1": [
@@ -49425,53 +46961,6 @@
       "Streak",
       "Mottle",
       "Blotch"
-    ]
-  },
-  "BLOTCHY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "marred by discolored spots or blotches",
-        [
-
-        ],
-        [
-          "blotchy skin"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Splotched",
-      "Blotched",
-      "Blotchy"
-    ]
-  },
-  "BLOTTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the daily written record of events (as arrests) in a police station",
-        [
-          "Written record",
-          "Written account"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Blotting paper",
-      "Rap sheet",
-      "Day book",
-      "Police blotter",
-      "Charge sheet"
     ]
   },
   "BLOUSE": {
@@ -50015,31 +47504,6 @@
       "Blown-up"
     ]
   },
-  "BLOWOUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a sudden malfunction of a part or apparatus",
-        [
-          "Malfunction"
-        ],
-        [
-          "the right front tire had a blowout",
-          "as a result of the blowout we lost all the lights"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Gala affair",
-      "Romp",
-      "Walkaway",
-      "Jamboree",
-      "Shoo-in"
-    ]
-  },
   "BLOWSY": {
     "MEANINGS": {
       "1": [
@@ -50418,27 +47882,6 @@
       "Blueberry bush"
     ]
   },
-  "BLUEBIRD": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "blue North American songbird",
-        [
-          "Thrush"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bluebird",
-      "Fairy bluebird"
-    ]
-  },
   "BLUE-BLACK": {
     "MEANINGS": {
       "1": [
@@ -50483,31 +47926,6 @@
       "Bluebonnet",
       "Texas bluebonnet",
       "Buffalo clover"
-    ]
-  },
-  "BLUEBOTTLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "blowfly with iridescent blue body; makes a loud buzzing noise in flight",
-        [
-          "Blowfly",
-          "Blow fly"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bluebottle",
-      "Bachelor's button",
-      "Centaurea cyanus",
-      "Calliphora vicina",
-      "Cornflower"
     ]
   },
   "BLUE-CHIP": {
@@ -51540,31 +48958,6 @@
       "Obnubilate"
     ]
   },
-  "BLURRED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "unclear in form or expression",
-        [
-
-        ],
-        [
-          "the blurred aims of the group",
-          "sometimes one understood clearly and sometimes the meaning was clouded\"- H.G.Wells"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "focus"
-    ],
-    "SYNONYMS": [
-      "Blear",
-      "Bleary",
-      "Smutch",
-      "Foggy",
-      "Muzzy"
-    ]
-  },
   "BLUSH": {
     "MEANINGS": {
       "2": [
@@ -51674,29 +49067,6 @@
       "Tout"
     ]
   },
-  "BLUSTERY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "noisily domineering; tending to browbeat others",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bullying",
-      "Blustery",
-      "Blusterous",
-      "Blustering"
-    ]
-  },
   "BLUSTERING": {
     "MEANINGS": {
       "1": [
@@ -51721,49 +49091,6 @@
       "Gas",
       "Blow",
       "Vaunt"
-    ]
-  },
-  "BOA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of several chiefly tropical constrictors with vestigial hind limbs",
-        [
-          "Constrictor"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Feather boa",
-      "Boa"
-    ]
-  },
-  "BOAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an uncastrated male hog",
-        [
-          "Swine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sus scrofa",
-      "Boar",
-      "Wild boar"
     ]
   },
   "BOARD": {
@@ -51841,42 +49168,6 @@
       "Instrument panel",
       "Plank",
       "Table"
-    ]
-  },
-  "BOARDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who forces their way aboard ship",
-        [
-          "Intruder",
-          "Interloper",
-          "Trespasser"
-        ],
-        [
-          "stand by to repel boarders"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a pupil who lives at school during term time",
-        [
-          "Schoolchild",
-          "School-age child",
-          "Pupil"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Boarder",
-      "Roomer",
-      "Lodger"
     ]
   },
   "BOARDING": {
@@ -52814,31 +50105,6 @@
       "Bocce"
     ]
   },
-  "BOCCONIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small Central American tree having loose racemes of purple-tinted green flowers",
-        [
-          "Angiospermous tree",
-          "Flowering tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bocconia frutescens",
-      "Plume poppy",
-      "Tree celandine",
-      "Macleaya cordata",
-      "Bocconia"
-    ]
-  },
   "BOCK": {
     "MEANINGS": {
       "1": [
@@ -53208,30 +50474,6 @@
       "Escort"
     ]
   },
-  "BODILESS": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having no trunk or main part",
-        [
-
-        ],
-        [
-          "a bodiless head"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bodyless",
-      "Disembodied",
-      "Bodiless",
-      "Unembodied",
-      "Discorporate"
-    ]
-  },
   "BODILY": {
     "MEANINGS": {
       "1": [
@@ -53307,48 +50549,6 @@
     ],
     "SYNONYMS": [
       "Bodywork"
-    ]
-  },
-  "BODKIN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "formerly a long hairpin; usually with an ornamental head",
-        [
-          "Hairpin"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a small sharp-pointed tool for punching holes in leather or fabric",
-        [
-          "Hand tool"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a blunt needle for threading ribbon through loops",
-        [
-          "Hand tool"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bodkin",
-      "Threader",
-      "Poniard"
     ]
   },
   "BODONI": {
@@ -53904,41 +51104,6 @@
       "Niels henrik david bohr"
     ]
   },
-  "BOY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a friendly informal reference to a grown man",
-        [
-          "Man",
-          "Adult male"
-        ],
-        [
-          "he likes to play golf with the boys"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "(ethnic slur) offensive and disparaging term for Black man",
-        [
-          "Black man"
-        ],
-        [
-          "get out of my way, boy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "girl",
-      "female_child",
-      "daughter"
-    ],
-    "SYNONYMS": [
-      "Son",
-      "Male child",
-      "Boy"
-    ]
-  },
   "BOYCOTT": {
     "MEANINGS": {
       "1": [
@@ -54442,29 +51607,6 @@
       "Boisterousness"
     ]
   },
-  "BOLA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a rope with weights attached to the ends; is thrown to entangle the legs of an animal; of South American origin",
-        [
-          "Rope"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bola tie",
-      "Bolo tie",
-      "Bolo",
-      "Bola"
-    ]
-  },
   "BOLD": {
     "MEANINGS": {
       "1": [
@@ -54919,33 +52061,6 @@
       "Bitt"
     ]
   },
-  "BOLLOCK": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a pulley-block at the head of a topmast",
-        [
-          "Pulley",
-          "Pulley-block",
-          "Pulley block",
-          "Block"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Orchis",
-      "Nut",
-      "Bollock",
-      "Bullock block",
-      "Ball"
-    ]
-  },
   "BOLLWORM": {
     "MEANINGS": {
       "1": [
@@ -54964,30 +52079,6 @@
     ],
     "SYNONYMS": [
       "Bollworm"
-    ]
-  },
-  "BOLO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "long heavy knife with a single edge; of Philippine origin",
-        [
-          "Knife"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bolo",
-      "Bola tie",
-      "Bolo tie",
-      "Bola",
-      "Bolo knife"
     ]
   },
   "BOLOGNA": {
@@ -55487,58 +52578,6 @@
       "Bombacaceae"
     ]
   },
-  "BOMBARD": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "throw bombs at or attack with bombs",
-        [
-          "Attack",
-          "Assail"
-        ],
-        [
-          "The Americans bombed Dresden"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "address with continuously or persistently, as if with a barrage",
-        [
-          "Attack",
-          "Round",
-          "Assail",
-          "Lash out",
-          "Snipe",
-          "Assault"
-        ],
-        [
-          "The speaker was barraged by an angry audience",
-          "The governor was bombarded with requests to grant a pardon to the convicted killer"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "direct high energy particles or radiation against",
-        [
-          "Irradiate",
-          "Ray"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bomb",
-      "Bombard",
-      "Barrage",
-      "Pelt",
-      "Bombardon"
-    ]
-  },
   "BOMBARDIER": {
     "MEANINGS": {
       "1": [
@@ -55569,53 +52608,6 @@
     ],
     "SYNONYMS": [
       "Bombardier"
-    ]
-  },
-  "BOMBARDMENT": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "the act (or an instance) of subjecting a body or substance to the impact of high-energy particles (as electrons or alpha rays)",
-        [
-          "Radiation"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Barrage fire",
-      "Barrage",
-      "Battery",
-      "Bombardment",
-      "Bombing"
-    ]
-  },
-  "BOMBARDON": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a large shawm; the bass member of the shawm family",
-        [
-          "Bass",
-          "Shawm"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bombard",
-      "Bombardon",
-      "Helicon"
     ]
   },
   "BOMBAST": {
@@ -55669,28 +52661,6 @@
       "Orotund",
       "Turgid",
       "Declamatory"
-    ]
-  },
-  "BOMBASTICALLY": {
-    "MEANINGS": {
-      "2": [
-        "Adverb",
-        "in a grandiose manner",
-        [
-
-        ],
-        [
-          "the building was bombastically spacious"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grandiosely",
-      "Turgidly",
-      "Bombastically"
     ]
   },
   "BOMBAX": {
@@ -56147,106 +53117,6 @@
       "Bonbon"
     ]
   },
-  "BOND": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal",
-        [
-          "Debt instrument",
-          "Obligation",
-          "Certificate of indebtedness",
-          "Security",
-          "Certificate"
-        ],
-        [
-
-        ]
-      ],
-      "7": [
-        "Noun",
-        "a superior quality of strong durable white writing paper; originally made for printing documents",
-        [
-          "Writing paper"
-        ],
-        [
-
-        ]
-      ],
-      "8": [
-        "Noun",
-        "United States civil rights leader who was elected to the legislature in Georgia but was barred from taking his seat because he opposed the Vietnam War (born 1940)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "9": [
-        "Noun",
-        "British secret operative 007 in novels by Ian Fleming",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "issue bonds on",
-        [
-          "Mortgage"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Verb",
-        "bring together in a common cause or emotion",
-        [
-          "Unite",
-          "Unify"
-        ],
-        [
-          "The death of their child had drawn them together"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chemical bond",
-      "Trammel",
-      "Julian bond",
-      "Adhere",
-      "Tie"
-    ]
-  },
-  "BONDABLE": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "capable of holding together or cohering; as particles in a mass",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bindable",
-      "Bondable"
-    ]
-  },
   "BONDAGE": {
     "MEANINGS": {
       "1": [
@@ -56416,53 +53286,6 @@
     "SYNONYMS": [
       "Bondsman",
       "Bondman"
-    ]
-  },
-  "BONDSMAN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who signs a bond as surety for someone else",
-        [
-          "Benefactor",
-          "Helper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bondsman",
-      "Bondman",
-      "Bondswoman"
-    ]
-  },
-  "BONDUC": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "tropical tree with large prickly pods of seeds that resemble beans and are used for jewelry and rosaries",
-        [
-          "Tree"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Chicot",
-      "Bonduc tree",
-      "Caesalpinia bonduc",
-      "Gymnocladus dioica",
-      "Bonduc"
     ]
   },
   "BONDWOMAN": {
@@ -56731,31 +53554,6 @@
       "Cram",
       "Mug up",
       "Bone"
-    ]
-  },
-  "BONESET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "perennial herb of southeastern United States having white-rayed flower heads; formerly used as in folk medicine",
-        [
-          "Herb",
-          "Herbaceous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Eupatorium perfoliatum",
-      "Symphytum officinale",
-      "Common comfrey",
-      "Boneset",
-      "Agueweed"
     ]
   },
   "BONESETTER": {
@@ -57261,30 +54059,6 @@
       "Boo"
     ]
   },
-  "BOOBY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small tropical gannet having a bright bill or bright feet or both",
-        [
-          "Gannet"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Dummy",
-      "Dumbbell",
-      "Boob",
-      "Dope",
-      "Pinhead"
-    ]
-  },
   "BOOBOISIE": {
     "MEANINGS": {
       "1": [
@@ -57330,31 +54104,6 @@
       "Boodle",
       "Newmarket",
       "Moolah"
-    ]
-  },
-  "BOOGER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "dried nasal mucus",
-        [
-          "Mucus",
-          "Mucous secretion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Boogeyman",
-      "Bugaboo",
-      "Bugbear",
-      "Bogeyman",
-      "Booger"
     ]
   },
   "BOOGIE": {
@@ -57678,31 +54427,6 @@
       "Booker"
     ]
   },
-  "BOOKING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the act of reserving (a place or passage) or engaging the services of (a person or group)",
-        [
-          "Employment",
-          "Engagement"
-        ],
-        [
-          "wondered who had made the booking"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Engagement",
-      "Book",
-      "Reservation",
-      "Booking",
-      "Reserve"
-    ]
-  },
   "BOOKISH": {
     "MEANINGS": {
       "1": [
@@ -57994,28 +54718,6 @@
       "Bookstall",
       "Bookshop",
       "Bookstore"
-    ]
-  },
-  "BOOKWORM": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who spends a great deal of time reading",
-        [
-          "Reader"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pedant",
-      "Bookworm",
-      "Scholastic"
     ]
   },
   "BOOLE": {
@@ -58398,63 +55100,6 @@
       "Encouragement",
       "Hike up",
       "Hike"
-    ]
-  },
-  "BOOSTER": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a thief who steals goods that are in a store",
-        [
-          "Thief",
-          "Stealer"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an amplifier for restoring the strength of a transmitted signal",
-        [
-          "Amplifier"
-        ],
-        [
-
-        ]
-      ],
-      "5": [
-        "Noun",
-        "the first stage of a multistage rocket",
-        [
-          "Rocket",
-          "Rocket engine"
-        ],
-        [
-
-        ]
-      ],
-      "6": [
-        "Noun",
-        "an additional dose that makes sure the first dose was effective",
-        [
-          "Dose",
-          "Dosage"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Plugger",
-      "Relay station",
-      "Protagonist",
-      "Supporter",
-      "Admirer"
     ]
   },
   "BOOT": {
@@ -59177,47 +55822,6 @@
       "Bordelaise"
     ]
   },
-  "BORDER": {
-    "MEANINGS": {
-      "5": [
-        "Verb",
-        "lie adjacent to another or share a boundary",
-        [
-          "Touch",
-          "Adjoin",
-          "Meet",
-          "Contact"
-        ],
-        [
-          "Canada adjoins the U.S.",
-          "England marches with Scotland"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "provide with a border or edge",
-        [
-          "Supply",
-          "Provide",
-          "Render",
-          "Furnish"
-        ],
-        [
-          "edge the tablecloth with embroidery"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Adjoin",
-      "Butt on",
-      "Bound",
-      "Ring",
-      "Border"
-    ]
-  },
   "BORDERED": {
     "MEANINGS": {
       "1": [
@@ -59416,29 +56020,6 @@
       "Boreal"
     ]
   },
-  "BOREAS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Greek mythology) the god who personified the north wind",
-        [
-
-        ],
-        [
-          "Boreas was pictured as bearded and powerful and winged and draped against the cold"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Boreas",
-      "Norther",
-      "North wind",
-      "Northerly"
-    ]
-  },
   "BORED": {
     "MEANINGS": {
       "1": [
@@ -59506,40 +56087,6 @@
       "Jorge luis borges",
       "Borges",
       "Jorge borges"
-    ]
-  },
-  "BORGIA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "Italian noblewoman and patron of the arts (1480-1519)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "Italian cardinal and military leader; model for Machiavelli's prince (1475-1507)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Calixtus iii",
-      "Borgia",
-      "Duchess of ferrara",
-      "Pope alexander vi",
-      "Alexander vi"
     ]
   },
   "BORIC": {
@@ -60623,30 +57170,6 @@
       "Bota"
     ]
   },
-  "BOTANY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the branch of biology that studies plants",
-        [
-          "Biology",
-          "Biological science"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "fauna"
-    ],
-    "SYNONYMS": [
-      "Botany",
-      "Vegetation",
-      "Flora",
-      "Phytology"
-    ]
-  },
   "BOTANIC": {
     "MEANINGS": {
       "1": [
@@ -60846,60 +57369,6 @@
     ],
     "SYNONYMS": [
       "Both"
-    ]
-  },
-  "BOTHER": {
-    "MEANINGS": {
-      "4": [
-        "Verb",
-        "intrude or enter uninvited",
-        [
-          "Intrude",
-          "Irrupt"
-        ],
-        [
-          "Don't bother the professor while she is grading term papers"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "make nervous or agitated",
-        [
-          "Agitate",
-          "Rouse",
-          "Turn on",
-          "Charge",
-          "Commove",
-          "Excite",
-          "Charge up"
-        ],
-        [
-          "The mere thought of her bothered him and made his heart beat faster"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "make confused or perplexed or puzzled",
-        [
-          "Confuse",
-          "Flurry",
-          "Disconcert",
-          "Put off"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Disoblige",
-      "Pain",
-      "Annoyance",
-      "Fuss",
-      "Pain in the ass"
     ]
   },
   "BOTHERED": {
@@ -62249,30 +58718,6 @@
       "Bounden"
     ]
   },
-  "BOUNDER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "someone who bounds or leaps (as in competition)",
-        [
-          "Jumper"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cad",
-      "Leaper",
-      "Blackguard",
-      "Heel",
-      "Bounder"
-    ]
-  },
   "BOUNDLESS": {
     "MEANINGS": {
       "1": [
@@ -62382,32 +58827,6 @@
     ],
     "SYNONYMS": [
       "Bountied"
-    ]
-  },
-  "BOUNTIFUL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "producing in abundance",
-        [
-
-        ],
-        [
-          "the bountiful earth",
-          "a plentiful year",
-          "fruitful soil"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Liberal",
-      "Bighearted",
-      "Giving",
-      "Bountiful",
-      "Openhanded"
     ]
   },
   "BOUNTIFULLY": {
@@ -62711,44 +59130,6 @@
     ],
     "SYNONYMS": [
       "Boustrophedonic"
-    ]
-  },
-  "BOUT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a period of illness",
-        [
-          "Time period",
-          "Period of time",
-          "Period"
-        ],
-        [
-          "a bout of fever",
-          "a bout of depression"
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a contest or fight (especially between boxers or wrestlers)",
-        [
-          "Contest",
-          "Competition"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Tear",
-      "Bout",
-      "Bust",
-      "Turn",
-      "Round"
     ]
   },
   "BOUTELOUA": {
@@ -63317,30 +59698,6 @@
       "Jim bowie",
       "Bowie",
       "James bowie"
-    ]
-  },
-  "BOWING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "managing the bow in playing a stringed instrument",
-        [
-          "Playing"
-        ],
-        [
-          "the violinist's bowing was excellent"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bowed",
-      "Bend",
-      "Obeisance",
-      "Give in",
-      "Bowing"
     ]
   },
   "BOWL": {
@@ -64153,31 +60510,6 @@
       "Stabilise",
       "Energise",
       "Brace"
-    ]
-  },
-  "BRACELET": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "jewelry worn around the wrist for decoration",
-        [
-          "Jewelry",
-          "Jewellery"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Watch bracelet",
-      "Wristband",
-      "Watchband",
-      "Bangle",
-      "Bracelet"
     ]
   },
   "BRACER": {
@@ -66366,30 +62698,6 @@
       "Branch"
     ]
   },
-  "BRANCHED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having branches",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ramify",
-      "Prongy",
-      "Separate",
-      "Bifurcate",
-      "Biramous"
-    ]
-  },
   "BRANCHY": {
     "MEANINGS": {
       "1": [
@@ -67026,32 +63334,6 @@
       "Brash"
     ]
   },
-  "BRASHNESS": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the trait of being rash and hasty",
-        [
-          "Recklessness",
-          "Foolhardiness",
-          "Rashness"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Loudness",
-      "Gaudiness",
-      "Brashness",
-      "Garishness",
-      "Tawdriness"
-    ]
-  },
   "BRASILIA": {
     "MEANINGS": {
       "1": [
@@ -67195,28 +63477,6 @@
     ],
     "SYNONYMS": [
       "Brassavola"
-    ]
-  },
-  "BRASSBOUND": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "having trim or fittings of brass",
-        [
-
-        ],
-        [
-          "a brassbound campaign chest",
-          "the heavy brassbound door"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Brassbound",
-      "Ironclad"
     ]
   },
   "BRASSERIE": {
@@ -68207,29 +64467,6 @@
       "Psoralea esculenta"
     ]
   },
-  "BREADSTUFF": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "flour or meal or grain used in baking bread",
-        [
-          "Foodstuff",
-          "Food product"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bread",
-      "Staff of life",
-      "Breadstuff"
-    ]
-  },
   "BREADTH": {
     "MEANINGS": {
       "1": [
@@ -68295,590 +64532,6 @@
     ],
     "SYNONYMS": [
       "Breadwinner"
-    ]
-  },
-  "BREAK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "become separated into pieces or fragments",
-        [
-          "Change integrity"
-        ],
-        [
-          "The figurine broke",
-          "The freshly baked loaf fell apart"
-        ]
-      ],
-      "9": [
-        "Verb",
-        "force out or release suddenly and often violently something pent up",
-        [
-          "Express emotion",
-          "Express feelings"
-        ],
-        [
-          "break into tears",
-          "erupt in anger"
-        ]
-      ],
-      "10": [
-        "Verb",
-        "prevent completion",
-        [
-          "End",
-          "Terminate"
-        ],
-        [
-          "stop the project",
-          "break off the negotiations"
-        ]
-      ],
-      "11": [
-        "Noun",
-        "the opening shot that scatters the balls in billiards or pool",
-        [
-          "Stroke",
-          "Shot"
-        ],
-        [
-
-        ]
-      ],
-      "12": [
-        "Noun",
-        "(tennis) a score consisting of winning a game when your opponent was serving",
-        [
-          "Score"
-        ],
-        [
-          "he was up two breaks in the second set"
-        ]
-      ],
-      "13": [
-        "Noun",
-        "an act of delaying or interrupting the continuity",
-        [
-          "Delay",
-          "Holdup"
-        ],
-        [
-          "it was presented without commercial breaks",
-          "there was a gap in his account"
-        ]
-      ],
-      "14": [
-        "Noun",
-        "a sudden dash",
-        [
-          "Dash",
-          "Sprint"
-        ],
-        [
-          "he made a break for the open door"
-        ]
-      ],
-      "16": [
-        "Verb",
-        "come into being",
-        [
-          "Become",
-          "Go",
-          "Get"
-        ],
-        [
-          "light broke over the horizon",
-          "Voices broke in the air"
-        ]
-      ],
-      "3": [
-        "Verb",
-        "render inoperable or ineffective",
-        [
-          "Damage"
-        ],
-        [
-          "You broke the alarm clock when you took it apart!"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "ruin completely",
-        [
-          "Destroy",
-          "Ruin"
-        ],
-        [
-          "He busted my radio!"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "destroy the integrity of; usually by force; cause to separate into pieces or fragments",
-        [
-          "Separate",
-          "Divide"
-        ],
-        [
-          "He broke the glass plate",
-          "She broke the match"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "move away or escape suddenly",
-        [
-          "Escape",
-          "Get away",
-          "Break loose"
-        ],
-        [
-          "The horses broke from the stable",
-          "Three inmates broke jail",
-          "Nobody can break out--this prison is high security"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "scatter or part",
-        [
-          "Disperse",
-          "Dissipate",
-          "Scatter",
-          "Spread out"
-        ],
-        [
-          "The clouds broke after the heavy downpour"
-        ]
-      ],
-      "18": [
-        "Verb",
-        "interrupt a continued activity",
-        [
-          "Separate",
-          "Part",
-          "Split up",
-          "Split",
-          "Break",
-          "Break up"
-        ],
-        [
-          "She had broken with the traditional patterns"
-        ]
-      ],
-      "19": [
-        "Verb",
-        "make a rupture in the ranks of the enemy or one's own by quitting or fleeing",
-        [
-          "Flee",
-          "Fly",
-          "Take flight"
-        ],
-        [
-          "The ranks broke"
-        ]
-      ],
-      "20": [
-        "Verb",
-        "curl over and fall apart in surf or foam, of waves",
-        [
-          "Collapse",
-          "Fall in",
-          "Cave in",
-          "Give",
-          "Give way",
-          "Break",
-          "Founder"
-        ],
-        [
-          "The surf broke"
-        ]
-      ],
-      "22": [
-        "Verb",
-        "be broken in",
-        [
-          "Change"
-        ],
-        [
-          "If the new teacher won't break, we'll add some stress"
-        ]
-      ],
-      "23": [
-        "Verb",
-        "come to an end",
-        [
-          "End",
-          "Stop",
-          "Finish",
-          "Terminate",
-          "Cease"
-        ],
-        [
-          "The heat wave finally broke yesterday"
-        ]
-      ],
-      "24": [
-        "Verb",
-        "vary or interrupt a uniformity or continuity",
-        [
-          "Change",
-          "Alter",
-          "Vary"
-        ],
-        [
-          "The flat plain was broken by tall mesas"
-        ]
-      ],
-      "25": [
-        "Verb",
-        "cause to give up a habit",
-        [
-
-        ],
-        [
-          "She finally broke herself of smoking cigarettes"
-        ]
-      ],
-      "26": [
-        "Verb",
-        "give up",
-        [
-          "Discontinue",
-          "Stop",
-          "Cease",
-          "Give up",
-          "Quit",
-          "Lay off"
-        ],
-        [
-          "break cigarette smoking"
-        ]
-      ],
-      "27": [
-        "Verb",
-        "come forth or begin from a state of latency",
-        [
-          "Come forth",
-          "Emerge"
-        ],
-        [
-          "The first winter storm broke over New York"
-        ]
-      ],
-      "28": [
-        "Verb",
-        "happen or take place",
-        [
-          "Happen",
-          "Hap",
-          "Go on",
-          "Pass off",
-          "Occur",
-          "Pass",
-          "Fall out",
-          "Come about",
-          "Take place"
-        ],
-        [
-          "Things have been breaking pretty well for us in the past few months"
-        ]
-      ],
-      "29": [
-        "Verb",
-        "cause the failure or ruin of",
-        [
-          "Ruin"
-        ],
-        [
-          "His peccadilloes finally broke his marriage",
-          "This play will either make or break the playwright"
-        ]
-      ],
-      "30": [
-        "Verb",
-        "invalidate by judicial action",
-        [
-          "Invalidate",
-          "Annul",
-          "Quash",
-          "Void",
-          "Avoid",
-          "Nullify"
-        ],
-        [
-          "The will was broken"
-        ]
-      ],
-      "34": [
-        "Verb",
-        "change directions suddenly",
-        [
-          "Switch",
-          "Shift",
-          "Change"
-        ],
-        [
-
-        ]
-      ],
-      "35": [
-        "Verb",
-        "emerge from the surface of a body of water",
-        [
-          "Appear"
-        ],
-        [
-          "The whales broke"
-        ]
-      ],
-      "38": [
-        "Verb",
-        "exchange for smaller units of money",
-        [
-          "Change",
-          "Exchange",
-          "Commute",
-          "Convert"
-        ],
-        [
-          "I had to break a $100 bill just to buy the candy"
-        ]
-      ],
-      "39": [
-        "Verb",
-        "destroy the completeness of a set of related items",
-        [
-          "Change",
-          "Alter",
-          "Modify"
-        ],
-        [
-          "The book dealer would not break the set"
-        ]
-      ],
-      "40": [
-        "Verb",
-        "make the opening shot that scatters the balls",
-        [
-          "Shoot"
-        ],
-        [
-
-        ]
-      ],
-      "41": [
-        "Verb",
-        "separate from a clinch, in boxing",
-        [
-          "Separate",
-          "Disunite",
-          "Divide",
-          "Part"
-        ],
-        [
-          "The referee broke the boxers"
-        ]
-      ],
-      "42": [
-        "Verb",
-        "go to pieces",
-        [
-          "Decay",
-          "Crumble",
-          "Dilapidate"
-        ],
-        [
-          "The lawn mower finally broke",
-          "The gears wore out",
-          "The old chair finally fell apart completely"
-        ]
-      ],
-      "43": [
-        "Verb",
-        "break a piece from a whole",
-        [
-          "Detach"
-        ],
-        [
-          "break a branch from a tree"
-        ]
-      ],
-      "44": [
-        "Verb",
-        "become punctured or penetrated",
-        [
-
-        ],
-        [
-          "The skin broke"
-        ]
-      ],
-      "45": [
-        "Verb",
-        "pierce or penetrate",
-        [
-          "Penetrate",
-          "Perforate"
-        ],
-        [
-          "The blade broke her skin"
-        ]
-      ],
-      "46": [
-        "Verb",
-        "be released or become known; of news",
-        [
-
-        ],
-        [
-          "News of her death broke in the morning"
-        ]
-      ],
-      "48": [
-        "Verb",
-        "interrupt the flow of current in",
-        [
-          "Interrupt",
-          "Disrupt",
-          "Break up",
-          "Cut off"
-        ],
-        [
-          "break a circuit"
-        ]
-      ],
-      "49": [
-        "Verb",
-        "undergo breaking",
-        [
-          "Diphthongize",
-          "Diphthongise"
-        ],
-        [
-          "The simple vowels broke in many Germanic languages"
-        ]
-      ],
-      "50": [
-        "Verb",
-        "find a flaw in",
-        [
-          "Destroy",
-          "Ruin"
-        ],
-        [
-          "break an alibi",
-          "break down a proof"
-        ]
-      ],
-      "51": [
-        "Verb",
-        "find the solution or key to",
-        [
-          "Solve",
-          "Work out",
-          "Figure out",
-          "Puzzle out",
-          "Lick",
-          "Work"
-        ],
-        [
-          "break the code"
-        ]
-      ],
-      "52": [
-        "Verb",
-        "change suddenly from one tone quality or register to another",
-        [
-          "Switch",
-          "Shift",
-          "Change"
-        ],
-        [
-          "Her voice broke to a whisper when she started to talk about her children"
-        ]
-      ],
-      "53": [
-        "Verb",
-        "happen",
-        [
-          "Happen",
-          "Hap",
-          "Go on",
-          "Pass off",
-          "Occur",
-          "Pass",
-          "Fall out",
-          "Come about",
-          "Take place"
-        ],
-        [
-          "Report the news as it develops",
-          "These political movements recrudesce from time to time"
-        ]
-      ],
-      "55": [
-        "Verb",
-        "crack; of the male voice in puberty",
-        [
-          "Change state",
-          "Turn"
-        ],
-        [
-          "his voice is breaking--he should no longer sing in the choir"
-        ]
-      ],
-      "56": [
-        "Verb",
-        "fall sharply",
-        [
-          "Decrease",
-          "Diminish",
-          "Lessen",
-          "Fall"
-        ],
-        [
-          "stock prices broke"
-        ]
-      ],
-      "58": [
-        "Verb",
-        "diminish or discontinue abruptly",
-        [
-          "Decrease",
-          "Diminish",
-          "Lessen",
-          "Fall"
-        ],
-        [
-          "The patient's fever broke last night"
-        ]
-      ],
-      "59": [
-        "Verb",
-        "weaken or destroy in spirit or body",
-        [
-          "Weaken"
-        ],
-        [
-          "His resistance was broken",
-          "a man broken by the terrible experience of near-death"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "make",
-      "repair",
-      "keep",
-      "conform_to",
-      "promote"
-    ],
-    "SYNONYMS": [
-      "Relegate",
-      "Go bad",
-      "Geological fault",
-      "Develop",
-      "Come apart"
     ]
   },
   "BREAKABLE": {
@@ -69013,52 +64666,6 @@
       "Breakax"
     ]
   },
-  "BREAKDOWN": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a mental or physical breakdown",
-        [
-          "Collapse",
-          "Prostration"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a cessation of normal operation",
-        [
-          "Failure"
-        ],
-        [
-          "there was a power breakdown"
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an analysis into mutually exclusive categories",
-        [
-          "Analysis",
-          "Analytic thinking"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Crack-up",
-      "Dislocation",
-      "Equipment failure",
-      "Partitioning",
-      "Breakdown"
-    ]
-  },
   "BREAKER": {
     "MEANINGS": {
       "1": [
@@ -69133,41 +64740,6 @@
     ],
     "SYNONYMS": [
       "Breakneck"
-    ]
-  },
-  "BREAKTHROUGH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "making an important discovery",
-        [
-          "Discovery",
-          "Find",
-          "Uncovering"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a penetration of a barrier such as an enemy's defense",
-        [
-          "Penetration",
-          "Incursion"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Discovery",
-      "Find",
-      "Breakthrough"
     ]
   },
   "BREAKWATER": {
@@ -70784,31 +66356,6 @@
       "Bryanthus"
     ]
   },
-  "BRIAR": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "a pipe made from the root (briarroot) of the tree heath",
-        [
-          "Pipe",
-          "Tobacco pipe"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Catbrier",
-      "Smilax rotundifolia",
-      "Erica arborea",
-      "Sweetbriar",
-      "Tree heath"
-    ]
-  },
   "BRIARD": {
     "MEANINGS": {
       "1": [
@@ -72181,30 +67728,6 @@
       "Brill"
     ]
   },
-  "BRILLIANCE": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "unusual mental ability",
-        [
-          "Intelligence"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Grandness",
-      "Genius",
-      "Glare",
-      "Splendor",
-      "Brilliance"
-    ]
-  },
   "BRILLIANT": {
     "MEANINGS": {
       "1": [
@@ -73034,28 +68557,6 @@
       "Briskly"
     ]
   },
-  "BRISLING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "small herring processed like a sardine",
-        [
-          "Sardine"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Sprat",
-      "Clupea sprattus",
-      "Brisling"
-    ]
-  },
   "BRISTLE": {
     "MEANINGS": {
       "1": [
@@ -73219,40 +68720,6 @@
     ],
     "SYNONYMS": [
       "Bristol"
-    ]
-  },
-  "BRIT": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the young of a herring or sprat or similar fish",
-        [
-          "Young fish"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "minute crustaceans forming food for right whales",
-        [
-          "Copepod",
-          "Copepod crustacean"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Britt",
-      "Britisher",
-      "Brit",
-      "Briton"
     ]
   },
   "BRITANNIC": {
@@ -73727,31 +69194,6 @@
       "Broadband"
     ]
   },
-  "BROADBILL": {
-    "MEANINGS": {
-      "4": [
-        "Noun",
-        "small birds of the Old World tropics having bright plumage and short wide bills",
-        [
-          "Passerine",
-          "Passeriform bird"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Cochlearius cochlearius",
-      "Shoveler",
-      "Scaup",
-      "Shoveller",
-      "Boat-billed heron"
-    ]
-  },
   "BROAD-BRIMMED": {
     "MEANINGS": {
       "1": [
@@ -73838,31 +69280,6 @@
       "Broadcaster"
     ]
   },
-  "BROADCASTING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "taking part in a radio or tv program",
-        [
-          "Telecommunication",
-          "Telecom"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Propagate",
-      "Air",
-      "Broadcasting",
-      "Disseminate",
-      "Disperse"
-    ]
-  },
   "BROADCLOTH": {
     "MEANINGS": {
       "1": [
@@ -73933,31 +69350,6 @@
       "Widen",
       "Broaden",
       "Diversify"
-    ]
-  },
-  "BROADENING": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the action of making broader",
-        [
-          "Development"
-        ],
-        [
-          "the broadening of travel"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "narrowing",
-      "specialize"
-    ],
-    "SYNONYMS": [
-      "Extend",
-      "Widening",
-      "Branch out",
-      "Widen",
-      "Broaden"
     ]
   },
   "BROAD-HEADED": {
@@ -74055,28 +69447,6 @@
     ],
     "SYNONYMS": [
       "Broadloom"
-    ]
-  },
-  "BROAD-MINDED": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "inclined to respect views and beliefs that differ from your own",
-        [
-
-        ],
-        [
-          "a judge who is broad-minded but even-handed"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "narrow-minded",
-      "shockable"
-    ],
-    "SYNONYMS": [
-      "Unshockable",
-      "Broad-minded"
     ]
   },
   "BROAD-MINDEDLY": {
@@ -74844,31 +70214,6 @@
     "SYNONYMS": [
       "Broken-backed",
       "Hogged"
-    ]
-  },
-  "BROKEN-DOWN": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "not in working order",
-        [
-
-        ],
-        [
-          "had to push the broken-down car",
-          "a broken-down tractor fit only for children to play on"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Broken-down",
-      "Dilapidated",
-      "Bedraggled",
-      "Tatterdemalion",
-      "Derelict"
     ]
   },
   "BROKENHEARTED": {
@@ -76274,30 +71619,6 @@
       "Brougham"
     ]
   },
-  "BROUHAHA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a confused disturbance far greater than its cause merits",
-        [
-          "Furor",
-          "Furore"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Katzenjammer",
-      "Uproar",
-      "Hubbub",
-      "Brouhaha"
-    ]
-  },
   "BROUSSONETIA": {
     "MEANINGS": {
       "1": [
@@ -76343,36 +71664,6 @@
       "Eyebrow",
       "Hilltop",
       "Supercilium"
-    ]
-  },
-  "BROWBEAT": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "discourage or frighten with threats or a domineering manner; intimidate",
-        [
-          "Wheedle",
-          "Cajole",
-          "Palaver",
-          "Blarney",
-          "Coax",
-          "Sweet-talk",
-          "Inveigle"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bullyrag",
-      "Swagger",
-      "Ballyrag",
-      "Boss around",
-      "Bully"
     ]
   },
   "BROWN": {
@@ -77408,40 +72699,6 @@
       "Brunhild"
     ]
   },
-  "BRUNO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Roman Catholic Church) a French cleric (born in Germany) who founded the Carthusian order in 1084 (1032-1101)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "Italian philosopher who used Copernican principles to develop a pantheistic monistic philosophy; condemned for heresy by the Inquisition and burned at the stake (1548-1600)",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Giordano bruno",
-      "Bruno of toul",
-      "Saint bruno",
-      "St. bruno",
-      "Leo ix"
-    ]
-  },
   "BRUNSWICK": {
     "MEANINGS": {
       "1": [
@@ -77786,66 +73043,6 @@
       "Brut"
     ]
   },
-  "BRUTAL": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "harsh",
-        [
-
-        ],
-        [
-          "the brutal summer sun",
-          "a brutal winter"
-        ]
-      ],
-      "4": [
-        "Adjective",
-        "disagreeably direct and precise",
-        [
-
-        ],
-        [
-          "he spoke with brutal honesty"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Savage",
-      "Cruel",
-      "Unrelenting",
-      "Bestial",
-      "Fell"
-    ]
-  },
-  "BRUTALITY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a brutal barbarous savage act",
-        [
-          "Atrocity",
-          "Inhumanity"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Ferociousness",
-      "Barbarity",
-      "Savagery",
-      "Viciousness",
-      "Brutality"
-    ]
-  },
   "BRUTALIZATION": {
     "MEANINGS": {
       "1": [
@@ -78077,53 +73274,6 @@
       "Belch",
       "Burble",
       "Burp"
-    ]
-  },
-  "BUBBLER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "any of various devices in which air or some other gas is bubbled through a liquid",
-        [
-          "Device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Water fountain",
-      "Drinking fountain",
-      "Bubbler"
-    ]
-  },
-  "BUBBLY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "full of or showing high spirits",
-        [
-
-        ],
-        [
-          "bright bubbly children",
-          "a bubbly personality"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Frothy",
-      "Bubbly",
-      "Foamy",
-      "Foaming",
-      "Effervescing"
     ]
   },
   "BUBBLINESS": {
@@ -79005,32 +74155,6 @@
       "Polygonum fagopyrum"
     ]
   },
-  "BUCOLIC": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "relating to shepherds or herdsmen or devoted to raising sheep or cattle",
-        [
-
-        ],
-        [
-          "pastoral seminomadic people",
-          "pastoral land",
-          "a pastoral economy"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Pastoral",
-      "Peasant",
-      "Idyll",
-      "Provincial",
-      "Idyl"
-    ]
-  },
   "BUD": {
     "MEANINGS": {
       "1": [
@@ -79778,33 +74902,6 @@
       "Hemipteran"
     ]
   },
-  "BUGABOO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a source of concern",
-        [
-          "Concern",
-          "Worry",
-          "Headache",
-          "Vexation"
-        ],
-        [
-          "the old bugaboo of inflation still bothers them"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Boogeyman",
-      "Bugaboo",
-      "Bugbear",
-      "Bogeyman",
-      "Booger"
-    ]
-  },
   "BUGANDA": {
     "MEANINGS": {
       "1": [
@@ -79823,56 +74920,6 @@
     ],
     "SYNONYMS": [
       "Buganda"
-    ]
-  },
-  "BUGBANE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a plant of the genus Cimicifuga having flowers in long racemes or panicles reported to be distasteful to insects",
-        [
-          "Woody plant",
-          "Ligneous plant"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bugbane",
-      "Veratrum viride",
-      "American hellebore",
-      "Indian poke",
-      "White hellebore"
-    ]
-  },
-  "BUGBEAR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "an object of dread or apprehension",
-        [
-          "Object"
-        ],
-        [
-          "Germany was always a bugbear for France",
-          "A foolish consistency is the hobgoblin of little minds\"--Ralph Waldo Emerson"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Boogeyman",
-      "Hobgoblin",
-      "Bugaboo",
-      "Bugbear",
-      "Bogeyman"
     ]
   },
   "BUGGED": {
@@ -80173,103 +75220,6 @@
       "Purchase",
       "Bribe",
       "Buying"
-    ]
-  },
-  "BUILD": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "build or establish something abstract",
-        [
-          "Make",
-          "Create"
-        ],
-        [
-          "build a reputation"
-        ]
-      ],
-      "4": [
-        "Verb",
-        "improve the cleansing action of",
-        [
-          "Better",
-          "Improve",
-          "Amend",
-          "Ameliorate",
-          "Meliorate"
-        ],
-        [
-          "build detergents"
-        ]
-      ],
-      "5": [
-        "Verb",
-        "order, supervise, or finance the construction of",
-        [
-          "Oversee",
-          "Supervise",
-          "Superintend",
-          "Manage"
-        ],
-        [
-          "The government is building new schools in this state"
-        ]
-      ],
-      "6": [
-        "Verb",
-        "give form to, according to a plan",
-        [
-          "Develop"
-        ],
-        [
-          "build a modern nation",
-          "build a million-dollar business"
-        ]
-      ],
-      "7": [
-        "Verb",
-        "be engaged in building",
-        [
-          "Create"
-        ],
-        [
-          "These architects build in interesting and new styles"
-        ]
-      ],
-      "8": [
-        "Verb",
-        "found or ground",
-        [
-          "Establish",
-          "Base",
-          "Ground",
-          "Found"
-        ],
-        [
-          "build a defense on nothing but the accused person's reputation"
-        ]
-      ],
-      "10": [
-        "Verb",
-        "develop and grow",
-        [
-          "Intensify",
-          "Deepen"
-        ],
-        [
-          "Suspense was building right from the beginning of the opera"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Physical body",
-      "Soma",
-      "Body-build",
-      "Human body",
-      "Flesh"
     ]
   },
   "BUILDER": {
@@ -81122,29 +76072,6 @@
       "Bull through"
     ]
   },
-  "BULLA": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the round leaden seal affixed to a papal bull",
-        [
-          "Seal",
-          "Stamp"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Bulla",
-      "Blister",
-      "Bleb"
-    ]
-  },
   "BULLACE": {
     "MEANINGS": {
       "1": [
@@ -81952,30 +76879,6 @@
       "Bull terrier"
     ]
   },
-  "BULRUSH": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "tall rush with soft erect or arching stems found in Eurasia, Australia, New Zealand, and common in North America",
-        [
-          "Rush"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Soft rush",
-      "Cat's-tail",
-      "Reed mace",
-      "Nailrod",
-      "Bulrush"
-    ]
-  },
   "BULTMANN": {
     "MEANINGS": {
       "1": [
@@ -82067,35 +76970,6 @@
       "Buttocks",
       "Punk",
       "Sleazy"
-    ]
-  },
-  "BUMBLE": {
-    "MEANINGS": {
-      "3": [
-        "Verb",
-        "speak haltingly",
-        [
-          "Talk",
-          "Speak",
-          "Utter",
-          "Mouth",
-          "Verbalize",
-          "Verbalise"
-        ],
-        [
-          "The speaker faltered when he saw his opponent enter the room"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foul up",
-      "Bollix up",
-      "Bungle",
-      "Screw up",
-      "Bumble"
     ]
   },
   "BUMBLEBEE": {
@@ -82312,30 +77186,6 @@
     ],
     "SYNONYMS": [
       "Bumper"
-    ]
-  },
-  "BUMPY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "covered with or full of bumps",
-        [
-
-        ],
-        [
-          "a bumpy country road"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "smooth"
-    ],
-    "SYNONYMS": [
-      "Rough",
-      "Jolting",
-      "Jumpy",
-      "Rocky",
-      "Bumpy"
     ]
   },
   "BUMPINESS": {
@@ -82851,55 +77701,6 @@
     "SYNONYMS": [
       "Bungee",
       "Bungee cord"
-    ]
-  },
-  "BUNGHOLE": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a hole in a barrel or cask; used to fill or empty it",
-        [
-          "Hole"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Arse",
-      "Bunghole",
-      "Asshole",
-      "Arsehole"
-    ]
-  },
-  "BUNGLE": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "spoil by behaving clumsily or foolishly",
-        [
-          "Act",
-          "Behave",
-          "Do"
-        ],
-        [
-          "I bungled it!"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Foul up",
-      "Bollix up",
-      "Bloomer",
-      "Screw up",
-      "Bungle"
     ]
   },
   "BUNGLED": {
@@ -84284,37 +79085,6 @@
       "Burgomaster"
     ]
   },
-  "BURGOO": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a gathering at which burgoo stew is served",
-        [
-          "Cookout"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "thick spicy stew of whatever meat and whatever vegetables are available; southern United States",
-        [
-          "Stew"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Burgoo",
-      "Oatmeal"
-    ]
-  },
   "BURGRAVE": {
     "MEANINGS": {
       "1": [
@@ -84345,39 +79115,6 @@
     ],
     "SYNONYMS": [
       "Burgrave"
-    ]
-  },
-  "BURGUNDY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "red table wine from the Burgundy region of France (or any similar wine made elsewhere)",
-        [
-          "Wine",
-          "Vino"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a dark purplish-red to blackish-red color",
-        [
-          "Dark red"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Burgundy",
-      "Burgundy wine",
-      "Bourgogne"
     ]
   },
   "BURHINIDAE": {
@@ -85376,48 +80113,6 @@
       "Burp"
     ]
   },
-  "BURR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "rough projection left on a workpiece after drilling or cutting",
-        [
-          "Projection"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "United States politician who served as vice president under Jefferson; he mortally wounded his political rival Alexander Hamilton in a duel and fled south (1756-1836)",
-        [
-
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "rotary file for smoothing rough edges left on a workpiece",
-        [
-          "Power tool"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Aaron burr",
-      "Bur",
-      "Burr"
-    ]
-  },
   "BURRFISH": {
     "MEANINGS": {
       "1": [
@@ -86330,62 +81025,6 @@
       "Bush tit"
     ]
   },
-  "BUSHWHACK": {
-    "MEANINGS": {
-      "2": [
-        "Verb",
-        "live in the bush as a fugitive or as a guerilla",
-        [
-          "Live"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Verb",
-        "cut one's way through the woods or bush",
-        [
-          "Make",
-          "Work"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Waylay",
-      "Ambush",
-      "Lie in wait",
-      "Bushwhack",
-      "Scupper"
-    ]
-  },
-  "BUSHWHACKER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a Confederate guerrilla during the American Civil War",
-        [
-          "Confederate soldier"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Hillbilly",
-      "Bushwhacker"
-    ]
-  },
   "BUSHWHACKING": {
     "MEANINGS": {
       "1": [
@@ -86852,41 +81491,6 @@
       "Bus driver"
     ]
   },
-  "BUST": {
-    "MEANINGS": {
-      "3": [
-        "Noun",
-        "a sculpture of the head and shoulders of a person",
-        [
-          "Sculpture"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "an occasion for excessive eating or drinking",
-        [
-          "Revel",
-          "Revelry"
-        ],
-        [
-          "they went on a bust that lasted three days"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "repair"
-    ],
-    "SYNONYMS": [
-      "Tear",
-      "Rupture",
-      "Snap",
-      "Raid",
-      "Binge"
-    ]
-  },
   "BUSTARD": {
     "MEANINGS": {
       "1": [
@@ -86906,70 +81510,6 @@
     ],
     "SYNONYMS": [
       "Bustard"
-    ]
-  },
-  "BUSTER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a robust child",
-        [
-          "Child",
-          "Kid",
-          "Youngster",
-          "Minor",
-          "Shaver",
-          "Nipper",
-          "Small fry",
-          "Tiddler",
-          "Tike",
-          "Tyke",
-          "Fry",
-          "Nestling"
-        ],
-        [
-
-        ]
-      ],
-      "3": [
-        "Noun",
-        "a person who breaks horses",
-        [
-          "Horseman",
-          "Equestrian",
-          "Horseback rider"
-        ],
-        [
-
-        ]
-      ],
-      "4": [
-        "Noun",
-        "a person (or thing) that breaks up or overpowers something",
-        [
-          "Person",
-          "Individual",
-          "Someone",
-          "Somebody",
-          "Mortal",
-          "Soul"
-        ],
-        [
-          "dam buster",
-          "sanction buster",
-          "crime buster"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Buster",
-      "Bronco buster",
-      "Baby buster",
-      "Broncobuster",
-      "Dude"
     ]
   },
   "BUSTIER": {
@@ -87279,32 +81819,6 @@
     ],
     "SYNONYMS": [
       "Butcherbird"
-    ]
-  },
-  "BUTCHERY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the business of a butcher",
-        [
-          "Commercial enterprise",
-          "Business enterprise",
-          "Business"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Mass murder",
-      "Shambles",
-      "Butchering",
-      "Abattoir",
-      "Butchery"
     ]
   },
   "BUTEA": {
@@ -88276,29 +82790,6 @@
       "Buttonhook"
     ]
   },
-  "BUTTONY": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "ornamented with many buttons",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Beadlike",
-      "Buttony",
-      "Buttonlike",
-      "Beady"
-    ]
-  },
   "BUTTON-SHAPED": {
     "MEANINGS": {
       "1": [
@@ -88395,30 +82886,6 @@
       "Box family",
       "Family buxaceae",
       "Buxaceae"
-    ]
-  },
-  "BUXOM": {
-    "MEANINGS": {
-      "2": [
-        "Adjective",
-        "(of a female body) healthily plump and vigorous; ",
-        [
-
-        ],
-        [
-          "a generation ago...buxom actresses were popular\"- Robt.A.Hamilton"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Curvaceous",
-      "Sonsy",
-      "Curvy",
-      "Zoftig",
-      "Buxom"
     ]
   },
   "BUXOMNESS": {
@@ -88544,28 +83011,6 @@
       "Turkey buzzard",
       "Buzzard",
       "Turkey vulture"
-    ]
-  },
-  "BUZZER": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "a signaling device that makes a buzzing sound",
-        [
-          "Signaling device"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Buzzer",
-      "Bell",
-      "Doorbell"
     ]
   },
   "BUZZWORD": {

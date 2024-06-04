@@ -1,31 +1,4 @@
 {
-  "Z": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the 26th letter of the Roman alphabet",
-        [
-          "Letter",
-          "Letter of the alphabet",
-          "Alphabetic character"
-        ],
-        [
-          "the British call Z zed and the Scots call it ezed but Americans call it zee",
-          "he doesn't know A from izzard"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Omega",
-      "Izzard",
-      "Zed",
-      "Zee",
-      "Ezed"
-    ]
-  },
   "ZABAGLIONE": {
     "MEANINGS": {
       "1": [
@@ -756,36 +729,6 @@
       "Zea"
     ]
   },
-  "ZEAL": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "excessive fervor to do something or accomplish some end",
-        [
-          "Ardor",
-          "Ardour",
-          "Fervor",
-          "Fervour",
-          "Fervency",
-          "Fire",
-          "Fervidness"
-        ],
-        [
-          "he had an absolute zeal for litigation"
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Readiness",
-      "Eagerness",
-      "Zeal",
-      "Ardour",
-      "Ardor"
-    ]
-  },
   "ZEALAND": {
     "MEANINGS": {
       "1": [
@@ -1246,29 +1189,6 @@
       "Sophonias",
       "Book of zephaniah",
       "Zephaniah"
-    ]
-  },
-  "ZEPHYR": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "(Greek mythology) the Greek god of the west wind",
-        [
-
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Zephyr",
-      "Air",
-      "Gentle wind",
-      "Breeze"
     ]
   },
   "ZEPPELIN": {
@@ -3030,30 +2950,6 @@
       "Zombi spirit"
     ]
   },
-  "ZOMBIE": {
-    "MEANINGS": {
-      "5": [
-        "Noun",
-        "several kinds of rum with fruit juice and usually apricot liqueur",
-        [
-          "Highball"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-
-    ],
-    "SYNONYMS": [
-      "Living dead",
-      "Zombie spirit",
-      "Zombi",
-      "Snake god",
-      "Zombi spirit"
-    ]
-  },
   "ZONAL": {
     "MEANINGS": {
       "1": [
@@ -3263,29 +3159,6 @@
     "SYNONYMS": [
       "Zoolatry",
       "Animal-worship"
-    ]
-  },
-  "ZOOLOGY": {
-    "MEANINGS": {
-      "2": [
-        "Noun",
-        "the branch of biology that studies animals",
-        [
-          "Biology",
-          "Biological science"
-        ],
-        [
-
-        ]
-      ]
-    },
-    "ANTONYMS": [
-      "flora"
-    ],
-    "SYNONYMS": [
-      "Zoology",
-      "Fauna",
-      "Zoological science"
     ]
   },
   "ZOOLOGICAL": {
